@@ -1,0 +1,62 @@
+{
+  "id": 1209128367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76667,5.63333,22.76667,5.63333",
+    "geom:latitude":5.63333,
+    "geom:longitude":22.76667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Tikaya",
+    "gn:country_code":"CF",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236275,
+    "gn:latitude":5.63333,
+    "gn:longitude":22.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tikaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236275
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c27d79029bb4ee92994ea69eab68e3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209128367
+        }
+    ],
+    "wof:id":1209128367,
+    "wof:lastmodified":1536296884,
+    "wof:name":"Tikaya",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76667,
+    5.63333,
+    22.76667,
+    5.63333
+],
+  "geometry": {"coordinates":[22.76667,5.63333],"type":"Point"}
+}

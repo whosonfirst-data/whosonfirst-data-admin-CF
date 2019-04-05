@@ -1,0 +1,68 @@
+{
+  "id": 1293759907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82747,5.10217,18.82747,5.10217",
+    "geom:latitude":5.10217,
+    "geom:longitude":18.82747,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Malo",
+    "gn:country_code":"CF",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384926,
+    "gn:latitude":5.10217,
+    "gn:longitude":18.82747,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384926
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3b9fbd8738abd862ceddb6d847c2ce18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1293759907,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1293759907,
+    "wof:lastmodified":1536891136,
+    "wof:name":"Malo",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82747,
+    5.10217,
+    18.82747,
+    5.10217
+],
+  "geometry": {"coordinates":[18.82747,5.10217],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276631777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64148,7.65292,16.64148,7.65292",
+    "geom:latitude":7.65292,
+    "geom:longitude":16.64148,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bekaye",
+    "gn:country_code":"CF",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389369,
+    "gn:latitude":7.65292,
+    "gn:longitude":16.64148,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9kaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389369
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"746af8e34f22163c59d044a249a901a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1276631777,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1276631777,
+    "wof:lastmodified":1536875264,
+    "wof:name":"Bekaye",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64148,
+    7.65292,
+    16.64148,
+    7.65292
+],
+  "geometry": {"coordinates":[16.64148,7.65292],"type":"Point"}
+}

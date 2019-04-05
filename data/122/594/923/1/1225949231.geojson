@@ -1,0 +1,68 @@
+{
+  "id": 1225949231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48347,5.38232,26.48347,5.38232",
+    "geom:latitude":5.38232,
+    "geom:longitude":26.48347,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Banbito",
+    "gn:country_code":"CF",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240582,
+    "gn:latitude":5.38232,
+    "gn:longitude":26.48347,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banbito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240582
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"520bf412e778c01e31c3cd82017b88fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759585,
+            "locality_id":1225949231,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1225949231,
+    "wof:lastmodified":1536862871,
+    "wof:name":"Banbito",
+    "wof:parent_id":1108759585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48347,
+    5.38232,
+    26.48347,
+    5.38232
+],
+  "geometry": {"coordinates":[26.48347,5.38232],"type":"Point"}
+}

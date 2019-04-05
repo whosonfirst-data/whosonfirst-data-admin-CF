@@ -1,0 +1,72 @@
+{
+  "id": 1343664941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19508,4.35465,21.19508,4.35465",
+    "geom:latitude":4.35465,
+    "geom:longitude":21.19508,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Diare",
+    "gn:country_code":"CF",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239637,
+    "gn:latitude":4.35465,
+    "gn:longitude":21.19508,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yama",
+        "Diare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239637
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1f881530c044d0c117dbd43ab6cecb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1343664941,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1343664941,
+    "wof:lastmodified":1537590590,
+    "wof:name":"Diare",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19508,
+    4.35465,
+    21.19508,
+    4.35465
+],
+  "geometry": {"coordinates":[21.19508,4.35465],"type":"Point"}
+}

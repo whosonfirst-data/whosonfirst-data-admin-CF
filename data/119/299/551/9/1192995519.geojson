@@ -1,0 +1,68 @@
+{
+  "id": 1192995519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53446,6.4817,17.53446,6.4817",
+    "geom:latitude":6.4817,
+    "geom:longitude":17.53446,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Batam",
+    "gn:country_code":"CF",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389694,
+    "gn:latitude":6.4817,
+    "gn:longitude":17.53446,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Batam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389694
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b1ac48b0c839cb1cb80becbca0e273b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1192995519,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1192995519,
+    "wof:lastmodified":1536376279,
+    "wof:name":"Batam",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53446,
+    6.4817,
+    17.53446,
+    6.4817
+],
+  "geometry": {"coordinates":[17.53446,6.4817],"type":"Point"}
+}

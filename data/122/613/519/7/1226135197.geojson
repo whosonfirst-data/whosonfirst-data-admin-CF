@@ -1,0 +1,68 @@
+{
+  "id": 1226135197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53227,5.26799,19.53227,5.26799",
+    "geom:latitude":5.26799,
+    "geom:longitude":19.53227,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Ote",
+    "gn:country_code":"CF",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383750,
+    "gn:latitude":5.26799,
+    "gn:longitude":19.53227,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ot\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383750
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1679d4c0d35c9ad60986fee8e77b3f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1226135197,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1226135197,
+    "wof:lastmodified":1537089741,
+    "wof:name":"Ote",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53227,
+    5.26799,
+    19.53227,
+    5.26799
+],
+  "geometry": {"coordinates":[19.53227,5.26799],"type":"Point"}
+}

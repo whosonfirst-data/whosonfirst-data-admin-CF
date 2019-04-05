@@ -1,0 +1,72 @@
+{
+  "id": 1309875429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76005,3.38864,15.76005,3.38864",
+    "geom:latitude":3.38864,
+    "geom:longitude":15.76005,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"7731904.0",
+    "gn:asciiname":"Abogi",
+    "gn:country_code":"CF",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390687,
+    "gn:latitude":3.38864,
+    "gn:longitude":15.76005,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aboghi",
+        "Abogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390687
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"93094697a3a6782ee0ebbb3fad762a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759711,
+            "locality_id":1309875429,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1309875429,
+    "wof:lastmodified":1537590639,
+    "wof:name":"Abogi",
+    "wof:parent_id":1108759711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76005,
+    3.38864,
+    15.76005,
+    3.38864
+],
+  "geometry": {"coordinates":[15.76005,3.38864],"type":"Point"}
+}

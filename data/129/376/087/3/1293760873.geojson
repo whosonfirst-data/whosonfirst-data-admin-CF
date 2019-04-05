@@ -1,0 +1,67 @@
+{
+  "id": 1293760873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85483,7.28564,18.85483,7.28564",
+    "geom:latitude":7.28564,
+    "geom:longitude":18.85483,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zounoubaya",
+    "gn:country_code":"CF",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524169,
+    "gn:latitude":7.28564,
+    "gn:longitude":18.85483,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Zounoubaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524169
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"39d26f0788980bfbfdb025ba29ae8208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1293760873,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1293760873,
+    "wof:lastmodified":1536889675,
+    "wof:name":"Zounoubaya",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85483,
+    7.28564,
+    18.85483,
+    7.28564
+],
+  "geometry": {"coordinates":[18.85483,7.28564],"type":"Point"}
+}

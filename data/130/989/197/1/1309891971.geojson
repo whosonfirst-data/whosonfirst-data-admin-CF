@@ -1,0 +1,72 @@
+{
+  "id": 1309891971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01131,6.65148,16.01131,6.65148",
+    "geom:latitude":6.65148,
+    "geom:longitude":16.01131,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Youforo",
+    "gn:country_code":"CF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382320,
+    "gn:latitude":6.65148,
+    "gn:longitude":16.01131,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Youforo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iforo",
+        "Youforo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382320
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"0d4061b5785baec52d39853e47773d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1309891971,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1309891971,
+    "wof:lastmodified":1537590595,
+    "wof:name":"Youforo",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01131,
+    6.65148,
+    16.01131,
+    6.65148
+],
+  "geometry": {"coordinates":[16.01131,6.65148],"type":"Point"}
+}

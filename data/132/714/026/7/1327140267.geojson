@@ -1,0 +1,68 @@
+{
+  "id": 1327140267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11667,4.75,16.11667,4.75",
+    "geom:latitude":4.75,
+    "geom:longitude":16.11667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2387494.0",
+    "gn:asciiname":"Belou",
+    "gn:country_code":"CF",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389215,
+    "gn:latitude":4.75,
+    "gn:longitude":16.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Belou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389215
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dfa2d24d2c4b2a82ef1ee3fd0e294875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759637,
+            "locality_id":1327140267,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1327140267,
+    "wof:lastmodified":1536601548,
+    "wof:name":"Belou",
+    "wof:parent_id":1108759637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11667000000001,
+    4.75,
+    16.11667000000001,
+    4.75
+],
+  "geometry": {"coordinates":[16.11667000000001,4.75],"type":"Point"}
+}

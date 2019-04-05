@@ -1,0 +1,72 @@
+{
+  "id": 1343368551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18436,7.58033,20.18436,7.58033",
+    "geom:latitude":7.58033,
+    "geom:longitude":20.18436,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Niango",
+    "gn:country_code":"CF",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237002,
+    "gn:latitude":7.58033,
+    "gn:longitude":20.18436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Niango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niango Aman\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237002,
+        "wk:page":"Niango_Amane"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b742bcd23a58c6893a648e4c2b4ce217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1343368551,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1343368551,
+    "wof:lastmodified":1537590583,
+    "wof:name":"Niango",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18436,
+    7.58033,
+    20.18436,
+    7.58033
+],
+  "geometry": {"coordinates":[20.18436,7.58033],"type":"Point"}
+}

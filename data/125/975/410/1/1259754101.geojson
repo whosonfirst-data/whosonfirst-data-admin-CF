@@ -1,0 +1,71 @@
+{
+  "id": 1259754101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59314,9.72283,21.59314,9.72283",
+    "geom:latitude":9.72283,
+    "geom:longitude":21.59314,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Mele",
+    "gn:country_code":"CF",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237519,
+    "gn:latitude":9.72283,
+    "gn:longitude":21.59314,
+    "gn:modification_date":"2017-04-17",
+    "gn:name":"M\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237519
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9ed507ed90cdf695c04aa040ad2ec5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1259754101,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1259754101,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mele",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59314,
+    9.72283,
+    21.59314,
+    9.72283
+],
+  "geometry": {"coordinates":[21.59314,9.72283],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243055975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44944,5.82146,20.44944,5.82146",
+    "geom:latitude":5.82146,
+    "geom:longitude":20.44944,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Kotanguisa",
+    "gn:country_code":"CF",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238196,
+    "gn:latitude":5.82146,
+    "gn:longitude":20.44944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kotanguisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotanguiza",
+        "Kotanguisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238196
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8127ac7bd2b8f691ef2a5e3ebc61298f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1243055975,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1243055975,
+    "wof:lastmodified":1537590586,
+    "wof:name":"Kotanguisa",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44944,
+    5.82146,
+    20.44944,
+    5.82146
+],
+  "geometry": {"coordinates":[20.44944,5.82146],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343862989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32607,6.04628,25.32607,6.04628",
+    "geom:latitude":6.04628,
+    "geom:longitude":25.32607,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"Djema",
+    "gn:country_code":"CF",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239552,
+    "gn:latitude":6.04628,
+    "gn:longitude":25.32607,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Djema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jema",
+        "Djemah",
+        "Diema",
+        "Djema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239552,
+        "wk:page":"Djemah"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8d3788927104e9df7ba0dde8806d7925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1343862989,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1343862989,
+    "wof:lastmodified":1537590589,
+    "wof:name":"Djema",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32607,
+    6.04628,
+    25.32607,
+    6.04628
+],
+  "geometry": {"coordinates":[25.32607,6.04628],"type":"Point"}
+}

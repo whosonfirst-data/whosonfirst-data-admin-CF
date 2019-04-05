@@ -1,0 +1,73 @@
+{
+  "id": 1327219331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,5.53333,24.63333,5.53333",
+    "geom:latitude":5.53333,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Aloisa",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240992,
+    "gn:latitude":5.53333,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alo\u00efsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alo\u00efza",
+        "Alo\u00efsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240992
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9a510332c22ed1d5833eb8cae237592d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1327219331,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1327219331,
+    "wof:lastmodified":1537590594,
+    "wof:name":"Aloisa",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    5.53333,
+    24.63333,
+    5.53333
+],
+  "geometry": {"coordinates":[24.63333,5.53333],"type":"Point"}
+}

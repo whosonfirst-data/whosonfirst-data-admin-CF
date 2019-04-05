@@ -1,0 +1,68 @@
+{
+  "id": 1310292101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.197,7.37209,17.197,7.37209",
+    "geom:latitude":7.37209,
+    "geom:longitude":17.197,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Boulo",
+    "gn:country_code":"CF",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387766,
+    "gn:latitude":7.37209,
+    "gn:longitude":17.197,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387766
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bccf5f3546215496f29ea02c5d015039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1310292101,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1310292101,
+    "wof:lastmodified":1536727665,
+    "wof:name":"Boulo",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.197,
+    7.37209,
+    17.197,
+    7.37209
+],
+  "geometry": {"coordinates":[17.197,7.37209],"type":"Point"}
+}

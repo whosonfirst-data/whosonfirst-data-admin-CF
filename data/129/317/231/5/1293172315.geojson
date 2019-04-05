@@ -1,0 +1,73 @@
+{
+  "id": 1293172315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60257,5.70967,17.60257,5.70967",
+    "geom:latitude":5.70967,
+    "geom:longitude":17.60257,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Bodoupa",
+    "gn:country_code":"CF",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388546,
+    "gn:latitude":5.70967,
+    "gn:longitude":17.60257,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bodoupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botoupe",
+        "Bodoupoua",
+        "Bodoupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388546
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ed5d2ca83517ac8033c27a9269ddc377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1293172315,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1293172315,
+    "wof:lastmodified":1537590627,
+    "wof:name":"Bodoupa",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60257,
+    5.70967,
+    17.60257,
+    5.70967
+],
+  "geometry": {"coordinates":[17.60257,5.70967],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260274839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61059,4.01434,17.61059,4.01434",
+    "geom:latitude":4.01434,
+    "geom:longitude":17.61059,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Dede",
+    "gn:country_code":"CF",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387333,
+    "gn:latitude":4.01434,
+    "gn:longitude":17.61059,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387333
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7f3f2738b514f8235434cc4a4db8c78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1260274839,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1260274839,
+    "wof:lastmodified":1536723912,
+    "wof:name":"Dede",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61059,
+    4.01434,
+    17.61059,
+    4.01434
+],
+  "geometry": {"coordinates":[17.61059,4.01434],"type":"Point"}
+}

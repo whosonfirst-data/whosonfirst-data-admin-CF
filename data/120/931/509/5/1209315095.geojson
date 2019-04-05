@@ -1,0 +1,66 @@
+{
+  "id": 1209315095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23896,3.92993,16.23896,3.92993",
+    "geom:latitude":3.92993,
+    "geom:longitude":16.23896,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Kossindi",
+    "gn:country_code":"CF",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385566,
+    "gn:latitude":3.92993,
+    "gn:longitude":16.23896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kossindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossend\u00e9",
+        "Kossindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385566
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a981a8e560e1302cab1281a4f459a1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209315095
+        }
+    ],
+    "wof:id":1209315095,
+    "wof:lastmodified":1537590606,
+    "wof:name":"Kossindi",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23896,
+    3.92993,
+    16.23896,
+    3.92993
+],
+  "geometry": {"coordinates":[16.23896,3.92993],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242565715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63377,5.84402,19.63377,5.84402",
+    "geom:latitude":5.84402,
+    "geom:longitude":19.63377,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Sefikala",
+    "gn:country_code":"CF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525355,
+    "gn:latitude":5.84402,
+    "gn:longitude":19.63377,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"S\u00e9fikala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525355
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7e84d797154ee8e8ff9f77a28743ccd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1242565715,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1242565715,
+    "wof:lastmodified":1537077672,
+    "wof:name":"Sefikala",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63377,
+    5.84402,
+    19.63377,
+    5.84402
+],
+  "geometry": {"coordinates":[19.63377,5.84402],"type":"Point"}
+}

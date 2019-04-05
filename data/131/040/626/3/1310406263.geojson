@@ -1,0 +1,68 @@
+{
+  "id": 1310406263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45083,3.92059,15.45083,3.92059",
+    "geom:latitude":3.92059,
+    "geom:longitude":15.45083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"9143489.0",
+    "gn:asciiname":"Angoula",
+    "gn:country_code":"CF",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390635,
+    "gn:latitude":3.92059,
+    "gn:longitude":15.45083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Angoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390635
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ef148f989b5348483c9cf18ca31698bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759625,
+            "locality_id":1310406263,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310406263,
+    "wof:lastmodified":1537057664,
+    "wof:name":"Angoula",
+    "wof:parent_id":1108759625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45083,
+    3.92059,
+    15.45083,
+    3.92059
+],
+  "geometry": {"coordinates":[15.45083,3.92059],"type":"Point"}
+}

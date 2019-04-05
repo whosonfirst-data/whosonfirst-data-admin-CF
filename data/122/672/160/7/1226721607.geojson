@@ -1,0 +1,68 @@
+{
+  "id": 1226721607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00222,4.76333,19.00222,4.76333",
+    "geom:latitude":4.76333,
+    "geom:longitude":19.00222,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"CF",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593706,
+    "gn:latitude":4.76333,
+    "gn:longitude":19.00222,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593706
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cb68d6bf548d1bb237b8a8942de560ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1226721607,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1226721607,
+    "wof:lastmodified":1536750285,
+    "wof:name":"Banda",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00222,
+    4.76333,
+    19.00222,
+    4.76333
+],
+  "geometry": {"coordinates":[19.00222,4.76333],"type":"Point"}
+}

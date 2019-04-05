@@ -1,0 +1,68 @@
+{
+  "id": 1343240349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5,4.98333,20.5,4.98333",
+    "geom:latitude":4.98333,
+    "geom:longitude":20.5,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Ndiwa",
+    "gn:country_code":"CF",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237362,
+    "gn:latitude":4.98333,
+    "gn:longitude":20.5,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237362
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9c5847dc5f84a4be730b5e76c833df9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1343240349,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343240349,
+    "wof:lastmodified":1537061329,
+    "wof:name":"Ndiwa",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5,
+    4.98333,
+    20.5,
+    4.98333
+],
+  "geometry": {"coordinates":[20.5,4.98333],"type":"Point"}
+}

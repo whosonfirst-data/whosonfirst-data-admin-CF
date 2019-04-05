@@ -1,0 +1,66 @@
+{
+  "id": 1209393039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6511,6.19106,20.6511,6.19106",
+    "geom:latitude":6.19106,
+    "geom:longitude":20.6511,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Piangou",
+    "gn:country_code":"CF",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236617,
+    "gn:latitude":6.19106,
+    "gn:longitude":20.6511,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Piangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piangu",
+        "Piangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236617
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d763dfe1c8be891287f8e6b495e8655b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209393039
+        }
+    ],
+    "wof:id":1209393039,
+    "wof:lastmodified":1537590582,
+    "wof:name":"Piangou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6511,
+    6.19106,
+    20.6511,
+    6.19106
+],
+  "geometry": {"coordinates":[20.6511,6.19106],"type":"Point"}
+}

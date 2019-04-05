@@ -1,0 +1,68 @@
+{
+  "id": 1309882129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05,4.75,18.05,4.75",
+    "geom:latitude":4.75,
+    "geom:longitude":18.05,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"8299285.0",
+    "gn:asciiname":"Bangora",
+    "gn:country_code":"CF",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389878,
+    "gn:latitude":4.75,
+    "gn:longitude":18.05,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bangora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389878
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a5e8f09677af27a30f06342d6beb5c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759687,
+            "locality_id":1309882129,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1309882129,
+    "wof:lastmodified":1536820293,
+    "wof:name":"Bangora",
+    "wof:parent_id":1108759687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05,
+    4.75,
+    18.05,
+    4.75
+],
+  "geometry": {"coordinates":[18.05,4.75],"type":"Point"}
+}

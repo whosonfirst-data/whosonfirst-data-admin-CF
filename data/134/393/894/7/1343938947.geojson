@@ -1,0 +1,68 @@
+{
+  "id": 1343938947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90318,5.80609,20.90318,5.80609",
+    "geom:latitude":5.80609,
+    "geom:longitude":20.90318,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Massiri",
+    "gn:country_code":"CF",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237699,
+    "gn:latitude":5.80609,
+    "gn:longitude":20.90318,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Massiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237699
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"83e607500aebfcac9eec8ae99a46b0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1343938947,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343938947,
+    "wof:lastmodified":1537049040,
+    "wof:name":"Massiri",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90318,
+    5.80609,
+    20.90318,
+    5.80609
+],
+  "geometry": {"coordinates":[20.90318,5.80609],"type":"Point"}
+}

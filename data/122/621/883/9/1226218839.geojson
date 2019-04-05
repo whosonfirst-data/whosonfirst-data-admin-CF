@@ -1,0 +1,72 @@
+{
+  "id": 1226218839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32499,6.22793,16.32499,6.22793",
+    "geom:latitude":6.22793,
+    "geom:longitude":16.32499,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143483.0",
+    "gn:asciiname":"Bosiakongo",
+    "gn:country_code":"CF",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388046,
+    "gn:latitude":6.22793,
+    "gn:longitude":16.32499,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bosiakongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bossiakongo",
+        "Bosiakongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388046
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4b3ccf42ba2d2a8502958e1a1f97faa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759667,
+            "locality_id":1226218839,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1226218839,
+    "wof:lastmodified":1537590621,
+    "wof:name":"Bosiakongo",
+    "wof:parent_id":1108759667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32499,
+    6.22793,
+    16.32499,
+    6.22793
+],
+  "geometry": {"coordinates":[16.32499,6.22793],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327129687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35797,5.26439,22.35797,5.26439",
+    "geom:latitude":5.26439,
+    "geom:longitude":22.35797,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Ngbakouta",
+    "gn:country_code":"CF",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237278,
+    "gn:latitude":5.26439,
+    "gn:longitude":22.35797,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngbakouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237278
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"026a469788fd6f8679fcfe718fa40eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1327129687,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1327129687,
+    "wof:lastmodified":1536617855,
+    "wof:name":"Ngbakouta",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35797,
+    5.26439,
+    22.35797,
+    5.26439
+],
+  "geometry": {"coordinates":[22.35797,5.26439],"type":"Point"}
+}

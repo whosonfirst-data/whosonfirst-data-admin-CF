@@ -1,0 +1,68 @@
+{
+  "id": 1225957159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,4.61667,21.3,4.61667",
+    "geom:latitude":4.61667,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Diba",
+    "gn:country_code":"CF",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239636,
+    "gn:latitude":4.61667,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239636
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6d487987a34ff41b6e80d9d0a1f82eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1225957159,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1225957159,
+    "wof:lastmodified":1536851680,
+    "wof:name":"Diba",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    4.61667,
+    21.3,
+    4.61667
+],
+  "geometry": {"coordinates":[21.3,4.61667],"type":"Point"}
+}

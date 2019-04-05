@@ -1,0 +1,68 @@
+{
+  "id": 1344148621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03237,3.95705,17.03237,3.95705",
+    "geom:latitude":3.95705,
+    "geom:longitude":17.03237,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"9143467.0",
+    "gn:asciiname":"Badane",
+    "gn:country_code":"CF",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390465,
+    "gn:latitude":3.95705,
+    "gn:longitude":17.03237,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Badane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390465
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8d5577bf137bfb509b3f4fa991f3b2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759727,
+            "locality_id":1344148621,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1344148621,
+    "wof:lastmodified":1536748229,
+    "wof:name":"Badane",
+    "wof:parent_id":1108759727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03237,
+    3.95705,
+    17.03237,
+    3.95705
+],
+  "geometry": {"coordinates":[17.03237,3.95705],"type":"Point"}
+}

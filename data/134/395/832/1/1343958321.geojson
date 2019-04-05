@@ -1,0 +1,68 @@
+{
+  "id": 1343958321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78929,4.56903,15.78929,4.56903",
+    "geom:latitude":4.56903,
+    "geom:longitude":15.78929,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Bafio",
+    "gn:country_code":"CF",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390380,
+    "gn:latitude":4.56903,
+    "gn:longitude":15.78929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bafio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390380
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fd4d7fbec8d37680501a1dc001036dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1343958321,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1343958321,
+    "wof:lastmodified":1537022111,
+    "wof:name":"Bafio",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78929,
+    4.56903,
+    15.78929,
+    4.56903
+],
+  "geometry": {"coordinates":[15.78929,4.56903],"type":"Point"}
+}

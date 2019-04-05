@@ -1,0 +1,96 @@
+{
+  "id": 890449933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91667,4.95,23.91667,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":23.91667,
+    "gn:country":"CF",
+    "gn:fcode":"PPL",
+    "gn:pop":13459,
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:eng_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:fre_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:ita_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d5\u30a1\u30a4"
+    ],
+    "name:pol_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:rum_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rafai"
+    ],
+    "qs:name":"Rafa\u00ef",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236524,
+        "gp:id":1479913,
+        "qs:id":74454,
+        "wd:id":"Q665219",
+        "wk:page":"Rafa\u00ef"
+    },
+    "wof:country":"CF",
+    "wof:created":1469052717,
+    "wof:geomhash":"eff107217d050311f648f8c0d68f7104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":890449933,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":890449933,
+    "wof:lastmodified":1527727156,
+    "wof:name":"Rafa\u00ef",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:population":13459,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91667,
+    4.95,
+    23.91667,
+    4.95
+],
+  "geometry": {"coordinates":[23.91667,4.95],"type":"Point"}
+}

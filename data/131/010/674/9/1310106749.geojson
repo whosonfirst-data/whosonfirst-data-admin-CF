@@ -1,0 +1,68 @@
+{
+  "id": 1310106749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79761,4.66392,15.79761,4.66392",
+    "geom:latitude":4.66392,
+    "geom:longitude":15.79761,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Mandobo",
+    "gn:country_code":"CF",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384884,
+    "gn:latitude":4.66392,
+    "gn:longitude":15.79761,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mandobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384884
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"aa96cfa2f29cfb8ac83ce91cc44aa4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1310106749,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310106749,
+    "wof:lastmodified":1536993841,
+    "wof:name":"Mandobo",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79761,
+    4.66392,
+    15.79761,
+    4.66392
+],
+  "geometry": {"coordinates":[15.79761,4.66392],"type":"Point"}
+}

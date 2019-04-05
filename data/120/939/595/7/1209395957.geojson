@@ -1,0 +1,62 @@
+{
+  "id": 1209395957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98333,6.28333,19.98333,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":19.98333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Youbandji",
+    "gn:country_code":"CF",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382324,
+    "gn:latitude":6.28333,
+    "gn:longitude":19.98333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Youbandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382324
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7a19da226038205df4e5a67ac1e93287",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209395957
+        }
+    ],
+    "wof:id":1209395957,
+    "wof:lastmodified":1536288301,
+    "wof:name":"Youbandji",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98333,
+    6.28333,
+    19.98333,
+    6.28333
+],
+  "geometry": {"coordinates":[19.98333,6.28333],"type":"Point"}
+}

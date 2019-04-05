@@ -1,0 +1,68 @@
+{
+  "id": 1276844019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78081,10.29719,22.78081,10.29719",
+    "geom:latitude":10.29719,
+    "geom:longitude":22.78081,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Birao Post",
+    "gn:country_code":"CF",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467871,
+    "gn:latitude":10.29719,
+    "gn:longitude":22.78081,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birao Post",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467871
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c196790bdf383156ed4de61a3ab40bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1276844019,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1276844019,
+    "wof:lastmodified":1537085999,
+    "wof:name":"Birao Post",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78081,
+    10.29719,
+    22.78081,
+    10.29719
+],
+  "geometry": {"coordinates":[22.78081,10.29719],"type":"Point"}
+}

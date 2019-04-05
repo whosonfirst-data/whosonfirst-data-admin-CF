@@ -1,0 +1,68 @@
+{
+  "id": 1343281917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86667,5.58333,24.86667,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":24.86667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Batoua",
+    "gn:country_code":"CF",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240377,
+    "gn:latitude":5.58333,
+    "gn:longitude":24.86667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Batoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240377
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4c9ffea65d5d1cdfc49d85b6faa5c312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1343281917,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1343281917,
+    "wof:lastmodified":1537003238,
+    "wof:name":"Batoua",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86667000000001,
+    5.58333,
+    24.86667000000001,
+    5.58333
+],
+  "geometry": {"coordinates":[24.86667000000001,5.58333],"type":"Point"}
+}

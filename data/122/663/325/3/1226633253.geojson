@@ -1,0 +1,68 @@
+{
+  "id": 1226633253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56814,6.45501,17.56814,6.45501",
+    "geom:latitude":6.45501,
+    "geom:longitude":17.56814,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Metima",
+    "gn:country_code":"CF",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384526,
+    "gn:latitude":6.45501,
+    "gn:longitude":17.56814,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9tima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384526
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3d2ad9e4ffe24f35bceef1768182445b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1226633253,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1226633253,
+    "wof:lastmodified":1536876621,
+    "wof:name":"Metima",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56814,
+    6.45501,
+    17.56814,
+    6.45501
+],
+  "geometry": {"coordinates":[17.56814,6.45501],"type":"Point"}
+}

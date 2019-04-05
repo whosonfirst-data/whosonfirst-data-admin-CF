@@ -1,0 +1,62 @@
+{
+  "id": 1209087417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,5.68333,21.55,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":21.55,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Ngalanda",
+    "gn:country_code":"CF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237308,
+    "gn:latitude":5.68333,
+    "gn:longitude":21.55,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngalanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237308
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c9451eb788a12adf2b293d65fc144840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209087417
+        }
+    ],
+    "wof:id":1209087417,
+    "wof:lastmodified":1536298142,
+    "wof:name":"Ngalanda",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    5.6833300000000015,
+    21.55,
+    5.6833300000000015
+],
+  "geometry": {"coordinates":[21.55,5.68333],"type":"Point"}
+}

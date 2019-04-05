@@ -1,0 +1,62 @@
+{
+  "id": 1209495385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33699,7.31678,18.33699,7.31678",
+    "geom:latitude":7.31678,
+    "geom:longitude":18.33699,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Bozanga",
+    "gn:country_code":"CF",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387566,
+    "gn:latitude":7.31678,
+    "gn:longitude":18.33699,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bozanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387566
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5d2757b63485ca66f7f975c1eed7b171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209495385
+        }
+    ],
+    "wof:id":1209495385,
+    "wof:lastmodified":1536285352,
+    "wof:name":"Bozanga",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33699,
+    7.31678,
+    18.33699,
+    7.31678
+],
+  "geometry": {"coordinates":[18.33699,7.31678],"type":"Point"}
+}

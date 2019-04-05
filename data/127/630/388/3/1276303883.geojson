@@ -1,0 +1,68 @@
+{
+  "id": 1276303883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81144,5.07074,18.81144,5.07074",
+    "geom:latitude":5.07074,
+    "geom:longitude":18.81144,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Vangue I",
+    "gn:country_code":"CF",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382693,
+    "gn:latitude":5.07074,
+    "gn:longitude":18.81144,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Vangu\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382693
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d5d3479b3278703b067e21e1f05b87e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1276303883,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1276303883,
+    "wof:lastmodified":1536817437,
+    "wof:name":"Vangue I",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81144,
+    5.07074,
+    18.81144,
+    5.07074
+],
+  "geometry": {"coordinates":[18.81144,5.07074],"type":"Point"}
+}

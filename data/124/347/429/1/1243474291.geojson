@@ -1,0 +1,68 @@
+{
+  "id": 1243474291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91643,4.99021,23.91643,4.99021",
+    "geom:latitude":4.99021,
+    "geom:longitude":23.91643,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Gounza",
+    "gn:country_code":"CF",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238849,
+    "gn:latitude":4.99021,
+    "gn:longitude":23.91643,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gounza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238849
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4f47f9468a8da5e2e873cf66bbe40145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1243474291,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1243474291,
+    "wof:lastmodified":1536765835,
+    "wof:name":"Gounza",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91643,
+    4.99021,
+    23.91643,
+    4.99021
+],
+  "geometry": {"coordinates":[23.91643,4.99021],"type":"Point"}
+}

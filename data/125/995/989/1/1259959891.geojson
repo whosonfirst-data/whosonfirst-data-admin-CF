@@ -1,0 +1,68 @@
+{
+  "id": 1259959891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3654,5.92871,18.3654,5.92871",
+    "geom:latitude":5.92871,
+    "geom:longitude":18.3654,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Kotolinga",
+    "gn:country_code":"CF",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525225,
+    "gn:latitude":5.92871,
+    "gn:longitude":18.3654,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kotolinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525225
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"93beee9342aa9f6160271e91d8077d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1259959891,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1259959891,
+    "wof:lastmodified":1536669157,
+    "wof:name":"Kotolinga",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3654,
+    5.92871,
+    18.3654,
+    5.92871
+],
+  "geometry": {"coordinates":[18.3654,5.92871],"type":"Point"}
+}

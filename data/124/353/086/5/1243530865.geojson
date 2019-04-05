@@ -1,0 +1,63 @@
+{
+  "id": 1243530865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20573,7.10778,15.20573,7.10778",
+    "geom:latitude":7.10778,
+    "geom:longitude":15.20573,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yamba",
+    "gn:country_code":"CF",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870390,
+    "gn:latitude":7.10778,
+    "gn:longitude":15.20573,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Yamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870390
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d7ad746b0d6bfd1e228db7af542d0d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243530865,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243530865,
+    "wof:lastmodified":1536683864,
+    "wof:name":"Yamba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20573,
+    7.10778,
+    15.20573,
+    7.10778
+],
+  "geometry": {"coordinates":[15.20573,7.10778],"type":"Point"}
+}

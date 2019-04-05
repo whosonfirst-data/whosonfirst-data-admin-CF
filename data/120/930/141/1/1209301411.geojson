@@ -1,0 +1,62 @@
+{
+  "id": 1209301411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30675,7.24692,18.30675,7.24692",
+    "geom:latitude":7.24692,
+    "geom:longitude":18.30675,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Tounda",
+    "gn:country_code":"CF",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382722,
+    "gn:latitude":7.24692,
+    "gn:longitude":18.30675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382722
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"69d2a4250399584cb0fa0b719e8c8146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209301411
+        }
+    ],
+    "wof:id":1209301411,
+    "wof:lastmodified":1536291345,
+    "wof:name":"Tounda",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30675,
+    7.2469199999999985,
+    18.30675,
+    7.2469199999999985
+],
+  "geometry": {"coordinates":[18.30675,7.24692],"type":"Point"}
+}

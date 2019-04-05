@@ -1,0 +1,68 @@
+{
+  "id": 1226218669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67596,4.86967,18.67596,4.86967",
+    "geom:latitude":4.86967,
+    "geom:longitude":18.67596,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Lea",
+    "gn:country_code":"CF",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385301,
+    "gn:latitude":4.86967,
+    "gn:longitude":18.67596,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385301
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5ea64df172a235e809e283878f4cafa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1226218669,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1226218669,
+    "wof:lastmodified":1536972327,
+    "wof:name":"Lea",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67596,
+    4.86967,
+    18.67596,
+    4.86967
+],
+  "geometry": {"coordinates":[18.67596,4.86967],"type":"Point"}
+}

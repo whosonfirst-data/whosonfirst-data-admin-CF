@@ -1,0 +1,73 @@
+{
+  "id": 1326936289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,4.71667,15.56667,4.71667",
+    "geom:latitude":4.71667,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2387494.0",
+    "gn:asciiname":"Campement Ngoere",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387506,
+    "gn:latitude":4.71667,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Campement Ngo\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Go\u00e9r\u00e9",
+        "Campement Ngo\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387506
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"45ca126bdec37d63b4891f129b8a8dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759637,
+            "locality_id":1326936289,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1326936289,
+    "wof:lastmodified":1537590614,
+    "wof:name":"Campement Ngoere",
+    "wof:parent_id":1108759637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    4.71667,
+    15.56667,
+    4.71667
+],
+  "geometry": {"coordinates":[15.56667,4.71667],"type":"Point"}
+}

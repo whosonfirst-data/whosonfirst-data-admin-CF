@@ -1,0 +1,68 @@
+{
+  "id": 1242851509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95024,7.33845,16.95024,7.33845",
+    "geom:latitude":7.33845,
+    "geom:longitude":16.95024,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Bourou",
+    "gn:country_code":"CF",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387674,
+    "gn:latitude":7.33845,
+    "gn:longitude":16.95024,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387674
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9e8434a5d6697c137286e570c3726af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1242851509,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1242851509,
+    "wof:lastmodified":1536669166,
+    "wof:name":"Bourou",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95024,
+    7.33845,
+    16.95024,
+    7.33845
+],
+  "geometry": {"coordinates":[16.95024,7.33845],"type":"Point"}
+}

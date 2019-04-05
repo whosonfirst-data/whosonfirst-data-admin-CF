@@ -1,0 +1,72 @@
+{
+  "id": 1292912167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13196,4.5144,21.13196,4.5144",
+    "geom:latitude":4.5144,
+    "geom:longitude":21.13196,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Yaboro",
+    "gn:country_code":"CF",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236097,
+    "gn:latitude":4.5144,
+    "gn:longitude":21.13196,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yaboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabrou",
+        "Yaboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236097
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c7057e2e192cc322b2ddcd26504e0040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1292912167,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1292912167,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yaboro",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13196,
+    4.5144,
+    21.13196,
+    4.5144
+],
+  "geometry": {"coordinates":[21.13196,4.5144],"type":"Point"}
+}

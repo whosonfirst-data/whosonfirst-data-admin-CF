@@ -1,0 +1,68 @@
+{
+  "id": 1293796957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16667,4.76667,21.16667,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":21.16667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9143474.0",
+    "gn:asciiname":"Tchinda",
+    "gn:country_code":"CF",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236294,
+    "gn:latitude":4.76667,
+    "gn:longitude":21.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tchinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236294
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b910edf711cff2de4bde0c01f2e85ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759613,
+            "locality_id":1293796957,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1293796957,
+    "wof:lastmodified":1536836896,
+    "wof:name":"Tchinda",
+    "wof:parent_id":1108759613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16667,
+    4.76667,
+    21.16667,
+    4.76667
+],
+  "geometry": {"coordinates":[21.16667,4.76667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276142087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75494,5.62032,22.75494,5.62032",
+    "geom:latitude":5.62032,
+    "geom:longitude":22.75494,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Bagoso",
+    "gn:country_code":"CF",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240762,
+    "gn:latitude":5.62032,
+    "gn:longitude":22.75494,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bagoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240762
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f31626f539baf84d167bd9a1f3f70d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1276142087,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1276142087,
+    "wof:lastmodified":1537033545,
+    "wof:name":"Bagoso",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75494,
+    5.62032,
+    22.75494,
+    5.62032
+],
+  "geometry": {"coordinates":[22.75494,5.62032],"type":"Point"}
+}

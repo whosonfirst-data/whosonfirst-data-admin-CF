@@ -1,0 +1,76 @@
+{
+  "id": 1276940865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65,5.26667,17.65,5.26667",
+    "geom:latitude":5.26667,
+    "geom:longitude":17.65,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Bossembele",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388025,
+    "gn:latitude":5.26667,
+    "gn:longitude":17.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossemb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosamb\u00e9le",
+        "Bosembele",
+        "Bossembale",
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388025,
+        "wk:page":"Bossemb%C3%A9l%C3%A9"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"68536482bf568b01d836b601589b267b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1276940865,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1276940865,
+    "wof:lastmodified":1537590621,
+    "wof:name":"Bossembele",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65,
+    5.26667,
+    17.65,
+    5.26667
+],
+  "geometry": {"coordinates":[17.65,5.26667],"type":"Point"}
+}

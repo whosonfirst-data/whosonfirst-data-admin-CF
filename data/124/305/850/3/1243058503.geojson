@@ -1,0 +1,82 @@
+{
+  "id": 1243058503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24323,4.68639,23.24323,4.68639",
+    "geom:latitude":4.68639,
+    "geom:longitude":23.24323,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732064.0",
+    "gn:asciiname":"Zime",
+    "gn:country_code":"CF",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235816,
+    "gn:latitude":4.68639,
+    "gn:longitude":23.24323,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9n\u00e9",
+        "Zim\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721,
+        85632391,
+        85669709,
+        1108759627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235816
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e479b5fc8093d2faa3557f67525d232d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1243058503,
+            "region_id":85669979
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759627,
+            "locality_id":1243058503,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1243058503,
+    "wof:lastmodified":1537590579,
+    "wof:name":"Zime",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24323,
+    4.68639,
+    23.24323,
+    4.68639
+],
+  "geometry": {"coordinates":[23.24323,4.68639],"type":"Point"}
+}

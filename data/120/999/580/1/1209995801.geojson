@@ -1,0 +1,68 @@
+{
+  "id": 1209995801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39493,6.60979,16.39493,6.60979",
+    "geom:latitude":6.60979,
+    "geom:longitude":16.39493,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Sange",
+    "gn:country_code":"CF",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383205,
+    "gn:latitude":6.60979,
+    "gn:longitude":16.39493,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sang\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383205
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b4535dee612f067fd53570602454d7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1209995801,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1209995801,
+    "wof:lastmodified":1536383990,
+    "wof:name":"Sange",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39493,
+    6.60979,
+    16.39493,
+    6.60979
+],
+  "geometry": {"coordinates":[16.39493,6.60979],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209008959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.23319,5.218,25.23319,5.218",
+    "geom:latitude":5.218,
+    "geom:longitude":25.23319,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Ouratonga",
+    "gn:country_code":"CF",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236772,
+    "gn:latitude":5.218,
+    "gn:longitude":25.23319,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ouratonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236772
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"557729760d1ac52133c4630d4f5635b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209008959
+        }
+    ],
+    "wof:id":1209008959,
+    "wof:lastmodified":1536300510,
+    "wof:name":"Ouratonga",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.23319,
+    5.218,
+    25.23319,
+    5.218
+],
+  "geometry": {"coordinates":[25.23319,5.218],"type":"Point"}
+}

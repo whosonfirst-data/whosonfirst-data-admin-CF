@@ -1,0 +1,73 @@
+{
+  "id": 1343733691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,7.25,15.38333,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Ndouy",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384093,
+    "gn:latitude":7.25,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndouy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doui",
+        "Ndouy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384093
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c3bcb2d06c9fcd6da24efd44485e0519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1343733691,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1343733691,
+    "wof:lastmodified":1537590601,
+    "wof:name":"Ndouy",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    7.25,
+    15.38333,
+    7.25
+],
+  "geometry": {"coordinates":[15.38333,7.25],"type":"Point"}
+}

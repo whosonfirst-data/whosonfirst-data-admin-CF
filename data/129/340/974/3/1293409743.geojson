@@ -1,0 +1,68 @@
+{
+  "id": 1293409743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28333,5.91667,24.28333,5.91667",
+    "geom:latitude":5.91667,
+    "geom:longitude":24.28333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Songopai",
+    "gn:country_code":"CF",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236372,
+    "gn:latitude":5.91667,
+    "gn:longitude":24.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Songopa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236372
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7b516f4844e3db8297873f71c4e58238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1293409743,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1293409743,
+    "wof:lastmodified":1536899153,
+    "wof:name":"Songopai",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28333,
+    5.91667,
+    24.28333,
+    5.91667
+],
+  "geometry": {"coordinates":[24.28333,5.91667],"type":"Point"}
+}

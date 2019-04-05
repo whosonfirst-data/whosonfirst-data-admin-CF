@@ -1,0 +1,68 @@
+{
+  "id": 1226405963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31395,5.49707,18.31395,5.49707",
+    "geom:latitude":5.49707,
+    "geom:longitude":18.31395,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Mala",
+    "gn:country_code":"CF",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525235,
+    "gn:latitude":5.49707,
+    "gn:longitude":18.31395,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525235
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"32951478d86e06aa4761b0c3288e4716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1226405963,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1226405963,
+    "wof:lastmodified":1536703230,
+    "wof:name":"Mala",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31395,
+    5.49707,
+    18.31395,
+    5.49707
+],
+  "geometry": {"coordinates":[18.31395,5.49707],"type":"Point"}
+}

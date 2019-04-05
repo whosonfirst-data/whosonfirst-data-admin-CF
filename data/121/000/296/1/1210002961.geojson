@@ -1,0 +1,72 @@
+{
+  "id": 1210002961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46658,7.38849,16.46658,7.38849",
+    "geom:latitude":7.38849,
+    "geom:longitude":16.46658,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Beboye II",
+    "gn:country_code":"CF",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389502,
+    "gn:latitude":7.38849,
+    "gn:longitude":16.46658,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Beboye II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beboy II",
+        "Beboye II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389502
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4c46dbce5547fe7cde95f479a64fd8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1210002961,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1210002961,
+    "wof:lastmodified":1537590633,
+    "wof:name":"Beboye II",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46658,
+    7.38849,
+    16.46658,
+    7.38849
+],
+  "geometry": {"coordinates":[16.46658,7.38849],"type":"Point"}
+}

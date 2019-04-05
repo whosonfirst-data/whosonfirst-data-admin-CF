@@ -1,0 +1,71 @@
+{
+  "id": 1293505135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54835,9.42027,21.54835,9.42027",
+    "geom:latitude":9.42027,
+    "geom:longitude":21.54835,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Dekoul",
+    "gn:country_code":"CF",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505339,
+    "gn:latitude":9.42027,
+    "gn:longitude":21.54835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9koul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9koul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505339
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b851849f1956ce45e0ab043364a1048c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1293505135,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1293505135,
+    "wof:lastmodified":1537590641,
+    "wof:name":"Dekoul",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54835,
+    9.42027,
+    21.54835,
+    9.42027
+],
+  "geometry": {"coordinates":[21.54835,9.42027],"type":"Point"}
+}

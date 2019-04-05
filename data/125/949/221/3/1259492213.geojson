@@ -1,0 +1,68 @@
+{
+  "id": 1259492213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12009,4.76531,21.12009,4.76531",
+    "geom:latitude":4.76531,
+    "geom:longitude":21.12009,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9143474.0",
+    "gn:asciiname":"Brouda",
+    "gn:country_code":"CF",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239896,
+    "gn:latitude":4.76531,
+    "gn:longitude":21.12009,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Brouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239896
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8c2310336c118a8d1060a11c0a88d0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759613,
+            "locality_id":1259492213,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1259492213,
+    "wof:lastmodified":1536845090,
+    "wof:name":"Brouda",
+    "wof:parent_id":1108759613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12009,
+    4.76531,
+    21.12009,
+    4.76531
+],
+  "geometry": {"coordinates":[21.12009,4.76531],"type":"Point"}
+}

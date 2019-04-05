@@ -1,0 +1,72 @@
+{
+  "id": 1226056951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84256,8.86697,19.84256,8.86697",
+    "geom:latitude":8.86697,
+    "geom:longitude":19.84256,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Miamere",
+    "gn:country_code":"CF",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384516,
+    "gn:latitude":8.86697,
+    "gn:longitude":19.84256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Miam\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Miam\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384516,
+        "wk:page":"Miamere"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6db9bba073d69a871b22526188b99615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1226056951,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1226056951,
+    "wof:lastmodified":1537590602,
+    "wof:name":"Miamere",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84256,
+    8.86697,
+    19.84256,
+    8.86697
+],
+  "geometry": {"coordinates":[19.84256,8.86697],"type":"Point"}
+}

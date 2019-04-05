@@ -1,0 +1,68 @@
+{
+  "id": 1193114283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25652,7.00553,17.25652,7.00553",
+    "geom:latitude":7.00553,
+    "geom:longitude":17.25652,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Bongolo",
+    "gn:country_code":"CF",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388128,
+    "gn:latitude":7.00553,
+    "gn:longitude":17.25652,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388128
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d568b745cc92a5f04c299d09e62f8479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1193114283,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1193114283,
+    "wof:lastmodified":1536369852,
+    "wof:name":"Bongolo",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25652,
+    7.00553,
+    17.25652,
+    7.00553
+],
+  "geometry": {"coordinates":[17.25652,7.00553],"type":"Point"}
+}

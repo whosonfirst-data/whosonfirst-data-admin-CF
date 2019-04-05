@@ -1,0 +1,62 @@
+{
+  "id": 1209086467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37831,6.14039,18.37831,6.14039",
+    "geom:latitude":6.14039,
+    "geom:longitude":18.37831,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Bingakola",
+    "gn:country_code":"CF",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388834,
+    "gn:latitude":6.14039,
+    "gn:longitude":18.37831,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bingakola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388834
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"22618a05e1d418c9426d50d7a10ffd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209086467
+        }
+    ],
+    "wof:id":1209086467,
+    "wof:lastmodified":1536298171,
+    "wof:name":"Bingakola",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37831,
+    6.14039,
+    18.37831,
+    6.14039
+],
+  "geometry": {"coordinates":[18.37831,6.14039],"type":"Point"}
+}

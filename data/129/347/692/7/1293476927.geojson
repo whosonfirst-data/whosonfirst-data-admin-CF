@@ -1,0 +1,73 @@
+{
+  "id": 1293476927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77141,7.87779,17.77141,7.87779",
+    "geom:latitude":7.87779,
+    "geom:longitude":17.77141,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Sabo",
+    "gn:country_code":"CF",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383273,
+    "gn:latitude":7.87779,
+    "gn:longitude":17.77141,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabou",
+        "Saba",
+        "Sabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383273
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bc0710cce878b0d6aad8ea9439442253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759693,
+            "locality_id":1293476927,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293476927,
+    "wof:lastmodified":1537590599,
+    "wof:name":"Sabo",
+    "wof:parent_id":1108759693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77141,
+    7.87779,
+    17.77141,
+    7.87779
+],
+  "geometry": {"coordinates":[17.77141,7.87779],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243549029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83774,6.36523,14.83774,6.36523",
+    "geom:latitude":6.36523,
+    "geom:longitude":14.83774,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"2390511.0",
+    "gn:asciiname":"Bondo",
+    "gn:country_code":"CF",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388198,
+    "gn:latitude":6.36523,
+    "gn:longitude":14.83774,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonndo",
+        "Bondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388198
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"21bd70e3238507ce4eb80e62fc7c44c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759595,
+            "locality_id":1243549029,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1243549029,
+    "wof:lastmodified":1537590623,
+    "wof:name":"Bondo",
+    "wof:parent_id":1108759595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83774,
+    6.36523,
+    14.83774,
+    6.36523
+],
+  "geometry": {"coordinates":[14.83774,6.36523],"type":"Point"}
+}

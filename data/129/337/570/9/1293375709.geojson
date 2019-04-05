@@ -1,0 +1,68 @@
+{
+  "id": 1293375709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89384,5.68279,22.89384,5.68279",
+    "geom:latitude":5.68279,
+    "geom:longitude":22.89384,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Gita",
+    "gn:country_code":"CF",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239217,
+    "gn:latitude":5.68279,
+    "gn:longitude":22.89384,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239217
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f12c05c8146243fad384a3479df42531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1293375709,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1293375709,
+    "wof:lastmodified":1536948532,
+    "wof:name":"Gita",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89384,
+    5.68279,
+    22.89384,
+    5.68279
+],
+  "geometry": {"coordinates":[22.89384,5.68279],"type":"Point"}
+}

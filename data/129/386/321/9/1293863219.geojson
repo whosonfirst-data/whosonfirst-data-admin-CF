@@ -1,0 +1,68 @@
+{
+  "id": 1293863219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21983,7.06397,16.21983,7.06397",
+    "geom:latitude":7.06397,
+    "geom:longitude":16.21983,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bele",
+    "gn:country_code":"CF",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389309,
+    "gn:latitude":7.06397,
+    "gn:longitude":16.21983,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389309
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f0287410354d968aeb60ad406a505edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1293863219,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1293863219,
+    "wof:lastmodified":1536742350,
+    "wof:name":"Bele",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21983,
+    7.06397,
+    16.21983,
+    7.06397
+],
+  "geometry": {"coordinates":[16.21983,7.06397],"type":"Point"}
+}

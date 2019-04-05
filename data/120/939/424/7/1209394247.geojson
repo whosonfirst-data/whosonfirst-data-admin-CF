@@ -1,0 +1,62 @@
+{
+  "id": 1209394247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59755,6.91904,15.59755,6.91904",
+    "geom:latitude":6.91904,
+    "geom:longitude":15.59755,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Boyemi",
+    "gn:country_code":"CF",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387593,
+    "gn:latitude":6.91904,
+    "gn:longitude":15.59755,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boyemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387593
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"92967c00ccf9f79d74868d59a1b3facf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209394247
+        }
+    ],
+    "wof:id":1209394247,
+    "wof:lastmodified":1536288357,
+    "wof:name":"Boyemi",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59755,
+    6.91904,
+    15.59755,
+    6.91904
+],
+  "geometry": {"coordinates":[15.59755,6.91904],"type":"Point"}
+}

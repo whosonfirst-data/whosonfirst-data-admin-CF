@@ -1,0 +1,68 @@
+{
+  "id": 1293362831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72307,3.79043,16.72307,3.79043",
+    "geom:latitude":3.79043,
+    "geom:longitude":16.72307,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9143473.0",
+    "gn:asciiname":"Bokango",
+    "gn:country_code":"CF",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388382,
+    "gn:latitude":3.79043,
+    "gn:longitude":16.72307,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bokango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388382
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a78663cd57623cfdf47ea875e8008a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759679,
+            "locality_id":1293362831,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1293362831,
+    "wof:lastmodified":1536966587,
+    "wof:name":"Bokango",
+    "wof:parent_id":1108759679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72307,
+    3.79043,
+    16.72307,
+    3.79043
+],
+  "geometry": {"coordinates":[16.72307,3.79043],"type":"Point"}
+}

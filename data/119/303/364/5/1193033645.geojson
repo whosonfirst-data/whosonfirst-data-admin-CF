@@ -1,0 +1,72 @@
+{
+  "id": 1193033645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68333,8.26667,20.68333,8.26667",
+    "geom:latitude":8.26667,
+    "geom:longitude":20.68333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Botedjo",
+    "gn:country_code":"CF",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240042,
+    "gn:latitude":8.26667,
+    "gn:longitude":20.68333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bot\u00e9djo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bot\u00e9djo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240042,
+        "wk:page":"Botedjo"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9c8eb7568641320dd22745e3e502d763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1193033645,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1193033645,
+    "wof:lastmodified":1537590591,
+    "wof:name":"Botedjo",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68333,
+    8.26667,
+    20.68333,
+    8.26667
+],
+  "geometry": {"coordinates":[20.68333,8.26667],"type":"Point"}
+}

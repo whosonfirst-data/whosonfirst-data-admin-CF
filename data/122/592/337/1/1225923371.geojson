@@ -1,0 +1,73 @@
+{
+  "id": 1225923371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76667,7.36667,16.76667,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":16.76667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Kebe",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385862,
+    "gn:latitude":7.36667,
+    "gn:longitude":16.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaba",
+        "Kebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385862
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"16cda51c8f952bb4ae4ded7c698d21c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1225923371,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1225923371,
+    "wof:lastmodified":1537590607,
+    "wof:name":"Kebe",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76667,
+    7.36667,
+    16.76667,
+    7.36667
+],
+  "geometry": {"coordinates":[16.76667,7.36667],"type":"Point"}
+}

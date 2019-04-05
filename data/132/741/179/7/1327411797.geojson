@@ -1,0 +1,68 @@
+{
+  "id": 1327411797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14236,5.76797,20.14236,5.76797",
+    "geom:latitude":5.76797,
+    "geom:longitude":20.14236,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Zagoua",
+    "gn:country_code":"CF",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235862,
+    "gn:latitude":5.76797,
+    "gn:longitude":20.14236,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zagoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235862
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dd85d3b042658267e5781fd0398ae388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1327411797,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1327411797,
+    "wof:lastmodified":1536710872,
+    "wof:name":"Zagoua",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14236,
+    5.76797,
+    20.14236,
+    5.76797
+],
+  "geometry": {"coordinates":[20.14236,5.76797],"type":"Point"}
+}

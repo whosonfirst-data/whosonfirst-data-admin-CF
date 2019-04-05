@@ -1,0 +1,68 @@
+{
+  "id": 1310581343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42174,6.7049,17.42174,6.7049",
+    "geom:latitude":6.7049,
+    "geom:longitude":17.42174,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Boguine",
+    "gn:country_code":"CF",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388401,
+    "gn:latitude":6.7049,
+    "gn:longitude":17.42174,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boguin\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388401
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3c18bc3d2af89bb3b0ec11ee6d8c0db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1310581343,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1310581343,
+    "wof:lastmodified":1536807304,
+    "wof:name":"Boguine",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42174,
+    6.7049,
+    17.42174,
+    6.7049
+],
+  "geometry": {"coordinates":[17.42174,6.7049],"type":"Point"}
+}

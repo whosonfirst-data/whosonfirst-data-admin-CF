@@ -1,0 +1,68 @@
+{
+  "id": 1326754439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,4.35057,15.46667,4.35057",
+    "geom:latitude":4.35057,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Bambonga",
+    "gn:country_code":"CF",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390052,
+    "gn:latitude":4.35057,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bambonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390052
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8876cc8a7778205aeeb10e1dae1f579b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1326754439,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1326754439,
+    "wof:lastmodified":1536663698,
+    "wof:name":"Bambonga",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    4.35057,
+    15.46667,
+    4.35057
+],
+  "geometry": {"coordinates":[15.46667,4.35057],"type":"Point"}
+}

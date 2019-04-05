@@ -1,0 +1,73 @@
+{
+  "id": 1192989857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85,5.46667,17.85,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":17.85,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Bogbala",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388488,
+    "gn:latitude":5.46667,
+    "gn:longitude":17.85,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogbara",
+        "Bogbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388488
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"45c1cea5a9d36c5a3ba02c4e82ddc56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1192989857,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1192989857,
+    "wof:lastmodified":1537590627,
+    "wof:name":"Bogbala",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85,
+    5.46667,
+    17.85,
+    5.46667
+],
+  "geometry": {"coordinates":[17.85,5.46667],"type":"Point"}
+}

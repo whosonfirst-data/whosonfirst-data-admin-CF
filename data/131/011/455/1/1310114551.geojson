@@ -1,0 +1,68 @@
+{
+  "id": 1310114551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9411,4.59991,20.9411,4.59991",
+    "geom:latitude":4.59991,
+    "geom:longitude":20.9411,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731892.0",
+    "gn:asciiname":"Dimba",
+    "gn:country_code":"CF",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239611,
+    "gn:latitude":4.59991,
+    "gn:longitude":20.9411,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239611
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"25c60e01b61f1b88d92c07e34fc2e423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759641,
+            "locality_id":1310114551,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1310114551,
+    "wof:lastmodified":1536982618,
+    "wof:name":"Dimba",
+    "wof:parent_id":1108759641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9411,
+    4.59991,
+    20.9411,
+    4.59991
+],
+  "geometry": {"coordinates":[20.9411,4.59991],"type":"Point"}
+}

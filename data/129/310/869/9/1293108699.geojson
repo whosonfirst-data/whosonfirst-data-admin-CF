@@ -1,0 +1,63 @@
+{
+  "id": 1293108699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82294,4.55346,18.82294,4.55346",
+    "geom:latitude":4.55346,
+    "geom:longitude":18.82294,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yaji I",
+    "gn:country_code":"CF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382532,
+    "gn:latitude":4.55346,
+    "gn:longitude":18.82294,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Yaji I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382532
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b9bcc81c15a2c68526196445edadb5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293108699,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293108699,
+    "wof:lastmodified":1536835047,
+    "wof:name":"Yaji I",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82294,
+    4.55346,
+    18.82294,
+    4.55346
+],
+  "geometry": {"coordinates":[18.82294,4.55346],"type":"Point"}
+}

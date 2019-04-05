@@ -1,0 +1,68 @@
+{
+  "id": 1293565361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89706,5.4198,16.89706,5.4198",
+    "geom:latitude":5.4198,
+    "geom:longitude":16.89706,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bossembouio",
+    "gn:country_code":"CF",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388023,
+    "gn:latitude":5.4198,
+    "gn:longitude":16.89706,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossembouio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388023
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d5084851d7cf214802709874595cde24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1293565361,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1293565361,
+    "wof:lastmodified":1536674844,
+    "wof:name":"Bossembouio",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89706,
+    5.4198,
+    16.89706,
+    5.4198
+],
+  "geometry": {"coordinates":[16.89706,5.4198],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276423791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94437,7.05976,19.94437,7.05976",
+    "geom:latitude":7.05976,
+    "geom:longitude":19.94437,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143470.0",
+    "gn:asciiname":"Kpei",
+    "gn:country_code":"CF",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524275,
+    "gn:latitude":7.05976,
+    "gn:longitude":19.94437,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kp\u00e9\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524275
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"afbea0920d4d49e3dd54b4b29a8615c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759633,
+            "locality_id":1276423791,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1276423791,
+    "wof:lastmodified":1536657613,
+    "wof:name":"Kpei",
+    "wof:parent_id":1108759633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94437000000001,
+    7.05976,
+    19.94437000000001,
+    7.05976
+],
+  "geometry": {"coordinates":[19.94437000000001,7.05976],"type":"Point"}
+}

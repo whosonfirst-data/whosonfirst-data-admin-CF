@@ -1,0 +1,77 @@
+{
+  "id": 1343540209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68666,9.61157,21.68666,9.61157",
+    "geom:latitude":9.61157,
+    "geom:longitude":21.68666,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Gordil",
+    "gn:country_code":"CF",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239146,
+    "gn:latitude":9.61157,
+    "gn:longitude":21.68666,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gordil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gordil"
+    ],
+    "name:fra_x_variant":[
+        "Gordil III"
+    ],
+    "name:und_x_variant":[
+        "Gordil III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239146
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cb9a853c9f2cae4065d736110fe9dc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1343540209,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1343540209,
+    "wof:lastmodified":1537590588,
+    "wof:name":"Gordil",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68666,
+    9.61157,
+    21.68666,
+    9.61157
+],
+  "geometry": {"coordinates":[21.68666,9.61157],"type":"Point"}
+}

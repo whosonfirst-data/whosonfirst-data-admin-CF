@@ -1,0 +1,68 @@
+{
+  "id": 1243247021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06117,10.05002,22.06117,10.05002",
+    "geom:latitude":10.05002,
+    "geom:longitude":22.06117,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Kokab",
+    "gn:country_code":"CF",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7507140,
+    "gn:latitude":10.05002,
+    "gn:longitude":22.06117,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kokab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7507140
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4654b5ff6f45d6e8fc788dbfa14cbda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1243247021,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1243247021,
+    "wof:lastmodified":1537089786,
+    "wof:name":"Kokab",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06117,
+    10.05002,
+    22.06117,
+    10.05002
+],
+  "geometry": {"coordinates":[22.06117,10.05002],"type":"Point"}
+}

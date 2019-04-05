@@ -1,0 +1,73 @@
+{
+  "id": 1360107425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32464,5.32153,25.32464,5.32153",
+    "geom:latitude":5.32153,
+    "geom:longitude":25.32464,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Yakotoko",
+    "gn:country_code":"CF",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236062,
+    "gn:latitude":5.32153,
+    "gn:longitude":25.32464,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yakotoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saga",
+        "Yakotako",
+        "Yakotoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236062
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a1893e8cf5ebed78d775eb29776eaf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1360107425,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1360107425,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yakotoko",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32464,
+    5.32153,
+    25.32464,
+    5.32153
+],
+  "geometry": {"coordinates":[25.32464,5.32153],"type":"Point"}
+}

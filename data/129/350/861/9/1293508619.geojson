@@ -1,0 +1,68 @@
+{
+  "id": 1293508619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53022,6.1348,15.53022,6.1348",
+    "geom:latitude":6.1348,
+    "geom:longitude":15.53022,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Doukou",
+    "gn:country_code":"CF",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386988,
+    "gn:latitude":6.1348,
+    "gn:longitude":15.53022,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Doukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386988
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"acd9e4b9ac5f61ad36a8efe365b3d918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759639,
+            "locality_id":1293508619,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1293508619,
+    "wof:lastmodified":1536756735,
+    "wof:name":"Doukou",
+    "wof:parent_id":1108759639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53022,
+    6.1348,
+    15.53022,
+    6.1348
+],
+  "geometry": {"coordinates":[15.53022,6.1348],"type":"Point"}
+}

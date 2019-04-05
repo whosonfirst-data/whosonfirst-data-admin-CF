@@ -1,0 +1,68 @@
+{
+  "id": 1343233661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32219,5.26675,17.32219,5.26675",
+    "geom:latitude":5.26675,
+    "geom:longitude":17.32219,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bokinge I",
+    "gn:country_code":"CF",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524092,
+    "gn:latitude":5.26675,
+    "gn:longitude":17.32219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boking\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524092
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5d39fa03d51a9036617b96088562da76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1343233661,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1343233661,
+    "wof:lastmodified":1537070688,
+    "wof:name":"Bokinge I",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32219,
+    5.26675,
+    17.32219,
+    5.26675
+],
+  "geometry": {"coordinates":[17.32219,5.26675],"type":"Point"}
+}

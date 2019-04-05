@@ -1,0 +1,133 @@
+{
+  "id": 421168155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46953,4.31887,17.46953,4.31887",
+    "geom:latitude":4.31887,
+    "geom:longitude":17.46953,
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Boda"
+    ],
+    "name:dut_x_preferred":[
+        "Boda"
+    ],
+    "name:eng_x_preferred":[
+        "Boda"
+    ],
+    "name:epo_x_preferred":[
+        "Boda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062f\u0627\u060c \u0644\u0648\u0628\u0627\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Boda"
+    ],
+    "name:fre_x_preferred":[
+        "Boda"
+    ],
+    "name:ita_x_preferred":[
+        "Boda"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094b\u0921\u093e"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u062f\u0627\u060c \u0644\u0648\u0628\u0627\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Boda"
+    ],
+    "name:ron_x_preferred":[
+        "Boda"
+    ],
+    "name:rum_x_preferred":[
+        "Boda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u0430"
+    ],
+    "name:sag_x_preferred":[
+        "Boda"
+    ],
+    "name:swe_x_preferred":[
+        "Boda"
+    ],
+    "name:tur_x_preferred":[
+        "Boda"
+    ],
+    "qs:gn_country":"CF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2388614,
+    "qs:gn_pop":16655,
+    "qs:name":"Boda",
+    "qs:name_adm0":"R\u00e9publique Centrafricaine",
+    "qs:name_adm1":"Lobaye",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1035319,
+    "qs:woe_adm0":23424792,
+    "qs:woe_id":1307143,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388614,
+        "gp:id":1307143,
+        "qs:id":1035319,
+        "wd:id":"Q2543954",
+        "wk:page":"Boda, Lobaye"
+    },
+    "wof:country":"CF",
+    "wof:created":1459008756,
+    "wof:geomhash":"f61e61862f0e1ce562f29650ec1af9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759727,
+            "locality_id":421168155,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":421168155,
+    "wof:lastmodified":1527716096,
+    "wof:name":"Boda",
+    "wof:parent_id":1108759727,
+    "wof:placetype":"locality",
+    "wof:population":16655,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46953,
+    4.31887,
+    17.46953,
+    4.31887
+],
+  "geometry": {"coordinates":[17.46953,4.31887],"type":"Point"}
+}

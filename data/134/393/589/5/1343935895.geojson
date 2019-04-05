@@ -1,0 +1,68 @@
+{
+  "id": 1343935895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08197,6.25753,21.08197,6.25753",
+    "geom:latitude":6.25753,
+    "geom:longitude":21.08197,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Gofo",
+    "gn:country_code":"CF",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239195,
+    "gn:latitude":6.25753,
+    "gn:longitude":21.08197,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gofo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239195
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5037ce6873c88337ba770d7b8403b1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1343935895,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343935895,
+    "wof:lastmodified":1537053221,
+    "wof:name":"Gofo",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08197,
+    6.25753,
+    21.08197,
+    6.25753
+],
+  "geometry": {"coordinates":[21.08197,6.25753],"type":"Point"}
+}

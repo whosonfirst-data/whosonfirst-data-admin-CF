@@ -1,0 +1,68 @@
+{
+  "id": 1343961101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,4.33333,21.31667,4.33333",
+    "geom:latitude":4.33333,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Baidou",
+    "gn:country_code":"CF",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240742,
+    "gn:latitude":4.33333,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ba\u00efdou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240742
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"156cc2e2c120d025566cb613e55d9062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1343961101,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1343961101,
+    "wof:lastmodified":1537018251,
+    "wof:name":"Baidou",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    4.33333,
+    21.31667,
+    4.33333
+],
+  "geometry": {"coordinates":[21.31667,4.33333],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209632853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.241,7.85597,20.241,7.85597",
+    "geom:latitude":7.85597,
+    "geom:longitude":20.241,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Dangavo",
+    "gn:country_code":"CF",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239734,
+    "gn:latitude":7.85597,
+    "gn:longitude":20.241,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dangavo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239734,
+        "wk:page":"Dangavo"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"072503c02194459212d9c27d215db777",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209632853
+        }
+    ],
+    "wof:id":1209632853,
+    "wof:lastmodified":1537489208,
+    "wof:name":"Dangavo",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.241,
+    7.85597,
+    20.241,
+    7.85597
+],
+  "geometry": {"coordinates":[20.241,7.85597],"type":"Point"}
+}

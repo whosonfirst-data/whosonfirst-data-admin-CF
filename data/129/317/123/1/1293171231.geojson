@@ -1,0 +1,74 @@
+{
+  "id": 1293171231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83403,6.52905,19.83403,6.52905",
+    "geom:latitude":6.52905,
+    "geom:longitude":19.83403,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143470.0",
+    "gn:asciiname":"Gribingi Morobanda",
+    "gn:country_code":"CF",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386244,
+    "gn:latitude":6.52905,
+    "gn:longitude":19.83403,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gribingi Morobanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morobanda",
+        "Marobanda",
+        "Maribanda",
+        "Gribingi Morobanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386244
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b49e4a023cede2a0e4cb57fe8f5713c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759633,
+            "locality_id":1293171231,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1293171231,
+    "wof:lastmodified":1537590609,
+    "wof:name":"Gribingi Morobanda",
+    "wof:parent_id":1108759633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83403,
+    6.52905,
+    19.83403,
+    6.52905
+],
+  "geometry": {"coordinates":[19.83403,6.52905],"type":"Point"}
+}

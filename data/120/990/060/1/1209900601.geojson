@@ -1,0 +1,73 @@
+{
+  "id": 1209900601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,6.13333,15.03333,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2390511.0",
+    "gn:asciiname":"Ancien Village Allim",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390641,
+    "gn:latitude":6.13333,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ancien Village Allim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alim",
+        "Ancien Village Allim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390641
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bb4f73444d2497950294a483774e9c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759595,
+            "locality_id":1209900601,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1209900601,
+    "wof:lastmodified":1537590639,
+    "wof:name":"Ancien Village Allim",
+    "wof:parent_id":1108759595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    6.13333,
+    15.03333,
+    6.13333
+],
+  "geometry": {"coordinates":[15.03333,6.13333],"type":"Point"}
+}

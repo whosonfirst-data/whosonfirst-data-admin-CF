@@ -1,0 +1,72 @@
+{
+  "id": 1343434075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.49574,6.69815,19.49574,6.69815",
+    "geom:latitude":6.69815,
+    "geom:longitude":19.49574,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Gobo",
+    "gn:country_code":"CF",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386565,
+    "gn:latitude":6.69815,
+    "gn:longitude":19.49574,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngobo",
+        "Gobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386565
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ce4a9136b2e45658e970c527912f0616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1343434075,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1343434075,
+    "wof:lastmodified":1537590610,
+    "wof:name":"Gobo",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.49574,
+    6.69815,
+    19.49574,
+    6.69815
+],
+  "geometry": {"coordinates":[19.49574,6.69815],"type":"Point"}
+}

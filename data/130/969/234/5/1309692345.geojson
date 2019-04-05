@@ -1,0 +1,72 @@
+{
+  "id": 1309692345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39314,7.1888,17.39314,7.1888",
+    "geom:latitude":7.1888,
+    "geom:longitude":17.39314,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Bouamsara",
+    "gn:country_code":"CF",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388706,
+    "gn:latitude":7.1888,
+    "gn:longitude":17.39314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bouamsara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boanzara",
+        "Bouamsara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388706
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e8a8a677de91ceac3b98234d3e4ea03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1309692345,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1309692345,
+    "wof:lastmodified":1537590629,
+    "wof:name":"Bouamsara",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39314,
+    7.1888,
+    17.39314,
+    7.1888
+],
+  "geometry": {"coordinates":[17.39314,7.1888],"type":"Point"}
+}

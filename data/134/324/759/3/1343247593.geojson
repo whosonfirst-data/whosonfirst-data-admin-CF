@@ -1,0 +1,68 @@
+{
+  "id": 1343247593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47467,5.77175,22.47467,5.77175",
+    "geom:latitude":5.77175,
+    "geom:longitude":22.47467,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Payazo",
+    "gn:country_code":"CF",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236649,
+    "gn:latitude":5.77175,
+    "gn:longitude":22.47467,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Payazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236649
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9a1b664a15f6d777edfacad28ff3049c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1343247593,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1343247593,
+    "wof:lastmodified":1537051378,
+    "wof:name":"Payazo",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47467,
+    5.77175,
+    22.47467,
+    5.77175
+],
+  "geometry": {"coordinates":[22.47467,5.77175],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360049115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07562,5.31296,17.07562,5.31296",
+    "geom:latitude":5.31296,
+    "geom:longitude":17.07562,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bogboyo II",
+    "gn:country_code":"CF",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534558,
+    "gn:latitude":5.31296,
+    "gn:longitude":17.07562,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogboyo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534558
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b11d24a07750eabc88ee0208f4a893c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1360049115,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1360049115,
+    "wof:lastmodified":1536996953,
+    "wof:name":"Bogboyo II",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07562,
+    5.31296,
+    17.07562,
+    5.31296
+],
+  "geometry": {"coordinates":[17.07562,5.31296],"type":"Point"}
+}

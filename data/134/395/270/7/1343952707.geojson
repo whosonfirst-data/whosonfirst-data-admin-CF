@@ -1,0 +1,68 @@
+{
+  "id": 1343952707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09505,4.35229,17.09505,4.35229",
+    "geom:latitude":4.35229,
+    "geom:longitude":17.09505,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143487.0",
+    "gn:asciiname":"Kedingue-Yawa",
+    "gn:country_code":"CF",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385859,
+    "gn:latitude":4.35229,
+    "gn:longitude":17.09505,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kedingu\u00e9-Yawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385859
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"602f05353bd0d3da0b129c07d340158d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759621,
+            "locality_id":1343952707,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1343952707,
+    "wof:lastmodified":1537029951,
+    "wof:name":"Kedingue-Yawa",
+    "wof:parent_id":1108759621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09505,
+    4.35229,
+    17.09505,
+    4.35229
+],
+  "geometry": {"coordinates":[17.09505,4.35229],"type":"Point"}
+}

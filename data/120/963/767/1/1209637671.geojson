@@ -1,0 +1,62 @@
+{
+  "id": 1209637671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45632,5.16424,19.45632,5.16424",
+    "geom:latitude":5.16424,
+    "geom:longitude":19.45632,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Gbadrou",
+    "gn:country_code":"CF",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525503,
+    "gn:latitude":5.16424,
+    "gn:longitude":19.45632,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gbadrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525503
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"453578ecd59d4292950317a84dc218ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209637671
+        }
+    ],
+    "wof:id":1209637671,
+    "wof:lastmodified":1536280989,
+    "wof:name":"Gbadrou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45632,
+    5.16424,
+    19.45632,
+    5.16424
+],
+  "geometry": {"coordinates":[19.45632,5.16424],"type":"Point"}
+}

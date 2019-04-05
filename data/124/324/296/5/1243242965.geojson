@@ -1,0 +1,68 @@
+{
+  "id": 1243242965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09108,5.82493,16.09108,5.82493",
+    "geom:latitude":5.82493,
+    "geom:longitude":16.09108,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8299286.0",
+    "gn:asciiname":"Bawi I",
+    "gn:country_code":"CF",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389629,
+    "gn:latitude":5.82493,
+    "gn:longitude":16.09108,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bawi I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389629
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bf07762ae7963723bb8f3fab6b8811c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759691,
+            "locality_id":1243242965,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1243242965,
+    "wof:lastmodified":1537095611,
+    "wof:name":"Bawi I",
+    "wof:parent_id":1108759691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09108,
+    5.82493,
+    16.09108,
+    5.82493
+],
+  "geometry": {"coordinates":[16.09108,5.82493],"type":"Point"}
+}

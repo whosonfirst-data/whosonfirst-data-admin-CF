@@ -1,0 +1,68 @@
+{
+  "id": 1226141965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,5.1,24.63333,5.1",
+    "geom:latitude":5.1,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Patahinga",
+    "gn:country_code":"CF",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236657,
+    "gn:latitude":5.1,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Patahinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236657
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7763263b10c075affff64bf8af317adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1226141965,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1226141965,
+    "wof:lastmodified":1537080042,
+    "wof:name":"Patahinga",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    5.1,
+    24.63333,
+    5.1
+],
+  "geometry": {"coordinates":[24.63333,5.1],"type":"Point"}
+}

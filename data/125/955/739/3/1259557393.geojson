@@ -1,0 +1,72 @@
+{
+  "id": 1259557393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56347,10.35839,22.56347,10.35839",
+    "geom:latitude":10.35839,
+    "geom:longitude":22.56347,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Ngene",
+    "gn:country_code":"CF",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237274,
+    "gn:latitude":10.35839,
+    "gn:longitude":22.56347,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ng\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9n\u00e9",
+        "Ng\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237274
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"20d5c0be553d6112153b0b2339f4b240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1259557393,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1259557393,
+    "wof:lastmodified":1537590583,
+    "wof:name":"Ngene",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56347,
+    10.35839,
+    22.56347,
+    10.35839
+],
+  "geometry": {"coordinates":[22.56347,10.35839],"type":"Point"}
+}

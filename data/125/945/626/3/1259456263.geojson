@@ -1,0 +1,73 @@
+{
+  "id": 1259456263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26667,7.01667,19.26667,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":19.26667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Boutouboue",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387647,
+    "gn:latitude":7.01667,
+    "gn:longitude":19.26667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boutoubou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boutoumbou\u00e9",
+        "Boutoubou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387647
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c29f99d2754fb1fec033cf08da8a5600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1259456263,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1259456263,
+    "wof:lastmodified":1537590616,
+    "wof:name":"Boutouboue",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26667,
+    7.01667,
+    19.26667,
+    7.01667
+],
+  "geometry": {"coordinates":[19.26667,7.01667],"type":"Point"}
+}

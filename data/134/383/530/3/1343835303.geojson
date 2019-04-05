@@ -1,0 +1,71 @@
+{
+  "id": 1343835303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6904,7.92312,18.6904,7.92312",
+    "geom:latitude":7.92312,
+    "geom:longitude":18.6904,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143478.0",
+    "gn:asciiname":"Petite-Sido",
+    "gn:country_code":"CF",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524126,
+    "gn:latitude":7.92312,
+    "gn:longitude":18.6904,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Petite-Sido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petite-Sido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524126
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"aad1df06a9e75f971205aa159e6d0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759675,
+            "locality_id":1343835303,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1343835303,
+    "wof:lastmodified":1537590641,
+    "wof:name":"Petite-Sido",
+    "wof:parent_id":1108759675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6904,
+    7.92312,
+    18.6904,
+    7.92312
+],
+  "geometry": {"coordinates":[18.6904,7.92312],"type":"Point"}
+}

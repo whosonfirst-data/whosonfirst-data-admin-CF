@@ -1,0 +1,68 @@
+{
+  "id": 1259860611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93029,6.3203,19.93029,6.3203",
+    "geom:latitude":6.3203,
+    "geom:longitude":19.93029,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Pagonondji",
+    "gn:country_code":"CF",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383591,
+    "gn:latitude":6.3203,
+    "gn:longitude":19.93029,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pagonondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383591
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3349447bb807e0b8c87604d7e0a2c05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759655,
+            "locality_id":1259860611,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1259860611,
+    "wof:lastmodified":1536811623,
+    "wof:name":"Pagonondji",
+    "wof:parent_id":1108759655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93029,
+    6.3203,
+    19.93029,
+    6.3203
+],
+  "geometry": {"coordinates":[19.93029,6.3203],"type":"Point"}
+}

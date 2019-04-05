@@ -1,0 +1,68 @@
+{
+  "id": 1327006443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76117,7.33963,15.76117,7.33963",
+    "geom:latitude":7.33963,
+    "geom:longitude":15.76117,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Ngoule",
+    "gn:country_code":"CF",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383950,
+    "gn:latitude":7.33963,
+    "gn:longitude":15.76117,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383950
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b187c1c91919463015ec5d3aef8053c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1327006443,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1327006443,
+    "wof:lastmodified":1536798118,
+    "wof:name":"Ngoule",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76117,
+    7.33963,
+    15.76117,
+    7.33963
+],
+  "geometry": {"coordinates":[15.76117,7.33963],"type":"Point"}
+}

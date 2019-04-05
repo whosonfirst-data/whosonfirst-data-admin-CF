@@ -1,0 +1,68 @@
+{
+  "id": 1326843307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60128,4.55674,20.60128,4.55674",
+    "geom:latitude":4.55674,
+    "geom:longitude":20.60128,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731892.0",
+    "gn:asciiname":"Linda",
+    "gn:country_code":"CF",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237936,
+    "gn:latitude":4.55674,
+    "gn:longitude":20.60128,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Linda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237936
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fef19f605d84d3bfc9c89fd603b36b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759641,
+            "locality_id":1326843307,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1326843307,
+    "wof:lastmodified":1537031364,
+    "wof:name":"Linda",
+    "wof:parent_id":1108759641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60128,
+    4.55674,
+    20.60128,
+    4.55674
+],
+  "geometry": {"coordinates":[20.60128,4.55674],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243262899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17547,5.67123,26.17547,5.67123",
+    "geom:latitude":5.67123,
+    "geom:longitude":26.17547,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Bitilifondi",
+    "gn:country_code":"CF",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240187,
+    "gn:latitude":5.67123,
+    "gn:longitude":26.17547,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bitilifondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240187
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"065eecc6855129c0f42a142680e1ddd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759585,
+            "locality_id":1243262899,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1243262899,
+    "wof:lastmodified":1537067207,
+    "wof:name":"Bitilifondi",
+    "wof:parent_id":1108759585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17547,
+    5.67123,
+    26.17547,
+    5.67123
+],
+  "geometry": {"coordinates":[26.17547,5.67123],"type":"Point"}
+}

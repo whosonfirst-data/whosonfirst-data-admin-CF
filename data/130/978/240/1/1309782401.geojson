@@ -1,0 +1,68 @@
+{
+  "id": 1309782401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27258,6.68044,16.27258,6.68044",
+    "geom:latitude":6.68044,
+    "geom:longitude":16.27258,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Kokol",
+    "gn:country_code":"CF",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385708,
+    "gn:latitude":6.68044,
+    "gn:longitude":16.27258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kokol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385708
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"aa00c0bc8a8db4f81f744320b644cf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1309782401,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1309782401,
+    "wof:lastmodified":1536964689,
+    "wof:name":"Kokol",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27258,
+    6.68044,
+    16.27258,
+    6.68044
+],
+  "geometry": {"coordinates":[16.27258,6.68044],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209803461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80544,6.03309,20.80544,6.03309",
+    "geom:latitude":6.03309,
+    "geom:longitude":20.80544,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Bamando",
+    "gn:country_code":"CF",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240611,
+    "gn:latitude":6.03309,
+    "gn:longitude":20.80544,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bamando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240611
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a50759c4d36a2b801b35d9a22929a350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1209803461,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1209803461,
+    "wof:lastmodified":1536389668,
+    "wof:name":"Bamando",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80544,
+    6.03309,
+    20.80544,
+    6.03309
+],
+  "geometry": {"coordinates":[20.80544,6.03309],"type":"Point"}
+}

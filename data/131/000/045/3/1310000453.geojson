@@ -1,0 +1,68 @@
+{
+  "id": 1310000453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47089,4.58428,17.47089,4.58428",
+    "geom:latitude":4.58428,
+    "geom:longitude":17.47089,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143486.0",
+    "gn:asciiname":"Bossemboro",
+    "gn:country_code":"CF",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388024,
+    "gn:latitude":4.58428,
+    "gn:longitude":17.47089,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossemboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388024
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c6b4f9cb2e02dc979b380f4d4f983bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759649,
+            "locality_id":1310000453,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1310000453,
+    "wof:lastmodified":1536650405,
+    "wof:name":"Bossemboro",
+    "wof:parent_id":1108759649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47089,
+    4.58428,
+    17.47089,
+    4.58428
+],
+  "geometry": {"coordinates":[17.47089,4.58428],"type":"Point"}
+}

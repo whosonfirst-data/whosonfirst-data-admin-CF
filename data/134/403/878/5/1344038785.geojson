@@ -1,0 +1,68 @@
+{
+  "id": 1344038785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1779,5.98281,20.1779,5.98281",
+    "geom:latitude":5.98281,
+    "geom:longitude":20.1779,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Takobanda",
+    "gn:country_code":"CF",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236330,
+    "gn:latitude":5.98281,
+    "gn:longitude":20.1779,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Takobanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236330
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cf9dd3f74f654770223366b181e68e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1344038785,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1344038785,
+    "wof:lastmodified":1536907209,
+    "wof:name":"Takobanda",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1779,
+    5.98281,
+    20.1779,
+    5.98281
+],
+  "geometry": {"coordinates":[20.1779,5.98281],"type":"Point"}
+}

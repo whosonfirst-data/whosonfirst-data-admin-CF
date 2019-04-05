@@ -1,0 +1,73 @@
+{
+  "id": 1260293709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8,5.48333,21.8,5.48333",
+    "geom:latitude":5.48333,
+    "geom:longitude":21.8,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7732066.0",
+    "gn:asciiname":"Daembo",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239822,
+    "gn:latitude":5.48333,
+    "gn:longitude":21.8,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daimbo",
+        "Daembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239822
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"29c5ee4c92fc03fe411700394471747b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759611,
+            "locality_id":1260293709,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1260293709,
+    "wof:lastmodified":1537590590,
+    "wof:name":"Daembo",
+    "wof:parent_id":1108759611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8,
+    5.48333,
+    21.8,
+    5.48333
+],
+  "geometry": {"coordinates":[21.8,5.48333],"type":"Point"}
+}

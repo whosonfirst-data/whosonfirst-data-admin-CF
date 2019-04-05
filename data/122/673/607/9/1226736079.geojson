@@ -1,0 +1,72 @@
+{
+  "id": 1226736079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31739,6.97476,15.31739,6.97476",
+    "geom:latitude":6.97476,
+    "geom:longitude":15.31739,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Bougang",
+    "gn:country_code":"CF",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387850,
+    "gn:latitude":6.97476,
+    "gn:longitude":15.31739,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bougang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougang IV",
+        "Bougang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387850
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2c3b9003e59857c5907e6a6ccca8807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1226736079,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1226736079,
+    "wof:lastmodified":1537590618,
+    "wof:name":"Bougang",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31739,
+    6.97476,
+    15.31739,
+    6.97476
+],
+  "geometry": {"coordinates":[15.31739,6.97476],"type":"Point"}
+}

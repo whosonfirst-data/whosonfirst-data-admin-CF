@@ -1,0 +1,68 @@
+{
+  "id": 1242862377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32361,4.91476,20.32361,4.91476",
+    "geom:latitude":4.91476,
+    "geom:longitude":20.32361,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Dzenda",
+    "gn:country_code":"CF",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239415,
+    "gn:latitude":4.91476,
+    "gn:longitude":20.32361,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dzenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239415
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"24e1aba36256c5803406640d93428c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1242862377,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1242862377,
+    "wof:lastmodified":1536653412,
+    "wof:name":"Dzenda",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32361,
+    4.91476,
+    20.32361,
+    4.91476
+],
+  "geometry": {"coordinates":[20.32361,4.91476],"type":"Point"}
+}

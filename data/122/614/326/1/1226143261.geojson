@@ -1,0 +1,68 @@
+{
+  "id": 1226143261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5327,3.88843,15.5327,3.88843",
+    "geom:latitude":3.88843,
+    "geom:longitude":15.5327,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143489.0",
+    "gn:asciiname":"Sire",
+    "gn:country_code":"CF",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383086,
+    "gn:latitude":3.88843,
+    "gn:longitude":15.5327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383086
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d9afd7529dc518aca3c9551b6daf4958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759625,
+            "locality_id":1226143261,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1226143261,
+    "wof:lastmodified":1537078167,
+    "wof:name":"Sire",
+    "wof:parent_id":1108759625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5327,
+    3.88843,
+    15.5327,
+    3.88843
+],
+  "geometry": {"coordinates":[15.5327,3.88843],"type":"Point"}
+}

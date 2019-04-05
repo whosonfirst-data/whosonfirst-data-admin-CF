@@ -1,0 +1,68 @@
+{
+  "id": 1276799123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49958,5.38972,25.49958,5.38972",
+    "geom:latitude":5.38972,
+    "geom:longitude":25.49958,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Kaousoumgafay",
+    "gn:country_code":"CF",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238451,
+    "gn:latitude":5.38972,
+    "gn:longitude":25.49958,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaousoumgafay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238451
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1231d5e823c5f7be10daf34bb9a421d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1276799123,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1276799123,
+    "wof:lastmodified":1536651678,
+    "wof:name":"Kaousoumgafay",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49958,
+    5.38972,
+    25.49958,
+    5.38972
+],
+  "geometry": {"coordinates":[25.49958,5.38972],"type":"Point"}
+}

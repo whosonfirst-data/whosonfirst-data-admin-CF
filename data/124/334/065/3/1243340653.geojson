@@ -1,0 +1,73 @@
+{
+  "id": 1243340653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87897,6.9934,16.87897,6.9934",
+    "geom:latitude":6.9934,
+    "geom:longitude":16.87897,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143481.0",
+    "gn:asciiname":"Bonmbala Kete",
+    "gn:country_code":"CF",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388090,
+    "gn:latitude":6.9934,
+    "gn:longitude":16.87897,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bonmbala K\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boumbara",
+        "Bombara-Ket\u00e9",
+        "Bonmbala K\u00e9t\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388090
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5535c083c63f417d69b82d8cd6978d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759699,
+            "locality_id":1243340653,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1243340653,
+    "wof:lastmodified":1537590622,
+    "wof:name":"Bonmbala Kete",
+    "wof:parent_id":1108759699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87897,
+    6.9934,
+    16.87897,
+    6.9934
+],
+  "geometry": {"coordinates":[16.87897,6.9934],"type":"Point"}
+}

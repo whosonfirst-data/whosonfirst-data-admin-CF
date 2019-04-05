@@ -1,0 +1,67 @@
+{
+  "id": 1209536935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78333,4.41667,17.78333,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":17.78333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Mbale",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384751,
+    "gn:latitude":4.41667,
+    "gn:longitude":17.78333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Ba",
+        "Mbal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384751
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7724da7a76ecfde31a41d2424fa80a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209536935
+        }
+    ],
+    "wof:id":1209536935,
+    "wof:lastmodified":1537590603,
+    "wof:name":"Mbale",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78333,
+    4.41667,
+    17.78333,
+    4.41667
+],
+  "geometry": {"coordinates":[17.78333,4.41667],"type":"Point"}
+}

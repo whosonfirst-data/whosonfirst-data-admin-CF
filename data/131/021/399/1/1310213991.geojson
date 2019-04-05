@@ -1,0 +1,68 @@
+{
+  "id": 1310213991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94099,4.57443,20.94099,4.57443",
+    "geom:latitude":4.57443,
+    "geom:longitude":20.94099,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731892.0",
+    "gn:asciiname":"Dimou",
+    "gn:country_code":"CF",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239604,
+    "gn:latitude":4.57443,
+    "gn:longitude":20.94099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dimou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239604
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f1ace708085fc2d9f65bf7a7c6032399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759641,
+            "locality_id":1310213991,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1310213991,
+    "wof:lastmodified":1536838888,
+    "wof:name":"Dimou",
+    "wof:parent_id":1108759641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94099,
+    4.57443,
+    20.94099,
+    4.57443
+],
+  "geometry": {"coordinates":[20.94099,4.57443],"type":"Point"}
+}

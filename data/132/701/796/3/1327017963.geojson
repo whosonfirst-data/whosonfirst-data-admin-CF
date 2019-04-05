@@ -1,0 +1,72 @@
+{
+  "id": 1327017963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55207,5.91747,20.55207,5.91747",
+    "geom:latitude":5.91747,
+    "geom:longitude":20.55207,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Komali",
+    "gn:country_code":"CF",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238262,
+    "gn:latitude":5.91747,
+    "gn:longitude":20.55207,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Komali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komal\u00e9",
+        "Komali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238262
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1786669c7923704cee17c21af25d2a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1327017963,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1327017963,
+    "wof:lastmodified":1537590587,
+    "wof:name":"Komali",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55207,
+    5.91747,
+    20.55207,
+    5.91747
+],
+  "geometry": {"coordinates":[20.55207,5.91747],"type":"Point"}
+}

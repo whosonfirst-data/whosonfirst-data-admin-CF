@@ -1,0 +1,73 @@
+{
+  "id": 1259497599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04941,7.23755,20.04941,7.23755",
+    "geom:latitude":7.23755,
+    "geom:longitude":20.04941,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Yambala Koudouvele",
+    "gn:country_code":"CF",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236041,
+    "gn:latitude":7.23755,
+    "gn:longitude":20.04941,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yambala Koudouv\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambala",
+        "Yambala Koudouv\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236041,
+        "wk:page":"Yambala_Koudouvele"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b0881b66750cb6d9ffdb1e6e637cd66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1259497599,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1259497599,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yambala Koudouvele",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04941,
+    7.23755,
+    20.04941,
+    7.23755
+],
+  "geometry": {"coordinates":[20.04941,7.23755],"type":"Point"}
+}

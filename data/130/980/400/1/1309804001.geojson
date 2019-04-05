@@ -1,0 +1,68 @@
+{
+  "id": 1309804001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,4.15,15.13333,4.15",
+    "geom:latitude":4.15,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732916.0",
+    "gn:asciiname":"Dongou",
+    "gn:country_code":"CF",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387033,
+    "gn:latitude":4.15,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dongou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387033
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d54a5eef26323cb8b63d192b9028ae80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759593,
+            "locality_id":1309804001,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1309804001,
+    "wof:lastmodified":1536934388,
+    "wof:name":"Dongou",
+    "wof:parent_id":1108759593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    4.15,
+    15.13333,
+    4.15
+],
+  "geometry": {"coordinates":[15.13333,4.15],"type":"Point"}
+}

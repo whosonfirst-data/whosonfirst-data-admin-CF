@@ -1,0 +1,62 @@
+{
+  "id": 1209291643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93481,7.60252,16.93481,7.60252",
+    "geom:latitude":7.60252,
+    "geom:longitude":16.93481,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Betobra",
+    "gn:country_code":"CF",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857493,
+    "gn:latitude":7.60252,
+    "gn:longitude":16.93481,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9tobra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857493
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d0a9d67b865e05a1ed6bcd13801e46c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209291643
+        }
+    ],
+    "wof:id":1209291643,
+    "wof:lastmodified":1536291673,
+    "wof:name":"Betobra",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93481,
+    7.602519999999998,
+    16.93481,
+    7.602519999999998
+],
+  "geometry": {"coordinates":[16.93481,7.60252],"type":"Point"}
+}

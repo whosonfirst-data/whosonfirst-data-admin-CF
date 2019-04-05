@@ -1,0 +1,72 @@
+{
+  "id": 1344148751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02171,4.46112,18.02171,4.46112",
+    "geom:latitude":4.46112,
+    "geom:longitude":18.02171,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Bodadoule",
+    "gn:country_code":"CF",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388612,
+    "gn:latitude":4.46112,
+    "gn:longitude":18.02171,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bodadoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobadoul\u00e9",
+        "Bodadoul\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388612
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bc556860097cb3ebdaf389a7bf62dfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759687,
+            "locality_id":1344148751,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1344148751,
+    "wof:lastmodified":1537590628,
+    "wof:name":"Bodadoule",
+    "wof:parent_id":1108759687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02171,
+    4.46112,
+    18.02171,
+    4.46112
+],
+  "geometry": {"coordinates":[18.02171,4.46112],"type":"Point"}
+}

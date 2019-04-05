@@ -1,0 +1,68 @@
+{
+  "id": 1242949375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56667,4.7,17.56667,4.7",
+    "geom:latitude":4.7,
+    "geom:longitude":17.56667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Iate",
+    "gn:country_code":"CF",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386136,
+    "gn:latitude":4.7,
+    "gn:longitude":17.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Iat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386136
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"34a6ed7c91245da01b0f2780c3c754cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1242949375,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242949375,
+    "wof:lastmodified":1537024194,
+    "wof:name":"Iate",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56667,
+    4.7,
+    17.56667,
+    4.7
+],
+  "geometry": {"coordinates":[17.56667,4.7],"type":"Point"}
+}

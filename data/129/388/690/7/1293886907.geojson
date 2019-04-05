@@ -1,0 +1,68 @@
+{
+  "id": 1293886907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88333,4.53333,20.88333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":20.88333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731892.0",
+    "gn:asciiname":"Bouma",
+    "gn:country_code":"CF",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239973,
+    "gn:latitude":4.53333,
+    "gn:longitude":20.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239973
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d3b40d4bc0007eb5a10f50f6589260af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759641,
+            "locality_id":1293886907,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1293886907,
+    "wof:lastmodified":1536708708,
+    "wof:name":"Bouma",
+    "wof:parent_id":1108759641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88333,
+    4.53333,
+    20.88333,
+    4.53333
+],
+  "geometry": {"coordinates":[20.88333,4.53333],"type":"Point"}
+}

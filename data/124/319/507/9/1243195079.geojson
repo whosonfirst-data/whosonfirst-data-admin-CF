@@ -1,0 +1,68 @@
+{
+  "id": 1243195079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05,5.85,26.05,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":26.05,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"Atologbiri",
+    "gn:country_code":"CF",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240884,
+    "gn:latitude":5.85,
+    "gn:longitude":26.05,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atologbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240884
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fe9cf2a4222e498614a53a5608c383ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1243195079,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1243195079,
+    "wof:lastmodified":1536670924,
+    "wof:name":"Atologbiri",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05,
+    5.85,
+    26.05,
+    5.85
+],
+  "geometry": {"coordinates":[26.05,5.85],"type":"Point"}
+}

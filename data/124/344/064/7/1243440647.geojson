@@ -1,0 +1,68 @@
+{
+  "id": 1243440647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77276,7.06762,15.77276,7.06762",
+    "geom:latitude":7.06762,
+    "geom:longitude":15.77276,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Baouala",
+    "gn:country_code":"CF",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870046,
+    "gn:latitude":7.06762,
+    "gn:longitude":15.77276,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870046
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5cdec4bb9949caa274b04a5361597edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1243440647,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1243440647,
+    "wof:lastmodified":1536813258,
+    "wof:name":"Baouala",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77276,
+    7.06762,
+    15.77276,
+    7.06762
+],
+  "geometry": {"coordinates":[15.77276,7.06762],"type":"Point"}
+}

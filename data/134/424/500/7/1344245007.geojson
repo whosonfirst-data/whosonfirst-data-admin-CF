@@ -1,0 +1,68 @@
+{
+  "id": 1344245007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68238,5.24945,20.68238,5.24945",
+    "geom:latitude":5.24945,
+    "geom:longitude":20.68238,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Tougomale",
+    "gn:country_code":"CF",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236211,
+    "gn:latitude":5.24945,
+    "gn:longitude":20.68238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tougomal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236211
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e92df8a732dd70b482a59f7e487e9c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1344245007,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1344245007,
+    "wof:lastmodified":1536606398,
+    "wof:name":"Tougomale",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68238,
+    5.24945,
+    20.68238,
+    5.24945
+],
+  "geometry": {"coordinates":[20.68238,5.24945],"type":"Point"}
+}

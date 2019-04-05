@@ -1,0 +1,68 @@
+{
+  "id": 1327114541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6801,6.49476,17.6801,6.49476",
+    "geom:latitude":6.49476,
+    "geom:longitude":17.6801,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Bongbota",
+    "gn:country_code":"CF",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388151,
+    "gn:latitude":6.49476,
+    "gn:longitude":17.6801,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bongbota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388151
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4307f54bd2a580446f774e833ded0d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1327114541,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1327114541,
+    "wof:lastmodified":1536641094,
+    "wof:name":"Bongbota",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6801,
+    6.49476,
+    17.6801,
+    6.49476
+],
+  "geometry": {"coordinates":[17.6801,6.49476],"type":"Point"}
+}

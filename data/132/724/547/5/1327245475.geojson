@@ -1,0 +1,73 @@
+{
+  "id": 1327245475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56975,8.44995,20.56975,8.44995",
+    "geom:latitude":8.44995,
+    "geom:longitude":20.56975,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Yangou Ndarsa",
+    "gn:country_code":"CF",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235997,
+    "gn:latitude":8.44995,
+    "gn:longitude":20.56975,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yangou Ndarsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangoudersa",
+        "Yangou Ndarsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235997,
+        "wk:page":"Yangou_Ndarsa"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3e65b71932687af40bbafa7f4a011bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1327245475,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1327245475,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yangou Ndarsa",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56975,
+    8.44995,
+    20.56975,
+    8.44995
+],
+  "geometry": {"coordinates":[20.56975,8.44995],"type":"Point"}
+}

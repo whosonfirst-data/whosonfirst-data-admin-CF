@@ -1,0 +1,63 @@
+{
+  "id": 1209424561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46035,8.18544,20.46035,8.18544",
+    "geom:latitude":8.18544,
+    "geom:longitude":20.46035,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Kovongo Mia",
+    "gn:country_code":"CF",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238058,
+    "gn:latitude":8.18544,
+    "gn:longitude":20.46035,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kovongo Mia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238058,
+        "wk:page":"Kovongo_Mia"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"da6b35f56b99358ea0ddadea168427cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209424561
+        }
+    ],
+    "wof:id":1209424561,
+    "wof:lastmodified":1537489205,
+    "wof:name":"Kovongo Mia",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46035,
+    8.18544,
+    20.46035,
+    8.18544
+],
+  "geometry": {"coordinates":[20.46035,8.18544],"type":"Point"}
+}

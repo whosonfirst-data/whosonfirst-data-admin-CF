@@ -1,0 +1,72 @@
+{
+  "id": 1326752625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64646,5.39786,19.64646,5.39786",
+    "geom:latitude":5.39786,
+    "geom:longitude":19.64646,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Deko-Dakpa",
+    "gn:country_code":"CF",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387317,
+    "gn:latitude":5.39786,
+    "gn:longitude":19.64646,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9ko-Dakpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9ko-Dakpa",
+        "D\u00e9ko II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387317
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3bbde84b0f04b3468beb815eed56e9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1326752625,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1326752625,
+    "wof:lastmodified":1537590613,
+    "wof:name":"Deko-Dakpa",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64646,
+    5.39786,
+    19.64646,
+    5.39786
+],
+  "geometry": {"coordinates":[19.64646,5.39786],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226831203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74761,3.70106,16.74761,3.70106",
+    "geom:latitude":3.70106,
+    "geom:longitude":16.74761,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9143473.0",
+    "gn:asciiname":"Kanare",
+    "gn:country_code":"CF",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385952,
+    "gn:latitude":3.70106,
+    "gn:longitude":16.74761,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385952
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cb55fa23c47c8ec651d385d408b2255a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759679,
+            "locality_id":1226831203,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1226831203,
+    "wof:lastmodified":1537086100,
+    "wof:name":"Kanare",
+    "wof:parent_id":1108759679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74761,
+    3.70106,
+    16.74761,
+    3.70106
+],
+  "geometry": {"coordinates":[16.74761,3.70106],"type":"Point"}
+}

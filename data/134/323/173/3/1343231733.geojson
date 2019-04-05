@@ -1,0 +1,68 @@
+{
+  "id": 1343231733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71229,4.00369,16.71229,4.00369",
+    "geom:latitude":4.00369,
+    "geom:longitude":16.71229,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9143473.0",
+    "gn:asciiname":"Bangotto",
+    "gn:country_code":"CF",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389868,
+    "gn:latitude":4.00369,
+    "gn:longitude":16.71229,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bangotto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389868
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"567d6b4f5d404d71533b65947131ba96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759679,
+            "locality_id":1343231733,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1343231733,
+    "wof:lastmodified":1537073452,
+    "wof:name":"Bangotto",
+    "wof:parent_id":1108759679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71229,
+    4.00369,
+    16.71229,
+    4.00369
+],
+  "geometry": {"coordinates":[16.71229,4.00369],"type":"Point"}
+}

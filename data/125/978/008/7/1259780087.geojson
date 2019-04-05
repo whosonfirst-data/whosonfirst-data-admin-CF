@@ -1,0 +1,74 @@
+{
+  "id": 1259780087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46661,3.82751,17.46661,3.82751",
+    "geom:latitude":3.82751,
+    "geom:longitude":17.46661,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"9143467.0",
+    "gn:asciiname":"Bacbaya",
+    "gn:country_code":"CF",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390495,
+    "gn:latitude":3.82751,
+    "gn:longitude":17.46661,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bacbaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bac Bahi",
+        "Bakbakaa",
+        "Bakba\u00efa",
+        "Bacbaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390495
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8ab34f43b7569401b0119e5ab9889671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759727,
+            "locality_id":1259780087,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1259780087,
+    "wof:lastmodified":1537590638,
+    "wof:name":"Bacbaya",
+    "wof:parent_id":1108759727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46661,
+    3.82751,
+    17.46661,
+    3.82751
+],
+  "geometry": {"coordinates":[17.46661,3.82751],"type":"Point"}
+}

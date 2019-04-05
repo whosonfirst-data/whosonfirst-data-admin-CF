@@ -1,0 +1,68 @@
+{
+  "id": 1209818495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,4.31667,21.81667,4.31667",
+    "geom:latitude":4.31667,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Aoundji",
+    "gn:country_code":"CF",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240907,
+    "gn:latitude":4.31667,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aoundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240907
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2e3f3a18d946f287d8eedf435c99e4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759589,
+            "locality_id":1209818495,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1209818495,
+    "wof:lastmodified":1536381307,
+    "wof:name":"Aoundji",
+    "wof:parent_id":1108759589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    4.31667,
+    21.81667,
+    4.31667
+],
+  "geometry": {"coordinates":[21.81667,4.31667],"type":"Point"}
+}

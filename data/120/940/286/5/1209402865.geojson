@@ -1,0 +1,65 @@
+{
+  "id": 1209402865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88856,7.28757,21.88856,7.28757",
+    "geom:latitude":7.28757,
+    "geom:longitude":21.88856,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mouka",
+    "gn:country_code":"CF",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237438,
+    "gn:latitude":7.28757,
+    "gn:longitude":21.88856,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muka",
+        "Mouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237438
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"02ebeeb7d2731ce82ca724ef58e7a867",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209402865
+        }
+    ],
+    "wof:id":1209402865,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mouka",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88856,
+    7.28757,
+    21.88856,
+    7.28757
+],
+  "geometry": {"coordinates":[21.88856,7.28757],"type":"Point"}
+}

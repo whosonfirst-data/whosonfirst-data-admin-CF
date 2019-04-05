@@ -1,0 +1,68 @@
+{
+  "id": 1343830407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03975,3.17421,16.03975,3.17421",
+    "geom:latitude":3.17421,
+    "geom:longitude":16.03975,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7731904.0",
+    "gn:asciiname":"Bandoka",
+    "gn:country_code":"CF",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389959,
+    "gn:latitude":3.17421,
+    "gn:longitude":16.03975,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bandoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389959
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b060cecd7945f3fb0ce078b0c76434db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759711,
+            "locality_id":1343830407,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1343830407,
+    "wof:lastmodified":1536710370,
+    "wof:name":"Bandoka",
+    "wof:parent_id":1108759711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03975,
+    3.17421,
+    16.03975,
+    3.17421
+],
+  "geometry": {"coordinates":[16.03975,3.17421],"type":"Point"}
+}

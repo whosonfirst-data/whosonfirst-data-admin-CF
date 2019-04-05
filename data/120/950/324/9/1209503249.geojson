@@ -1,0 +1,62 @@
+{
+  "id": 1209503249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67137,5.78351,19.67137,5.78351",
+    "geom:latitude":5.78351,
+    "geom:longitude":19.67137,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Satoulou",
+    "gn:country_code":"CF",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383167,
+    "gn:latitude":5.78351,
+    "gn:longitude":19.67137,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Satoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383167
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"64f38fd332f9fd914fa78f03c57dc78e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209503249
+        }
+    ],
+    "wof:id":1209503249,
+    "wof:lastmodified":1536285115,
+    "wof:name":"Satoulou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67137,
+    5.78351,
+    19.67137,
+    5.78351
+],
+  "geometry": {"coordinates":[19.67137,5.78351],"type":"Point"}
+}

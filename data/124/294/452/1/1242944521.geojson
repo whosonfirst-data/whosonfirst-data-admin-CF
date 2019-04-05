@@ -1,0 +1,68 @@
+{
+  "id": 1242944521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26454,5.5488,18.26454,5.5488",
+    "geom:latitude":5.5488,
+    "geom:longitude":18.26454,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Mbata",
+    "gn:country_code":"CF",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384711,
+    "gn:latitude":5.5488,
+    "gn:longitude":18.26454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384711
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8c27c5d2b06211f4dc2eef6420e074d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1242944521,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242944521,
+    "wof:lastmodified":1537030964,
+    "wof:name":"Mbata",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26454,
+    5.5488,
+    18.26454,
+    5.5488
+],
+  "geometry": {"coordinates":[18.26454,5.5488],"type":"Point"}
+}

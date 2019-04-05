@@ -1,0 +1,68 @@
+{
+  "id": 1243049357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55115,5.85165,21.55115,5.85165",
+    "geom:latitude":5.85165,
+    "geom:longitude":21.55115,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Lema",
+    "gn:country_code":"CF",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237980,
+    "gn:latitude":5.85165,
+    "gn:longitude":21.55115,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237980
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"edcc7f8b0dcf4feff94104674e07047a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1243049357,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1243049357,
+    "wof:lastmodified":1536880274,
+    "wof:name":"Lema",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55115,
+    5.85165,
+    21.55115,
+    5.85165
+],
+  "geometry": {"coordinates":[21.55115,5.85165],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209396099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20068,6.23347,20.20068,6.23347",
+    "geom:latitude":6.23347,
+    "geom:longitude":20.20068,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Bruandjia",
+    "gn:country_code":"CF",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239892,
+    "gn:latitude":6.23347,
+    "gn:longitude":20.20068,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bruandjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239892
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"37064c27d0bee3db56ea19d7660f9000",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209396099
+        }
+    ],
+    "wof:id":1209396099,
+    "wof:lastmodified":1536288296,
+    "wof:name":"Bruandjia",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20068,
+    6.23347,
+    20.20068,
+    6.23347
+],
+  "geometry": {"coordinates":[20.20068,6.23347],"type":"Point"}
+}

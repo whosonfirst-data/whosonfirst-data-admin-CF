@@ -1,0 +1,68 @@
+{
+  "id": 1210004863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87666,6.23279,20.87666,6.23279",
+    "geom:latitude":6.23279,
+    "geom:longitude":20.87666,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Grapou",
+    "gn:country_code":"CF",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238729,
+    "gn:latitude":6.23279,
+    "gn:longitude":20.87666,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Grapou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238729
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"49adc4d6be1ce1017463ebb3cbccaf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1210004863,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1210004863,
+    "wof:lastmodified":1536374788,
+    "wof:name":"Grapou",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87666,
+    6.23279,
+    20.87666,
+    6.23279
+],
+  "geometry": {"coordinates":[20.87666,6.23279],"type":"Point"}
+}

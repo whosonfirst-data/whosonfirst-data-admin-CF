@@ -1,0 +1,68 @@
+{
+  "id": 1293369037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13387,9.55995,22.13387,9.55995",
+    "geom:latitude":9.55995,
+    "geom:longitude":22.13387,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Tiroungoulou",
+    "gn:country_code":"CF",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236255,
+    "gn:latitude":9.55995,
+    "gn:longitude":22.13387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tiroungoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236255
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6ae16e704762dab8326f3b435955d7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1293369037,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1293369037,
+    "wof:lastmodified":1536957833,
+    "wof:name":"Tiroungoulou",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13387,
+    9.55995,
+    22.13387,
+    9.55995
+],
+  "geometry": {"coordinates":[22.13387,9.55995],"type":"Point"}
+}

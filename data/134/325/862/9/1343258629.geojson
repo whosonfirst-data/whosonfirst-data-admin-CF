@@ -1,0 +1,68 @@
+{
+  "id": 1343258629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,5.68333,15.98333,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732103.0",
+    "gn:asciiname":"Bogboya",
+    "gn:country_code":"CF",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388465,
+    "gn:latitude":5.68333,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogboya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388465
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"108f0ceb90368463dd5d35d6c74c6ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759665,
+            "locality_id":1343258629,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1343258629,
+    "wof:lastmodified":1537035990,
+    "wof:name":"Bogboya",
+    "wof:parent_id":1108759665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    5.68333,
+    15.98333,
+    5.68333
+],
+  "geometry": {"coordinates":[15.98333,5.68333],"type":"Point"}
+}

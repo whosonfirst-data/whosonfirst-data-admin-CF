@@ -1,0 +1,68 @@
+{
+  "id": 1276669559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23103,7.51925,23.23103,7.51925",
+    "geom:latitude":7.51925,
+    "geom:longitude":23.23103,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"9143475.0",
+    "gn:asciiname":"Bangana",
+    "gn:country_code":"CF",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254868,
+    "gn:latitude":7.51925,
+    "gn:longitude":23.23103,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bangana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254868
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5bedf67280f0a3c62633f738f0f412db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759703,
+            "locality_id":1276669559,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1276669559,
+    "wof:lastmodified":1536824282,
+    "wof:name":"Bangana",
+    "wof:parent_id":1108759703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23103,
+    7.51925,
+    23.23103,
+    7.51925
+],
+  "geometry": {"coordinates":[23.23103,7.51925],"type":"Point"}
+}

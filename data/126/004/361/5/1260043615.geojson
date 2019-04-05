@@ -1,0 +1,72 @@
+{
+  "id": 1260043615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86718,5.16952,18.86718,5.16952",
+    "geom:latitude":5.16952,
+    "geom:longitude":18.86718,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Bossele",
+    "gn:country_code":"CF",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389721,
+    "gn:latitude":5.16952,
+    "gn:longitude":18.86718,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boss\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boss\u00e9l\u00e9",
+        "Bass\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389721
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5052406fd8d76842476bb1936ad661da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1260043615,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1260043615,
+    "wof:lastmodified":1537590634,
+    "wof:name":"Bossele",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86718,
+    5.16952,
+    18.86718,
+    5.16952
+],
+  "geometry": {"coordinates":[18.86718,5.16952],"type":"Point"}
+}

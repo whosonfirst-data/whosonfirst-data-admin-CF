@@ -1,0 +1,68 @@
+{
+  "id": 1226223457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46667,4.7,20.46667,4.7",
+    "geom:latitude":4.7,
+    "geom:longitude":20.46667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Ouiya",
+    "gn:country_code":"CF",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236795,
+    "gn:latitude":4.7,
+    "gn:longitude":20.46667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ouiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236795
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"10ae29309c28a4d732fadb876b9f4cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1226223457,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1226223457,
+    "wof:lastmodified":1536965588,
+    "wof:name":"Ouiya",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46667,
+    4.7,
+    20.46667,
+    4.7
+],
+  "geometry": {"coordinates":[20.46667,4.7],"type":"Point"}
+}

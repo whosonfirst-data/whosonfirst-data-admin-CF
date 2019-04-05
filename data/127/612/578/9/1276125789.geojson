@@ -1,0 +1,73 @@
+{
+  "id": 1276125789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07052,5.95392,22.07052,5.95392",
+    "geom:latitude":5.95392,
+    "geom:longitude":22.07052,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Hyrra Banda",
+    "gn:country_code":"CF",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238633,
+    "gn:latitude":5.95392,
+    "gn:longitude":22.07052,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hyrra Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ira Banda",
+        "Hirra Banda",
+        "Hyrra Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238633
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c21f6999d90efa2d77f36acfe40f1842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1276125789,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1276125789,
+    "wof:lastmodified":1537590588,
+    "wof:name":"Hyrra Banda",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07052,
+    5.95392,
+    22.07052,
+    5.95392
+],
+  "geometry": {"coordinates":[22.07052,5.95392],"type":"Point"}
+}

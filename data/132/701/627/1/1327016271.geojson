@@ -1,0 +1,68 @@
+{
+  "id": 1327016271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39033,7.17319,16.39033,7.17319",
+    "geom:latitude":7.17319,
+    "geom:longitude":16.39033,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Poubati",
+    "gn:country_code":"CF",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383348,
+    "gn:latitude":7.17319,
+    "gn:longitude":16.39033,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poubati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383348
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b34a3af6ffa8a631b4e41573910f21dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1327016271,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1327016271,
+    "wof:lastmodified":1536784276,
+    "wof:name":"Poubati",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39033,
+    7.17319,
+    16.39033,
+    7.17319
+],
+  "geometry": {"coordinates":[16.39033,7.17319],"type":"Point"}
+}

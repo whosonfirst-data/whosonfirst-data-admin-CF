@@ -1,0 +1,68 @@
+{
+  "id": 1260195955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,4.56667,21.5,4.56667",
+    "geom:latitude":4.56667,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Boudou",
+    "gn:country_code":"CF",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240015,
+    "gn:latitude":4.56667,
+    "gn:longitude":21.5,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240015
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8e5afff3f733a66a4975c54ff98def07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759737,
+            "locality_id":1260195955,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1260195955,
+    "wof:lastmodified":1536829772,
+    "wof:name":"Boudou",
+    "wof:parent_id":1108759737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    4.56667,
+    21.5,
+    4.56667
+],
+  "geometry": {"coordinates":[21.5,4.56667],"type":"Point"}
+}

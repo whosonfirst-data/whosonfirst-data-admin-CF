@@ -1,0 +1,72 @@
+{
+  "id": 1242658729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72752,5.96796,20.72752,5.96796",
+    "geom:latitude":5.96796,
+    "geom:longitude":20.72752,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Prokommande",
+    "gn:country_code":"CF",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236526,
+    "gn:latitude":5.96796,
+    "gn:longitude":20.72752,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Prokommand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokomandj",
+        "Prokommand\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236526
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b1432d12f830da1e8a4a0522af71598d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1242658729,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1242658729,
+    "wof:lastmodified":1537590582,
+    "wof:name":"Prokommande",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72752,
+    5.96796,
+    20.72752,
+    5.96796
+],
+  "geometry": {"coordinates":[20.72752,5.96796],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 890437087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96186,4.99337,19.96186,4.99337",
+    "geom:latitude":4.99337,
+    "geom:longitude":19.96186,
+    "gn:country":"CF",
+    "gn:fcode":"PPL",
+    "gn:pop":7529,
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kouango"
+    ],
+    "name:eng_x_preferred":[
+        "Kouango"
+    ],
+    "name:fre_x_preferred":[
+        "Kouango"
+    ],
+    "name:ita_x_preferred":[
+        "Kouango"
+    ],
+    "name:pol_x_preferred":[
+        "Kouango"
+    ],
+    "name:rum_x_preferred":[
+        "Kouango"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043d\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kouango"
+    ],
+    "name:tur_x_preferred":[
+        "Kouango"
+    ],
+    "name:unk_x_variant":[
+        "Kuango"
+    ],
+    "qs:name":"Kouango",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385535,
+        "gp:id":1308905,
+        "qs:id":1035307,
+        "wd:id":"Q1772378",
+        "wk:page":"Kouango"
+    },
+    "wof:country":"CF",
+    "wof:created":1469052137,
+    "wof:geomhash":"fd09f53ae14d37293c796adcc4a34dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":890437087,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":890437087,
+    "wof:lastmodified":1527729752,
+    "wof:name":"Kouango",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:population":7529,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96186,
+    4.99337,
+    19.96186,
+    4.99337
+],
+  "geometry": {"coordinates":[19.96186,4.99337],"type":"Point"}
+}

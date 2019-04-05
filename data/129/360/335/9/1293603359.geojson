@@ -1,0 +1,72 @@
+{
+  "id": 1293603359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7,8.38333,20.7,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":20.7,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Lazanguere",
+    "gn:country_code":"CF",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237994,
+    "gn:latitude":8.38333,
+    "gn:longitude":20.7,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lazanguer\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazanguer\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237994,
+        "wk:page":"Lazanguere"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f6358d8323215b77b55277e3d227af78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1293603359,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1293603359,
+    "wof:lastmodified":1537590586,
+    "wof:name":"Lazanguere",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7,
+    8.38333,
+    20.7,
+    8.38333
+],
+  "geometry": {"coordinates":[20.7,8.38333],"type":"Point"}
+}

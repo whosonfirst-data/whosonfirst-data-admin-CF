@@ -1,0 +1,68 @@
+{
+  "id": 1277157255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08333,7.45,18.08333,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":18.08333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Meke",
+    "gn:country_code":"CF",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384556,
+    "gn:latitude":7.45,
+    "gn:longitude":18.08333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mek\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384556
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"345b1e030864eb7b2cc5b7e460d6c7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759693,
+            "locality_id":1277157255,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1277157255,
+    "wof:lastmodified":1536660350,
+    "wof:name":"Meke",
+    "wof:parent_id":1108759693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08333,
+    7.45,
+    18.08333,
+    7.45
+],
+  "geometry": {"coordinates":[18.08333,7.45],"type":"Point"}
+}

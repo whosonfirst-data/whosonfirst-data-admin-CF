@@ -1,0 +1,68 @@
+{
+  "id": 1260182769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52133,3.9649,15.52133,3.9649",
+    "geom:latitude":3.9649,
+    "geom:longitude":15.52133,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143489.0",
+    "gn:asciiname":"Sengele",
+    "gn:country_code":"CF",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383141,
+    "gn:latitude":3.9649,
+    "gn:longitude":15.52133,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Seng\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383141
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"09087cb94bb932ed8fb492fc4fa5c1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759625,
+            "locality_id":1260182769,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1260182769,
+    "wof:lastmodified":1536847827,
+    "wof:name":"Sengele",
+    "wof:parent_id":1108759625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52133,
+    3.9649,
+    15.52133,
+    3.9649
+],
+  "geometry": {"coordinates":[15.52133,3.9649],"type":"Point"}
+}

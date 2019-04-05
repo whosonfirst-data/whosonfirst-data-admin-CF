@@ -1,0 +1,74 @@
+{
+  "id": 1310309977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53333,5.16667,26.53333,5.16667",
+    "geom:latitude":5.16667,
+    "geom:longitude":26.53333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Yapassira",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235958,
+    "gn:latitude":5.16667,
+    "gn:longitude":26.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yapassira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yapasira",
+        "Zeveyo",
+        "Yapassira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235958
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c11683ec565e60f1527c18ff8e3988b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759585,
+            "locality_id":1310309977,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1310309977,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yapassira",
+    "wof:parent_id":1108759585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53333,
+    5.16667,
+    26.53333,
+    5.16667
+],
+  "geometry": {"coordinates":[26.53333,5.16667],"type":"Point"}
+}

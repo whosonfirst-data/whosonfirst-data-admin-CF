@@ -1,0 +1,62 @@
+{
+  "id": 1209612659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08531,5.73821,19.08531,5.73821",
+    "geom:latitude":5.73821,
+    "geom:longitude":19.08531,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7732483.0",
+    "gn:asciiname":"Gamba",
+    "gn:country_code":"CF",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386764,
+    "gn:latitude":5.73821,
+    "gn:longitude":19.08531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386764
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"17677d78b01b0d1516bae370cf218ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209612659
+        }
+    ],
+    "wof:id":1209612659,
+    "wof:lastmodified":1536281796,
+    "wof:name":"Gamba",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08531,
+    5.73821,
+    19.08531,
+    5.73821
+],
+  "geometry": {"coordinates":[19.08531,5.73821],"type":"Point"}
+}

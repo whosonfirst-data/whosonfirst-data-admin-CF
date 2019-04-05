@@ -1,0 +1,73 @@
+{
+  "id": 1259555053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1,5.0,18.1,5.0",
+    "geom:latitude":5.0,
+    "geom:longitude":18.1,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"8299285.0",
+    "gn:asciiname":"Boudingui",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387874,
+    "gn:latitude":5.0,
+    "gn:longitude":18.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boudingui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boukingu\u00e9",
+        "Boudingui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387874
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"db86c6dfc1a002fcd56ffe2429b68f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759687,
+            "locality_id":1259555053,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1259555053,
+    "wof:lastmodified":1537590618,
+    "wof:name":"Boudingui",
+    "wof:parent_id":1108759687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1,
+    5.0,
+    18.1,
+    5.0
+],
+  "geometry": {"coordinates":[18.1,5.0],"type":"Point"}
+}

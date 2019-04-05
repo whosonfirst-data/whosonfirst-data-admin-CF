@@ -1,0 +1,68 @@
+{
+  "id": 1293411743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62836,5.20428,19.62836,5.20428",
+    "geom:latitude":5.20428,
+    "geom:longitude":19.62836,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Gbiangora",
+    "gn:country_code":"CF",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525542,
+    "gn:latitude":5.20428,
+    "gn:longitude":19.62836,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gbiangora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525542
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f074cba74e63e18ea9bca695a9692039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1293411743,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1293411743,
+    "wof:lastmodified":1536896127,
+    "wof:name":"Gbiangora",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62836,
+    5.20428,
+    19.62836,
+    5.20428
+],
+  "geometry": {"coordinates":[19.62836,5.20428],"type":"Point"}
+}

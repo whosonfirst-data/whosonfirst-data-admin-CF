@@ -1,0 +1,68 @@
+{
+  "id": 1310003501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.62804,6.05736,19.62804,6.05736",
+    "geom:latitude":6.05736,
+    "geom:longitude":19.62804,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"9143485.0",
+    "gn:asciiname":"Masen",
+    "gn:country_code":"CF",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384815,
+    "gn:latitude":6.05736,
+    "gn:longitude":19.62804,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Masen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384815
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7ae0d266664516ac2d9b5fe9138ea239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759629,
+            "locality_id":1310003501,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1310003501,
+    "wof:lastmodified":1536645716,
+    "wof:name":"Masen",
+    "wof:parent_id":1108759629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.62804,
+    6.05736,
+    19.62804,
+    6.05736
+],
+  "geometry": {"coordinates":[19.62804,6.05736],"type":"Point"}
+}

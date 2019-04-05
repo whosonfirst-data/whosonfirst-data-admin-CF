@@ -1,0 +1,66 @@
+{
+  "id": 1209314983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08345,4.37392,16.08345,4.37392",
+    "geom:latitude":4.37392,
+    "geom:longitude":16.08345,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Bao",
+    "gn:country_code":"CF",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389811,
+    "gn:latitude":4.37392,
+    "gn:longitude":16.08345,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bao Bato",
+        "Bao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389811
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4e128a6674f25225d8d16fcf14d22197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209314983
+        }
+    ],
+    "wof:id":1209314983,
+    "wof:lastmodified":1537590635,
+    "wof:name":"Bao",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08345,
+    4.37392,
+    16.08345,
+    4.37392
+],
+  "geometry": {"coordinates":[16.08345,4.37392],"type":"Point"}
+}

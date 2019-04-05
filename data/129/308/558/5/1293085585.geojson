@@ -1,0 +1,75 @@
+{
+  "id": 1293085585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93928,5.48287,14.93928,5.48287",
+    "geom:latitude":5.48287,
+    "geom:longitude":14.93928,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Abbo Bougrima",
+    "gn:country_code":"CF",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390692,
+    "gn:latitude":5.48287,
+    "gn:longitude":14.93928,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abbo Bougrima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abou",
+        "Abbo-Bogrimo",
+        "Abau",
+        "Abo-Bougrima",
+        "Abbo Bougrima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390692
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"58507ebffcac37605ef09cd272860327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759685,
+            "locality_id":1293085585,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1293085585,
+    "wof:lastmodified":1537590639,
+    "wof:name":"Abbo Bougrima",
+    "wof:parent_id":1108759685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93928,
+    5.48287,
+    14.93928,
+    5.48287
+],
+  "geometry": {"coordinates":[14.93928,5.48287],"type":"Point"}
+}

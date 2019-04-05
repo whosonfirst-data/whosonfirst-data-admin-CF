@@ -1,0 +1,73 @@
+{
+  "id": 1276785125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45119,5.90283,15.45119,5.90283",
+    "geom:latitude":5.90283,
+    "geom:longitude":15.45119,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Yenga",
+    "gn:country_code":"CF",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382386,
+    "gn:latitude":5.90283,
+    "gn:longitude":15.45119,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanoye",
+        "Yanoy\u00e9-Yenga",
+        "Yenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382386
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7194cb9e57ef7a1275ae7ff6d150c389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759639,
+            "locality_id":1276785125,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1276785125,
+    "wof:lastmodified":1537590595,
+    "wof:name":"Yenga",
+    "wof:parent_id":1108759639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45119,
+    5.90283,
+    15.45119,
+    5.90283
+],
+  "geometry": {"coordinates":[15.45119,5.90283],"type":"Point"}
+}

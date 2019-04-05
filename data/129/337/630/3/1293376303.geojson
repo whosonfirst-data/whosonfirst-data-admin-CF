@@ -1,0 +1,68 @@
+{
+  "id": 1293376303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66612,7.39888,15.66612,7.39888",
+    "geom:latitude":7.39888,
+    "geom:longitude":15.66612,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Nzakoun",
+    "gn:country_code":"CF",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383800,
+    "gn:latitude":7.39888,
+    "gn:longitude":15.66612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nzakoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383800
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cf4c8be7e9a5b23e3473bbb1c37dd589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1293376303,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1293376303,
+    "wof:lastmodified":1536947701,
+    "wof:name":"Nzakoun",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66612,
+    7.39888,
+    15.66612,
+    7.39888
+],
+  "geometry": {"coordinates":[15.66612,7.39888],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209524311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61667,4.33333,21.61667,4.33333",
+    "geom:latitude":4.33333,
+    "geom:longitude":21.61667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Akiado",
+    "gn:country_code":"CF",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241034,
+    "gn:latitude":4.33333,
+    "gn:longitude":21.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akiado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241034
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1b25aa154fb9ac9316d5edf280e614e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209524311
+        }
+    ],
+    "wof:id":1209524311,
+    "wof:lastmodified":1536284479,
+    "wof:name":"Akiado",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.616670000000006,
+    4.33333,
+    21.616670000000006,
+    4.33333
+],
+  "geometry": {"coordinates":[21.61667000000001,4.33333],"type":"Point"}
+}

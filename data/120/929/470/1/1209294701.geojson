@@ -1,0 +1,62 @@
+{
+  "id": 1209294701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5635,7.27278,18.5635,7.27278",
+    "geom:latitude":7.27278,
+    "geom:longitude":18.5635,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143478.0",
+    "gn:asciiname":"Botere II",
+    "gn:country_code":"CF",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536248,
+    "gn:latitude":7.27278,
+    "gn:longitude":18.5635,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bot\u00e9r\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536248
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5a36754d284c7f76a6d0a518ba2e3028",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209294701
+        }
+    ],
+    "wof:id":1209294701,
+    "wof:lastmodified":1536291570,
+    "wof:name":"Botere II",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5635,
+    7.27278,
+    18.5635,
+    7.27278
+],
+  "geometry": {"coordinates":[18.5635,7.27278],"type":"Point"}
+}

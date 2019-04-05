@@ -1,0 +1,68 @@
+{
+  "id": 1259679335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35274,4.8539,23.35274,4.8539",
+    "geom:latitude":4.8539,
+    "geom:longitude":23.35274,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732064.0",
+    "gn:asciiname":"Balikenge",
+    "gn:country_code":"CF",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240649,
+    "gn:latitude":4.8539,
+    "gn:longitude":23.35274,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Balikeng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240649
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6da81ff05ea74595b0516ca4107de30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759627,
+            "locality_id":1259679335,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1259679335,
+    "wof:lastmodified":1537069985,
+    "wof:name":"Balikenge",
+    "wof:parent_id":1108759627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35274,
+    4.8539,
+    23.35274,
+    4.8539
+],
+  "geometry": {"coordinates":[23.35274,4.8539],"type":"Point"}
+}

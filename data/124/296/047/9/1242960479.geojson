@@ -1,0 +1,68 @@
+{
+  "id": 1242960479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37361,5.97381,18.37361,5.97381",
+    "geom:latitude":5.97381,
+    "geom:longitude":18.37361,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Bodole",
+    "gn:country_code":"CF",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525224,
+    "gn:latitude":5.97381,
+    "gn:longitude":18.37361,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bodol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525224
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5c0d4efdbb210d3e681762dc1829b731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1242960479,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1242960479,
+    "wof:lastmodified":1537008517,
+    "wof:name":"Bodole",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37361,
+    5.97381,
+    18.37361,
+    5.97381
+],
+  "geometry": {"coordinates":[18.37361,5.97381],"type":"Point"}
+}

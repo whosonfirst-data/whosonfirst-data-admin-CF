@@ -1,0 +1,68 @@
+{
+  "id": 1293759897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51947,4.14345,18.51947,4.14345",
+    "geom:latitude":4.14345,
+    "geom:longitude":18.51947,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731896.0",
+    "gn:asciiname":"Salanga",
+    "gn:country_code":"CF",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383236,
+    "gn:latitude":4.14345,
+    "gn:longitude":18.51947,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383236
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4f353db852edadaaf1c83ee8072e2802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759733,
+            "locality_id":1293759897,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1293759897,
+    "wof:lastmodified":1536891153,
+    "wof:name":"Salanga",
+    "wof:parent_id":1108759733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51947,
+    4.14345,
+    18.51947,
+    4.14345
+],
+  "geometry": {"coordinates":[18.51947,4.14345],"type":"Point"}
+}

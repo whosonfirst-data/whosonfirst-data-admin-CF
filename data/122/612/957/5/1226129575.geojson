@@ -1,0 +1,73 @@
+{
+  "id": 1226129575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30912,7.09543,17.30912,7.09543",
+    "geom:latitude":7.09543,
+    "geom:longitude":17.30912,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Gotokon",
+    "gn:country_code":"CF",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385549,
+    "gn:latitude":7.09543,
+    "gn:longitude":17.30912,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gotokon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotoko",
+        "Kotokon",
+        "Gotokon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385549
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5ec8aa0492cfe21adc30c4dac8fce800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1226129575,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1226129575,
+    "wof:lastmodified":1537590606,
+    "wof:name":"Gotokon",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30912,
+    7.09543,
+    17.30912,
+    7.09543
+],
+  "geometry": {"coordinates":[17.30912,7.09543],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260068215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1433,4.96595,20.1433,4.96595",
+    "geom:latitude":4.96595,
+    "geom:longitude":20.1433,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Gadzia",
+    "gn:country_code":"CF",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239328,
+    "gn:latitude":4.96595,
+    "gn:longitude":20.1433,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gadzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239328
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"afb4408cb122b975aef59032d2023e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1260068215,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1260068215,
+    "wof:lastmodified":1537009341,
+    "wof:name":"Gadzia",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1433,
+    4.96595,
+    20.1433,
+    4.96595
+],
+  "geometry": {"coordinates":[20.1433,4.96595],"type":"Point"}
+}

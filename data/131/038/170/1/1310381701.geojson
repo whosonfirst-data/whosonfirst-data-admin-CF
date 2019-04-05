@@ -1,0 +1,68 @@
+{
+  "id": 1310381701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06667,5.33333,17.06667,5.33333",
+    "geom:latitude":5.33333,
+    "geom:longitude":17.06667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Boala",
+    "gn:country_code":"CF",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388721,
+    "gn:latitude":5.33333,
+    "gn:longitude":17.06667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388721
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"eb5cdf59955d0e6a4540c1fa5bdafcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1310381701,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1310381701,
+    "wof:lastmodified":1537092368,
+    "wof:name":"Boala",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06667,
+    5.33333,
+    17.06667,
+    5.33333
+],
+  "geometry": {"coordinates":[17.06667,5.33333],"type":"Point"}
+}

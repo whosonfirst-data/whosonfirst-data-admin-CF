@@ -1,0 +1,68 @@
+{
+  "id": 1343346973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35902,4.12703,22.35902,4.12703",
+    "geom:latitude":4.12703,
+    "geom:longitude":22.35902,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7731888.0",
+    "gn:asciiname":"Ngombe",
+    "gn:country_code":"CF",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237244,
+    "gn:latitude":4.12703,
+    "gn:longitude":22.35902,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngomb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237244
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a08f2d34b45ad0757cb1abfff005256f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759609,
+            "locality_id":1343346973,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1343346973,
+    "wof:lastmodified":1536910428,
+    "wof:name":"Ngombe",
+    "wof:parent_id":1108759609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35902,
+    4.12703,
+    22.35902,
+    4.12703
+],
+  "geometry": {"coordinates":[22.35902,4.12703],"type":"Point"}
+}

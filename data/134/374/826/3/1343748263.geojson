@@ -1,0 +1,68 @@
+{
+  "id": 1343748263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55764,6.86647,15.55764,6.86647",
+    "geom:latitude":6.86647,
+    "geom:longitude":15.55764,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Moundi",
+    "gn:country_code":"CF",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384314,
+    "gn:latitude":6.86647,
+    "gn:longitude":15.55764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Moundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384314
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"eefaae37f310c9e7bd6e2b3971bced29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1343748263,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1343748263,
+    "wof:lastmodified":1536827566,
+    "wof:name":"Moundi",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55764,
+    6.86647,
+    15.55764,
+    6.86647
+],
+  "geometry": {"coordinates":[15.55764,6.86647],"type":"Point"}
+}

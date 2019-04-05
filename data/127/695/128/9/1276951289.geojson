@@ -1,0 +1,71 @@
+{
+  "id": 1276951289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86758,7.36464,18.86758,7.36464",
+    "geom:latitude":7.36464,
+    "geom:longitude":18.86758,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Konvi",
+    "gn:country_code":"CF",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385604,
+    "gn:latitude":7.36464,
+    "gn:longitude":18.86758,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Konvi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carr\u00e9 de Konvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385604
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9a31296ea954c2df6a7583893c8c2281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1276951289,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1276951289,
+    "wof:lastmodified":1537590606,
+    "wof:name":"Konvi",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86758,
+    7.36464,
+    18.86758,
+    7.36464
+],
+  "geometry": {"coordinates":[18.86758,7.36464],"type":"Point"}
+}

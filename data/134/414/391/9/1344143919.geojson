@@ -1,0 +1,69 @@
+{
+  "id": 1344143919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85409,6.7588,16.85409,6.7588",
+    "geom:latitude":6.7588,
+    "geom:longitude":16.85409,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Bobili",
+    "gn:country_code":"CF",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388655,
+    "gn:latitude":6.7588,
+    "gn:longitude":16.85409,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bobili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388655,
+        "wk:page":"Bobili"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"af50fd26d8e7041e1b09c1e0a70d5b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1344143919,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1344143919,
+    "wof:lastmodified":1537489224,
+    "wof:name":"Bobili",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85409,
+    6.7588,
+    16.85409,
+    6.7588
+],
+  "geometry": {"coordinates":[16.85409,6.7588],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209603283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16596,5.93904,21.16596,5.93904",
+    "geom:latitude":5.93904,
+    "geom:longitude":21.16596,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Kouzoukoumbou",
+    "gn:country_code":"CF",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238061,
+    "gn:latitude":5.93904,
+    "gn:longitude":21.16596,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kouzoukoumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238061
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e052a5f4caeabf495a1a71d658715a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209603283
+        }
+    ],
+    "wof:id":1209603283,
+    "wof:lastmodified":1536282096,
+    "wof:name":"Kouzoukoumbou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16596,
+    5.93904,
+    21.16596,
+    5.93904
+],
+  "geometry": {"coordinates":[21.16596,5.93904],"type":"Point"}
+}

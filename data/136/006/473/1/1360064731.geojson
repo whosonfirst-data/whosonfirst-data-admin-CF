@@ -1,0 +1,68 @@
+{
+  "id": 1360064731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50985,5.8309,16.50985,5.8309",
+    "geom:latitude":5.8309,
+    "geom:longitude":16.50985,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143483.0",
+    "gn:asciiname":"Boyaram",
+    "gn:country_code":"CF",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387598,
+    "gn:latitude":5.8309,
+    "gn:longitude":16.50985,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boyaram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387598
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"24e512eed74be471ea22b8681a0be5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759667,
+            "locality_id":1360064731,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1360064731,
+    "wof:lastmodified":1536974618,
+    "wof:name":"Boyaram",
+    "wof:parent_id":1108759667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50985,
+    5.8309,
+    16.50985,
+    5.8309
+],
+  "geometry": {"coordinates":[16.50985,5.8309],"type":"Point"}
+}

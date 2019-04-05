@@ -1,0 +1,68 @@
+{
+  "id": 1293679821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41723,5.78201,22.41723,5.78201",
+    "geom:latitude":5.78201,
+    "geom:longitude":22.41723,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Itinapalia",
+    "gn:country_code":"CF",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238555,
+    "gn:latitude":5.78201,
+    "gn:longitude":22.41723,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Itinapalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238555
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"090c87f544c0ee3eadd416de28d8cba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1293679821,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1293679821,
+    "wof:lastmodified":1537006367,
+    "wof:name":"Itinapalia",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41723,
+    5.78201,
+    22.41723,
+    5.78201
+],
+  "geometry": {"coordinates":[22.41723,5.78201],"type":"Point"}
+}

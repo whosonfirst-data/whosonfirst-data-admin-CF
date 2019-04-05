@@ -1,0 +1,68 @@
+{
+  "id": 1276323611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51935,5.83044,15.51935,5.83044",
+    "geom:latitude":5.83044,
+    "geom:longitude":15.51935,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Abba-Bogani",
+    "gn:country_code":"CF",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390693,
+    "gn:latitude":5.83044,
+    "gn:longitude":15.51935,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abba-Bogani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390693
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7162f299fd82e17d3591a06f22a88b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759639,
+            "locality_id":1276323611,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1276323611,
+    "wof:lastmodified":1536792098,
+    "wof:name":"Abba-Bogani",
+    "wof:parent_id":1108759639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51935,
+    5.83044,
+    15.51935,
+    5.83044
+],
+  "geometry": {"coordinates":[15.51935,5.83044],"type":"Point"}
+}

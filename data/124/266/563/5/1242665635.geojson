@@ -1,0 +1,68 @@
+{
+  "id": 1242665635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.06667,6.61667,21.06667,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":21.06667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Malega",
+    "gn:country_code":"CF",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237797,
+    "gn:latitude":6.61667,
+    "gn:longitude":21.06667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237797
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f0660242ab769fca2a98e34873b51896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1242665635,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1242665635,
+    "wof:lastmodified":1536937787,
+    "wof:name":"Malega",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.06667,
+    6.61667,
+    21.06667,
+    6.61667
+],
+  "geometry": {"coordinates":[21.06667,6.61667],"type":"Point"}
+}

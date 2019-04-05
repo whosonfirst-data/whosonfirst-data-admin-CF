@@ -1,0 +1,72 @@
+{
+  "id": 1327009981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33827,7.13802,18.33827,7.13802",
+    "geom:latitude":7.13802,
+    "geom:longitude":18.33827,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Badene I",
+    "gn:country_code":"CF",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390452,
+    "gn:latitude":7.13802,
+    "gn:longitude":18.33827,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bad\u00e9n\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bad\u00e9n\u00e9 I",
+        "Badene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390452
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dbc2b5df0ae3bb382aad67a841b5e3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759693,
+            "locality_id":1327009981,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1327009981,
+    "wof:lastmodified":1537590638,
+    "wof:name":"Badene I",
+    "wof:parent_id":1108759693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33827,
+    7.13802,
+    18.33827,
+    7.13802
+],
+  "geometry": {"coordinates":[18.33827,7.13802],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209039619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11297,4.05835,16.11297,4.05835",
+    "geom:latitude":4.05835,
+    "geom:longitude":16.11297,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Banga",
+    "gn:country_code":"CF",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389943,
+    "gn:latitude":4.05835,
+    "gn:longitude":16.11297,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gogortah",
+        "Banga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389943
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"741f26fea302f678fcb9daaa2648040e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209039619
+        }
+    ],
+    "wof:id":1209039619,
+    "wof:lastmodified":1537590636,
+    "wof:name":"Banga",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11297,
+    4.05835,
+    16.11297,
+    4.05835
+],
+  "geometry": {"coordinates":[16.11297,4.05835],"type":"Point"}
+}

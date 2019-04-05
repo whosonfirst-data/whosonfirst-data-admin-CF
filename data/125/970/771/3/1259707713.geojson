@@ -1,0 +1,68 @@
+{
+  "id": 1259707713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55995,3.89386,15.55995,3.89386",
+    "geom:latitude":3.89386,
+    "geom:longitude":15.55995,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143489.0",
+    "gn:asciiname":"Nageso",
+    "gn:country_code":"CF",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384242,
+    "gn:latitude":3.89386,
+    "gn:longitude":15.55995,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nag\u00e9so",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384242
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2b397e8fa0b3fe0b42cc9040c5a151eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759625,
+            "locality_id":1259707713,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1259707713,
+    "wof:lastmodified":1537030865,
+    "wof:name":"Nageso",
+    "wof:parent_id":1108759625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55995,
+    3.89386,
+    15.55995,
+    3.89386
+],
+  "geometry": {"coordinates":[15.55995,3.89386],"type":"Point"}
+}

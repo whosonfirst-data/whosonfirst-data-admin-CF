@@ -1,0 +1,72 @@
+{
+  "id": 1310185223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94127,7.06023,16.94127,7.06023",
+    "geom:latitude":7.06023,
+    "geom:longitude":16.94127,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143481.0",
+    "gn:asciiname":"Zogmo",
+    "gn:country_code":"CF",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382115,
+    "gn:latitude":7.06023,
+    "gn:longitude":16.94127,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zogmo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zongono",
+        "Zogmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382115
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"beaed75a89356c5950a8e9597c5904c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759699,
+            "locality_id":1310185223,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1310185223,
+    "wof:lastmodified":1537590595,
+    "wof:name":"Zogmo",
+    "wof:parent_id":1108759699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94127000000001,
+    7.06023,
+    16.94127000000001,
+    7.06023
+],
+  "geometry": {"coordinates":[16.94127000000001,7.06023],"type":"Point"}
+}

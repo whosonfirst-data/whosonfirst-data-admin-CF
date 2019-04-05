@@ -1,0 +1,62 @@
+{
+  "id": 1209394321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66202,6.72434,16.66202,6.72434",
+    "geom:latitude":6.72434,
+    "geom:longitude":16.66202,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Hokso I",
+    "gn:country_code":"CF",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386147,
+    "gn:latitude":6.72434,
+    "gn:longitude":16.66202,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hokso I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386147
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6081674ec2013c7115d1806e13ce7420",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209394321
+        }
+    ],
+    "wof:id":1209394321,
+    "wof:lastmodified":1536288354,
+    "wof:name":"Hokso I",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.662020000000002,
+    6.72434,
+    16.662020000000002,
+    6.72434
+],
+  "geometry": {"coordinates":[16.66202,6.72434],"type":"Point"}
+}

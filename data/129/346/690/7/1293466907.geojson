@@ -1,0 +1,73 @@
+{
+  "id": 1293466907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30406,6.94488,17.30406,6.94488",
+    "geom:latitude":6.94488,
+    "geom:longitude":17.30406,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Ndali",
+    "gn:country_code":"CF",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384160,
+    "gn:latitude":6.94488,
+    "gn:longitude":17.30406,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dali",
+        "Dal\u00e9",
+        "Ndali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384160
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"492c533bcf66895eec9548085ac8c804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1293466907,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293466907,
+    "wof:lastmodified":1537590601,
+    "wof:name":"Ndali",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30406,
+    6.94488,
+    17.30406,
+    6.94488
+],
+  "geometry": {"coordinates":[17.30406,6.94488],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276477851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69703,4.18004,15.69703,4.18004",
+    "geom:latitude":4.18004,
+    "geom:longitude":15.69703,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Madougou",
+    "gn:country_code":"CF",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384993,
+    "gn:latitude":4.18004,
+    "gn:longitude":15.69703,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384993
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3c62f3f6285f5c756f68897d5e46ea74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1276477851,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1276477851,
+    "wof:lastmodified":1537079201,
+    "wof:name":"Madougou",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69703,
+    4.18004,
+    15.69703,
+    4.18004
+],
+  "geometry": {"coordinates":[15.69703,4.18004],"type":"Point"}
+}

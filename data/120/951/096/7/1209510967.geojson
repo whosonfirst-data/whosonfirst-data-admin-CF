@@ -1,0 +1,62 @@
+{
+  "id": 1209510967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20252,5.94353,15.20252,5.94353",
+    "geom:latitude":5.94353,
+    "geom:longitude":15.20252,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Dankali",
+    "gn:country_code":"CF",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387383,
+    "gn:latitude":5.94353,
+    "gn:longitude":15.20252,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dankali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387383
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1e503a1189ae0362f836269081c608fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209510967
+        }
+    ],
+    "wof:id":1209510967,
+    "wof:lastmodified":1536284883,
+    "wof:name":"Dankali",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.202520000000002,
+    5.94353,
+    15.202520000000002,
+    5.94353
+],
+  "geometry": {"coordinates":[15.20252,5.94353],"type":"Point"}
+}

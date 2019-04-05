@@ -1,0 +1,62 @@
+{
+  "id": 1209295733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98767,5.96076,19.98767,5.96076",
+    "geom:latitude":5.96076,
+    "geom:longitude":19.98767,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Bimbala",
+    "gn:country_code":"CF",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388892,
+    "gn:latitude":5.96076,
+    "gn:longitude":19.98767,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bimbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388892
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"462f24eddf46f9d4e3eacfea6c1e914a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209295733
+        }
+    ],
+    "wof:id":1209295733,
+    "wof:lastmodified":1536291534,
+    "wof:name":"Bimbala",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98767,
+    5.96076,
+    19.98767,
+    5.96076
+],
+  "geometry": {"coordinates":[19.98767,5.96076],"type":"Point"}
+}

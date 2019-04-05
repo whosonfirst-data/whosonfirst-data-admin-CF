@@ -1,0 +1,68 @@
+{
+  "id": 1327112671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68615,4.92745,20.68615,4.92745",
+    "geom:latitude":4.92745,
+    "geom:longitude":20.68615,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Bada",
+    "gn:country_code":"CF",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240829,
+    "gn:latitude":4.92745,
+    "gn:longitude":20.68615,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240829
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"69edefb2ab7656e7ed2fde31dd0ca5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1327112671,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1327112671,
+    "wof:lastmodified":1536644033,
+    "wof:name":"Bada",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68615,
+    4.92745,
+    20.68615,
+    4.92745
+],
+  "geometry": {"coordinates":[20.68615,4.92745],"type":"Point"}
+}

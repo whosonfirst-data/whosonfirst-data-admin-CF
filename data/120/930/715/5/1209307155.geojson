@@ -1,0 +1,65 @@
+{
+  "id": 1209307155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2052,5.17415,19.2052,5.17415",
+    "geom:latitude":5.17415,
+    "geom:longitude":19.2052,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Ossio",
+    "gn:country_code":"CF",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383613,
+    "gn:latitude":5.17415,
+    "gn:longitude":19.2052,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ossio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383613
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1fcc373adcb8ade07a39e4af06fbaf05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209307155
+        }
+    ],
+    "wof:id":1209307155,
+    "wof:lastmodified":1537590599,
+    "wof:name":"Ossio",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2052,
+    5.17415,
+    19.2052,
+    5.17415
+],
+  "geometry": {"coordinates":[19.2052,5.17415],"type":"Point"}
+}

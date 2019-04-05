@@ -1,0 +1,72 @@
+{
+  "id": 1310601641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99436,4.40103,16.99436,4.40103",
+    "geom:latitude":4.40103,
+    "geom:longitude":16.99436,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732917.0",
+    "gn:asciiname":"Meni",
+    "gn:country_code":"CF",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384538,
+    "gn:latitude":4.40103,
+    "gn:longitude":16.99436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Memi",
+        "M\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384538
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7aa8a9b8a4e2b66c1134495509e17e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759717,
+            "locality_id":1310601641,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310601641,
+    "wof:lastmodified":1537590603,
+    "wof:name":"Meni",
+    "wof:parent_id":1108759717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99436,
+    4.40103,
+    16.99436,
+    4.40103
+],
+  "geometry": {"coordinates":[16.99436,4.40103],"type":"Point"}
+}

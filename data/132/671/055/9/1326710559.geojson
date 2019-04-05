@@ -1,0 +1,68 @@
+{
+  "id": 1326710559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16667,7.66667,17.16667,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":17.16667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Bati",
+    "gn:country_code":"CF",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389680,
+    "gn:latitude":7.66667,
+    "gn:longitude":17.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389680
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dd05f1e3f654797223d6768e6f46bd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1326710559,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1326710559,
+    "wof:lastmodified":1536727411,
+    "wof:name":"Bati",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16667,
+    7.66667,
+    17.16667,
+    7.66667
+],
+  "geometry": {"coordinates":[17.16667,7.66667],"type":"Point"}
+}

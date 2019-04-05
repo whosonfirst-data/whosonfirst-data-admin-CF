@@ -1,0 +1,71 @@
+{
+  "id": 1226506031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41043,5.23775,17.41043,5.23775",
+    "geom:latitude":5.23775,
+    "geom:longitude":17.41043,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Bogisi",
+    "gn:country_code":"CF",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388399,
+    "gn:latitude":5.23775,
+    "gn:longitude":17.41043,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boguissi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388399
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"566863a5347c9cb357d01f32ecd88ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1226506031,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1226506031,
+    "wof:lastmodified":1537590625,
+    "wof:name":"Bogisi",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41043,
+    5.23775,
+    17.41043,
+    5.23775
+],
+  "geometry": {"coordinates":[17.41043,5.23775],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276847777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57522,6.87854,17.57522,6.87854",
+    "geom:latitude":6.87854,
+    "geom:longitude":17.57522,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Bondoro",
+    "gn:country_code":"CF",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388189,
+    "gn:latitude":6.87854,
+    "gn:longitude":17.57522,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bondoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388189
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d62dac225fb305e0ca138e0bc457910b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1276847777,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1276847777,
+    "wof:lastmodified":1537081003,
+    "wof:name":"Bondoro",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57522,
+    6.87854,
+    17.57522,
+    6.87854
+],
+  "geometry": {"coordinates":[17.57522,6.87854],"type":"Point"}
+}

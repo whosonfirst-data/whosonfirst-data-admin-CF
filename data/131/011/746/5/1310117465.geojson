@@ -1,0 +1,73 @@
+{
+  "id": 1310117465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39743,7.86233,22.39743,7.86233",
+    "geom:latitude":7.86233,
+    "geom:longitude":22.39743,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143466.0",
+    "gn:asciiname":"Birini",
+    "gn:country_code":"CF",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240207,
+    "gn:latitude":7.86233,
+    "gn:longitude":22.39743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouakoutbi",
+        "Brini",
+        "Birini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240207
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f38db519ae7a99d14d9a085367e368ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759661,
+            "locality_id":1310117465,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1310117465,
+    "wof:lastmodified":1537590591,
+    "wof:name":"Birini",
+    "wof:parent_id":1108759661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39743,
+    7.86233,
+    22.39743,
+    7.86233
+],
+  "geometry": {"coordinates":[22.39743,7.86233],"type":"Point"}
+}

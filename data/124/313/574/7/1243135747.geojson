@@ -1,0 +1,73 @@
+{
+  "id": 1243135747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15829,5.58338,18.15829,5.58338",
+    "geom:latitude":5.58338,
+    "geom:longitude":18.15829,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Bondona",
+    "gn:country_code":"CF",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387707,
+    "gn:latitude":5.58338,
+    "gn:longitude":18.15829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bondona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudona",
+        "Boundouna",
+        "Bondona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387707
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7b35199d3588e49602ede9f3d58c2be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1243135747,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1243135747,
+    "wof:lastmodified":1537590617,
+    "wof:name":"Bondona",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15829,
+    5.58338,
+    18.15829,
+    5.58338
+],
+  "geometry": {"coordinates":[18.15829,5.58338],"type":"Point"}
+}

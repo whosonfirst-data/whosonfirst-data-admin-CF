@@ -1,0 +1,62 @@
+{
+  "id": 1209112395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06103,4.35387,17.06103,4.35387",
+    "geom:latitude":4.35387,
+    "geom:longitude":17.06103,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732917.0",
+    "gn:asciiname":"Pangola",
+    "gn:country_code":"CF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383532,
+    "gn:latitude":4.35387,
+    "gn:longitude":17.06103,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383532
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c9a8cd284cddf31e69a55e05add02771",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209112395
+        }
+    ],
+    "wof:id":1209112395,
+    "wof:lastmodified":1536297364,
+    "wof:name":"Pangola",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06103,
+    4.35387,
+    17.06103,
+    4.35387
+],
+  "geometry": {"coordinates":[17.06103,4.35387],"type":"Point"}
+}

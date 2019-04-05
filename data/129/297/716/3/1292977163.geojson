@@ -1,0 +1,75 @@
+{
+  "id": 1292977163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80445,5.12204,17.80445,5.12204",
+    "geom:latitude":5.12204,
+    "geom:longitude":17.80445,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Boyangene",
+    "gn:country_code":"CF",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387574,
+    "gn:latitude":5.12204,
+    "gn:longitude":17.80445,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boyang\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougangu\u00e9n\u00e9",
+        "Bouganqu\u00e9r\u00e9",
+        "Boyongu\u00e9n\u00e9",
+        "Boyonguere",
+        "Boyang\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387574
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9d4cfce0cd0194d31d918dfb47733964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1292977163,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1292977163,
+    "wof:lastmodified":1537590616,
+    "wof:name":"Boyangene",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80445,
+    5.12204,
+    17.80445,
+    5.12204
+],
+  "geometry": {"coordinates":[17.80445,5.12204],"type":"Point"}
+}

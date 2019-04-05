@@ -1,0 +1,73 @@
+{
+  "id": 1276210957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,5.15,15.51667,5.15",
+    "geom:latitude":5.15,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Boudoua",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387867,
+    "gn:latitude":5.15,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boudoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boudo",
+        "Boudoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387867
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a2266fceb2f6e54581582cfc76e46261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759685,
+            "locality_id":1276210957,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1276210957,
+    "wof:lastmodified":1537590618,
+    "wof:name":"Boudoua",
+    "wof:parent_id":1108759685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    5.15,
+    15.51667,
+    5.15
+],
+  "geometry": {"coordinates":[15.51667,5.15],"type":"Point"}
+}

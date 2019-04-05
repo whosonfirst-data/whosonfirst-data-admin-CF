@@ -1,0 +1,68 @@
+{
+  "id": 1310199505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1,4.35,18.1,4.35",
+    "geom:latitude":4.35,
+    "geom:longitude":18.1,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Mo",
+    "gn:country_code":"CF",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384487,
+    "gn:latitude":4.35,
+    "gn:longitude":18.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384487
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ff77b48f972a37cf441902a37e4c9a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1310199505,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1310199505,
+    "wof:lastmodified":1536859596,
+    "wof:name":"Mo",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1,
+    4.35,
+    18.1,
+    4.35
+],
+  "geometry": {"coordinates":[18.1,4.35],"type":"Point"}
+}

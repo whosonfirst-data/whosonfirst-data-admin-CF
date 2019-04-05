@@ -1,0 +1,68 @@
+{
+  "id": 1276124179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,4.25,15.58333,4.25",
+    "geom:latitude":4.25,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Ndouane",
+    "gn:country_code":"CF",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384101,
+    "gn:latitude":4.25,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384101
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"16ed91815cd2f07e2ba75221b5519ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1276124179,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1276124179,
+    "wof:lastmodified":1537056330,
+    "wof:name":"Ndouane",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58333,
+    4.25,
+    15.58333,
+    4.25
+],
+  "geometry": {"coordinates":[15.58333,4.25],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209193703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3777,6.68678,16.3777,6.68678",
+    "geom:latitude":6.68678,
+    "geom:longitude":16.3777,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Gangadouma I",
+    "gn:country_code":"CF",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386730,
+    "gn:latitude":6.68678,
+    "gn:longitude":16.3777,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gangadouma I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386730
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b3e1ef6b52337555670ae6de63e8065e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209193703
+        }
+    ],
+    "wof:id":1209193703,
+    "wof:lastmodified":1536294846,
+    "wof:name":"Gangadouma I",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3777,
+    6.6867800000000015,
+    16.3777,
+    6.6867800000000015
+],
+  "geometry": {"coordinates":[16.3777,6.68678],"type":"Point"}
+}

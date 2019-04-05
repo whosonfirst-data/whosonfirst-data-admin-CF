@@ -1,0 +1,68 @@
+{
+  "id": 1226338145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.56667,5.91667,14.56667,5.91667",
+    "geom:latitude":5.91667,
+    "geom:longitude":14.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"2390511.0",
+    "gn:asciiname":"Boka",
+    "gn:country_code":"CF",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388391,
+    "gn:latitude":5.91667,
+    "gn:longitude":14.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388391
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2a0cfb6596666cc0ccf923205bc7efef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759595,
+            "locality_id":1226338145,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1226338145,
+    "wof:lastmodified":1536800491,
+    "wof:name":"Boka",
+    "wof:parent_id":1108759595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.56667,
+    5.91667,
+    14.56667,
+    5.91667
+],
+  "geometry": {"coordinates":[14.56667,5.91667],"type":"Point"}
+}

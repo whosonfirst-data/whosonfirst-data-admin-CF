@@ -1,0 +1,71 @@
+{
+  "id": 1193027585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39203,8.07554,22.39203,8.07554",
+    "geom:latitude":8.07554,
+    "geom:longitude":22.39203,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"9143466.0",
+    "gn:asciiname":"Akpa",
+    "gn:country_code":"CF",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300535,
+    "gn:latitude":8.07554,
+    "gn:longitude":22.39203,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Akpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300535
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3d0e769d679e96570a5a96411eb80fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759661,
+            "locality_id":1193027585,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1193027585,
+    "wof:lastmodified":1537590641,
+    "wof:name":"Akpa",
+    "wof:parent_id":1108759661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39203,
+    8.07554,
+    22.39203,
+    8.07554
+],
+  "geometry": {"coordinates":[22.39203,8.07554],"type":"Point"}
+}

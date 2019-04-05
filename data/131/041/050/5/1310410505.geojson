@@ -1,0 +1,74 @@
+{
+  "id": 1310410505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76667,5.85,26.76667,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":26.76667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143461.0",
+    "gn:asciiname":"Ancien Goubere",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240957,
+    "gn:latitude":5.85,
+    "gn:longitude":26.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ancien Goub\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goub\u00e9r\u00e9",
+        "Gubere",
+        "Ancien Goub\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240957
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4713785eefc57182d078295d053a35cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759701,
+            "locality_id":1310410505,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1310410505,
+    "wof:lastmodified":1537590594,
+    "wof:name":"Ancien Goubere",
+    "wof:parent_id":1108759701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76667,
+    5.85,
+    26.76667,
+    5.85
+],
+  "geometry": {"coordinates":[26.76667,5.85],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360262291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50561,6.95001,18.50561,6.95001",
+    "geom:latitude":6.95001,
+    "geom:longitude":18.50561,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Bazakon",
+    "gn:country_code":"CF",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389579,
+    "gn:latitude":6.95001,
+    "gn:longitude":18.50561,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bazakon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389579
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"62037016c47bf02fb183d4396e4b0ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1360262291,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1360262291,
+    "wof:lastmodified":1536690187,
+    "wof:name":"Bazakon",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50561,
+    6.95001,
+    18.50561,
+    6.95001
+],
+  "geometry": {"coordinates":[18.50561,6.95001],"type":"Point"}
+}

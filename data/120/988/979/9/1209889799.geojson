@@ -1,0 +1,68 @@
+{
+  "id": 1209889799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99212,10.03361,21.99212,10.03361",
+    "geom:latitude":10.03361,
+    "geom:longitude":21.99212,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Matkrous",
+    "gn:country_code":"CF",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6856289,
+    "gn:latitude":10.03361,
+    "gn:longitude":21.99212,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matkrous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6856289
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6e44c0c74def91399eb84202b6ba0e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1209889799,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1209889799,
+    "wof:lastmodified":1536391271,
+    "wof:name":"Matkrous",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99212,
+    10.03361,
+    21.99212,
+    10.03361
+],
+  "geometry": {"coordinates":[21.99212,10.03361],"type":"Point"}
+}

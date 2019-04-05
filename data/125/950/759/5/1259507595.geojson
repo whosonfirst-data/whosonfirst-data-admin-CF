@@ -1,0 +1,72 @@
+{
+  "id": 1259507595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32331,4.50103,15.32331,4.50103",
+    "geom:latitude":4.50103,
+    "geom:longitude":15.32331,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Nao",
+    "gn:country_code":"CF",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384191,
+    "gn:latitude":4.50103,
+    "gn:longitude":15.32331,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naho",
+        "Nao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384191
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"730ca50755f24ba1ec08296e273a1c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1259507595,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1259507595,
+    "wof:lastmodified":1537590602,
+    "wof:name":"Nao",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32331,
+    4.50103,
+    15.32331,
+    4.50103
+],
+  "geometry": {"coordinates":[15.32331,4.50103],"type":"Point"}
+}

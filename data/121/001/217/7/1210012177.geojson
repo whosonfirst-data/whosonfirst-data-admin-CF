@@ -1,0 +1,68 @@
+{
+  "id": 1210012177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6,5.8,23.6,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":23.6,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Karou",
+    "gn:country_code":"CF",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238428,
+    "gn:latitude":5.8,
+    "gn:longitude":23.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238428
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"08cc4487c0d52a544f69d595acc935d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1210012177,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1210012177,
+    "wof:lastmodified":1536396704,
+    "wof:name":"Karou",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6,
+    5.8,
+    23.6,
+    5.8
+],
+  "geometry": {"coordinates":[23.6,5.8],"type":"Point"}
+}

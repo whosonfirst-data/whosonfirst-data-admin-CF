@@ -1,0 +1,62 @@
+{
+  "id": 1209692285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7642,5.52112,16.7642,5.52112",
+    "geom:latitude":5.52112,
+    "geom:longitude":16.7642,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bekamoule",
+    "gn:country_code":"CF",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389378,
+    "gn:latitude":5.52112,
+    "gn:longitude":16.7642,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9kamoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389378
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"737e48dc43db4c7285e9135afb3e9d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209692285
+        }
+    ],
+    "wof:id":1209692285,
+    "wof:lastmodified":1536279198,
+    "wof:name":"Bekamoule",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7642,
+    5.52112,
+    16.7642,
+    5.52112
+],
+  "geometry": {"coordinates":[16.7642,5.52112],"type":"Point"}
+}

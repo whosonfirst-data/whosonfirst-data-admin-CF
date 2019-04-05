@@ -1,0 +1,62 @@
+{
+  "id": 1209319197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46709,5.35713,26.46709,5.35713",
+    "geom:latitude":5.35713,
+    "geom:longitude":26.46709,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Poupou",
+    "gn:country_code":"CF",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236535,
+    "gn:latitude":5.35713,
+    "gn:longitude":26.46709,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poupou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236535
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bd3a8eb2598e96a8ebce36726f63b0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209319197
+        }
+    ],
+    "wof:id":1209319197,
+    "wof:lastmodified":1536290756,
+    "wof:name":"Poupou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46709,
+    5.3571300000000015,
+    26.46709,
+    5.3571300000000015
+],
+  "geometry": {"coordinates":[26.46709,5.35713],"type":"Point"}
+}

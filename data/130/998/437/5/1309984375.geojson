@@ -1,0 +1,68 @@
+{
+  "id": 1309984375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93895,5.82262,19.93895,5.82262",
+    "geom:latitude":5.82262,
+    "geom:longitude":19.93895,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Iouatenda",
+    "gn:country_code":"CF",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525357,
+    "gn:latitude":5.82262,
+    "gn:longitude":19.93895,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Iouatenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525357
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2f5d0d41a48b321f7341e86f107394eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1309984375,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1309984375,
+    "wof:lastmodified":1536673782,
+    "wof:name":"Iouatenda",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93895,
+    5.82262,
+    19.93895,
+    5.82262
+],
+  "geometry": {"coordinates":[19.93895,5.82262],"type":"Point"}
+}

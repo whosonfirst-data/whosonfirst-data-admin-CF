@@ -1,0 +1,68 @@
+{
+  "id": 1243046077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,5.46667,20.83333,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Boykette",
+    "gn:country_code":"CF",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239919,
+    "gn:latitude":5.46667,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boyk\u00e9tt\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239919
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a76c5e8c10dc50c5bb970d2e53186eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1243046077,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1243046077,
+    "wof:lastmodified":1536885231,
+    "wof:name":"Boykette",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    5.46667,
+    20.83333,
+    5.46667
+],
+  "geometry": {"coordinates":[20.83333,5.46667],"type":"Point"}
+}

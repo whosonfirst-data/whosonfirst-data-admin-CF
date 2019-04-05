@@ -1,0 +1,62 @@
+{
+  "id": 1209596565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07248,5.67659,20.07248,5.67659",
+    "geom:latitude":5.67659,
+    "geom:longitude":20.07248,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Mete",
+    "gn:country_code":"CF",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237508,
+    "gn:latitude":5.67659,
+    "gn:longitude":20.07248,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237508
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1b604a08c0b615866e84d8f902151d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209596565
+        }
+    ],
+    "wof:id":1209596565,
+    "wof:lastmodified":1536282305,
+    "wof:name":"Mete",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07248,
+    5.67659,
+    20.07248,
+    5.67659
+],
+  "geometry": {"coordinates":[20.07248,5.67659],"type":"Point"}
+}

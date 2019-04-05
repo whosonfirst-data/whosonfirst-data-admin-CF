@@ -1,0 +1,68 @@
+{
+  "id": 1327008211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7621,5.95064,21.7621,5.95064",
+    "geom:latitude":5.95064,
+    "geom:longitude":21.7621,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Kouzourassa",
+    "gn:country_code":"CF",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238059,
+    "gn:latitude":5.95064,
+    "gn:longitude":21.7621,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kouzourassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238059
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c75c7de78bf79ff8b40bb810f5104cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1327008211,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1327008211,
+    "wof:lastmodified":1536795685,
+    "wof:name":"Kouzourassa",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7621,
+    5.95064,
+    21.7621,
+    5.95064
+],
+  "geometry": {"coordinates":[21.7621,5.95064],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310714537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06718,4.31696,22.06718,4.31696",
+    "geom:latitude":4.31696,
+    "geom:longitude":22.06718,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Nganda",
+    "gn:country_code":"CF",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237300,
+    "gn:latitude":4.31696,
+    "gn:longitude":22.06718,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237300
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"de7d795aca8dc7f57431772e200ef4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759589,
+            "locality_id":1310714537,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1310714537,
+    "wof:lastmodified":1536612842,
+    "wof:name":"Nganda",
+    "wof:parent_id":1108759589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06718,
+    4.31696,
+    22.06718,
+    4.31696
+],
+  "geometry": {"coordinates":[22.06718,4.31696],"type":"Point"}
+}

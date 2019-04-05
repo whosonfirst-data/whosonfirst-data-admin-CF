@@ -1,0 +1,66 @@
+{
+  "id": 1209290779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38969,4.5675,18.38969,4.5675",
+    "geom:latitude":4.5675,
+    "geom:longitude":18.38969,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731896.0",
+    "gn:asciiname":"Bogdembe",
+    "gn:country_code":"CF",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388463,
+    "gn:latitude":4.5675,
+    "gn:longitude":18.38969,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogdemb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodingb\u00e9",
+        "Bogdemb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388463
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a69af82cd17badc60328d42774908fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209290779
+        }
+    ],
+    "wof:id":1209290779,
+    "wof:lastmodified":1537590626,
+    "wof:name":"Bogdembe",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38969,
+    4.5675,
+    18.38969,
+    4.5675
+],
+  "geometry": {"coordinates":[18.38969,4.5675],"type":"Point"}
+}

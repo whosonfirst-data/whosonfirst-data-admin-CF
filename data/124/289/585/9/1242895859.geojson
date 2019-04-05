@@ -1,0 +1,68 @@
+{
+  "id": 1242895859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2,4.96667,19.2,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":19.2,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Mobindi",
+    "gn:country_code":"CF",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384476,
+    "gn:latitude":4.96667,
+    "gn:longitude":19.2,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mobindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384476
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2c7cfe3fa5f912d8b2e4f7f4c5e1e1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1242895859,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1242895859,
+    "wof:lastmodified":1536602127,
+    "wof:name":"Mobindi",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2,
+    4.96667,
+    19.2,
+    4.96667
+],
+  "geometry": {"coordinates":[19.2,4.96667],"type":"Point"}
+}

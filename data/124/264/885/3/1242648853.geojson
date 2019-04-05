@@ -1,0 +1,72 @@
+{
+  "id": 1242648853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58085,5.10121,18.58085,5.10121",
+    "geom:latitude":5.10121,
+    "geom:longitude":18.58085,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Dongbe I",
+    "gn:country_code":"CF",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387039,
+    "gn:latitude":5.10121,
+    "gn:longitude":18.58085,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dongb\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongb\u00e9 I",
+        "Dongb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387039
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"54eb4f7aff1531989ab09b9fffae6d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1242648853,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242648853,
+    "wof:lastmodified":1537590612,
+    "wof:name":"Dongbe I",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58085,
+    5.10121,
+    18.58085,
+    5.10121
+],
+  "geometry": {"coordinates":[18.58085,5.10121],"type":"Point"}
+}

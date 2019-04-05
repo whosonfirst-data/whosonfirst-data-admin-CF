@@ -1,0 +1,68 @@
+{
+  "id": 1310106291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77849,4.73066,14.77849,4.73066",
+    "geom:latitude":4.73066,
+    "geom:longitude":14.77849,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143476.0",
+    "gn:asciiname":"Bimbelou",
+    "gn:country_code":"CF",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388884,
+    "gn:latitude":4.73066,
+    "gn:longitude":14.77849,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bimb\u00e9lou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388884
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ff42b209900a0964c5fd3f864ab850c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759681,
+            "locality_id":1310106291,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310106291,
+    "wof:lastmodified":1536994533,
+    "wof:name":"Bimbelou",
+    "wof:parent_id":1108759681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77849,
+    4.73066,
+    14.77849,
+    4.73066
+],
+  "geometry": {"coordinates":[14.77849,4.73066],"type":"Point"}
+}

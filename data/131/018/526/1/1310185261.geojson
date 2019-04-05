@@ -1,0 +1,69 @@
+{
+  "id": 1310185261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87131,6.61153,16.87131,6.61153",
+    "geom:latitude":6.61153,
+    "geom:longitude":16.87131,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Botokoni",
+    "gn:country_code":"CF",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387974,
+    "gn:latitude":6.61153,
+    "gn:longitude":16.87131,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Botokoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387974,
+        "wk:page":"Botokoni"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"161609a21b5ac60cc7c8d3c19ac9a2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1310185261,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1310185261,
+    "wof:lastmodified":1537489220,
+    "wof:name":"Botokoni",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87131,
+    6.61153,
+    16.87131,
+    6.61153
+],
+  "geometry": {"coordinates":[16.87131,6.61153],"type":"Point"}
+}

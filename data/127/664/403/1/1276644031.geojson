@@ -1,0 +1,68 @@
+{
+  "id": 1276644031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43333,6.31667,20.43333,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":20.43333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Bakoumba",
+    "gn:country_code":"CF",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240685,
+    "gn:latitude":6.31667,
+    "gn:longitude":20.43333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240685
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c07bc443d4c7e6f652aeb14ab8d9409a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759655,
+            "locality_id":1276644031,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1276644031,
+    "wof:lastmodified":1536858223,
+    "wof:name":"Bakoumba",
+    "wof:parent_id":1108759655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43333,
+    6.31667,
+    20.43333,
+    6.31667
+],
+  "geometry": {"coordinates":[20.43333,6.31667],"type":"Point"}
+}

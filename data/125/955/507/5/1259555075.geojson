@@ -1,0 +1,68 @@
+{
+  "id": 1259555075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50362,4.20801,18.50362,4.20801",
+    "geom:latitude":4.20801,
+    "geom:longitude":18.50362,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731896.0",
+    "gn:asciiname":"Boteke",
+    "gn:country_code":"CF",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387987,
+    "gn:latitude":4.20801,
+    "gn:longitude":18.50362,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bot\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387987
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6cf45ad913b3832149913222c7273bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759733,
+            "locality_id":1259555075,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1259555075,
+    "wof:lastmodified":1536755945,
+    "wof:name":"Boteke",
+    "wof:parent_id":1108759733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50362,
+    4.20801,
+    18.50362,
+    4.20801
+],
+  "geometry": {"coordinates":[18.50362,4.20801],"type":"Point"}
+}

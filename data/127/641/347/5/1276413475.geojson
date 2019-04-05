@@ -1,0 +1,68 @@
+{
+  "id": 1276413475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26807,7.02054,19.26807,7.02054",
+    "geom:latitude":7.02054,
+    "geom:longitude":19.26807,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Banga I",
+    "gn:country_code":"CF",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524306,
+    "gn:latitude":7.02054,
+    "gn:longitude":19.26807,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banga I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524306
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ef678d438dd0cc293679404a20b4adb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1276413475,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1276413475,
+    "wof:lastmodified":1536671303,
+    "wof:name":"Banga I",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26807,
+    7.02054,
+    19.26807,
+    7.02054
+],
+  "geometry": {"coordinates":[19.26807,7.02054],"type":"Point"}
+}

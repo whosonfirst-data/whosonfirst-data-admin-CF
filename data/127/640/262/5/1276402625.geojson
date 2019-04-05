@@ -1,0 +1,68 @@
+{
+  "id": 1276402625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55,4.41667,18.55,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":18.55,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7731897.0",
+    "gn:asciiname":"Potopoto",
+    "gn:country_code":"CF",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383356,
+    "gn:latitude":4.41667,
+    "gn:longitude":18.55,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Potopoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669655,
+        1108759735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383356
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c5a45faba5eb3bdcb8be1807966b9dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759735,
+            "locality_id":1276402625,
+            "region_id":85669655
+        }
+    ],
+    "wof:id":1276402625,
+    "wof:lastmodified":1536685878,
+    "wof:name":"Potopoto",
+    "wof:parent_id":1108759735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55,
+    4.41667,
+    18.55,
+    4.41667
+],
+  "geometry": {"coordinates":[18.55,4.41667],"type":"Point"}
+}

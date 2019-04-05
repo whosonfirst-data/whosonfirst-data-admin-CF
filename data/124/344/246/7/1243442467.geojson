@@ -1,0 +1,68 @@
+{
+  "id": 1243442467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47387,5.73684,21.47387,5.73684",
+    "geom:latitude":5.73684,
+    "geom:longitude":21.47387,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Matreka",
+    "gn:country_code":"CF",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237684,
+    "gn:latitude":5.73684,
+    "gn:longitude":21.47387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matreka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237684
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"020e7ca0867496febd02d79edec1f863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1243442467,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1243442467,
+    "wof:lastmodified":1536810764,
+    "wof:name":"Matreka",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47387,
+    5.73684,
+    21.47387,
+    5.73684
+],
+  "geometry": {"coordinates":[21.47387,5.73684],"type":"Point"}
+}

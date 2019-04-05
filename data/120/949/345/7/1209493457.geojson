@@ -1,0 +1,62 @@
+{
+  "id": 1209493457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2335,6.22275,21.2335,6.22275",
+    "geom:latitude":6.22275,
+    "geom:longitude":21.2335,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Lekpa",
+    "gn:country_code":"CF",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237981,
+    "gn:latitude":6.22275,
+    "gn:longitude":21.2335,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lekpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237981
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"731b8d7bdc5a44121b66708bf7502036",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209493457
+        }
+    ],
+    "wof:id":1209493457,
+    "wof:lastmodified":1536285411,
+    "wof:name":"Lekpa",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2335,
+    6.22275,
+    21.2335,
+    6.22275
+],
+  "geometry": {"coordinates":[21.2335,6.22275],"type":"Point"}
+}

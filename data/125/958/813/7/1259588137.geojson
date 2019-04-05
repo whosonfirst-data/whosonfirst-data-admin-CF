@@ -1,0 +1,68 @@
+{
+  "id": 1259588137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18333,5.15,25.18333,5.15",
+    "geom:latitude":5.15,
+    "geom:longitude":25.18333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Rendji",
+    "gn:country_code":"CF",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236504,
+    "gn:latitude":5.15,
+    "gn:longitude":25.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rendji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236504
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8fa5e293bb888097bb52c913e4273143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1259588137,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1259588137,
+    "wof:lastmodified":1536708367,
+    "wof:name":"Rendji",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18333,
+    5.15,
+    25.18333,
+    5.15
+],
+  "geometry": {"coordinates":[25.18333,5.15],"type":"Point"}
+}

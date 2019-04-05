@@ -1,0 +1,68 @@
+{
+  "id": 1242936717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68141,4.88349,18.68141,4.88349",
+    "geom:latitude":4.88349,
+    "geom:longitude":18.68141,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Alatao",
+    "gn:country_code":"CF",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390672,
+    "gn:latitude":4.88349,
+    "gn:longitude":18.68141,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alatao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390672
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"08ddb5521e8809ad2f9509883287570a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1242936717,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242936717,
+    "wof:lastmodified":1537041829,
+    "wof:name":"Alatao",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68141,
+    4.88349,
+    18.68141,
+    4.88349
+],
+  "geometry": {"coordinates":[18.68141,4.88349],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293847555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95,5.6,17.95,5.6",
+    "geom:latitude":5.6,
+    "geom:longitude":17.95,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Boubara",
+    "gn:country_code":"CF",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387910,
+    "gn:latitude":5.6,
+    "gn:longitude":17.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boubara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387910
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5a0426aa88d79e15570dfeb8a452e8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1293847555,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1293847555,
+    "wof:lastmodified":1536765624,
+    "wof:name":"Boubara",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95,
+    5.6,
+    17.95,
+    5.6
+],
+  "geometry": {"coordinates":[17.95,5.6],"type":"Point"}
+}

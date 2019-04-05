@@ -1,0 +1,72 @@
+{
+  "id": 1293181175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6812,6.31064,17.6812,6.31064",
+    "geom:latitude":6.31064,
+    "geom:longitude":17.6812,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Bozoro",
+    "gn:country_code":"CF",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387550,
+    "gn:latitude":6.31064,
+    "gn:longitude":17.6812,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bozoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bebozoro",
+        "Bozoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387550
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4af3558eb74ef3fa0c9d93d429b23569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1293181175,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293181175,
+    "wof:lastmodified":1537590615,
+    "wof:name":"Bozoro",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6812,
+    6.31064,
+    17.6812,
+    6.31064
+],
+  "geometry": {"coordinates":[17.6812,6.31064],"type":"Point"}
+}

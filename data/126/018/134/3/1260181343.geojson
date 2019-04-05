@@ -1,0 +1,68 @@
+{
+  "id": 1260181343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95529,5.318,25.95529,5.318",
+    "geom:latitude":5.318,
+    "geom:longitude":25.95529,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Mboki",
+    "gn:country_code":"CF",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237571,
+    "gn:latitude":5.318,
+    "gn:longitude":25.95529,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Mboki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237571
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"0b287cfa9dc00262f120c9402a931970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759585,
+            "locality_id":1260181343,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1260181343,
+    "wof:lastmodified":1536849815,
+    "wof:name":"Mboki",
+    "wof:parent_id":1108759585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95529,
+    5.318,
+    25.95529,
+    5.318
+],
+  "geometry": {"coordinates":[25.95529,5.318],"type":"Point"}
+}

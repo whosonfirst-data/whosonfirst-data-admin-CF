@@ -1,0 +1,72 @@
+{
+  "id": 1309699339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94268,6.92293,16.94268,6.92293",
+    "geom:latitude":6.92293,
+    "geom:longitude":16.94268,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143481.0",
+    "gn:asciiname":"Bonase Kota",
+    "gn:country_code":"CF",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388215,
+    "gn:latitude":6.92293,
+    "gn:longitude":16.94268,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bonas\u00e9 Kota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bounassi-kota",
+        "Bonas\u00e9 Kota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388215
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2e8eb0500dd75b8bbd73db4114e164da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759699,
+            "locality_id":1309699339,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1309699339,
+    "wof:lastmodified":1537590623,
+    "wof:name":"Bonase Kota",
+    "wof:parent_id":1108759699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94268,
+    6.92293,
+    16.94268,
+    6.92293
+],
+  "geometry": {"coordinates":[16.94268,6.92293],"type":"Point"}
+}

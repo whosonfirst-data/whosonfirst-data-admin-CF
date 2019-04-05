@@ -1,0 +1,72 @@
+{
+  "id": 1242883775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70484,8.4192,20.70484,8.4192",
+    "geom:latitude":8.4192,
+    "geom:longitude":20.70484,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Kpakpale",
+    "gn:country_code":"CF",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409394,
+    "gn:latitude":8.4192,
+    "gn:longitude":20.70484,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kpakpal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpakpal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409394,
+        "wk:page":"Kpakpale"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5e7113b58378d25cbf0001c32bfe404c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1242883775,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1242883775,
+    "wof:lastmodified":1537590594,
+    "wof:name":"Kpakpale",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70484,
+    8.4192,
+    20.70484,
+    8.4192
+],
+  "geometry": {"coordinates":[20.70484,8.4192],"type":"Point"}
+}

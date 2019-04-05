@@ -1,0 +1,68 @@
+{
+  "id": 1226564443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86237,4.91086,22.86237,4.91086",
+    "geom:latitude":4.91086,
+    "geom:longitude":22.86237,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Dounga",
+    "gn:country_code":"CF",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239452,
+    "gn:latitude":4.91086,
+    "gn:longitude":22.86237,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239452
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5e2859c5d05d26f6826c2b165904ffbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1226564443,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1226564443,
+    "wof:lastmodified":1536970912,
+    "wof:name":"Dounga",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86237,
+    4.91086,
+    22.86237,
+    4.91086
+],
+  "geometry": {"coordinates":[22.86237,4.91086],"type":"Point"}
+}

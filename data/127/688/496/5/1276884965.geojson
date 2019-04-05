@@ -1,0 +1,71 @@
+{
+  "id": 1276884965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6,8.55,22.6,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":22.6,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143466.0",
+    "gn:asciiname":"Voulou",
+    "gn:country_code":"CF",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236140,
+    "gn:latitude":8.55,
+    "gn:longitude":22.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Voulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Voulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236140
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3e3ad2aeac733d59b6b593af9a7a4b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759661,
+            "locality_id":1276884965,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1276884965,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Voulou",
+    "wof:parent_id":1108759661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6,
+    8.55,
+    22.6,
+    8.55
+],
+  "geometry": {"coordinates":[22.6,8.55],"type":"Point"}
+}

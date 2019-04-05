@@ -1,0 +1,68 @@
+{
+  "id": 1310311073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64937,4.14167,15.64937,4.14167",
+    "geom:latitude":4.14167,
+    "geom:longitude":15.64937,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732685.0",
+    "gn:asciiname":"Bambelo",
+    "gn:country_code":"CF",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390070,
+    "gn:latitude":4.14167,
+    "gn:longitude":15.64937,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bambelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390070
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"606de001b5023d1bf5e06a991d4193fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759683,
+            "locality_id":1310311073,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310311073,
+    "wof:lastmodified":1536700099,
+    "wof:name":"Bambelo",
+    "wof:parent_id":1108759683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64937,
+    4.14167,
+    15.64937,
+    4.14167
+],
+  "geometry": {"coordinates":[15.64937,4.14167],"type":"Point"}
+}

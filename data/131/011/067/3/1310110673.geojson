@@ -1,0 +1,68 @@
+{
+  "id": 1310110673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26667,5.53333,26.26667,5.53333",
+    "geom:latitude":5.53333,
+    "geom:longitude":26.26667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143463.0",
+    "gn:asciiname":"Mbiko",
+    "gn:country_code":"CF",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237594,
+    "gn:latitude":5.53333,
+    "gn:longitude":26.26667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237594
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d965bc91327a4709e9f12d5beec31474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759585,
+            "locality_id":1310110673,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1310110673,
+    "wof:lastmodified":1536988155,
+    "wof:name":"Mbiko",
+    "wof:parent_id":1108759585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26667,
+    5.53333,
+    26.26667,
+    5.53333
+],
+  "geometry": {"coordinates":[26.26667,5.53333],"type":"Point"}
+}

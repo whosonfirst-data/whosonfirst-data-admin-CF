@@ -1,0 +1,68 @@
+{
+  "id": 1192996547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40427,5.0846,20.40427,5.0846",
+    "geom:latitude":5.0846,
+    "geom:longitude":20.40427,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Dougouro",
+    "gn:country_code":"CF",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239471,
+    "gn:latitude":5.0846,
+    "gn:longitude":20.40427,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dougouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239471
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"91dafc4a47b7dd3bd70798a948bddf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1192996547,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1192996547,
+    "wof:lastmodified":1536375234,
+    "wof:name":"Dougouro",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40427,
+    5.0846,
+    20.40427,
+    5.0846
+],
+  "geometry": {"coordinates":[20.40427,5.0846],"type":"Point"}
+}

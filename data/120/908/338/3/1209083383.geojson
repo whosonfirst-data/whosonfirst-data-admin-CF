@@ -1,0 +1,62 @@
+{
+  "id": 1209083383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51667,6.96667,17.51667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":17.51667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Bogali-Kete",
+    "gn:country_code":"CF",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388512,
+    "gn:latitude":6.96667,
+    "gn:longitude":17.51667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogali-Ket\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388512
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1c035a3b78c812b6833ae7a0b843ecaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209083383
+        }
+    ],
+    "wof:id":1209083383,
+    "wof:lastmodified":1536298264,
+    "wof:name":"Bogali-Kete",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51667,
+    6.96667,
+    17.51667,
+    6.96667
+],
+  "geometry": {"coordinates":[17.51667,6.96667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260102233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,5.13333,19.5,5.13333",
+    "geom:latitude":5.13333,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Baganda",
+    "gn:country_code":"CF",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390354,
+    "gn:latitude":5.13333,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390354
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fbb5b7d27734f9cc7dcaafeb2b34ccf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1260102233,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260102233,
+    "wof:lastmodified":1536961026,
+    "wof:name":"Baganda",
+    "wof:parent_id":85669975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    5.13333,
+    19.5,
+    5.13333
+],
+  "geometry": {"coordinates":[19.5,5.13333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259559941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92477,6.38527,16.92477,6.38527",
+    "geom:latitude":6.38527,
+    "geom:longitude":16.92477,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8299286.0",
+    "gn:asciiname":"Boudalou I",
+    "gn:country_code":"CF",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387883,
+    "gn:latitude":6.38527,
+    "gn:longitude":16.92477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boudalou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badulu",
+        "B\u00e9kourou",
+        "Badoulou",
+        "Boudalou I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387883
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"352e31c362d93469b157429dddf2d05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759691,
+            "locality_id":1259559941,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1259559941,
+    "wof:lastmodified":1537590619,
+    "wof:name":"Boudalou I",
+    "wof:parent_id":1108759691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92477,
+    6.38527,
+    16.92477,
+    6.38527
+],
+  "geometry": {"coordinates":[16.92477,6.38527],"type":"Point"}
+}

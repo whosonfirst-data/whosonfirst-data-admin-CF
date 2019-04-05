@@ -1,0 +1,72 @@
+{
+  "id": 1310290575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62359,5.35054,23.62359,5.35054",
+    "geom:latitude":5.35054,
+    "geom:longitude":23.62359,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Benima",
+    "gn:country_code":"CF",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240304,
+    "gn:latitude":5.35054,
+    "gn:longitude":23.62359,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Benima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banima",
+        "Benima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240304
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9b985c2fa0e8cbe954d1e7a1f0c7a9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1310290575,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1310290575,
+    "wof:lastmodified":1537590591,
+    "wof:name":"Benima",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62359,
+    5.35054,
+    23.62359,
+    5.35054
+],
+  "geometry": {"coordinates":[23.62359,5.35054],"type":"Point"}
+}

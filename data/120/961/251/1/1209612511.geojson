@@ -1,0 +1,62 @@
+{
+  "id": 1209612511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08717,5.75185,19.08717,5.75185",
+    "geom:latitude":5.75185,
+    "geom:longitude":19.08717,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7732483.0",
+    "gn:asciiname":"Bi-Margba",
+    "gn:country_code":"CF",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525460,
+    "gn:latitude":5.75185,
+    "gn:longitude":19.08717,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bi-Margba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525460
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"514436ccf91d4207488bad367a33b90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209612511
+        }
+    ],
+    "wof:id":1209612511,
+    "wof:lastmodified":1536281801,
+    "wof:name":"Bi-Margba",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08717,
+    5.75185,
+    19.08717,
+    5.75185
+],
+  "geometry": {"coordinates":[19.08717,5.75185],"type":"Point"}
+}

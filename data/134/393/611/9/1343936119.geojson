@@ -1,0 +1,68 @@
+{
+  "id": 1343936119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68645,5.68024,20.68645,5.68024",
+    "geom:latitude":5.68024,
+    "geom:longitude":20.68645,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Gwakaki",
+    "gn:country_code":"CF",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412373,
+    "gn:latitude":5.68024,
+    "gn:longitude":20.68645,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwakaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412373
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"687da507bcceebf87b5eb06189621b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1343936119,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343936119,
+    "wof:lastmodified":1537052923,
+    "wof:name":"Gwakaki",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68645,
+    5.68024,
+    20.68645,
+    5.68024
+],
+  "geometry": {"coordinates":[20.68645,5.68024],"type":"Point"}
+}

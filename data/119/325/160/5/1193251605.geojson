@@ -1,0 +1,71 @@
+{
+  "id": 1193251605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22154,7.00415,19.22154,7.00415",
+    "geom:latitude":7.00415,
+    "geom:longitude":19.22154,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Yabaka I",
+    "gn:country_code":"CF",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382564,
+    "gn:latitude":7.00415,
+    "gn:longitude":19.22154,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yabaka I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382564
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"44a6284c0ef9267d9638883a25717f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1193251605,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1193251605,
+    "wof:lastmodified":1537590596,
+    "wof:name":"Yabaka I",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22154,
+    7.00415,
+    19.22154,
+    7.00415
+],
+  "geometry": {"coordinates":[19.22154,7.00415],"type":"Point"}
+}

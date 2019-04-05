@@ -1,0 +1,68 @@
+{
+  "id": 1327207125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9,7.16667,18.9,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":18.9,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Gripende",
+    "gn:country_code":"CF",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386231,
+    "gn:latitude":7.16667,
+    "gn:longitude":18.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gripend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386231
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"58fed9cda8c0764ff1a1c3b8b9645749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1327207125,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1327207125,
+    "wof:lastmodified":1537005483,
+    "wof:name":"Gripende",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9,
+    7.16667,
+    18.9,
+    7.16667
+],
+  "geometry": {"coordinates":[18.9,7.16667],"type":"Point"}
+}

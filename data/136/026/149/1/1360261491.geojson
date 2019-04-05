@@ -1,0 +1,72 @@
+{
+  "id": 1360261491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61059,7.58125,16.61059,7.58125",
+    "geom:latitude":7.58125,
+    "geom:longitude":16.61059,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bemal",
+    "gn:country_code":"CF",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389206,
+    "gn:latitude":7.58125,
+    "gn:longitude":16.61059,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bemal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9mala",
+        "Bemal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389206
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ee172f60f77dfc7fe85010f86ce30d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1360261491,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1360261491,
+    "wof:lastmodified":1537590632,
+    "wof:name":"Bemal",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61059,
+    7.58125,
+    16.61059,
+    7.58125
+],
+  "geometry": {"coordinates":[16.61059,7.58125],"type":"Point"}
+}

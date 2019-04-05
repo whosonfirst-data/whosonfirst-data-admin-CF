@@ -1,0 +1,68 @@
+{
+  "id": 1242983659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0648,4.72679,21.0648,4.72679",
+    "geom:latitude":4.72679,
+    "geom:longitude":21.0648,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9143474.0",
+    "gn:asciiname":"Gbadou",
+    "gn:country_code":"CF",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239245,
+    "gn:latitude":4.72679,
+    "gn:longitude":21.0648,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gbadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239245
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a180a22abfb7ddd1634ea309bd796de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759613,
+            "locality_id":1242983659,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1242983659,
+    "wof:lastmodified":1536975182,
+    "wof:name":"Gbadou",
+    "wof:parent_id":1108759613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0648,
+    4.72679,
+    21.0648,
+    4.72679
+],
+  "geometry": {"coordinates":[21.0648,4.72679],"type":"Point"}
+}

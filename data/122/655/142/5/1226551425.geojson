@@ -1,0 +1,72 @@
+{
+  "id": 1226551425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03645,5.69126,22.03645,5.69126",
+    "geom:latitude":5.69126,
+    "geom:longitude":22.03645,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Mbetti",
+    "gn:country_code":"CF",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237610,
+    "gn:latitude":5.69126,
+    "gn:longitude":22.03645,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbetti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mb\u00e9ti",
+        "Mbetti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237610
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"50316ff2606c484e840b163be85af53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1226551425,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1226551425,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mbetti",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03645,
+    5.69126,
+    22.03645,
+    5.69126
+],
+  "geometry": {"coordinates":[22.03645,5.69126],"type":"Point"}
+}

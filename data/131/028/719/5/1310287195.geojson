@@ -1,0 +1,72 @@
+{
+  "id": 1310287195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76922,3.66975,16.76922,3.66975",
+    "geom:latitude":3.66975,
+    "geom:longitude":16.76922,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9143473.0",
+    "gn:asciiname":"Dongoundza",
+    "gn:country_code":"CF",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387030,
+    "gn:latitude":3.66975,
+    "gn:longitude":16.76922,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dongoundza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongoudza",
+        "Dongoundza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387030
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b5ddc5f5fdb501c8df70b2d78d76b248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759679,
+            "locality_id":1310287195,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1310287195,
+    "wof:lastmodified":1537590612,
+    "wof:name":"Dongoundza",
+    "wof:parent_id":1108759679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76922,
+    3.66975,
+    16.76922,
+    3.66975
+],
+  "geometry": {"coordinates":[16.76922,3.66975],"type":"Point"}
+}

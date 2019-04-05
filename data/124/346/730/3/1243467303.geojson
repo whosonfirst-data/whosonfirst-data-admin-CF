@@ -1,0 +1,68 @@
+{
+  "id": 1243467303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56667,4.48333,21.56667,4.48333",
+    "geom:latitude":4.48333,
+    "geom:longitude":21.56667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Dabe",
+    "gn:country_code":"CF",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239833,
+    "gn:latitude":4.48333,
+    "gn:longitude":21.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239833
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a336ac4af3bf4e02d9184ce2fbfed95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759737,
+            "locality_id":1243467303,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1243467303,
+    "wof:lastmodified":1536775992,
+    "wof:name":"Dabe",
+    "wof:parent_id":1108759737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56667,
+    4.48333,
+    21.56667,
+    4.48333
+],
+  "geometry": {"coordinates":[21.56667,4.48333],"type":"Point"}
+}

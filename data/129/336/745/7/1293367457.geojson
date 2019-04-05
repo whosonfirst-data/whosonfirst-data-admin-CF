@@ -1,0 +1,68 @@
+{
+  "id": 1293367457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41516,7.16505,17.41516,7.16505",
+    "geom:latitude":7.16505,
+    "geom:longitude":17.41516,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Booro I",
+    "gn:country_code":"CF",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6860467,
+    "gn:latitude":7.16505,
+    "gn:longitude":17.41516,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Booro I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6860467
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ea630260a3c04b1d3d1ecb705e792b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759693,
+            "locality_id":1293367457,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293367457,
+    "wof:lastmodified":1536960100,
+    "wof:name":"Booro I",
+    "wof:parent_id":1108759693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41516,
+    7.16505,
+    17.41516,
+    7.16505
+],
+  "geometry": {"coordinates":[17.41516,7.16505],"type":"Point"}
+}

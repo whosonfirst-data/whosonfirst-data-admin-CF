@@ -1,0 +1,72 @@
+{
+  "id": 1309983195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64869,6.77964,18.64869,6.77964",
+    "geom:latitude":6.77964,
+    "geom:longitude":18.64869,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Bongoyo",
+    "gn:country_code":"CF",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388109,
+    "gn:latitude":6.77964,
+    "gn:longitude":18.64869,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Bongoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougoyo",
+        "Bongoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388109
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bb36edfe3785f3aa652de35e95aebf32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1309983195,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1309983195,
+    "wof:lastmodified":1537590622,
+    "wof:name":"Bongoyo",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64869,
+    6.77964,
+    18.64869,
+    6.77964
+],
+  "geometry": {"coordinates":[18.64869,6.77964],"type":"Point"}
+}

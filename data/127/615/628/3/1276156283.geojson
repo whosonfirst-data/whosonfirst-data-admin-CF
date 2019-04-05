@@ -1,0 +1,68 @@
+{
+  "id": 1276156283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33588,4.51739,16.33588,4.51739",
+    "geom:latitude":4.51739,
+    "geom:longitude":16.33588,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2387494.0",
+    "gn:asciiname":"Bakandja",
+    "gn:country_code":"CF",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390264,
+    "gn:latitude":4.51739,
+    "gn:longitude":16.33588,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakandja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390264
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9fc25d868f5453d286f44fb957c5a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759637,
+            "locality_id":1276156283,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1276156283,
+    "wof:lastmodified":1537015313,
+    "wof:name":"Bakandja",
+    "wof:parent_id":1108759637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33588,
+    4.51739,
+    16.33588,
+    4.51739
+],
+  "geometry": {"coordinates":[16.33588,4.51739],"type":"Point"}
+}

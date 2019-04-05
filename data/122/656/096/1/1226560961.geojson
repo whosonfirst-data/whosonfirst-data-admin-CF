@@ -1,0 +1,68 @@
+{
+  "id": 1226560961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,5.7,15.93333,5.7",
+    "geom:latitude":5.7,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732103.0",
+    "gn:asciiname":"Kouisson-Baguila",
+    "gn:country_code":"CF",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385508,
+    "gn:latitude":5.7,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kouisson-Baguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385508
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"abd8a3ba771e4cf42fea359e7ef73229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759665,
+            "locality_id":1226560961,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1226560961,
+    "wof:lastmodified":1536975653,
+    "wof:name":"Kouisson-Baguila",
+    "wof:parent_id":1108759665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    5.7,
+    15.93333,
+    5.7
+],
+  "geometry": {"coordinates":[15.93333,5.7],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890425741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59364,3.64153,18.59364,3.64153",
+    "geom:latitude":3.64153,
+    "geom:longitude":18.59364,
+    "gn:country":"CF",
+    "gn:fcode":"PPL",
+    "gn:pop":10885,
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:eng_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:fre_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:ita_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0648\u0645\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:rum_x_preferred":[
+        "Mongoumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0443\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mongoumba"
+    ],
+    "qs:name":"Mongoumba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384377,
+        "gp:id":1475696,
+        "qs:id":1035306,
+        "wd:id":"Q969825",
+        "wk:page":"Mongoumba"
+    },
+    "wof:country":"CF",
+    "wof:created":1469051603,
+    "wof:geomhash":"ff3b1723f6c5bba97a03734c48faf5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759591,
+            "locality_id":890425741,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":890425741,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Mongoumba",
+    "wof:parent_id":1108759591,
+    "wof:placetype":"locality",
+    "wof:population":10885,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59364,
+    3.64153,
+    18.59364,
+    3.64153
+],
+  "geometry": {"coordinates":[18.59364,3.64153],"type":"Point"}
+}

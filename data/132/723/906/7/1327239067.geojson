@@ -1,0 +1,74 @@
+{
+  "id": 1327239067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81667,7.11667,22.81667,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":22.81667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143475.0",
+    "gn:asciiname":"Adelaye",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241097,
+    "gn:latitude":7.11667,
+    "gn:longitude":22.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adelaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdoulaye",
+        "Abdoulaue",
+        "Adelaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241097
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"da0a28f42f94554857c55fe9665b4f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759703,
+            "locality_id":1327239067,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1327239067,
+    "wof:lastmodified":1537590594,
+    "wof:name":"Adelaye",
+    "wof:parent_id":1108759703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81667,
+    7.11667,
+    22.81667,
+    7.11667
+],
+  "geometry": {"coordinates":[22.81667,7.11667],"type":"Point"}
+}

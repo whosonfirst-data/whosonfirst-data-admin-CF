@@ -1,0 +1,62 @@
+{
+  "id": 1209628203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11667,4.41667,21.11667,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":21.11667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Botopa",
+    "gn:country_code":"CF",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240034,
+    "gn:latitude":4.41667,
+    "gn:longitude":21.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Botopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240034
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"478f91d4e6842fe839b96547762d7ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209628203
+        }
+    ],
+    "wof:id":1209628203,
+    "wof:lastmodified":1536281281,
+    "wof:name":"Botopa",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.116670000000006,
+    4.41667,
+    21.116670000000006,
+    4.41667
+],
+  "geometry": {"coordinates":[21.11667000000001,4.41667],"type":"Point"}
+}

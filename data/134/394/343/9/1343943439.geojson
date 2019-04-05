@@ -1,0 +1,68 @@
+{
+  "id": 1343943439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,4.88333,23.63333,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":23.63333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Bana",
+    "gn:country_code":"CF",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240589,
+    "gn:latitude":4.88333,
+    "gn:longitude":23.63333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240589
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e9f7445a533daf5e4e30d6ba12449307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1343943439,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1343943439,
+    "wof:lastmodified":1537042870,
+    "wof:name":"Bana",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    4.88333,
+    23.63333,
+    4.88333
+],
+  "geometry": {"coordinates":[23.63333,4.88333],"type":"Point"}
+}

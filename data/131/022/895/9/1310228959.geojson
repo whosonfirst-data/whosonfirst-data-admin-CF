@@ -1,0 +1,68 @@
+{
+  "id": 1310228959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24881,3.92334,15.24881,3.92334",
+    "geom:latitude":3.92334,
+    "geom:longitude":15.24881,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143488.0",
+    "gn:asciiname":"Pangou",
+    "gn:country_code":"CF",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383530,
+    "gn:latitude":3.92334,
+    "gn:longitude":15.24881,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383530
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2802e61c4b0c718719a23cc7baa9266e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759603,
+            "locality_id":1310228959,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1310228959,
+    "wof:lastmodified":1536817605,
+    "wof:name":"Pangou",
+    "wof:parent_id":1108759603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24881,
+    3.92334,
+    15.24881,
+    3.92334
+],
+  "geometry": {"coordinates":[15.24881,3.92334],"type":"Point"}
+}

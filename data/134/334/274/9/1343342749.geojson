@@ -1,0 +1,72 @@
+{
+  "id": 1343342749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68349,5.71076,20.68349,5.71076",
+    "geom:latitude":5.71076,
+    "geom:longitude":20.68349,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Delango",
+    "gn:country_code":"CF",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239679,
+    "gn:latitude":5.71076,
+    "gn:longitude":20.68349,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9lango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9langa",
+        "D\u00e9lango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239679
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"322c7d19b02f0c0dfc7f3eb81ed69106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1343342749,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343342749,
+    "wof:lastmodified":1537590590,
+    "wof:name":"Delango",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68349,
+    5.71076,
+    20.68349,
+    5.71076
+],
+  "geometry": {"coordinates":[20.68349,5.71076],"type":"Point"}
+}

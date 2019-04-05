@@ -1,0 +1,68 @@
+{
+  "id": 1344245003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67809,5.73288,20.67809,5.73288",
+    "geom:latitude":5.73288,
+    "geom:longitude":20.67809,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Yanbo",
+    "gn:country_code":"CF",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412362,
+    "gn:latitude":5.73288,
+    "gn:longitude":20.67809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yanbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412362
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"94b66bd2da0f005c58ff69f63df27d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1344245003,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1344245003,
+    "wof:lastmodified":1536606405,
+    "wof:name":"Yanbo",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67809,
+    5.73288,
+    20.67809,
+    5.73288
+],
+  "geometry": {"coordinates":[20.67809,5.73288],"type":"Point"}
+}

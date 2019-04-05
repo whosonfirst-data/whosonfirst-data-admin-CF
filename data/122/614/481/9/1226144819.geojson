@@ -1,0 +1,68 @@
+{
+  "id": 1226144819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0,6.46667,22.0,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":22.0,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Bakaoua",
+    "gn:country_code":"CF",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240720,
+    "gn:latitude":6.46667,
+    "gn:longitude":22.0,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakaoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240720
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fe6727944fa62bbc4cf851cb2ac9be30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1226144819,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1226144819,
+    "wof:lastmodified":1537075938,
+    "wof:name":"Bakaoua",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0,
+    6.46667,
+    22.0,
+    6.46667
+],
+  "geometry": {"coordinates":[22.0,6.46667],"type":"Point"}
+}

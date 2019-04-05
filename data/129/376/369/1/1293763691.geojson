@@ -1,0 +1,68 @@
+{
+  "id": 1293763691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80591,7.49871,17.80591,7.49871",
+    "geom:latitude":7.49871,
+    "geom:longitude":17.80591,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143472.0",
+    "gn:asciiname":"Kalomo",
+    "gn:country_code":"CF",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385974,
+    "gn:latitude":7.49871,
+    "gn:longitude":17.80591,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kalomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385974
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"0621cd7b82c2f290444a65a87ce06e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759693,
+            "locality_id":1293763691,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293763691,
+    "wof:lastmodified":1536885489,
+    "wof:name":"Kalomo",
+    "wof:parent_id":1108759693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80591,
+    7.49871,
+    17.80591,
+    7.49871
+],
+  "geometry": {"coordinates":[17.80591,7.49871],"type":"Point"}
+}

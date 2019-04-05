@@ -1,0 +1,75 @@
+{
+  "id": 1259843053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77319,4.54301,17.77319,4.54301",
+    "geom:latitude":4.54301,
+    "geom:longitude":17.77319,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"8299285.0",
+    "gn:asciiname":"Borofio",
+    "gn:country_code":"CF",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388058,
+    "gn:latitude":4.54301,
+    "gn:longitude":17.77319,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Borofio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bourofio",
+        "Boukoufio",
+        "Bouroufio",
+        "Boukoufia",
+        "Borofio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388058
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"295afdc6c1e48486696afb9a7995c27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759687,
+            "locality_id":1259843053,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1259843053,
+    "wof:lastmodified":1537590621,
+    "wof:name":"Borofio",
+    "wof:parent_id":1108759687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77319,
+    4.54301,
+    17.77319,
+    4.54301
+],
+  "geometry": {"coordinates":[17.77319,4.54301],"type":"Point"}
+}

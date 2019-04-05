@@ -1,0 +1,68 @@
+{
+  "id": 1259956347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,6.55,15.63333,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Bocaranga I",
+    "gn:country_code":"CF",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388624,
+    "gn:latitude":6.55,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bocaranga I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388624
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dcbe4df470b22a8a5fd14ed49bd3ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1259956347,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1259956347,
+    "wof:lastmodified":1536674235,
+    "wof:name":"Bocaranga I",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    6.55,
+    15.63333,
+    6.55
+],
+  "geometry": {"coordinates":[15.63333,6.55],"type":"Point"}
+}

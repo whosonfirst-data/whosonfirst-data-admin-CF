@@ -1,0 +1,68 @@
+{
+  "id": 1293611239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64134,5.17588,19.64134,5.17588",
+    "geom:latitude":5.17588,
+    "geom:longitude":19.64134,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Bango",
+    "gn:country_code":"CF",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389890,
+    "gn:latitude":5.17588,
+    "gn:longitude":19.64134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389890
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1384b744e42ee0366157647a8b20a2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1293611239,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1293611239,
+    "wof:lastmodified":1536605820,
+    "wof:name":"Bango",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64134,
+    5.17588,
+    19.64134,
+    5.17588
+],
+  "geometry": {"coordinates":[19.64134,5.17588],"type":"Point"}
+}

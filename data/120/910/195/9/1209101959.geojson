@@ -1,0 +1,62 @@
+{
+  "id": 1209101959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.547,5.10389,15.547,5.10389",
+    "geom:latitude":5.10389,
+    "geom:longitude":15.547,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Kunzendorf unter dem Walde",
+    "gn:country_code":"CF",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11496615,
+    "gn:latitude":5.10389,
+    "gn:longitude":15.547,
+    "gn:modification_date":"2017-03-23",
+    "gn:name":"Kunzendorf unter dem Walde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496615
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2a7be3fad196fc19f1d25df4b7673e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209101959
+        }
+    ],
+    "wof:id":1209101959,
+    "wof:lastmodified":1536297703,
+    "wof:name":"Kunzendorf unter dem Walde",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.547,
+    5.10389,
+    15.547,
+    5.10389
+],
+  "geometry": {"coordinates":[15.547,5.10389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360181447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30629,5.3803,15.30629,5.3803",
+    "geom:latitude":5.3803,
+    "geom:longitude":15.30629,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Mere Boudoytoro",
+    "gn:country_code":"CF",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384534,
+    "gn:latitude":5.3803,
+    "gn:longitude":15.30629,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9r\u00e9 Boudoytoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mer\u00e9 Bodetoro",
+        "M\u00e9r\u00e9 Boudoytoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384534
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"844edf52e7d102af6e5e59f4571a5272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759685,
+            "locality_id":1360181447,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1360181447,
+    "wof:lastmodified":1537590602,
+    "wof:name":"Mere Boudoytoro",
+    "wof:parent_id":1108759685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30629,
+    5.3803,
+    15.30629,
+    5.3803
+],
+  "geometry": {"coordinates":[15.30629,5.3803],"type":"Point"}
+}

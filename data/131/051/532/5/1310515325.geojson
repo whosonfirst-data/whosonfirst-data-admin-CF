@@ -1,0 +1,72 @@
+{
+  "id": 1310515325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31667,8.75,19.31667,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":19.31667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Maikaba",
+    "gn:country_code":"CF",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384976,
+    "gn:latitude":8.75,
+    "gn:longitude":19.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma\u00efkaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ma\u00efkaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384976,
+        "wk:page":"Maikaba"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1682b62f6338be73c0ed34351f5de0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1310515325,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1310515325,
+    "wof:lastmodified":1537590605,
+    "wof:name":"Maikaba",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31667,
+    8.75,
+    19.31667,
+    8.75
+],
+  "geometry": {"coordinates":[19.31667,8.75],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292915027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04711,5.72571,22.04711,5.72571",
+    "geom:latitude":5.72571,
+    "geom:longitude":22.04711,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Mandjiro",
+    "gn:country_code":"CF",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237755,
+    "gn:latitude":5.72571,
+    "gn:longitude":22.04711,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mandjiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237755
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"28c7712ff260f5699606151351a5a68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1292915027,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1292915027,
+    "wof:lastmodified":1536615897,
+    "wof:name":"Mandjiro",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04711,
+    5.72571,
+    22.04711,
+    5.72571
+],
+  "geometry": {"coordinates":[22.04711,5.72571],"type":"Point"}
+}

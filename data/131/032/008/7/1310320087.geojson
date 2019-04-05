@@ -1,0 +1,67 @@
+{
+  "id": 1310320087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81793,4.53559,18.81793,4.53559",
+    "geom:latitude":4.53559,
+    "geom:longitude":18.81793,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mandamourou",
+    "gn:country_code":"CF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384890,
+    "gn:latitude":4.53559,
+    "gn:longitude":18.81793,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mandamourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384890
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f48097d19b07a13597147d1a69bce234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759733,
+            "locality_id":1310320087,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1310320087,
+    "wof:lastmodified":1536686821,
+    "wof:name":"Mandamourou",
+    "wof:parent_id":1108759733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81793,
+    4.53559,
+    18.81793,
+    4.53559
+],
+  "geometry": {"coordinates":[18.81793,4.53559],"type":"Point"}
+}

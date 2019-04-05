@@ -1,0 +1,62 @@
+{
+  "id": 1209300029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44946,5.06454,22.44946,5.06454",
+    "geom:latitude":5.06454,
+    "geom:longitude":22.44946,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Zoundouli",
+    "gn:country_code":"CF",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235779,
+    "gn:latitude":5.06454,
+    "gn:longitude":22.44946,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zoundouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235779
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1abaca657050a698e6d7893a597c41cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209300029
+        }
+    ],
+    "wof:id":1209300029,
+    "wof:lastmodified":1536291390,
+    "wof:name":"Zoundouli",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44946,
+    5.06454,
+    22.44946,
+    5.06454
+],
+  "geometry": {"coordinates":[22.44946,5.06454],"type":"Point"}
+}

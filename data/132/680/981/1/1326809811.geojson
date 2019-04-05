@@ -1,0 +1,68 @@
+{
+  "id": 1326809811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61385,7.36452,16.61385,7.36452",
+    "geom:latitude":7.36452,
+    "geom:longitude":16.61385,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Beogombo I",
+    "gn:country_code":"CF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389109,
+    "gn:latitude":7.36452,
+    "gn:longitude":16.61385,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Beogombo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389109
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e49d76d7415fe92c912cba10d08f2211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1326809811,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1326809811,
+    "wof:lastmodified":1537078011,
+    "wof:name":"Beogombo I",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61385,
+    7.36452,
+    16.61385,
+    7.36452
+],
+  "geometry": {"coordinates":[16.61385,7.36452],"type":"Point"}
+}

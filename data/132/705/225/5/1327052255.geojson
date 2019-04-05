@@ -1,0 +1,68 @@
+{
+  "id": 1327052255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14978,5.73951,19.14978,5.73951",
+    "geom:latitude":5.73951,
+    "geom:longitude":19.14978,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7732483.0",
+    "gn:asciiname":"Bakongo",
+    "gn:country_code":"CF",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525420,
+    "gn:latitude":5.73951,
+    "gn:longitude":19.14978,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525420
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ca75e8b2f51e49cbfd127f97d290e297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759645,
+            "locality_id":1327052255,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1327052255,
+    "wof:lastmodified":1536732057,
+    "wof:name":"Bakongo",
+    "wof:parent_id":1108759645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14978,
+    5.73951,
+    19.14978,
+    5.73951
+],
+  "geometry": {"coordinates":[19.14978,5.73951],"type":"Point"}
+}

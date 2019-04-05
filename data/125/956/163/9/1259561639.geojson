@@ -1,0 +1,71 @@
+{
+  "id": 1259561639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89541,5.86941,19.89541,5.86941",
+    "geom:latitude":5.86941,
+    "geom:longitude":19.89541,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Bissibanda",
+    "gn:country_code":"CF",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388779,
+    "gn:latitude":5.86941,
+    "gn:longitude":19.89541,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bissibanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisibanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388779
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f96ea4836ac594b9518be0e29db9eaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1259561639,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1259561639,
+    "wof:lastmodified":1537590630,
+    "wof:name":"Bissibanda",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89541,
+    5.86941,
+    19.89541,
+    5.86941
+],
+  "geometry": {"coordinates":[19.89541,5.86941],"type":"Point"}
+}

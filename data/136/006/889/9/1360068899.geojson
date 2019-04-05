@@ -1,0 +1,72 @@
+{
+  "id": 1360068899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85955,10.21255,22.85955,10.21255",
+    "geom:latitude":10.21255,
+    "geom:longitude":22.85955,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Mirni",
+    "gn:country_code":"CF",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237480,
+    "gn:latitude":10.21255,
+    "gn:longitude":22.85955,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mirni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirn\u00e9",
+        "Mirni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237480
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9d5a21eb4907afef1f1bca1bb6f5913d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1360068899,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1360068899,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mirni",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85955,
+    10.21255,
+    22.85955,
+    10.21255
+],
+  "geometry": {"coordinates":[22.85955,10.21255],"type":"Point"}
+}

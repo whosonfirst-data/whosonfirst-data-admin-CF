@@ -1,0 +1,68 @@
+{
+  "id": 1193003701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7781,4.98734,23.7781,4.98734",
+    "geom:latitude":4.98734,
+    "geom:longitude":23.7781,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Menazien",
+    "gn:country_code":"CF",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237516,
+    "gn:latitude":4.98734,
+    "gn:longitude":23.7781,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9nazien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237516
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"77033b43f4e34454ccfd4e808d5c9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1193003701,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1193003701,
+    "wof:lastmodified":1536367575,
+    "wof:name":"Menazien",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7781,
+    4.98734,
+    23.7781,
+    4.98734
+],
+  "geometry": {"coordinates":[23.7781,4.98734],"type":"Point"}
+}

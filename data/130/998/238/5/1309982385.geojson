@@ -1,0 +1,68 @@
+{
+  "id": 1309982385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95897,5.25191,18.95897,5.25191",
+    "geom:latitude":5.25191,
+    "geom:longitude":18.95897,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Dombe",
+    "gn:country_code":"CF",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525243,
+    "gn:latitude":5.25191,
+    "gn:longitude":18.95897,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Domb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525243
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d4bd60ca854459acd03cc51fc0e08310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759647,
+            "locality_id":1309982385,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1309982385,
+    "wof:lastmodified":1536676696,
+    "wof:name":"Dombe",
+    "wof:parent_id":1108759647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95897,
+    5.25191,
+    18.95897,
+    5.25191
+],
+  "geometry": {"coordinates":[18.95897,5.25191],"type":"Point"}
+}

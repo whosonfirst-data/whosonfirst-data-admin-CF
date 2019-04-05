@@ -1,0 +1,68 @@
+{
+  "id": 1276419911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84733,7.21591,15.84733,7.21591",
+    "geom:latitude":7.21591,
+    "geom:longitude":15.84733,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Mbana",
+    "gn:country_code":"CF",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384730,
+    "gn:latitude":7.21591,
+    "gn:longitude":15.84733,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384730
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"107b42b9c2296e86c977b38f6e550e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1276419911,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1276419911,
+    "wof:lastmodified":1536662696,
+    "wof:name":"Mbana",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84733,
+    7.21591,
+    15.84733,
+    7.21591
+],
+  "geometry": {"coordinates":[15.84733,7.21591],"type":"Point"}
+}

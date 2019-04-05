@@ -1,0 +1,73 @@
+{
+  "id": 1243355413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39152,4.30536,17.39152,4.30536",
+    "geom:latitude":4.30536,
+    "geom:longitude":17.39152,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143467.0",
+    "gn:asciiname":"Bolai I",
+    "gn:country_code":"CF",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388303,
+    "gn:latitude":4.30536,
+    "gn:longitude":17.39152,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bola\u00ef I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolat",
+        "Bola\u00ef",
+        "Bola\u00ef I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388303
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e3e0b5eeaf3a547d4d7f5dfcf6ef11cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759727,
+            "locality_id":1243355413,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1243355413,
+    "wof:lastmodified":1537590624,
+    "wof:name":"Bolai I",
+    "wof:parent_id":1108759727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39152,
+    4.30536,
+    17.39152,
+    4.30536
+],
+  "geometry": {"coordinates":[17.39152,4.30536],"type":"Point"}
+}

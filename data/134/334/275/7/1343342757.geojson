@@ -1,0 +1,68 @@
+{
+  "id": 1343342757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97337,5.05307,19.97337,5.05307",
+    "geom:latitude":5.05307,
+    "geom:longitude":19.97337,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Binda",
+    "gn:country_code":"CF",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388855,
+    "gn:latitude":5.05307,
+    "gn:longitude":19.97337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Binda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388855
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"090298cebaf8b20fd67d4ae41d8ba50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1343342757,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343342757,
+    "wof:lastmodified":1536916718,
+    "wof:name":"Binda",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97337000000001,
+    5.05307,
+    19.97337000000001,
+    5.05307
+],
+  "geometry": {"coordinates":[19.97337000000001,5.05307],"type":"Point"}
+}

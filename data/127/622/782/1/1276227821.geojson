@@ -1,0 +1,68 @@
+{
+  "id": 1276227821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88507,4.49682,14.88507,4.49682",
+    "geom:latitude":4.49682,
+    "geom:longitude":14.88507,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732916.0",
+    "gn:asciiname":"Bandio Nagao",
+    "gn:country_code":"CF",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389967,
+    "gn:latitude":4.49682,
+    "gn:longitude":14.88507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bandio Nagao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389967
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bfbed8e7bba17635d2bcbed2bc725c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759593,
+            "locality_id":1276227821,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1276227821,
+    "wof:lastmodified":1536920843,
+    "wof:name":"Bandio Nagao",
+    "wof:parent_id":1108759593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88507,
+    4.49682,
+    14.88507,
+    4.49682
+],
+  "geometry": {"coordinates":[14.88507,4.49682],"type":"Point"}
+}

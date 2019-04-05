@@ -1,0 +1,72 @@
+{
+  "id": 1225947691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3131,4.97004,21.3131,4.97004",
+    "geom:latitude":4.97004,
+    "geom:longitude":21.3131,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9143474.0",
+    "gn:asciiname":"Tagbale",
+    "gn:country_code":"CF",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236340,
+    "gn:latitude":4.97004,
+    "gn:longitude":21.3131,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tagbale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djambo",
+        "Tagbale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236340
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"820f40f419a4ad2f56212d33aaa87447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759613,
+            "locality_id":1225947691,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1225947691,
+    "wof:lastmodified":1537590581,
+    "wof:name":"Tagbale",
+    "wof:parent_id":1108759613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3131,
+    4.97004,
+    21.3131,
+    4.97004
+],
+  "geometry": {"coordinates":[21.3131,4.97004],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276526111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32741,5.85011,21.32741,5.85011",
+    "geom:latitude":5.85011,
+    "geom:longitude":21.32741,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Kouzouhondji",
+    "gn:country_code":"CF",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238063,
+    "gn:latitude":5.85011,
+    "gn:longitude":21.32741,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kouzouhondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238063
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1f9324f45a6f38760674425461564a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1276526111,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1276526111,
+    "wof:lastmodified":1537017031,
+    "wof:name":"Kouzouhondji",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32741,
+    5.85011,
+    21.32741,
+    5.85011
+],
+  "geometry": {"coordinates":[21.32741,5.85011],"type":"Point"}
+}

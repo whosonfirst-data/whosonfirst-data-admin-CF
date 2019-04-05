@@ -1,0 +1,68 @@
+{
+  "id": 1310322719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61161,8.55263,20.61161,8.55263",
+    "geom:latitude":8.55263,
+    "geom:longitude":20.61161,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Zoukoutouniala I",
+    "gn:country_code":"CF",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409340,
+    "gn:latitude":8.55263,
+    "gn:longitude":20.61161,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zoukoutouniala I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409340
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"da47d07b5b223ffe6cf209544e96c06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1310322719,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1310322719,
+    "wof:lastmodified":1536683067,
+    "wof:name":"Zoukoutouniala I",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61161,
+    8.55263,
+    20.61161,
+    8.55263
+],
+  "geometry": {"coordinates":[20.61161,8.55263],"type":"Point"}
+}

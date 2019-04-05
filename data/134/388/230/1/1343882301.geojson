@@ -1,0 +1,68 @@
+{
+  "id": 1343882301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3219,4.89959,16.3219,4.89959",
+    "geom:latitude":4.89959,
+    "geom:longitude":16.3219,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732917.0",
+    "gn:asciiname":"Dingiri",
+    "gn:country_code":"CF",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387208,
+    "gn:latitude":4.89959,
+    "gn:longitude":16.3219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dingiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387208
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4766e4b167f65c5bbd52440a2827bf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759717,
+            "locality_id":1343882301,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1343882301,
+    "wof:lastmodified":1536633767,
+    "wof:name":"Dingiri",
+    "wof:parent_id":1108759717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3219,
+    4.89959,
+    16.3219,
+    4.89959
+],
+  "geometry": {"coordinates":[16.3219,4.89959],"type":"Point"}
+}

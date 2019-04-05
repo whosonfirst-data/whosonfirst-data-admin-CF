@@ -1,0 +1,73 @@
+{
+  "id": 1326925321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15199,5.33354,15.15199,5.33354",
+    "geom:latitude":5.33354,
+    "geom:longitude":15.15199,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Abba",
+    "gn:country_code":"CF",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390694,
+    "gn:latitude":5.33354,
+    "gn:longitude":15.15199,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aba",
+        "Aboa",
+        "Abba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390694
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ab223ae03f5e93219615397cb2f19917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759685,
+            "locality_id":1326925321,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1326925321,
+    "wof:lastmodified":1537590640,
+    "wof:name":"Abba",
+    "wof:parent_id":1108759685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15199,
+    5.33354,
+    15.15199,
+    5.33354
+],
+  "geometry": {"coordinates":[15.15199,5.33354],"type":"Point"}
+}

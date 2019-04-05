@@ -1,0 +1,72 @@
+{
+  "id": 1292979209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72477,5.7584,19.72477,5.7584",
+    "geom:latitude":5.7584,
+    "geom:longitude":19.72477,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Tinguere-Mandjia",
+    "gn:country_code":"CF",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382852,
+    "gn:latitude":5.7584,
+    "gn:longitude":19.72477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tingu\u00e9r\u00e9-Mandjia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingu\u00e9r\u00e9-Mandjia",
+        "Ting\u00e9r\u00e9 Mandjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382852
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5513717f4b0ee538e298b2e995baf204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1292979209,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1292979209,
+    "wof:lastmodified":1537590597,
+    "wof:name":"Tinguere-Mandjia",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72477,
+    5.7584,
+    19.72477,
+    5.7584
+],
+  "geometry": {"coordinates":[19.72477,5.7584],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226241843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27275,6.06173,25.27275,6.06173",
+    "geom:latitude":6.06173,
+    "geom:longitude":25.27275,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"Pekeyo",
+    "gn:country_code":"CF",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236644,
+    "gn:latitude":6.06173,
+    "gn:longitude":25.27275,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"P\u00e9k\u00e9yo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236644
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8204af5215a6c4e53f1e1b7b474a681b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1226241843,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1226241843,
+    "wof:lastmodified":1536939946,
+    "wof:name":"Pekeyo",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27275,
+    6.06173,
+    25.27275,
+    6.06173
+],
+  "geometry": {"coordinates":[25.27275,6.06173],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242936647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88333,5.61667,17.88333,5.61667",
+    "geom:latitude":5.61667,
+    "geom:longitude":17.88333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Gbadere",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386644,
+    "gn:latitude":5.61667,
+    "gn:longitude":17.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gbad\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bod\u00e9ra",
+        "Gbad\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386644
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"79d4a8b22970cedf354455f9cd7ba3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1242936647,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242936647,
+    "wof:lastmodified":1537590610,
+    "wof:name":"Gbadere",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88332999999999,
+    5.61667,
+    17.88332999999999,
+    5.61667
+],
+  "geometry": {"coordinates":[17.88332999999999,5.61667],"type":"Point"}
+}

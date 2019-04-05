@@ -1,0 +1,68 @@
+{
+  "id": 1327453715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22071,5.26612,23.22071,5.26612",
+    "geom:latitude":5.26612,
+    "geom:longitude":23.22071,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732064.0",
+    "gn:asciiname":"Derekouba",
+    "gn:country_code":"CF",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239650,
+    "gn:latitude":5.26612,
+    "gn:longitude":23.22071,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9r\u00e9kouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239650
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cde5117f0ef3d2f8f29d3bdd0e404e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759627,
+            "locality_id":1327453715,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1327453715,
+    "wof:lastmodified":1536649823,
+    "wof:name":"Derekouba",
+    "wof:parent_id":1108759627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22071,
+    5.26612,
+    23.22071,
+    5.26612
+],
+  "geometry": {"coordinates":[23.22071,5.26612],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309993025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42466,6.67449,17.42466,6.67449",
+    "geom:latitude":6.67449,
+    "geom:longitude":17.42466,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Bossere",
+    "gn:country_code":"CF",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388014,
+    "gn:latitude":6.67449,
+    "gn:longitude":17.42466,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouss\u00e9k\u00e8s",
+        "Bossere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388014
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"719bdd20b2f9980caf726f1baa86e7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1309993025,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1309993025,
+    "wof:lastmodified":1537590620,
+    "wof:name":"Bossere",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42466,
+    6.67449,
+    17.42466,
+    6.67449
+],
+  "geometry": {"coordinates":[17.42466,6.67449],"type":"Point"}
+}

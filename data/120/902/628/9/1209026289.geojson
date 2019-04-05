@@ -1,0 +1,66 @@
+{
+  "id": 1209026289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99541,4.95789,23.99541,4.95789",
+    "geom:latitude":4.95789,
+    "geom:longitude":23.99541,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Mogba",
+    "gn:country_code":"CF",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237470,
+    "gn:latitude":4.95789,
+    "gn:longitude":23.99541,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mogba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magba",
+        "Mogba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237470
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5b57458f000ec2475a0a7bb90ee1b4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209026289
+        }
+    ],
+    "wof:id":1209026289,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mogba",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99541,
+    4.95789,
+    23.99541,
+    4.95789
+],
+  "geometry": {"coordinates":[23.99541,4.95789],"type":"Point"}
+}

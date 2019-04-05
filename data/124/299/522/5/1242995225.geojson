@@ -1,0 +1,68 @@
+{
+  "id": 1242995225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34809,5.07284,19.34809,5.07284",
+    "geom:latitude":5.07284,
+    "geom:longitude":19.34809,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Koula",
+    "gn:country_code":"CF",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385499,
+    "gn:latitude":5.07284,
+    "gn:longitude":19.34809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Koula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385499
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d49f3e9b368bf217993ae25f025620a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1242995225,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1242995225,
+    "wof:lastmodified":1536959096,
+    "wof:name":"Koula",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34809,
+    5.07284,
+    19.34809,
+    5.07284
+],
+  "geometry": {"coordinates":[19.34809,5.07284],"type":"Point"}
+}

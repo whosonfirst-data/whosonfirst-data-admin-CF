@@ -1,0 +1,68 @@
+{
+  "id": 1293662359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11147,6.97527,19.11147,6.97527",
+    "geom:latitude":6.97527,
+    "geom:longitude":19.11147,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Koudouese",
+    "gn:country_code":"CF",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385523,
+    "gn:latitude":6.97527,
+    "gn:longitude":19.11147,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Koudou\u00e9s\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385523
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"41f8dfc0ba05f001ffee068428137681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1293662359,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1293662359,
+    "wof:lastmodified":1537030932,
+    "wof:name":"Koudouese",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11147,
+    6.97527,
+    19.11147,
+    6.97527
+],
+  "geometry": {"coordinates":[19.11147,6.97527],"type":"Point"}
+}

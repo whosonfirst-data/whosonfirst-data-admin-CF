@@ -1,0 +1,68 @@
+{
+  "id": 1293566383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05902,7.49733,17.05902,7.49733",
+    "geom:latitude":7.49733,
+    "geom:longitude":17.05902,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Bouli",
+    "gn:country_code":"CF",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387777,
+    "gn:latitude":7.49733,
+    "gn:longitude":17.05902,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387777
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f089cb586a18cb64376c9f769f85bad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1293566383,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1293566383,
+    "wof:lastmodified":1536673374,
+    "wof:name":"Bouli",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05902,
+    7.49733,
+    17.05902,
+    7.49733
+],
+  "geometry": {"coordinates":[17.05902,7.49733],"type":"Point"}
+}

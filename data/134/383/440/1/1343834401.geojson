@@ -1,0 +1,68 @@
+{
+  "id": 1343834401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9118,5.4047,16.9118,5.4047",
+    "geom:latitude":5.4047,
+    "geom:longitude":16.9118,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bossemforo",
+    "gn:country_code":"CF",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388020,
+    "gn:latitude":5.4047,
+    "gn:longitude":16.9118,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossemforo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388020
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"98566fd6b1ee1b57b71f5ef2dfdaeae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1343834401,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1343834401,
+    "wof:lastmodified":1536704541,
+    "wof:name":"Bossemforo",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9118,
+    5.4047,
+    16.9118,
+    5.4047
+],
+  "geometry": {"coordinates":[16.9118,5.4047],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292897687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07239,4.18469,18.07239,4.18469",
+    "geom:latitude":4.18469,
+    "geom:longitude":18.07239,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Zende",
+    "gn:country_code":"CF",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382215,
+    "gn:latitude":4.18469,
+    "gn:longitude":18.07239,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zendi",
+        "Zend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382215,
+        "wk:page":"Zende"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8ae6107504f7620e70e67bd714fd4e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1292897687,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1292897687,
+    "wof:lastmodified":1537590595,
+    "wof:name":"Zende",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07239,
+    4.18469,
+    18.07239,
+    4.18469
+],
+  "geometry": {"coordinates":[18.07239,4.18469],"type":"Point"}
+}

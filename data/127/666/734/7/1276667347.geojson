@@ -1,0 +1,71 @@
+{
+  "id": 1276667347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26794,8.8111,19.26794,8.8111",
+    "geom:latitude":8.8111,
+    "geom:longitude":19.26794,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Gaskay",
+    "gn:country_code":"CF",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322197,
+    "gn:latitude":8.8111,
+    "gn:longitude":19.26794,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gaskay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gaskay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322197
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e2075883c26aab8e40ed16001c564e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1276667347,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1276667347,
+    "wof:lastmodified":1537590640,
+    "wof:name":"Gaskay",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26794,
+    8.8111,
+    19.26794,
+    8.8111
+],
+  "geometry": {"coordinates":[19.26794,8.8111],"type":"Point"}
+}

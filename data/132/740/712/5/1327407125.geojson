@@ -1,0 +1,68 @@
+{
+  "id": 1327407125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21315,7.08671,19.21315,7.08671",
+    "geom:latitude":7.08671,
+    "geom:longitude":19.21315,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Sindi II",
+    "gn:country_code":"CF",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524279,
+    "gn:latitude":7.08671,
+    "gn:longitude":19.21315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sindi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524279
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d371fdd5f28a7a80e7f99836d558acf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1327407125,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1327407125,
+    "wof:lastmodified":1536717658,
+    "wof:name":"Sindi II",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21315,
+    7.08671,
+    19.21315,
+    7.08671
+],
+  "geometry": {"coordinates":[19.21315,7.08671],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242641015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45771,4.00525,18.45771,4.00525",
+    "geom:latitude":4.00525,
+    "geom:longitude":18.45771,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"7731896.0",
+    "gn:asciiname":"Bobere",
+    "gn:country_code":"CF",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586355,
+    "gn:latitude":4.00525,
+    "gn:longitude":18.45771,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bob\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586355
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"92bacaeb3fdc7c31fe59306061eda19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759733,
+            "locality_id":1242641015,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1242641015,
+    "wof:lastmodified":1536972215,
+    "wof:name":"Bobere",
+    "wof:parent_id":1108759733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45771,
+    4.00525,
+    18.45771,
+    4.00525
+],
+  "geometry": {"coordinates":[18.45771,4.00525],"type":"Point"}
+}

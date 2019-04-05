@@ -1,0 +1,68 @@
+{
+  "id": 1259992237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,4.58333,21.3,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Kada",
+    "gn:country_code":"CF",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238529,
+    "gn:latitude":4.58333,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238529
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3e167e4e0cb6f525a73d22785ca0e9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1259992237,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1259992237,
+    "wof:lastmodified":1536620370,
+    "wof:name":"Kada",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    4.58333,
+    21.3,
+    4.58333
+],
+  "geometry": {"coordinates":[21.3,4.58333],"type":"Point"}
+}

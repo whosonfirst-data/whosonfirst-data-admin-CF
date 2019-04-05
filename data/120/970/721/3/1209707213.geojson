@@ -1,0 +1,68 @@
+{
+  "id": 1209707213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3,4.68333,17.3,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":17.3,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143486.0",
+    "gn:asciiname":"Bonanguido",
+    "gn:country_code":"CF",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388218,
+    "gn:latitude":4.68333,
+    "gn:longitude":17.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bonanguido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388218
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"16a6baf8b48262d0aba8aa4ae9827388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759649,
+            "locality_id":1209707213,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1209707213,
+    "wof:lastmodified":1536392321,
+    "wof:name":"Bonanguido",
+    "wof:parent_id":1108759649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3,
+    4.68333,
+    17.3,
+    4.68333
+],
+  "geometry": {"coordinates":[17.3,4.68333],"type":"Point"}
+}

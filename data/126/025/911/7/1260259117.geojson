@@ -1,0 +1,72 @@
+{
+  "id": 1260259117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08178,6.53228,16.08178,6.53228",
+    "geom:latitude":6.53228,
+    "geom:longitude":16.08178,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8299286.0",
+    "gn:asciiname":"Bange",
+    "gn:country_code":"CF",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389894,
+    "gn:latitude":6.53228,
+    "gn:longitude":16.08178,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bang\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangu\u00e9",
+        "Bang\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389894
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"423e0c2feb9df98b373c1a61813b37a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759691,
+            "locality_id":1260259117,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1260259117,
+    "wof:lastmodified":1537590635,
+    "wof:name":"Bange",
+    "wof:parent_id":1108759691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08178,
+    6.53228,
+    16.08178,
+    6.53228
+],
+  "geometry": {"coordinates":[16.08178,6.53228],"type":"Point"}
+}

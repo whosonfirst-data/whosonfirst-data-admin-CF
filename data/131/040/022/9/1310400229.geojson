@@ -1,0 +1,68 @@
+{
+  "id": 1310400229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1,4.91667,17.1,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":17.1,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143486.0",
+    "gn:asciiname":"Boungoro",
+    "gn:country_code":"CF",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387699,
+    "gn:latitude":4.91667,
+    "gn:longitude":17.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boungoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387699
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6e0b47ce894c09cebb5aa9a06ab6f9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759649,
+            "locality_id":1310400229,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1310400229,
+    "wof:lastmodified":1537065991,
+    "wof:name":"Boungoro",
+    "wof:parent_id":1108759649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1,
+    4.91667,
+    17.1,
+    4.91667
+],
+  "geometry": {"coordinates":[17.1,4.91667],"type":"Point"}
+}

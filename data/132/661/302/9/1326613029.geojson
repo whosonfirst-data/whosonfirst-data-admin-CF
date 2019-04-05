@@ -1,0 +1,71 @@
+{
+  "id": 1326613029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14555,7.03377,19.14555,7.03377",
+    "geom:latitude":7.03377,
+    "geom:longitude":19.14555,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Popo I",
+    "gn:country_code":"CF",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383375,
+    "gn:latitude":7.03377,
+    "gn:longitude":19.14555,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Popo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383375
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"00a1377be2b91d36e46c11a846360e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1326613029,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1326613029,
+    "wof:lastmodified":1537590599,
+    "wof:name":"Popo I",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14555,
+    7.03377,
+    19.14555,
+    7.03377
+],
+  "geometry": {"coordinates":[19.14555,7.03377],"type":"Point"}
+}

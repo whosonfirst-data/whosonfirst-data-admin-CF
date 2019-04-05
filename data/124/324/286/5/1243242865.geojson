@@ -1,0 +1,68 @@
+{
+  "id": 1243242865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85574,6.1167,15.85574,6.1167",
+    "geom:latitude":6.1167,
+    "geom:longitude":15.85574,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8299286.0",
+    "gn:asciiname":"Bokaya",
+    "gn:country_code":"CF",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388380,
+    "gn:latitude":6.1167,
+    "gn:longitude":15.85574,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bokaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388380
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1475f28ce28d6c5e37b08190a14531f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759691,
+            "locality_id":1243242865,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1243242865,
+    "wof:lastmodified":1537095751,
+    "wof:name":"Bokaya",
+    "wof:parent_id":1108759691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85574,
+    6.1167,
+    15.85574,
+    6.1167
+],
+  "geometry": {"coordinates":[15.85574,6.1167],"type":"Point"}
+}

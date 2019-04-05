@@ -1,0 +1,68 @@
+{
+  "id": 1243467149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,4.68333,21.55,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":21.55,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Pounouka",
+    "gn:country_code":"CF",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236536,
+    "gn:latitude":4.68333,
+    "gn:longitude":21.55,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pounouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236536
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"918a8590ebc5e6f2fc2b3516afd8941f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759737,
+            "locality_id":1243467149,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1243467149,
+    "wof:lastmodified":1536776210,
+    "wof:name":"Pounouka",
+    "wof:parent_id":1108759737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    4.68333,
+    21.55,
+    4.68333
+],
+  "geometry": {"coordinates":[21.55,4.68333],"type":"Point"}
+}

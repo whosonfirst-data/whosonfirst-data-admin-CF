@@ -1,0 +1,72 @@
+{
+  "id": 1260271045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50528,5.64563,20.50528,5.64563",
+    "geom:latitude":5.64563,
+    "geom:longitude":20.50528,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Gavobanda",
+    "gn:country_code":"CF",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239252,
+    "gn:latitude":5.64563,
+    "gn:longitude":20.50528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gavobanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Govobanda",
+        "Gavobanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239252
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1fb328c3123da85500519455a1fd4695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1260271045,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1260271045,
+    "wof:lastmodified":1537590588,
+    "wof:name":"Gavobanda",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50528,
+    5.64563,
+    20.50528,
+    5.64563
+],
+  "geometry": {"coordinates":[20.50528,5.64563],"type":"Point"}
+}

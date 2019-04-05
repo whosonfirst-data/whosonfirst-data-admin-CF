@@ -1,0 +1,66 @@
+{
+  "id": 1242754219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98039,4.73682,18.98039,4.73682",
+    "geom:latitude":4.73682,
+    "geom:longitude":18.98039,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7731895.0",
+    "gn:asciiname":"Bohouli",
+    "gn:country_code":"CF",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388396,
+    "gn:latitude":4.73682,
+    "gn:longitude":18.98039,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bohouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388396
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2d70215a6b747e9e8096e5260763a6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1242754219,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242754219,
+    "wof:lastmodified":1536808975,
+    "wof:name":"Bohouli",
+    "wof:parent_id":85669975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98039,
+    4.73682,
+    18.98039,
+    4.73682
+],
+  "geometry": {"coordinates":[18.98039,4.73682],"type":"Point"}
+}

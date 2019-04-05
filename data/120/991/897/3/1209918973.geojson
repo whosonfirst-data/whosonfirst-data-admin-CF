@@ -1,0 +1,77 @@
+{
+  "id": 1209918973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95957,7.12331,24.95957,7.12331",
+    "geom:latitude":7.12331,
+    "geom:longitude":24.95957,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"Ancien Zemongo",
+    "gn:country_code":"CF",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240955,
+    "gn:latitude":7.12331,
+    "gn:longitude":24.95957,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ancien Z\u00e9mongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ancien Z\u00e9mongo"
+    ],
+    "name:fra_x_variant":[
+        "Zemongo"
+    ],
+    "name:und_x_variant":[
+        "Zemongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240955
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"85acbcdd8a549a6300823161320ce0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1209918973,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1209918973,
+    "wof:lastmodified":1537590593,
+    "wof:name":"Ancien Zemongo",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95957000000001,
+    7.12331,
+    24.95957000000001,
+    7.12331
+],
+  "geometry": {"coordinates":[24.95957000000001,7.12331],"type":"Point"}
+}

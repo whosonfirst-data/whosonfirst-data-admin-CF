@@ -1,0 +1,68 @@
+{
+  "id": 1293897723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20442,7.68865,20.20442,7.68865",
+    "geom:latitude":7.68865,
+    "geom:longitude":20.20442,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Vavou",
+    "gn:country_code":"CF",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524358,
+    "gn:latitude":7.68865,
+    "gn:longitude":20.20442,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Vavou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524358
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"5cd26e2c26975be1cdeb11241a58de39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1293897723,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1293897723,
+    "wof:lastmodified":1536692954,
+    "wof:name":"Vavou",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20442,
+    7.68865,
+    20.20442,
+    7.68865
+],
+  "geometry": {"coordinates":[20.20442,7.68865],"type":"Point"}
+}

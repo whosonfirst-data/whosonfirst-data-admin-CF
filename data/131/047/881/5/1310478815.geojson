@@ -1,0 +1,68 @@
+{
+  "id": 1310478815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35219,6.27543,18.35219,6.27543",
+    "geom:latitude":6.27543,
+    "geom:longitude":18.35219,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Bekofe I",
+    "gn:country_code":"CF",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389350,
+    "gn:latitude":6.27543,
+    "gn:longitude":18.35219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9kofe I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389350
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f580c1a9e60ccddcd403baa8e88d2043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1310478815,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1310478815,
+    "wof:lastmodified":1536955497,
+    "wof:name":"Bekofe I",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35219,
+    6.27543,
+    18.35219,
+    6.27543
+],
+  "geometry": {"coordinates":[18.35219,6.27543],"type":"Point"}
+}

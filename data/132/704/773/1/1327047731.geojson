@@ -1,0 +1,74 @@
+{
+  "id": 1327047731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21203,8.87838,19.21203,8.87838",
+    "geom:latitude":8.87838,
+    "geom:longitude":19.21203,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Mialouto",
+    "gn:country_code":"CF",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387507,
+    "gn:latitude":8.87838,
+    "gn:longitude":19.21203,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mialouto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mialouto"
+    ],
+    "name:fra_x_variant":[
+        "Campement de Mialouto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387507
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"51addea3bf373f49c55bbba333bf1203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1327047731,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1327047731,
+    "wof:lastmodified":1537590614,
+    "wof:name":"Mialouto",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21203,
+    8.87838,
+    19.21203,
+    8.87838
+],
+  "geometry": {"coordinates":[19.21203,8.87838],"type":"Point"}
+}

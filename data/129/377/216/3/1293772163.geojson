@@ -1,0 +1,68 @@
+{
+  "id": 1293772163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57854,5.71658,20.57854,5.71658",
+    "geom:latitude":5.71658,
+    "geom:longitude":20.57854,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Ouandougoua",
+    "gn:country_code":"CF",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236852,
+    "gn:latitude":5.71658,
+    "gn:longitude":20.57854,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ouandougoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236852
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3d68d1d178cf159efe63c13a52c7564e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1293772163,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1293772163,
+    "wof:lastmodified":1536872764,
+    "wof:name":"Ouandougoua",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57854,
+    5.71658,
+    20.57854,
+    5.71658
+],
+  "geometry": {"coordinates":[20.57854,5.71658],"type":"Point"}
+}

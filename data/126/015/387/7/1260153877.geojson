@@ -1,0 +1,68 @@
+{
+  "id": 1260153877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86386,7.23954,18.86386,7.23954",
+    "geom:latitude":7.23954,
+    "geom:longitude":18.86386,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Kia II",
+    "gn:country_code":"CF",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524170,
+    "gn:latitude":7.23954,
+    "gn:longitude":18.86386,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kia II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524170
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"565435d4571117e1825ac46db51df496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1260153877,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1260153877,
+    "wof:lastmodified":1536888203,
+    "wof:name":"Kia II",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86386,
+    7.23954,
+    18.86386,
+    7.23954
+],
+  "geometry": {"coordinates":[18.86386,7.23954],"type":"Point"}
+}

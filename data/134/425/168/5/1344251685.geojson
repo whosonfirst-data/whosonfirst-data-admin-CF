@@ -1,0 +1,68 @@
+{
+  "id": 1344251685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68832,5.92178,15.68832,5.92178",
+    "geom:latitude":5.92178,
+    "geom:longitude":15.68832,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Pokoete I",
+    "gn:country_code":"CF",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383411,
+    "gn:latitude":5.92178,
+    "gn:longitude":15.68832,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poko\u00e9t\u00e9 I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383411
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e18ab13ec74822629c130795fff418d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759639,
+            "locality_id":1344251685,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1344251685,
+    "wof:lastmodified":1537093704,
+    "wof:name":"Pokoete I",
+    "wof:parent_id":1108759639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68832,
+    5.92178,
+    15.68832,
+    5.92178
+],
+  "geometry": {"coordinates":[15.68832,5.92178],"type":"Point"}
+}

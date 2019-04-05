@@ -1,0 +1,72 @@
+{
+  "id": 1259691459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97216,5.55391,21.97216,5.55391",
+    "geom:latitude":5.55391,
+    "geom:longitude":21.97216,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Mboutou",
+    "gn:country_code":"CF",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237537,
+    "gn:latitude":5.55391,
+    "gn:longitude":21.97216,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mboutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mboutou 2",
+        "Mboutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237537
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ed87f37df4ca90031b4a81af12e42bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1259691459,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1259691459,
+    "wof:lastmodified":1537590584,
+    "wof:name":"Mboutou",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97216,
+    5.55391,
+    21.97216,
+    5.55391
+],
+  "geometry": {"coordinates":[21.97216,5.55391],"type":"Point"}
+}

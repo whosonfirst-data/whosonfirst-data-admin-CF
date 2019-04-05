@@ -1,0 +1,68 @@
+{
+  "id": 1310428289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,5.76463,25.96667,5.76463",
+    "geom:latitude":5.76463,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"La Ouagou",
+    "gn:country_code":"CF",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238004,
+    "gn:latitude":5.76463,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Ouagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238004
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"86a8c9b783179d57f6f7eecc96ae2e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1310428289,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1310428289,
+    "wof:lastmodified":1537027176,
+    "wof:name":"La Ouagou",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    5.76463,
+    25.96667,
+    5.76463
+],
+  "geometry": {"coordinates":[25.96667,5.76463],"type":"Point"}
+}

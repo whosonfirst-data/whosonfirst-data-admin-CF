@@ -1,0 +1,68 @@
+{
+  "id": 1259354445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34127,5.45198,18.34127,5.45198",
+    "geom:latitude":5.45198,
+    "geom:longitude":18.34127,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Botouba",
+    "gn:country_code":"CF",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387962,
+    "gn:latitude":5.45198,
+    "gn:longitude":18.34127,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Botouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387962
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dba132e020b0afc4ef7c8710c0017b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1259354445,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1259354445,
+    "wof:lastmodified":1537042383,
+    "wof:name":"Botouba",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34127,
+    5.45198,
+    18.34127,
+    5.45198
+],
+  "geometry": {"coordinates":[18.34127,5.45198],"type":"Point"}
+}

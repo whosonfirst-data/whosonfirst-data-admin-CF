@@ -1,0 +1,68 @@
+{
+  "id": 1259780233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96366,3.87495,17.96366,3.87495",
+    "geom:latitude":3.87495,
+    "geom:longitude":17.96366,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Kapa",
+    "gn:country_code":"CF",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385907,
+    "gn:latitude":3.87495,
+    "gn:longitude":17.96366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385907
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"08a6956fd1e602e88406422497cfe36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1259780233,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1259780233,
+    "wof:lastmodified":1536928632,
+    "wof:name":"Kapa",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96366,
+    3.87495,
+    17.96366,
+    3.87495
+],
+  "geometry": {"coordinates":[17.96366,3.87495],"type":"Point"}
+}

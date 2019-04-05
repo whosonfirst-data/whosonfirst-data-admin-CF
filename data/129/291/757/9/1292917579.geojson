@@ -1,0 +1,72 @@
+{
+  "id": 1292917579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22014,7.76743,20.22014,7.76743",
+    "geom:latitude":7.76743,
+    "geom:longitude":20.22014,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Yambala Magonda",
+    "gn:country_code":"CF",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236044,
+    "gn:latitude":7.76743,
+    "gn:longitude":20.22014,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yambala Magonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236044,
+        "wk:page":"Yambala"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a4df19f10a4a7d0b6a7ba61d9fdf5800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1292917579,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1292917579,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yambala Magonda",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22014,
+    7.76743,
+    20.22014,
+    7.76743
+],
+  "geometry": {"coordinates":[20.22014,7.76743],"type":"Point"}
+}

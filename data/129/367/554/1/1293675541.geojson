@@ -1,0 +1,68 @@
+{
+  "id": 1293675541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46157,7.3232,15.46157,7.3232",
+    "geom:latitude":7.3232,
+    "geom:longitude":15.46157,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Lagaye",
+    "gn:country_code":"CF",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385350,
+    "gn:latitude":7.3232,
+    "gn:longitude":15.46157,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lagaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385350
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"90d0ee003e0f4f076b26c5b42dc540a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1293675541,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1293675541,
+    "wof:lastmodified":1537012519,
+    "wof:name":"Lagaye",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46157,
+    7.3232,
+    15.46157,
+    7.3232
+],
+  "geometry": {"coordinates":[15.46157,7.3232],"type":"Point"}
+}

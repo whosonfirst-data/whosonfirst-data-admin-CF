@@ -1,0 +1,71 @@
+{
+  "id": 1360148377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86465,5.62222,17.86465,5.62222",
+    "geom:latitude":5.62222,
+    "geom:longitude":17.86465,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Bouya",
+    "gn:country_code":"CF",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387620,
+    "gn:latitude":5.62222,
+    "gn:longitude":17.86465,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387620
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"79fa9a25a85ab99af092c3713c73c0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1360148377,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1360148377,
+    "wof:lastmodified":1537590616,
+    "wof:name":"Bouya",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86465,
+    5.62222,
+    17.86465,
+    5.62222
+],
+  "geometry": {"coordinates":[17.86465,5.62222],"type":"Point"}
+}

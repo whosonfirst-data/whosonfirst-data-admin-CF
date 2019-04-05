@@ -1,0 +1,68 @@
+{
+  "id": 1276852127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87171,5.79737,20.87171,5.79737",
+    "geom:latitude":5.79737,
+    "geom:longitude":20.87171,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Krade",
+    "gn:country_code":"CF",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238041,
+    "gn:latitude":5.79737,
+    "gn:longitude":20.87171,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Krad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238041
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d56bffafd4c79335a1102e8b572d5605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1276852127,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1276852127,
+    "wof:lastmodified":1537075232,
+    "wof:name":"Krade",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87171,
+    5.79737,
+    20.87171,
+    5.79737
+],
+  "geometry": {"coordinates":[20.87171,5.79737],"type":"Point"}
+}

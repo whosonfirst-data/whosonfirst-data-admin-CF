@@ -1,0 +1,68 @@
+{
+  "id": 1243246487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18692,7.05244,19.18692,7.05244",
+    "geom:latitude":7.05244,
+    "geom:longitude":19.18692,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Kindelingou",
+    "gn:country_code":"CF",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524283,
+    "gn:latitude":7.05244,
+    "gn:longitude":19.18692,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kind\u00e9lingou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524283
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c8b3078eeb701ce6a7aa71f23f1c9465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1243246487,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1243246487,
+    "wof:lastmodified":1537090557,
+    "wof:name":"Kindelingou",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18692,
+    7.05244,
+    19.18692,
+    7.05244
+],
+  "geometry": {"coordinates":[19.18692,7.05244],"type":"Point"}
+}

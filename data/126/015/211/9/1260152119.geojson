@@ -1,0 +1,73 @@
+{
+  "id": 1260152119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72114,7.46649,15.72114,7.46649",
+    "geom:latitude":7.46649,
+    "geom:longitude":15.72114,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Mbo",
+    "gn:country_code":"CF",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384649,
+    "gn:latitude":7.46649,
+    "gn:longitude":15.72114,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boh",
+        "B\u00f4",
+        "Mbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384649
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"128d63485bb4bfe63424d4755dd4cc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1260152119,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1260152119,
+    "wof:lastmodified":1537590603,
+    "wof:name":"Mbo",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72114,
+    7.46649,
+    15.72114,
+    7.46649
+],
+  "geometry": {"coordinates":[15.72114,7.46649],"type":"Point"}
+}

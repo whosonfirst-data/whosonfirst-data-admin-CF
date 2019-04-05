@@ -1,0 +1,68 @@
+{
+  "id": 1276550481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96667,4.51667,21.96667,4.51667",
+    "geom:latitude":4.51667,
+    "geom:longitude":21.96667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Mbada",
+    "gn:country_code":"CF",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237674,
+    "gn:latitude":4.51667,
+    "gn:longitude":21.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237674
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3c616b9509dfa256cef1ecc561fbd66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759589,
+            "locality_id":1276550481,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1276550481,
+    "wof:lastmodified":1536984225,
+    "wof:name":"Mbada",
+    "wof:parent_id":1108759589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96667,
+    4.51667,
+    21.96667,
+    4.51667
+],
+  "geometry": {"coordinates":[21.96667,4.51667],"type":"Point"}
+}

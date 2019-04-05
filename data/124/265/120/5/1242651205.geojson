@@ -1,0 +1,72 @@
+{
+  "id": 1242651205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69954,9.38023,22.69954,9.38023",
+    "geom:latitude":9.38023,
+    "geom:longitude":22.69954,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"9143458.0",
+    "gn:asciiname":"Koumbal",
+    "gn:country_code":"CF",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238131,
+    "gn:latitude":9.38023,
+    "gn:longitude":22.69954,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Koumbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coumbal",
+        "Koumbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669703,
+        1108759713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238131
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1b487e6037fcf22a21ea64fc1967a17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759713,
+            "locality_id":1242651205,
+            "region_id":85669703
+        }
+    ],
+    "wof:id":1242651205,
+    "wof:lastmodified":1537590586,
+    "wof:name":"Koumbal",
+    "wof:parent_id":1108759713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69954,
+    9.38023,
+    22.69954,
+    9.38023
+],
+  "geometry": {"coordinates":[22.69954,9.38023],"type":"Point"}
+}

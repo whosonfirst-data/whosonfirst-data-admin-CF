@@ -1,0 +1,74 @@
+{
+  "id": 1277063539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35745,7.00812,17.35745,7.00812",
+    "geom:latitude":7.00812,
+    "geom:longitude":17.35745,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143480.0",
+    "gn:asciiname":"Tigueda",
+    "gn:country_code":"CF",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382865,
+    "gn:latitude":7.00812,
+    "gn:longitude":17.35745,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tigu\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiouedao",
+        "Tigu\u00e9dao",
+        "Tig\u00e9da",
+        "Tigu\u00e9da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382865
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"334a976fa3d4547257aa39e13a1f82ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759697,
+            "locality_id":1277063539,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1277063539,
+    "wof:lastmodified":1537590597,
+    "wof:name":"Tigueda",
+    "wof:parent_id":1108759697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35745,
+    7.00812,
+    17.35745,
+    7.00812
+],
+  "geometry": {"coordinates":[17.35745,7.00812],"type":"Point"}
+}

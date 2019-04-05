@@ -1,0 +1,66 @@
+{
+  "id": 1209193707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51058,7.21522,15.51058,7.21522",
+    "geom:latitude":7.21522,
+    "geom:longitude":15.51058,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Tao",
+    "gn:country_code":"CF",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387505,
+    "gn:latitude":7.21522,
+    "gn:longitude":15.51058,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campement Tao",
+        "Tao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387505
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d0ca4ae1ee4cf24888ed632b8867cb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209193707
+        }
+    ],
+    "wof:id":1209193707,
+    "wof:lastmodified":1537590614,
+    "wof:name":"Tao",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51058,
+    7.21522,
+    15.51058,
+    7.21522
+],
+  "geometry": {"coordinates":[15.51058,7.21522],"type":"Point"}
+}

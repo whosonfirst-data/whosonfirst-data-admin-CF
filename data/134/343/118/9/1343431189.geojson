@@ -1,0 +1,68 @@
+{
+  "id": 1343431189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73333,7.03333,19.73333,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":19.73333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Toungofai",
+    "gn:country_code":"CF",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382719,
+    "gn:latitude":7.03333,
+    "gn:longitude":19.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Toungofa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382719
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b3ae24411fe60c2fd88f9222151b5415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1343431189,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1343431189,
+    "wof:lastmodified":1536789057,
+    "wof:name":"Toungofai",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73333,
+    7.03333,
+    19.73333,
+    7.03333
+],
+  "geometry": {"coordinates":[19.73333,7.03333],"type":"Point"}
+}

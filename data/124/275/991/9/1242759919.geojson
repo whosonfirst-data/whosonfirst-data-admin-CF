@@ -1,0 +1,68 @@
+{
+  "id": 1242759919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74976,3.94633,16.74976,3.94633",
+    "geom:latitude":3.94633,
+    "geom:longitude":16.74976,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9143473.0",
+    "gn:asciiname":"Bounguile",
+    "gn:country_code":"CF",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387696,
+    "gn:latitude":3.94633,
+    "gn:longitude":16.74976,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bounguil\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669675,
+        1108759679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387696
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b3aaead12e6d59fe698dd80516fe095b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759679,
+            "locality_id":1242759919,
+            "region_id":85669675
+        }
+    ],
+    "wof:id":1242759919,
+    "wof:lastmodified":1536801119,
+    "wof:name":"Bounguile",
+    "wof:parent_id":1108759679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74976,
+    3.94633,
+    16.74976,
+    3.94633
+],
+  "geometry": {"coordinates":[16.74976,3.94633],"type":"Point"}
+}

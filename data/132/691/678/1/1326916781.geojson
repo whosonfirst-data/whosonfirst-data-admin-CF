@@ -1,0 +1,68 @@
+{
+  "id": 1326916781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37364,7.44945,16.37364,7.44945",
+    "geom:latitude":7.44945,
+    "geom:longitude":16.37364,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bembor I",
+    "gn:country_code":"CF",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389181,
+    "gn:latitude":7.44945,
+    "gn:longitude":16.37364,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bembor I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389181
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"babd3e0ef3bfdf6aa0a416e658e4d3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1326916781,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1326916781,
+    "wof:lastmodified":1536927810,
+    "wof:name":"Bembor I",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37364,
+    7.44945,
+    16.37364,
+    7.44945
+],
+  "geometry": {"coordinates":[16.37364,7.44945],"type":"Point"}
+}

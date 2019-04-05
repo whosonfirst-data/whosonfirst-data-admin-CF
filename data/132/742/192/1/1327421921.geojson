@@ -1,0 +1,72 @@
+{
+  "id": 1327421921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72346,5.65201,20.72346,5.65201",
+    "geom:latitude":5.65201,
+    "geom:longitude":20.72346,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Pagbingui",
+    "gn:country_code":"CF",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236737,
+    "gn:latitude":5.65201,
+    "gn:longitude":20.72346,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pagbingui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pabingi",
+        "Pagbingui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236737
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"01870a33449f3b09283a13b63eea5566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1327421921,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1327421921,
+    "wof:lastmodified":1537590582,
+    "wof:name":"Pagbingui",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72346,
+    5.65201,
+    20.72346,
+    5.65201
+],
+  "geometry": {"coordinates":[20.72346,5.65201],"type":"Point"}
+}

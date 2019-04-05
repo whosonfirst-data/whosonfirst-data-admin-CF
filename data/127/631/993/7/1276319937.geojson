@@ -1,0 +1,68 @@
+{
+  "id": 1276319937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36212,7.3968,16.36212,7.3968",
+    "geom:latitude":7.3968,
+    "geom:longitude":16.36212,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bogorombo I",
+    "gn:country_code":"CF",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6857490,
+    "gn:latitude":7.3968,
+    "gn:longitude":16.36212,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogorombo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857490
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8ac138cc416dc182e26f6daf88575b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1276319937,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1276319937,
+    "wof:lastmodified":1536796921,
+    "wof:name":"Bogorombo I",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36212,
+    7.3968,
+    16.36212,
+    7.3968
+],
+  "geometry": {"coordinates":[16.36212,7.3968],"type":"Point"}
+}

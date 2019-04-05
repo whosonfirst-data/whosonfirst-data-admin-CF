@@ -1,0 +1,68 @@
+{
+  "id": 1293477919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73523,5.87641,20.73523,5.87641",
+    "geom:latitude":5.87641,
+    "geom:longitude":20.73523,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Poulou",
+    "gn:country_code":"CF",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412475,
+    "gn:latitude":5.87641,
+    "gn:longitude":20.73523,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412475
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"87aba21299d80b741f4798a8846cd3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1293477919,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1293477919,
+    "wof:lastmodified":1536800941,
+    "wof:name":"Poulou",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73523,
+    5.87641,
+    20.73523,
+    5.87641
+],
+  "geometry": {"coordinates":[20.73523,5.87641],"type":"Point"}
+}

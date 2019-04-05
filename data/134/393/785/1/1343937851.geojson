@@ -1,0 +1,68 @@
+{
+  "id": 1343937851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17618,7.39155,17.17618,7.39155",
+    "geom:latitude":7.39155,
+    "geom:longitude":17.17618,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Bogbete",
+    "gn:country_code":"CF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388472,
+    "gn:latitude":7.39155,
+    "gn:longitude":17.17618,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogb\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388472
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fce33a44653bd6418f2e74ea82e5eb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1343937851,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1343937851,
+    "wof:lastmodified":1537050577,
+    "wof:name":"Bogbete",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17618,
+    7.39155,
+    17.17618,
+    7.39155
+],
+  "geometry": {"coordinates":[17.17618,7.39155],"type":"Point"}
+}

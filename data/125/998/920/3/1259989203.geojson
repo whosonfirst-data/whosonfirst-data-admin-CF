@@ -1,0 +1,73 @@
+{
+  "id": 1259989203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93333,8.15,20.93333,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":20.93333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Bakolekpa",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240705,
+    "gn:latitude":8.15,
+    "gn:longitude":20.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakolekpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakolecpa",
+        "Bakolekpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240705
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9dc955a41db74fe2606f7690af8fea94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1259989203,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1259989203,
+    "wof:lastmodified":1537590593,
+    "wof:name":"Bakolekpa",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93333,
+    8.15,
+    20.93333,
+    8.15
+],
+  "geometry": {"coordinates":[20.93333,8.15],"type":"Point"}
+}

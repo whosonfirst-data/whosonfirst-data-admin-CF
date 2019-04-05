@@ -1,0 +1,74 @@
+{
+  "id": 1193108569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64062,6.98533,15.64062,6.98533",
+    "geom:latitude":6.98533,
+    "geom:longitude":15.64062,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Bocaranga",
+    "gn:country_code":"CF",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388625,
+    "gn:latitude":6.98533,
+    "gn:longitude":15.64062,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bocaranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugarnga",
+        "Bougarnga",
+        "Bocaranga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388625,
+        "wk:page":"Bocaranga"
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6daa0894b1a15c87fda5ea3fb650e4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1193108569,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1193108569,
+    "wof:lastmodified":1537590628,
+    "wof:name":"Bocaranga",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64062,
+    6.98533,
+    15.64062,
+    6.98533
+],
+  "geometry": {"coordinates":[15.64062,6.98533],"type":"Point"}
+}

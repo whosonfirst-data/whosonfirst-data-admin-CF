@@ -1,0 +1,72 @@
+{
+  "id": 1293025003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22537,4.19819,15.22537,4.19819",
+    "geom:latitude":4.19819,
+    "geom:longitude":15.22537,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732916.0",
+    "gn:asciiname":"Korongo",
+    "gn:country_code":"CF",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385575,
+    "gn:latitude":4.19819,
+    "gn:longitude":15.22537,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Korongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korondo",
+        "Korongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385575
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3f56882a50e94accae2230a1705c6e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759593,
+            "locality_id":1293025003,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1293025003,
+    "wof:lastmodified":1537590606,
+    "wof:name":"Korongo",
+    "wof:parent_id":1108759593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22537,
+    4.19819,
+    15.22537,
+    4.19819
+],
+  "geometry": {"coordinates":[15.22537,4.19819],"type":"Point"}
+}

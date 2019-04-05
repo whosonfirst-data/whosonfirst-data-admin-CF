@@ -1,0 +1,72 @@
+{
+  "id": 1343449331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93488,6.31289,19.93488,6.31289",
+    "geom:latitude":6.31289,
+    "geom:longitude":19.93488,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Malikara",
+    "gn:country_code":"CF",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384933,
+    "gn:latitude":6.31289,
+    "gn:longitude":19.93488,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malikara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marikara",
+        "Malikara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384933
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"dcf374442ddb763fb6f48941bf8f2a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759655,
+            "locality_id":1343449331,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343449331,
+    "wof:lastmodified":1537590604,
+    "wof:name":"Malikara",
+    "wof:parent_id":1108759655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93488,
+    6.31289,
+    19.93488,
+    6.31289
+],
+  "geometry": {"coordinates":[19.93488,6.31289],"type":"Point"}
+}

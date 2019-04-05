@@ -1,0 +1,68 @@
+{
+  "id": 1243159257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26667,6.53333,18.26667,6.53333",
+    "geom:latitude":6.53333,
+    "geom:longitude":18.26667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Bozo",
+    "gn:country_code":"CF",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387554,
+    "gn:latitude":6.53333,
+    "gn:longitude":18.26667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387554
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b4c60154916e99a89b20721689249ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1243159257,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1243159257,
+    "wof:lastmodified":1536723010,
+    "wof:name":"Bozo",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26667,
+    6.53333,
+    18.26667,
+    6.53333
+],
+  "geometry": {"coordinates":[18.26667,6.53333],"type":"Point"}
+}

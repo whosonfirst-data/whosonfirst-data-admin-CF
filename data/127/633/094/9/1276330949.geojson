@@ -1,0 +1,68 @@
+{
+  "id": 1276330949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23778,4.17106,18.23778,4.17106",
+    "geom:latitude":4.17106,
+    "geom:longitude":18.23778,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732068.0",
+    "gn:asciiname":"Tongolo",
+    "gn:country_code":"CF",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382787,
+    "gn:latitude":4.17106,
+    "gn:longitude":18.23778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382787
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9b641305a8eb2de2f82ad06406cb478c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1276330949,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1276330949,
+    "wof:lastmodified":1536782241,
+    "wof:name":"Tongolo",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23778,
+    4.17106,
+    18.23778,
+    4.17106
+],
+  "geometry": {"coordinates":[18.23778,4.17106],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226330463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48627,5.60626,20.48627,5.60626",
+    "geom:latitude":5.60626,
+    "geom:longitude":20.48627,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Ngakolako",
+    "gn:country_code":"CF",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237311,
+    "gn:latitude":5.60626,
+    "gn:longitude":20.48627,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngakolako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237311
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"25bc7cc64552f21c98620597c6cfb8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1226330463,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1226330463,
+    "wof:lastmodified":1536811032,
+    "wof:name":"Ngakolako",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48627,
+    5.60626,
+    20.48627,
+    5.60626
+],
+  "geometry": {"coordinates":[20.48627,5.60626],"type":"Point"}
+}

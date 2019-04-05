@@ -1,0 +1,68 @@
+{
+  "id": 1360061769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68333,6.46667,15.68333,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":15.68333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143491.0",
+    "gn:asciiname":"Bocaranga IV",
+    "gn:country_code":"CF",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388621,
+    "gn:latitude":6.46667,
+    "gn:longitude":15.68333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bocaranga IV",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388621
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"57ccc9481480d93d1857a5f2e27c32ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759721,
+            "locality_id":1360061769,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1360061769,
+    "wof:lastmodified":1536978783,
+    "wof:name":"Bocaranga IV",
+    "wof:parent_id":1108759721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68333,
+    6.46667,
+    15.68333,
+    6.46667
+],
+  "geometry": {"coordinates":[15.68333,6.46667],"type":"Point"}
+}

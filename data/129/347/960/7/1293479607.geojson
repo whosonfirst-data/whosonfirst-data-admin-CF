@@ -1,0 +1,72 @@
+{
+  "id": 1293479607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09329,5.37594,15.09329,5.37594",
+    "geom:latitude":5.37594,
+    "geom:longitude":15.09329,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"9143482.0",
+    "gn:asciiname":"Babaza",
+    "gn:country_code":"CF",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390564,
+    "gn:latitude":5.37594,
+    "gn:longitude":15.09329,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Babaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babaya",
+        "Babaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390564
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"70c30576ac6b87edde708809553d8ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759685,
+            "locality_id":1293479607,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1293479607,
+    "wof:lastmodified":1537590638,
+    "wof:name":"Babaza",
+    "wof:parent_id":1108759685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09329,
+    5.37594,
+    15.09329,
+    5.37594
+],
+  "geometry": {"coordinates":[15.09329,5.37594],"type":"Point"}
+}

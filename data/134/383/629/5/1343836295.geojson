@@ -1,0 +1,68 @@
+{
+  "id": 1343836295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75,6.48333,21.75,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":21.75,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Douloungoa",
+    "gn:country_code":"CF",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239462,
+    "gn:latitude":6.48333,
+    "gn:longitude":21.75,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Douloungoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239462
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b6226b32236a37fd309ea99929bb6075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1343836295,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343836295,
+    "wof:lastmodified":1536701783,
+    "wof:name":"Douloungoa",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75,
+    6.48333,
+    21.75,
+    6.48333
+],
+  "geometry": {"coordinates":[21.75,6.48333],"type":"Point"}
+}

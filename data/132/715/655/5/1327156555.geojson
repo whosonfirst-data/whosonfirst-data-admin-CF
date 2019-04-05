@@ -1,0 +1,68 @@
+{
+  "id": 1327156555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7938,4.73963,22.7938,4.73963",
+    "geom:latitude":4.73963,
+    "geom:longitude":22.7938,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732064.0",
+    "gn:asciiname":"Bangonde",
+    "gn:country_code":"CF",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240470,
+    "gn:latitude":4.73963,
+    "gn:longitude":22.7938,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bangond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240470
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"ae5cc486e08214bef5a79002eebe97aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759627,
+            "locality_id":1327156555,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1327156555,
+    "wof:lastmodified":1537076043,
+    "wof:name":"Bangonde",
+    "wof:parent_id":1108759627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7938,
+    4.73963,
+    22.7938,
+    4.73963
+],
+  "geometry": {"coordinates":[22.7938,4.73963],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310632629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16625,5.11842,25.16625,5.11842",
+    "geom:latitude":5.11842,
+    "geom:longitude":25.16625,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Finzane",
+    "gn:country_code":"CF",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239369,
+    "gn:latitude":5.11842,
+    "gn:longitude":25.16625,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Finzane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239369
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b408d59b0188d4202a35056e59c0824d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1310632629,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1310632629,
+    "wof:lastmodified":1536733769,
+    "wof:name":"Finzane",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16625,
+    5.11842,
+    25.16625,
+    5.11842
+],
+  "geometry": {"coordinates":[25.16625,5.11842],"type":"Point"}
+}

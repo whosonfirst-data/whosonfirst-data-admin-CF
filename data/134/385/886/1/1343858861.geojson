@@ -1,0 +1,68 @@
+{
+  "id": 1343858861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33286,3.7862,15.33286,3.7862",
+    "geom:latitude":3.7862,
+    "geom:longitude":15.33286,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143488.0",
+    "gn:asciiname":"Mekapambo",
+    "gn:country_code":"CF",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384557,
+    "gn:latitude":3.7862,
+    "gn:longitude":15.33286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"M\u00e9kapambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384557
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a8c41f23c3a1e7d91dab2bc40351a0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759603,
+            "locality_id":1343858861,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1343858861,
+    "wof:lastmodified":1536668918,
+    "wof:name":"Mekapambo",
+    "wof:parent_id":1108759603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33286,
+    3.7862,
+    15.33286,
+    3.7862
+],
+  "geometry": {"coordinates":[15.33286,3.7862],"type":"Point"}
+}

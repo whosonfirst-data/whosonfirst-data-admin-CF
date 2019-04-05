@@ -1,0 +1,62 @@
+{
+  "id": 1209528363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7,4.36667,21.7,4.36667",
+    "geom:latitude":4.36667,
+    "geom:longitude":21.7,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731890.0",
+    "gn:asciiname":"Gpouzou",
+    "gn:country_code":"CF",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238737,
+    "gn:latitude":4.36667,
+    "gn:longitude":21.7,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gpouzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238737
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"aca3be1671d56bf64514c4ff556e07da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209528363
+        }
+    ],
+    "wof:id":1209528363,
+    "wof:lastmodified":1536284361,
+    "wof:name":"Gpouzou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7,
+    4.36667,
+    21.7,
+    4.36667
+],
+  "geometry": {"coordinates":[21.7,4.36667],"type":"Point"}
+}

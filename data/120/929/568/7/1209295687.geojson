@@ -1,0 +1,62 @@
+{
+  "id": 1209295687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75762,6.20061,20.75762,6.20061",
+    "geom:latitude":6.20061,
+    "geom:longitude":20.75762,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Manga",
+    "gn:country_code":"CF",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237749,
+    "gn:latitude":6.20061,
+    "gn:longitude":20.75762,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Manga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237749
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c4b649cd6c3cf5d62153ba7fcc7319b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209295687
+        }
+    ],
+    "wof:id":1209295687,
+    "wof:lastmodified":1536291536,
+    "wof:name":"Manga",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.757620000000006,
+    6.20061,
+    20.757620000000006,
+    6.20061
+],
+  "geometry": {"coordinates":[20.75762000000001,6.20061],"type":"Point"}
+}

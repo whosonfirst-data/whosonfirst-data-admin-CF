@@ -1,0 +1,68 @@
+{
+  "id": 1259789557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31366,3.89737,15.31366,3.89737",
+    "geom:latitude":3.89737,
+    "geom:longitude":15.31366,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143488.0",
+    "gn:asciiname":"Bayanga",
+    "gn:country_code":"CF",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389613,
+    "gn:latitude":3.89737,
+    "gn:longitude":15.31366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bayanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389613
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b3fd20bddef1a1f76d60be34950d2416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759603,
+            "locality_id":1259789557,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1259789557,
+    "wof:lastmodified":1536914837,
+    "wof:name":"Bayanga",
+    "wof:parent_id":1108759603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31366,
+    3.89737,
+    15.31366,
+    3.89737
+],
+  "geometry": {"coordinates":[15.31366,3.89737],"type":"Point"}
+}

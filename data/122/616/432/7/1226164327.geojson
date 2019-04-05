@@ -1,0 +1,72 @@
+{
+  "id": 1226164327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08067,4.02246,17.08067,4.02246",
+    "geom:latitude":4.02246,
+    "geom:longitude":17.08067,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"9143467.0",
+    "gn:asciiname":"Grima",
+    "gn:country_code":"CF",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386234,
+    "gn:latitude":4.02246,
+    "gn:longitude":17.08067,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Grima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamba",
+        "Grima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386234
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"292e9d0d1c02cd596120917ccb2a00a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759727,
+            "locality_id":1226164327,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1226164327,
+    "wof:lastmodified":1537590609,
+    "wof:name":"Grima",
+    "wof:parent_id":1108759727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08067,
+    4.02246,
+    17.08067,
+    4.02246
+],
+  "geometry": {"coordinates":[17.08067,4.02246],"type":"Point"}
+}

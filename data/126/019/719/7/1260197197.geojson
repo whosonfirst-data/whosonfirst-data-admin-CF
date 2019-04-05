@@ -1,0 +1,73 @@
+{
+  "id": 1260197197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56817,8.25885,20.56817,8.25885",
+    "geom:latitude":8.25885,
+    "geom:longitude":20.56817,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"9143459.0",
+    "gn:asciiname":"Bissingou II",
+    "gn:country_code":"CF",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240196,
+    "gn:latitude":8.25885,
+    "gn:longitude":20.56817,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bissingou II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bissingou Koudouko",
+        "Bissingou",
+        "Bissingou II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        421171017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240196
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"79e22d9e4b7430123972a71c4dcd53f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":421171017,
+            "locality_id":1260197197,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1260197197,
+    "wof:lastmodified":1537590591,
+    "wof:name":"Bissingou II",
+    "wof:parent_id":421171017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56817,
+    8.25885,
+    20.56817,
+    8.25885
+],
+  "geometry": {"coordinates":[20.56817,8.25885],"type":"Point"}
+}

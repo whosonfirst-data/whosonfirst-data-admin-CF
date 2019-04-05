@@ -1,0 +1,68 @@
+{
+  "id": 1343748219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69008,7.38012,15.69008,7.38012",
+    "geom:latitude":7.38012,
+    "geom:longitude":15.69008,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Kodi",
+    "gn:country_code":"CF",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385742,
+    "gn:latitude":7.38012,
+    "gn:longitude":15.69008,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385742
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"689ac0f2e523707e0a58d0f2921b8f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1343748219,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1343748219,
+    "wof:lastmodified":1536827630,
+    "wof:name":"Kodi",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69008,
+    7.38012,
+    15.69008,
+    7.38012
+],
+  "geometry": {"coordinates":[15.69008,7.38012],"type":"Point"}
+}

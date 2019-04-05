@@ -1,0 +1,68 @@
+{
+  "id": 1259383385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53587,3.88517,15.53587,3.88517",
+    "geom:latitude":3.88517,
+    "geom:longitude":15.53587,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"9143489.0",
+    "gn:asciiname":"Koue",
+    "gn:country_code":"CF",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385522,
+    "gn:latitude":3.88517,
+    "gn:longitude":15.53587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385522
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"eae3e76634f2fc1fd4ea90ab91653de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759625,
+            "locality_id":1259383385,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1259383385,
+    "wof:lastmodified":1537001664,
+    "wof:name":"Koue",
+    "wof:parent_id":1108759625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53587,
+    3.88517,
+    15.53587,
+    3.88517
+],
+  "geometry": {"coordinates":[15.53587,3.88517],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209909633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93333,4.6,21.93333,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":21.93333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7731889.0",
+    "gn:asciiname":"Kamizo",
+    "gn:country_code":"CF",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238478,
+    "gn:latitude":4.6,
+    "gn:longitude":21.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kamizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238478
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a9ec2e98b2ceb97823b803ba11e28100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759607,
+            "locality_id":1209909633,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1209909633,
+    "wof:lastmodified":1536380177,
+    "wof:name":"Kamizo",
+    "wof:parent_id":1108759607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93333,
+    4.6,
+    21.93333,
+    4.6
+],
+  "geometry": {"coordinates":[21.93333,4.6],"type":"Point"}
+}

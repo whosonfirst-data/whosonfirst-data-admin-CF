@@ -1,0 +1,67 @@
+{
+  "id": 1209109443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51667,5.28333,21.51667,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":21.51667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7732066.0",
+    "gn:asciiname":"Bago",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240767,
+    "gn:latitude":5.28333,
+    "gn:longitude":21.51667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Bago",
+        "Bago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240767
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f1af085127d111bd24ec7c1e977c6cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209109443
+        }
+    ],
+    "wof:id":1209109443,
+    "wof:lastmodified":1537590593,
+    "wof:name":"Bago",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51667,
+    5.28333,
+    21.51667,
+    5.28333
+],
+  "geometry": {"coordinates":[21.51667,5.28333],"type":"Point"}
+}

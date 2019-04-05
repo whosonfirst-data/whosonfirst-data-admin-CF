@@ -1,0 +1,75 @@
+{
+  "id": 1243082357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65,4.3,21.65,4.3",
+    "geom:latitude":4.3,
+    "geom:longitude":21.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kazanga",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238394,
+    "gn:latitude":4.3,
+    "gn:longitude":21.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kazanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wama",
+        "Kasamba",
+        "Ouama",
+        "Ouat\u00e9",
+        "Kazanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238394
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2810f5162c62d285d2b0c280fcbd82e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1243082357,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243082357,
+    "wof:lastmodified":1537590587,
+    "wof:name":"Kazanga",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65,
+    4.3,
+    21.65,
+    4.3
+],
+  "geometry": {"coordinates":[21.65,4.3],"type":"Point"}
+}

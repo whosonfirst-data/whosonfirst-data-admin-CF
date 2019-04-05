@@ -1,0 +1,62 @@
+{
+  "id": 1209602299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93894,8.33906,18.93894,8.33906",
+    "geom:latitude":8.33906,
+    "geom:longitude":18.93894,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143478.0",
+    "gn:asciiname":"Dangaba",
+    "gn:country_code":"CF",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387403,
+    "gn:latitude":8.33906,
+    "gn:longitude":18.93894,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dangaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387403
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e4b22daab625eed054408f7b606bada2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209602299
+        }
+    ],
+    "wof:id":1209602299,
+    "wof:lastmodified":1536282127,
+    "wof:name":"Dangaba",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93894,
+    8.33906,
+    18.93894,
+    8.33906
+],
+  "geometry": {"coordinates":[18.93894,8.33906],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226539109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18333,5.2,25.18333,5.2",
+    "geom:latitude":5.2,
+    "geom:longitude":25.18333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143464.0",
+    "gn:asciiname":"Bangasou",
+    "gn:country_code":"CF",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240500,
+    "gn:latitude":5.2,
+    "gn:longitude":25.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bangasou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240500
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"fe9a351d0ff1867ab70dd085d76febd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759587,
+            "locality_id":1226539109,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1226539109,
+    "wof:lastmodified":1537006910,
+    "wof:name":"Bangasou",
+    "wof:parent_id":1108759587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18333,
+    5.2,
+    25.18333,
+    5.2
+],
+  "geometry": {"coordinates":[25.18333,5.2],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226230211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13612,5.9274,20.13612,5.9274",
+    "geom:latitude":5.9274,
+    "geom:longitude":20.13612,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Yangoumandji",
+    "gn:country_code":"CF",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235981,
+    "gn:latitude":5.9274,
+    "gn:longitude":20.13612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yangoumandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235981
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"55f173b11fee72a289fc8a88dda11b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1226230211,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1226230211,
+    "wof:lastmodified":1536956106,
+    "wof:name":"Yangoumandji",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13612,
+    5.9274,
+    20.13612,
+    5.9274
+],
+  "geometry": {"coordinates":[20.13612,5.9274],"type":"Point"}
+}

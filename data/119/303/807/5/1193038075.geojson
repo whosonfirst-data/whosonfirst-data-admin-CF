@@ -1,0 +1,68 @@
+{
+  "id": 1193038075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7,5.46667,24.7,5.46667",
+    "geom:latitude":5.46667,
+    "geom:longitude":24.7,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"9143468.0",
+    "gn:asciiname":"Sotio",
+    "gn:country_code":"CF",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236366,
+    "gn:latitude":5.46667,
+    "gn:longitude":24.7,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sotio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236366
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"242bcd0611aac3627c201f96d8d42edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759705,
+            "locality_id":1193038075,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1193038075,
+    "wof:lastmodified":1536378886,
+    "wof:name":"Sotio",
+    "wof:parent_id":1108759705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7,
+    5.46667,
+    24.7,
+    5.46667
+],
+  "geometry": {"coordinates":[24.7,5.46667],"type":"Point"}
+}

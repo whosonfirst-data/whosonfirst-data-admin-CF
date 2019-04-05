@@ -1,0 +1,68 @@
+{
+  "id": 1360187861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95315,4.61841,20.95315,4.61841",
+    "geom:latitude":4.61841,
+    "geom:longitude":20.95315,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731892.0",
+    "gn:asciiname":"Ndaouin",
+    "gn:country_code":"CF",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237385,
+    "gn:latitude":4.61841,
+    "gn:longitude":20.95315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndaouin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237385
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"80c29b7b53b60e936e7cf39576978030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759641,
+            "locality_id":1360187861,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1360187861,
+    "wof:lastmodified":1536797509,
+    "wof:name":"Ndaouin",
+    "wof:parent_id":1108759641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95315,
+    4.61841,
+    20.95315,
+    4.61841
+],
+  "geometry": {"coordinates":[20.95315,4.61841],"type":"Point"}
+}

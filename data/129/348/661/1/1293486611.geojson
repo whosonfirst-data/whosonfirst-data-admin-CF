@@ -1,0 +1,68 @@
+{
+  "id": 1293486611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,6.46667,25.35,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9143462.0",
+    "gn:asciiname":"Yaoudda",
+    "gn:country_code":"CF",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235964,
+    "gn:latitude":6.46667,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yaoudda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669707,
+        1108759583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235964
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"82af2b4419f4f9401f3a1cff699ab963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759583,
+            "locality_id":1293486611,
+            "region_id":85669707
+        }
+    ],
+    "wof:id":1293486611,
+    "wof:lastmodified":1536788771,
+    "wof:name":"Yaoudda",
+    "wof:parent_id":1108759583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    6.46667,
+    25.35,
+    6.46667
+],
+  "geometry": {"coordinates":[25.35,6.46667],"type":"Point"}
+}

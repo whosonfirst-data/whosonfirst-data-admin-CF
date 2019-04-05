@@ -1,0 +1,68 @@
+{
+  "id": 1242887125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27946,4.58868,21.27946,4.58868",
+    "geom:latitude":4.58868,
+    "geom:longitude":21.27946,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"7731891.0",
+    "gn:asciiname":"Bakanga",
+    "gn:country_code":"CF",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240722,
+    "gn:latitude":4.58868,
+    "gn:longitude":21.27946,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669665,
+        1108759615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240722
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b64eb127244e80e2e52696c4391f3aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759615,
+            "locality_id":1242887125,
+            "region_id":85669665
+        }
+    ],
+    "wof:id":1242887125,
+    "wof:lastmodified":1536615411,
+    "wof:name":"Bakanga",
+    "wof:parent_id":1108759615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27946,
+    4.58868,
+    21.27946,
+    4.58868
+],
+  "geometry": {"coordinates":[21.27946,4.58868],"type":"Point"}
+}

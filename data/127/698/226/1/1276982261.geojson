@@ -1,0 +1,68 @@
+{
+  "id": 1276982261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5814,7.17742,21.5814,7.17742",
+    "geom:latitude":7.17742,
+    "geom:longitude":21.5814,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Moundjou",
+    "gn:country_code":"CF",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524431,
+    "gn:latitude":7.17742,
+    "gn:longitude":21.5814,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Moundjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524431
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7aed855df8b5f07a23b044e7219b0b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1276982261,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1276982261,
+    "wof:lastmodified":1536904143,
+    "wof:name":"Moundjou",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5814,
+    7.17742,
+    21.5814,
+    7.17742
+],
+  "geometry": {"coordinates":[21.5814,7.17742],"type":"Point"}
+}

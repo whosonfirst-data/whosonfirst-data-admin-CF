@@ -1,0 +1,68 @@
+{
+  "id": 1260061235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,6.3,20.25,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":20.25,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"9143471.0",
+    "gn:asciiname":"Modokouzou",
+    "gn:country_code":"CF",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237474,
+    "gn:latitude":6.3,
+    "gn:longitude":20.25,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Modokouzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237474
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"2c8479ff088552bc85167eed82b6f98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759655,
+            "locality_id":1260061235,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1260061235,
+    "wof:lastmodified":1537019288,
+    "wof:name":"Modokouzou",
+    "wof:parent_id":1108759655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    6.3,
+    20.25,
+    6.3
+],
+  "geometry": {"coordinates":[20.25,6.3],"type":"Point"}
+}

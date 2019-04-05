@@ -1,0 +1,68 @@
+{
+  "id": 1243044203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19824,5.58143,18.19824,5.58143",
+    "geom:latitude":5.58143,
+    "geom:longitude":18.19824,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"9143490.0",
+    "gn:asciiname":"Bogbasse",
+    "gn:country_code":"CF",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525237,
+    "gn:latitude":5.58143,
+    "gn:longitude":18.19824,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bogbasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525237
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"eccfba30ed6f1511449bb1dcc61c5cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759669,
+            "locality_id":1243044203,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1243044203,
+    "wof:lastmodified":1536888030,
+    "wof:name":"Bogbasse",
+    "wof:parent_id":1108759669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19824,
+    5.58143,
+    18.19824,
+    5.58143
+],
+  "geometry": {"coordinates":[18.19824,5.58143],"type":"Point"}
+}

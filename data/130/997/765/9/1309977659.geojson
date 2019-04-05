@@ -1,0 +1,68 @@
+{
+  "id": 1309977659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34586,7.22239,16.34586,7.22239",
+    "geom:latitude":7.22239,
+    "geom:longitude":16.34586,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Bozoy III",
+    "gn:country_code":"CF",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387541,
+    "gn:latitude":7.22239,
+    "gn:longitude":16.34586,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bozoy III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387541
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"9cb50e02b3925c129d806812bd58935b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1309977659,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1309977659,
+    "wof:lastmodified":1536683452,
+    "wof:name":"Bozoy III",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34586,
+    7.22239,
+    16.34586,
+    7.22239
+],
+  "geometry": {"coordinates":[16.34586,7.22239],"type":"Point"}
+}

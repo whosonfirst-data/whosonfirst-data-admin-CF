@@ -1,0 +1,68 @@
+{
+  "id": 1343537781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27639,6.94439,16.27639,6.94439",
+    "geom:latitude":6.94439,
+    "geom:longitude":16.27639,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Weregangi",
+    "gn:country_code":"CF",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382589,
+    "gn:latitude":6.94439,
+    "gn:longitude":16.27639,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"W\u00e9r\u00e9gangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382589
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"1ae5052cb33160d571ebe57d228ce4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759601,
+            "locality_id":1343537781,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1343537781,
+    "wof:lastmodified":1536633344,
+    "wof:name":"Weregangi",
+    "wof:parent_id":1108759601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27639,
+    6.94439,
+    16.27639,
+    6.94439
+],
+  "geometry": {"coordinates":[16.27639,6.94439],"type":"Point"}
+}

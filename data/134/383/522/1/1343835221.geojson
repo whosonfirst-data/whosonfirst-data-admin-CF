@@ -1,0 +1,68 @@
+{
+  "id": 1343835221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36667,5.95,18.36667,5.95",
+    "geom:latitude":5.95,
+    "geom:longitude":18.36667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143477.0",
+    "gn:asciiname":"Limgua",
+    "gn:country_code":"CF",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2385170,
+    "gn:latitude":5.95,
+    "gn:longitude":18.36667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Limgua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2385170
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e5c50ab529ff5c9a8c874b71e7cc9c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759695,
+            "locality_id":1343835221,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1343835221,
+    "wof:lastmodified":1536703353,
+    "wof:name":"Limgua",
+    "wof:parent_id":1108759695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36667000000001,
+    5.95,
+    18.36667000000001,
+    5.95
+],
+  "geometry": {"coordinates":[18.36667000000001,5.95],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343531593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08388,7.07705,19.08388,7.07705",
+    "geom:latitude":7.07705,
+    "geom:longitude":19.08388,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Gribingui I",
+    "gn:country_code":"CF",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524292,
+    "gn:latitude":7.07705,
+    "gn:longitude":19.08388,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gribingui I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669693,
+        1108759631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524292
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"f2c6c7a0bba3a28b11b8c0d07ddd302c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759631,
+            "locality_id":1343531593,
+            "region_id":85669693
+        }
+    ],
+    "wof:id":1343531593,
+    "wof:lastmodified":1536642958,
+    "wof:name":"Gribingui I",
+    "wof:parent_id":1108759631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08388,
+    7.07705,
+    19.08388,
+    7.07705
+],
+  "geometry": {"coordinates":[19.08388,7.07705],"type":"Point"}
+}

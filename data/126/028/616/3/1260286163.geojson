@@ -1,0 +1,72 @@
+{
+  "id": 1260286163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25845,6.82763,22.25845,6.82763",
+    "geom:latitude":6.82763,
+    "geom:longitude":22.25845,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"9143465.0",
+    "gn:asciiname":"Boulouba",
+    "gn:country_code":"CF",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239983,
+    "gn:latitude":6.82763,
+    "gn:longitude":22.25845,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boulouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fortifi\u00e9 de Boulouba",
+        "Boulouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239983
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a344e53ab5e93af00401253f7578f5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "locality_id":1260286163,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":1260286163,
+    "wof:lastmodified":1537590591,
+    "wof:name":"Boulouba",
+    "wof:parent_id":1108759619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25845,
+    6.82763,
+    22.25845,
+    6.82763
+],
+  "geometry": {"coordinates":[22.25845,6.82763],"type":"Point"}
+}

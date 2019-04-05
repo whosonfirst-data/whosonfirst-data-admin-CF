@@ -1,0 +1,68 @@
+{
+  "id": 1293774635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46234,5.05107,22.46234,5.05107",
+    "geom:latitude":5.05107,
+    "geom:longitude":22.46234,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7732690.0",
+    "gn:asciiname":"Adama",
+    "gn:country_code":"CF",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241099,
+    "gn:latitude":5.05107,
+    "gn:longitude":22.46234,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669709,
+        1108759715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241099
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4fc4debd8b165a9baab7fc91bdee7171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759715,
+            "locality_id":1293774635,
+            "region_id":85669709
+        }
+    ],
+    "wof:id":1293774635,
+    "wof:lastmodified":1536869072,
+    "wof:name":"Adama",
+    "wof:parent_id":1108759715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46234,
+    5.05107,
+    22.46234,
+    5.05107
+],
+  "geometry": {"coordinates":[22.46234,5.05107],"type":"Point"}
+}

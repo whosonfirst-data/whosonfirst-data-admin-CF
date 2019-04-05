@@ -1,0 +1,68 @@
+{
+  "id": 1343240333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05489,5.59969,20.05489,5.59969",
+    "geom:latitude":5.59969,
+    "geom:longitude":20.05489,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Zoungouyassi",
+    "gn:country_code":"CF",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235776,
+    "gn:latitude":5.59969,
+    "gn:longitude":20.05489,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zoungouyassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235776
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"8fe3e3da885dba20bb87437328e6adb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1343240333,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1343240333,
+    "wof:lastmodified":1537061350,
+    "wof:name":"Zoungouyassi",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05489,
+    5.59969,
+    20.05489,
+    5.59969
+],
+  "geometry": {"coordinates":[20.05489,5.59969],"type":"Point"}
+}

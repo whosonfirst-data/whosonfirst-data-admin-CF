@@ -1,0 +1,71 @@
+{
+  "id": 1193270687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10939,5.56434,19.10939,5.56434",
+    "geom:latitude":5.56434,
+    "geom:longitude":19.10939,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"7731894.0",
+    "gn:asciiname":"Doumounou",
+    "gn:country_code":"CF",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386962,
+    "gn:latitude":5.56434,
+    "gn:longitude":19.10939,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Doumounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doumonou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669697,
+        1108759723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386962
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"396f0da1fb241baed569fbcd80718800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759723,
+            "locality_id":1193270687,
+            "region_id":85669697
+        }
+    ],
+    "wof:id":1193270687,
+    "wof:lastmodified":1537590611,
+    "wof:name":"Doumounou",
+    "wof:parent_id":1108759723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10939,
+    5.56434,
+    19.10939,
+    5.56434
+],
+  "geometry": {"coordinates":[19.10939,5.56434],"type":"Point"}
+}

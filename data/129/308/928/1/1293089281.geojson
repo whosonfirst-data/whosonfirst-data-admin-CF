@@ -1,0 +1,68 @@
+{
+  "id": 1293089281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96667,6.23333,20.96667,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":20.96667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Aguene",
+    "gn:country_code":"CF",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241054,
+    "gn:latitude":6.23333,
+    "gn:longitude":20.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agu\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241054
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6b27c5c9228ec6571c81b145e5d4a8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1293089281,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1293089281,
+    "wof:lastmodified":1536862775,
+    "wof:name":"Aguene",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96667,
+    6.23333,
+    20.96667,
+    6.23333
+],
+  "geometry": {"coordinates":[20.96667,6.23333],"type":"Point"}
+}

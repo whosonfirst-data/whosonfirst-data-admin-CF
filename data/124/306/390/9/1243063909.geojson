@@ -1,0 +1,68 @@
+{
+  "id": 1243063909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65,5.93333,15.65,5.93333",
+    "geom:latitude":5.93333,
+    "geom:longitude":15.65,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7732085.0",
+    "gn:asciiname":"Watiguina",
+    "gn:country_code":"CF",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382604,
+    "gn:latitude":5.93333,
+    "gn:longitude":15.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Watiguina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382604
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d5a191868b117e542fbf39f210805e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759639,
+            "locality_id":1243063909,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1243063909,
+    "wof:lastmodified":1536858703,
+    "wof:name":"Watiguina",
+    "wof:parent_id":1108759639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65,
+    5.93333,
+    15.65,
+    5.93333
+],
+  "geometry": {"coordinates":[15.65,5.93333],"type":"Point"}
+}

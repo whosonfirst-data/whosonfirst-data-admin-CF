@@ -1,0 +1,77 @@
+{
+  "id": 1344136183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43538,7.43654,15.43538,7.43654",
+    "geom:latitude":7.43654,
+    "geom:longitude":15.43538,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbere",
+    "gn:country_code":"CF",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2384690,
+    "gn:latitude":7.43654,
+    "gn:longitude":15.43538,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597,
+        85632245,
+        85669957,
+        1092011703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2384690
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"0fc9b573e992154e38160cf9b6c2e374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1344136183,
+            "region_id":85669685
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011703,
+            "locality_id":1344136183,
+            "region_id":85669957
+        }
+    ],
+    "wof:id":1344136183,
+    "wof:lastmodified":1536766772,
+    "wof:name":"Mbere",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43538,
+    7.43654,
+    15.43538,
+    7.43654
+],
+  "geometry": {"coordinates":[15.43538,7.43654],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293467935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73975,5.99457,20.73975,5.99457",
+    "geom:latitude":5.99457,
+    "geom:longitude":20.73975,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Yaraoua",
+    "gn:country_code":"CF",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235953,
+    "gn:latitude":5.99457,
+    "gn:longitude":20.73975,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yaraoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerawa",
+        "Yaraoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235953
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b504445541a986a67adb8f304d2ea0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1293467935,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1293467935,
+    "wof:lastmodified":1537590580,
+    "wof:name":"Yaraoua",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73975,
+    5.99457,
+    20.73975,
+    5.99457
+],
+  "geometry": {"coordinates":[20.73975,5.99457],"type":"Point"}
+}

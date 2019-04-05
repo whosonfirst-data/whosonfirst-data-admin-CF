@@ -1,0 +1,68 @@
+{
+  "id": 1226727001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17798,7.70979,17.17798,7.70979",
+    "geom:latitude":7.70979,
+    "geom:longitude":17.17798,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Gale",
+    "gn:country_code":"CF",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2386777,
+    "gn:latitude":7.70979,
+    "gn:longitude":17.17798,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2386777
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bdcc5592d95ac46be39878dd184c7c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1226727001,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1226727001,
+    "wof:lastmodified":1536742333,
+    "wof:name":"Gale",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17798,
+    7.70979,
+    17.17798,
+    7.70979
+],
+  "geometry": {"coordinates":[17.17798,7.70979],"type":"Point"}
+}

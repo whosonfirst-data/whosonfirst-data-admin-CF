@@ -1,0 +1,72 @@
+{
+  "id": 1293760037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52397,7.1393,15.52397,7.1393",
+    "geom:latitude":7.1393,
+    "geom:longitude":15.52397,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Doko",
+    "gn:country_code":"CF",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2387320,
+    "gn:latitude":7.1393,
+    "gn:longitude":15.52397,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Doko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deko",
+        "Doko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2387320
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"534cdef58b505fab8749209c3406e70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1293760037,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1293760037,
+    "wof:lastmodified":1537590613,
+    "wof:name":"Doko",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52397,
+    7.1393,
+    15.52397,
+    7.1393
+],
+  "geometry": {"coordinates":[15.52397,7.1393],"type":"Point"}
+}

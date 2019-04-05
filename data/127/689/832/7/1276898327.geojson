@@ -1,0 +1,68 @@
+{
+  "id": 1276898327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02723,5.28304,17.02723,5.28304",
+    "geom:latitude":5.28304,
+    "geom:longitude":17.02723,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"7732917.0",
+    "gn:asciiname":"Zarapeyin",
+    "gn:country_code":"CF",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524076,
+    "gn:latitude":5.28304,
+    "gn:longitude":17.02723,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zarap\u00e9yin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524076
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"cee5736fee939f16de89146a15b6e2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759717,
+            "locality_id":1276898327,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1276898327,
+    "wof:lastmodified":1537015747,
+    "wof:name":"Zarapeyin",
+    "wof:parent_id":1108759717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02723,
+    5.28304,
+    17.02723,
+    5.28304
+],
+  "geometry": {"coordinates":[17.02723,5.28304],"type":"Point"}
+}

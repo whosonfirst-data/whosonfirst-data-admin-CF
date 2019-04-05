@@ -1,0 +1,68 @@
+{
+  "id": 1243049213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06338,4.97651,20.06338,4.97651",
+    "geom:latitude":4.97651,
+    "geom:longitude":20.06338,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Zouhou",
+    "gn:country_code":"CF",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235790,
+    "gn:latitude":4.97651,
+    "gn:longitude":20.06338,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zouhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235790
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6ee0483341094156ce7605c89e90792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1243049213,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1243049213,
+    "wof:lastmodified":1536880478,
+    "wof:name":"Zouhou",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06338,
+    4.97651,
+    20.06338,
+    4.97651
+],
+  "geometry": {"coordinates":[20.06338,4.97651],"type":"Point"}
+}

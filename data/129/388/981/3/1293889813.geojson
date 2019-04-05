@@ -1,0 +1,68 @@
+{
+  "id": 1293889813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38917,4.84708,16.38917,4.84708",
+    "geom:latitude":4.84708,
+    "geom:longitude":16.38917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"7732917.0",
+    "gn:asciiname":"Samba",
+    "gn:country_code":"CF",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383228,
+    "gn:latitude":4.84708,
+    "gn:longitude":16.38917,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383228
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"bf4f194054a641465d35efdd5b1753e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759717,
+            "locality_id":1293889813,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1293889813,
+    "wof:lastmodified":1536704481,
+    "wof:name":"Samba",
+    "wof:parent_id":1108759717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38917,
+    4.84708,
+    16.38917,
+    4.84708
+],
+  "geometry": {"coordinates":[16.38917,4.84708],"type":"Point"}
+}

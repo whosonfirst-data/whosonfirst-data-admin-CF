@@ -1,0 +1,72 @@
+{
+  "id": 1226319025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93314,7.46995,15.93314,7.46995",
+    "geom:latitude":7.46995,
+    "geom:longitude":15.93314,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Bokpala",
+    "gn:country_code":"CF",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388077,
+    "gn:latitude":7.46995,
+    "gn:longitude":15.93314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bokpala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bopala",
+        "Bokpala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388077
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a666497dde86e4c75e5a384e3830d5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1226319025,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1226319025,
+    "wof:lastmodified":1537590622,
+    "wof:name":"Bokpala",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93314,
+    7.46995,
+    15.93314,
+    7.46995
+],
+  "geometry": {"coordinates":[15.93314,7.46995],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343359475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82738,4.80268,15.82738,4.80268",
+    "geom:latitude":4.80268,
+    "geom:longitude":15.82738,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"2387494.0",
+    "gn:asciiname":"Yabira",
+    "gn:country_code":"CF",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382555,
+    "gn:latitude":4.80268,
+    "gn:longitude":15.82738,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yabira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669671,
+        1108759637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382555
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"e48b9a04e0fe7daa55c0a962d4d8ae29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759637,
+            "locality_id":1343359475,
+            "region_id":85669671
+        }
+    ],
+    "wof:id":1343359475,
+    "wof:lastmodified":1536891602,
+    "wof:name":"Yabira",
+    "wof:parent_id":1108759637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82738,
+    4.80268,
+    15.82738,
+    4.80268
+],
+  "geometry": {"coordinates":[15.82738,4.80268],"type":"Point"}
+}

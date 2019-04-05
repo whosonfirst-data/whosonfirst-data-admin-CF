@@ -1,0 +1,68 @@
+{
+  "id": 1310689459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07005,5.66627,20.07005,5.66627",
+    "geom:latitude":5.66627,
+    "geom:longitude":20.07005,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732377.0",
+    "gn:asciiname":"Gribanda",
+    "gn:country_code":"CF",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238716,
+    "gn:latitude":5.66627,
+    "gn:longitude":20.07005,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gribanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238716
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"4c839827d37baab7b01a48eb21157b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759657,
+            "locality_id":1310689459,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1310689459,
+    "wof:lastmodified":1536651381,
+    "wof:name":"Gribanda",
+    "wof:parent_id":1108759657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07005,
+    5.66627,
+    20.07005,
+    5.66627
+],
+  "geometry": {"coordinates":[20.07005,5.66627],"type":"Point"}
+}

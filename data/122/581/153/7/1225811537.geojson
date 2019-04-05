@@ -1,0 +1,68 @@
+{
+  "id": 1225811537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62313,4.36285,18.62313,4.36285",
+    "geom:latitude":4.36285,
+    "geom:longitude":18.62313,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7731897.0",
+    "gn:asciiname":"Ouango",
+    "gn:country_code":"CF",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383698,
+    "gn:latitude":4.36285,
+    "gn:longitude":18.62313,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ouango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669655,
+        1108759735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383698
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"c01999fbbbfb6c0ff5a49589f0508601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759735,
+            "locality_id":1225811537,
+            "region_id":85669655
+        }
+    ],
+    "wof:id":1225811537,
+    "wof:lastmodified":1537060473,
+    "wof:name":"Ouango",
+    "wof:parent_id":1108759735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62313,
+    4.36285,
+    18.62313,
+    4.36285
+],
+  "geometry": {"coordinates":[18.62313,4.36285],"type":"Point"}
+}

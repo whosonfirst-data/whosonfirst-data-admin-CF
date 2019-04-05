@@ -1,0 +1,73 @@
+{
+  "id": 1360181261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72817,5.22593,14.72817,5.22593",
+    "geom:latitude":5.22593,
+    "geom:longitude":14.72817,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"2390511.0",
+    "gn:asciiname":"Nguio-Bouar",
+    "gn:country_code":"CF",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383881,
+    "gn:latitude":5.22593,
+    "gn:longitude":14.72817,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nguio-Bouar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabatico",
+        "N\u2019Guia",
+        "Nguio-Bouar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669681,
+        1108759595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383881
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b14a3394941f9d7f117a0df08a8088f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759595,
+            "locality_id":1360181261,
+            "region_id":85669681
+        }
+    ],
+    "wof:id":1360181261,
+    "wof:lastmodified":1537590600,
+    "wof:name":"Nguio-Bouar",
+    "wof:parent_id":1108759595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72817,
+    5.22593,
+    14.72817,
+    5.22593
+],
+  "geometry": {"coordinates":[14.72817,5.22593],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259761421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19962,5.17439,20.19962,5.17439",
+    "geom:latitude":5.17439,
+    "geom:longitude":20.19962,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7731893.0",
+    "gn:asciiname":"Ngadza",
+    "gn:country_code":"CF",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":237319,
+    "gn:latitude":5.17439,
+    "gn:longitude":20.19962,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngadza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":237319
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a00982721f20d204c4242a8c77b82ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759663,
+            "locality_id":1259761421,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1259761421,
+    "wof:lastmodified":1536955026,
+    "wof:name":"Ngadza",
+    "wof:parent_id":1108759663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19962,
+    5.17439,
+    20.19962,
+    5.17439
+],
+  "geometry": {"coordinates":[20.19962,5.17439],"type":"Point"}
+}

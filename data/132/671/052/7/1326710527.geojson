@@ -1,0 +1,68 @@
+{
+  "id": 1326710527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93856,7.34137,16.93856,7.34137",
+    "geom:latitude":7.34137,
+    "geom:longitude":16.93856,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143479.0",
+    "gn:asciiname":"Bondji",
+    "gn:country_code":"CF",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388201,
+    "gn:latitude":7.34137,
+    "gn:longitude":16.93856,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388201
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"0a07a6998aaf972c7b2abeaa0de940e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759677,
+            "locality_id":1326710527,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1326710527,
+    "wof:lastmodified":1536727455,
+    "wof:name":"Bondji",
+    "wof:parent_id":1108759677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93856,
+    7.34137,
+    16.93856,
+    7.34137
+],
+  "geometry": {"coordinates":[16.93856,7.34137],"type":"Point"}
+}

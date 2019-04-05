@@ -1,0 +1,68 @@
+{
+  "id": 1243143679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.829,5.45844,16.829,5.45844",
+    "geom:latitude":5.45844,
+    "geom:longitude":16.829,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732372.0",
+    "gn:asciiname":"Bekabamga",
+    "gn:country_code":"CF",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389393,
+    "gn:latitude":5.45844,
+    "gn:longitude":16.829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00e9kabamga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389393
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"21b0e255fefa36a44fe5f759ba341c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759651,
+            "locality_id":1243143679,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1243143679,
+    "wof:lastmodified":1536744888,
+    "wof:name":"Bekabamga",
+    "wof:parent_id":1108759651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.829,
+    5.45844,
+    16.829,
+    5.45844
+],
+  "geometry": {"coordinates":[16.829,5.45844],"type":"Point"}
+}

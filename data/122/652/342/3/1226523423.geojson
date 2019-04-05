@@ -1,0 +1,68 @@
+{
+  "id": 1226523423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43333,6.86667,21.43333,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":21.43333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732067.0",
+    "gn:asciiname":"Tangounda",
+    "gn:country_code":"CF",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":236312,
+    "gn:latitude":6.86667,
+    "gn:longitude":21.43333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tangounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":236312
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d33b4203faced74abb4429408add9e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759659,
+            "locality_id":1226523423,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1226523423,
+    "wof:lastmodified":1537029019,
+    "wof:name":"Tangounda",
+    "wof:parent_id":1108759659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43333,
+    6.86667,
+    21.43333,
+    6.86667
+],
+  "geometry": {"coordinates":[21.43333,6.86667],"type":"Point"}
+}

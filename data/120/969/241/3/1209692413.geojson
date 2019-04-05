@@ -1,0 +1,62 @@
+{
+  "id": 1209692413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41628,7.01169,16.41628,7.01169",
+    "geom:latitude":7.01169,
+    "geom:longitude":16.41628,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"9143494.0",
+    "gn:asciiname":"Poungaro",
+    "gn:country_code":"CF",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2383312,
+    "gn:latitude":7.01169,
+    "gn:longitude":16.41628,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poungaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2383312
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b158d56eaf07da30d3887bbcda8cfb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209692413
+        }
+    ],
+    "wof:id":1209692413,
+    "wof:lastmodified":1536279194,
+    "wof:name":"Poungaro",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41628,
+    7.01169,
+    16.41628,
+    7.01169
+],
+  "geometry": {"coordinates":[16.41628,7.01169],"type":"Point"}
+}

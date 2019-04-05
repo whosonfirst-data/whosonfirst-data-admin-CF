@@ -1,0 +1,62 @@
+{
+  "id": 1209323567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10394,4.75106,21.10394,4.75106",
+    "geom:latitude":4.75106,
+    "geom:longitude":21.10394,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"9143474.0",
+    "gn:asciiname":"Bouyedou",
+    "gn:country_code":"CF",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":239931,
+    "gn:latitude":4.75106,
+    "gn:longitude":21.10394,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bouy\u00e9dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":239931
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"96d9dfbbbcc1245e293be7612c9cfdd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209323567
+        }
+    ],
+    "wof:id":1209323567,
+    "wof:lastmodified":1536290607,
+    "wof:name":"Bouyedou",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10394,
+    4.75106,
+    21.10394,
+    4.75106
+],
+  "geometry": {"coordinates":[21.10394,4.75106],"type":"Point"}
+}

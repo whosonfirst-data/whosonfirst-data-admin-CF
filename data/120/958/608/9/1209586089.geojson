@@ -1,0 +1,62 @@
+{
+  "id": 1209586089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15,7.33333,19.15,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":19.15,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9143469.0",
+    "gn:asciiname":"Baoulli",
+    "gn:country_code":"CF",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2389792,
+    "gn:latitude":7.33333,
+    "gn:longitude":19.15,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baoulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2389792
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"6d01138abab8046c23da8e25ef8ef4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209586089
+        }
+    ],
+    "wof:id":1209586089,
+    "wof:lastmodified":1536282632,
+    "wof:name":"Baoulli",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15,
+    7.33333,
+    19.15,
+    7.33333
+],
+  "geometry": {"coordinates":[19.15,7.33333],"type":"Point"}
+}

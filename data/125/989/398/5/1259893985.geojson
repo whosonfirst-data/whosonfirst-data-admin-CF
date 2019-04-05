@@ -1,0 +1,71 @@
+{
+  "id": 1259893985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51128,9.18856,20.51128,9.18856",
+    "geom:latitude":9.18856,
+    "geom:longitude":20.51128,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"9143460.0",
+    "gn:asciiname":"Manyibo",
+    "gn:country_code":"CF",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505205,
+    "gn:latitude":9.18856,
+    "gn:longitude":20.51128,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Manyibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manyibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669689,
+        1108759579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505205
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"3e6eed5a575d2c3294ab73c013bba3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759579,
+            "locality_id":1259893985,
+            "region_id":85669689
+        }
+    ],
+    "wof:id":1259893985,
+    "wof:lastmodified":1537590640,
+    "wof:name":"Manyibo",
+    "wof:parent_id":1108759579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51128,
+    9.18856,
+    20.51128,
+    9.18856
+],
+  "geometry": {"coordinates":[20.51128,9.18856],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344235283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79851,6.10012,20.79851,6.10012",
+    "geom:latitude":6.10012,
+    "geom:longitude":20.79851,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7732062.0",
+    "gn:asciiname":"Grelindji",
+    "gn:country_code":"CF",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":238722,
+    "gn:latitude":6.10012,
+    "gn:longitude":20.79851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gr\u00e9lindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669699,
+        1108759729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":238722
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"d0ecceca43253c4cbe0b645cc014968f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759729,
+            "locality_id":1344235283,
+            "region_id":85669699
+        }
+    ],
+    "wof:id":1344235283,
+    "wof:lastmodified":1536621331,
+    "wof:name":"Grelindji",
+    "wof:parent_id":1108759729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79851,
+    6.10012,
+    20.79851,
+    6.10012
+],
+  "geometry": {"coordinates":[20.79851,6.10012],"type":"Point"}
+}

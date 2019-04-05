@@ -1,0 +1,68 @@
+{
+  "id": 1259562751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82189,7.33455,15.82189,7.33455",
+    "geom:latitude":7.33455,
+    "geom:longitude":15.82189,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"9143493.0",
+    "gn:asciiname":"Boambele",
+    "gn:country_code":"CF",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6870094,
+    "gn:latitude":7.33455,
+    "gn:longitude":15.82189,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boamb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669685,
+        1108759597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6870094
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"a534afc446c55e6e4307dc34450637bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759597,
+            "locality_id":1259562751,
+            "region_id":85669685
+        }
+    ],
+    "wof:id":1259562751,
+    "wof:lastmodified":1536744467,
+    "wof:name":"Boambele",
+    "wof:parent_id":1108759597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82189,
+    7.33455,
+    15.82189,
+    7.33455
+],
+  "geometry": {"coordinates":[15.82189,7.33455],"type":"Point"}
+}

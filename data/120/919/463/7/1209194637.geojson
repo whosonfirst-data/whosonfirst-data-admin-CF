@@ -1,0 +1,66 @@
+{
+  "id": 1209194637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48161,7.29715,18.48161,7.29715",
+    "geom:latitude":7.29715,
+    "geom:longitude":18.48161,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"9143478.0",
+    "gn:asciiname":"Bokambay",
+    "gn:country_code":"CF",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388386,
+    "gn:latitude":7.29715,
+    "gn:longitude":18.48161,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bokambay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bocambaya",
+        "Bokambay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388386
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b460bb3743e35d8c687ffa74ac864657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632391,
+            "locality_id":1209194637
+        }
+    ],
+    "wof:id":1209194637,
+    "wof:lastmodified":1537590625,
+    "wof:name":"Bokambay",
+    "wof:parent_id":85632391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48161,
+    7.29715,
+    18.48161,
+    7.29715
+],
+  "geometry": {"coordinates":[18.48161,7.29715],"type":"Point"}
+}

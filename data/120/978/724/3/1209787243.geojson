@@ -1,0 +1,72 @@
+{
+  "id": 1209787243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58564,5.14209,17.58564,5.14209",
+    "geom:latitude":5.14209,
+    "geom:longitude":17.58564,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Boese",
+    "gn:country_code":"CF",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388541,
+    "gn:latitude":5.14209,
+    "gn:longitude":17.58564,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bo\u00e9s\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00e9s\u00e9",
+        "Bo\u00e9ss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669661,
+        1108759643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2388541
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"b904aede7de46b894d31b6b7631f6cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759643,
+            "locality_id":1209787243,
+            "region_id":85669661
+        }
+    ],
+    "wof:id":1209787243,
+    "wof:lastmodified":1537590627,
+    "wof:name":"Boese",
+    "wof:parent_id":1108759643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58564,
+    5.14209,
+    17.58564,
+    5.14209
+],
+  "geometry": {"coordinates":[17.58564,5.14209],"type":"Point"}
+}

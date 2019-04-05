@@ -1,0 +1,68 @@
+{
+  "id": 1343838103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35,6.7,17.35,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":17.35,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"7732115.0",
+    "gn:asciiname":"Tekekolo",
+    "gn:country_code":"CF",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2382909,
+    "gn:latitude":6.7,
+    "gn:longitude":17.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"T\u00e9k\u00e9kolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669701,
+        1108759673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2382909
+    },
+    "wof:country":"CF",
+    "wof:geomhash":"7ca2053cec2a944a4ff8f522a96635c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759673,
+            "locality_id":1343838103,
+            "region_id":85669701
+        }
+    ],
+    "wof:id":1343838103,
+    "wof:lastmodified":1536699157,
+    "wof:name":"Tekekolo",
+    "wof:parent_id":1108759673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35,
+    6.7,
+    17.35,
+    6.7
+],
+  "geometry": {"coordinates":[17.35,6.7],"type":"Point"}
+}
