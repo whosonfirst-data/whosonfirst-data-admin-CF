@@ -10,6 +10,12 @@
     "geom:latitude":9.058533,
     "geom:longitude":22.427515,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ouanda Djalle Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":8.976252,
     "lbl:longitude":22.416032,
     "meso:adm1_loc":"Vakaga",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759731,
-    "wof:lastmodified":1536615756,
+    "wof:lastmodified":1553718725,
     "wof:name":"Ouanda Djalle",
     "wof:parent_id":85669703,
     "wof:placetype":"county",

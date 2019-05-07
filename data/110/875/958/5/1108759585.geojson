@@ -10,6 +10,12 @@
     "geom:latitude":5.499717,
     "geom:longitude":26.350292,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Obo Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.497705,
     "lbl:longitude":26.388938,
     "meso:adm1_loc":"Haut-Mbomou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759585,
-    "wof:lastmodified":1536615750,
+    "wof:lastmodified":1553718719,
     "wof:name":"Obo",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

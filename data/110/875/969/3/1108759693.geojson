@@ -10,6 +10,12 @@
     "geom:latitude":7.345511,
     "geom:longitude":17.960568,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Batangafo Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.33114,
     "lbl:longitude":17.950613,
     "meso:adm1_loc":"Ouham",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759693,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Batangafo",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

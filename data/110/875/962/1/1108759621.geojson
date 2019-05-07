@@ -10,6 +10,12 @@
     "geom:latitude":4.366101,
     "geom:longitude":17.159069,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Boganda Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.390865,
     "lbl:longitude":17.201131,
     "meso:adm1_loc":"Lobaye",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759621,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718720,
     "wof:name":"Boganda",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

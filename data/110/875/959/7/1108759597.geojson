@@ -10,6 +10,12 @@
     "geom:latitude":7.277458,
     "geom:longitude":15.661107,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ngaoundaye Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.310621,
     "lbl:longitude":15.607061,
     "meso:adm1_loc":"Ouham Pend\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759597,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718720,
     "wof:name":"Ngaoundaye",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

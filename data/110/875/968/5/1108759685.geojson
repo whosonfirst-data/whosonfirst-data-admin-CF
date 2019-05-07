@@ -10,6 +10,12 @@
     "geom:latitude":5.225505,
     "geom:longitude":15.217998,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Abba Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.229194,
     "lbl:longitude":15.217979,
     "meso:adm1_loc":"Nana-Mamb\ufffdr\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759685,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Abba",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

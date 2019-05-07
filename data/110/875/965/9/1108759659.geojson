@@ -10,6 +10,12 @@
     "geom:latitude":6.597438,
     "geom:longitude":21.285002,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ippy Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.492789,
     "lbl:longitude":21.221787,
     "meso:adm1_loc":"Ouaka",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759659,
-    "wof:lastmodified":1536615753,
+    "wof:lastmodified":1553718722,
     "wof:name":"Ippy",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

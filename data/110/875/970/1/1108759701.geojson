@@ -10,6 +10,12 @@
     "geom:latitude":5.463664,
     "geom:longitude":26.974876,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bambouti Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.479231,
     "lbl:longitude":27.002142,
     "meso:adm1_loc":"Haut-Mbomou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759701,
-    "wof:lastmodified":1536615755,
+    "wof:lastmodified":1553718725,
     "wof:name":"Bambouti",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

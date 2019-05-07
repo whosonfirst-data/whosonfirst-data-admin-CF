@@ -10,6 +10,12 @@
     "geom:latitude":4.821986,
     "geom:longitude":15.102231,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Amada-Gaza Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.834637,
     "lbl:longitude":15.15538,
     "meso:adm1_loc":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef ",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759681,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Amada-Gaza",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

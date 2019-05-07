@@ -10,6 +10,12 @@
     "geom:latitude":5.152897,
     "geom:longitude":21.196048,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Alindao Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.959158,
     "lbl:longitude":21.281775,
     "meso:adm1_loc":"Basse-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759613,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718720,
     "wof:name":"Alindao",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

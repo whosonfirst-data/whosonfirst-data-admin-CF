@@ -10,6 +10,12 @@
     "geom:latitude":4.072798,
     "geom:longitude":17.317,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Boda Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.044638,
     "lbl:longitude":17.322819,
     "meso:adm1_loc":"Lobaye",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759727,
-    "wof:lastmodified":1536615756,
+    "wof:lastmodified":1553718724,
     "wof:name":"Boda",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

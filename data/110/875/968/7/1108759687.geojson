@@ -10,6 +10,12 @@
     "geom:latitude":4.780701,
     "geom:longitude":18.034244,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Boali Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.755703,
     "lbl:longitude":18.0266,
     "meso:adm1_loc":"Ombella M'Poko",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759687,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Boali",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

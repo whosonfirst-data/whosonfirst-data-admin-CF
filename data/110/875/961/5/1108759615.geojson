@@ -10,6 +10,12 @@
     "geom:latitude":4.497452,
     "geom:longitude":21.218306,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Mobaye Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.483029,
     "lbl:longitude":21.196646,
     "meso:adm1_loc":"Basse-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759615,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718720,
     "wof:name":"Mobaye",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

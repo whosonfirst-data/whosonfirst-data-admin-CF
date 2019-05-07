@@ -10,6 +10,12 @@
     "geom:latitude":6.275728,
     "geom:longitude":19.14904,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Dekoa Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.243725,
     "lbl:longitude":19.108084,
     "meso:adm1_loc":"K\u00e9mo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759719,
-    "wof:lastmodified":1536615756,
+    "wof:lastmodified":1553718724,
     "wof:name":"Dekoa",
     "wof:parent_id":85669697,
     "wof:placetype":"county",

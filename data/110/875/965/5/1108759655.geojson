@@ -10,6 +10,12 @@
     "geom:latitude":6.565175,
     "geom:longitude":20.392323,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bakala Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.571717,
     "lbl:longitude":20.347958,
     "meso:adm1_loc":"Ouaka",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759655,
-    "wof:lastmodified":1536615753,
+    "wof:lastmodified":1553718722,
     "wof:name":"Bakala",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

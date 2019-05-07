@@ -10,6 +10,12 @@
     "geom:latitude":6.765566,
     "geom:longitude":15.778644,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bocaranga Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.762646,
     "lbl:longitude":15.772181,
     "meso:adm1_loc":"Ouham Pend\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759721,
-    "wof:lastmodified":1536615756,
+    "wof:lastmodified":1553718725,
     "wof:name":"Bocaranga",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

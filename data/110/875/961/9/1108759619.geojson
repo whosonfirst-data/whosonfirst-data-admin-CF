@@ -10,6 +10,12 @@
     "geom:latitude":6.753691,
     "geom:longitude":22.004152,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bria Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.824238,
     "lbl:longitude":21.952149,
     "meso:adm1_loc":"Haute-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759619,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718720,
     "wof:name":"Bria",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

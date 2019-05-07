@@ -10,6 +10,12 @@
     "geom:latitude":8.742423,
     "geom:longitude":20.889399,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ndele Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":8.780615,
     "lbl:longitude":21.156755,
     "meso:adm1_loc":"Bamingui-Bangoran",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759579,
-    "wof:lastmodified":1536615749,
+    "wof:lastmodified":1553718718,
     "wof:name":"Ndele",
     "wof:parent_id":85669689,
     "wof:placetype":"county",

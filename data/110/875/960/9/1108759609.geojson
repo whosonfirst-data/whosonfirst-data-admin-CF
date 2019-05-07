@@ -10,6 +10,12 @@
     "geom:latitude":4.42845,
     "geom:longitude":22.539423,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ouango Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.38288,
     "lbl:longitude":22.49828,
     "meso:adm1_loc":"Mbomou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759609,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718719,
     "wof:name":"Ouango",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

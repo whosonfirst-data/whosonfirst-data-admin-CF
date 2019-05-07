@@ -10,6 +10,12 @@
     "geom:latitude":5.262749,
     "geom:longitude":17.616072,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bossembele Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.250473,
     "lbl:longitude":17.700983,
     "meso:adm1_loc":"Ombella M'Poko",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759643,
-    "wof:lastmodified":1536615752,
+    "wof:lastmodified":1553718721,
     "wof:name":"Bossembele",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

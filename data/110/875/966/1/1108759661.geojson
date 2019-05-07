@@ -10,6 +10,12 @@
     "geom:latitude":8.008445,
     "geom:longitude":22.4841,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ouadda Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":8.05286,
     "lbl:longitude":22.567776,
     "meso:adm1_loc":"Haute-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759661,
-    "wof:lastmodified":1536615753,
+    "wof:lastmodified":1553718722,
     "wof:name":"Ouadda",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

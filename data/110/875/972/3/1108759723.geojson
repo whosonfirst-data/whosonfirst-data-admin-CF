@@ -10,6 +10,12 @@
     "geom:latitude":5.334929,
     "geom:longitude":19.397485,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Ndjoukou Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.332326,
     "lbl:longitude":19.261114,
     "meso:adm1_loc":"K\u00e9mo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759723,
-    "wof:lastmodified":1536615756,
+    "wof:lastmodified":1553718724,
     "wof:name":"Ndjoukou",
     "wof:parent_id":85669697,
     "wof:placetype":"county",

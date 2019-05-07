@@ -10,6 +10,12 @@
     "geom:latitude":6.284137,
     "geom:longitude":16.347751,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bozoum Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.280623,
     "lbl:longitude":16.061134,
     "meso:adm1_loc":"Ouham Pend\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759691,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Bozoum",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

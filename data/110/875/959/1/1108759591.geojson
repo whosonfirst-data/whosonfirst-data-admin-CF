@@ -10,6 +10,12 @@
     "geom:latitude":3.762448,
     "geom:longitude":18.468995,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Mongoumba Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":3.741272,
     "lbl:longitude":18.49936,
     "meso:adm1_loc":"Lobaye",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759591,
-    "wof:lastmodified":1536615750,
+    "wof:lastmodified":1553718718,
     "wof:name":"Mongoumba",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

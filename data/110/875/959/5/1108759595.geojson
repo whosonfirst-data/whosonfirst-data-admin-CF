@@ -10,6 +10,12 @@
     "geom:latitude":5.787152,
     "geom:longitude":14.896118,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Baboua Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.881076,
     "lbl:longitude":14.887242,
     "meso:adm1_loc":"Nana-Mamb\ufffdr\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759595,
-    "wof:lastmodified":1536615750,
+    "wof:lastmodified":1553718719,
     "wof:name":"Baboua",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

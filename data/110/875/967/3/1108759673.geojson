@@ -10,6 +10,12 @@
     "geom:latitude":6.329234,
     "geom:longitude":17.339045,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bossangoa Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.188408,
     "lbl:longitude":17.327252,
     "meso:adm1_loc":"Ouham",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759673,
-    "wof:lastmodified":1536615753,
+    "wof:lastmodified":1553718722,
     "wof:name":"Bossangoa",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

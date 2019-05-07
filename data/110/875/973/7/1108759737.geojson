@@ -10,6 +10,12 @@
     "geom:latitude":4.543974,
     "geom:longitude":21.595023,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Kembe Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.541166,
     "lbl:longitude":21.589971,
     "meso:adm1_loc":"Basse-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759737,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1553718725,
     "wof:name":"Kembe",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.372838,
     "geom:longitude":18.286718,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bouca Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.355256,
     "lbl:longitude":18.274297,
     "meso:adm1_loc":"Ouham",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759695,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Bouca",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

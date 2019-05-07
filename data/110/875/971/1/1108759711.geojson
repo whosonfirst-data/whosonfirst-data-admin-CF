@@ -10,6 +10,12 @@
     "geom:latitude":3.502173,
     "geom:longitude":15.96786,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Nola Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":3.443325,
     "lbl:longitude":15.957995,
     "meso:adm1_loc":"Sangha-Mba\ufffdr\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759711,
-    "wof:lastmodified":1536615755,
+    "wof:lastmodified":1553718724,
     "wof:name":"Nola",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.882186,
     "geom:longitude":15.287711,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Dede-Mokouba Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":3.877153,
     "lbl:longitude":15.290768,
     "meso:adm1_loc":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef ",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759603,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718718,
     "wof:name":"Dede-Mokouba",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

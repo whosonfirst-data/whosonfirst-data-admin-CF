@@ -10,6 +10,12 @@
     "geom:latitude":4.000867,
     "geom:longitude":17.937838,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "M'Baiki Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":3.977659,
     "lbl:longitude":17.946536,
     "meso:adm1_loc":"Lobaye",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759623,
-    "wof:lastmodified":1536615752,
+    "wof:lastmodified":1553718720,
     "wof:name":"M'Baiki",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

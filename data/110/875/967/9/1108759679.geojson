@@ -10,6 +10,12 @@
     "geom:latitude":3.806138,
     "geom:longitude":16.787453,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bambio Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":3.823788,
     "lbl:longitude":16.732585,
     "meso:adm1_loc":"Sangha-Mba\ufffdr\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759679,
-    "wof:lastmodified":1536615754,
+    "wof:lastmodified":1553718723,
     "wof:name":"Bambio",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.400469,
     "geom:longitude":25.237455,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Zemio Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.560118,
     "lbl:longitude":25.311033,
     "meso:adm1_loc":"Haut-Mbomou",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759587,
-    "wof:lastmodified":1536615750,
+    "wof:lastmodified":1553718719,
     "wof:name":"Zemio",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

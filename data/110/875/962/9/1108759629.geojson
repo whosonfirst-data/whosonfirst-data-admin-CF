@@ -10,6 +10,12 @@
     "geom:latitude":6.21049,
     "geom:longitude":19.631264,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Mala Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":6.189273,
     "lbl:longitude":19.682302,
     "meso:adm1_loc":"K\u00e9mo",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759629,
-    "wof:lastmodified":1536615752,
+    "wof:lastmodified":1553718720,
     "wof:name":"Mala",
     "wof:parent_id":85669697,
     "wof:placetype":"county",

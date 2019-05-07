@@ -10,6 +10,12 @@
     "geom:latitude":7.376552,
     "geom:longitude":23.585641,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Yalinga Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.150521,
     "lbl:longitude":23.603234,
     "meso:adm1_loc":"Haute-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759703,
-    "wof:lastmodified":1536615755,
+    "wof:lastmodified":1553718724,
     "wof:name":"Yalinga",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

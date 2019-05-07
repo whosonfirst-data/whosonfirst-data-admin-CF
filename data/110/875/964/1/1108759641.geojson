@@ -10,6 +10,12 @@
     "geom:latitude":4.628954,
     "geom:longitude":20.82618,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Zangba Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.631938,
     "lbl:longitude":20.847642,
     "meso:adm1_loc":"Basse-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759641,
-    "wof:lastmodified":1536615752,
+    "wof:lastmodified":1553718721,
     "wof:name":"Zangba",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

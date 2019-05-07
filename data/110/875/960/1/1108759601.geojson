@@ -10,6 +10,12 @@
     "geom:latitude":7.156862,
     "geom:longitude":16.42733,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Paoua Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.153324,
     "lbl:longitude":16.419273,
     "meso:adm1_loc":"Ouham Pend\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759601,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718719,
     "wof:name":"Paoua",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

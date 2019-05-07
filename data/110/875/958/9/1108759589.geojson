@@ -10,6 +10,12 @@
     "geom:latitude":4.37734,
     "geom:longitude":21.893183,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Satema Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.368019,
     "lbl:longitude":21.917079,
     "meso:adm1_loc":"Basse-Kotto",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759589,
-    "wof:lastmodified":1536615750,
+    "wof:lastmodified":1553718718,
     "wof:name":"Satema",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

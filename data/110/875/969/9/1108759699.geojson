@@ -10,6 +10,12 @@
     "geom:latitude":7.0637,
     "geom:longitude":16.919499,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Nanga-Boguila Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.065405,
     "lbl:longitude":16.915412,
     "meso:adm1_loc":"Ouham",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759699,
-    "wof:lastmodified":1536615755,
+    "wof:lastmodified":1553718723,
     "wof:name":"Nanga-Boguila",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

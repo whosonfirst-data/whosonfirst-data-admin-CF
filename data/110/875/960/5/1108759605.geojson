@@ -10,6 +10,12 @@
     "geom:latitude":2.875433,
     "geom:longitude":16.307778,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bayanga Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":2.715595,
     "lbl:longitude":16.268134,
     "meso:adm1_loc":"Sangha-Mba\ufffdr\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759605,
-    "wof:lastmodified":1536615751,
+    "wof:lastmodified":1553718719,
     "wof:name":"Bayanga",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

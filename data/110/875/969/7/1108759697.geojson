@@ -10,6 +10,12 @@
     "geom:latitude":6.971816,
     "geom:longitude":17.379411,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Nana-Bakassa Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.002557,
     "lbl:longitude":17.362536,
     "meso:adm1_loc":"Ouham",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759697,
-    "wof:lastmodified":1536615755,
+    "wof:lastmodified":1553718723,
     "wof:name":"Nana-Bakassa",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.948415,
     "geom:longitude":16.541812,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bossemptele Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":5.883605,
     "lbl:longitude":16.515023,
     "meso:adm1_loc":"Ouham Pend\ufffd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759667,
-    "wof:lastmodified":1536615753,
+    "wof:lastmodified":1553718722,
     "wof:name":"Bossemptele",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

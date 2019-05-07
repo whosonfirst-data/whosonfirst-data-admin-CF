@@ -10,6 +10,12 @@
     "geom:latitude":7.238223,
     "geom:longitude":19.218165,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Kaga-Bandoro Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":7.067988,
     "lbl:longitude":19.256815,
     "meso:adm1_loc":"Nana-Gribizi",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759631,
-    "wof:lastmodified":1536615752,
+    "wof:lastmodified":1553718721,
     "wof:name":"Kaga-Bandoro",
     "wof:parent_id":85669693,
     "wof:placetype":"county",

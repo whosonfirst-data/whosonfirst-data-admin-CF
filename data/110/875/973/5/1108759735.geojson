@@ -10,6 +10,12 @@
     "geom:latitude":4.379529,
     "geom:longitude":18.565811,
     "iso:country":"CF",
+    "label:eng_x_preferred_longname":[
+        "Bangui Sub-Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sub-prefecture"
+    ],
     "lbl:latitude":4.365897,
     "lbl:longitude":18.554909,
     "meso:adm1_loc":"Bangui",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108759735,
-    "wof:lastmodified":1536615757,
+    "wof:lastmodified":1553718724,
     "wof:name":"Bangui",
     "wof:parent_id":85669655,
     "wof:placetype":"county",
