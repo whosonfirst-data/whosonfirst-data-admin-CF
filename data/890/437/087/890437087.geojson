@@ -15,22 +15,22 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kouango"
-    ],
     "name:eng_x_preferred":[
         "Kouango"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kouango"
     ],
     "name:ita_x_preferred":[
         "Kouango"
     ],
+    "name:nld_x_preferred":[
+        "Kouango"
+    ],
     "name:pol_x_preferred":[
         "Kouango"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kouango"
     ],
     "name:rus_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890437087,
-    "wof:lastmodified":1527729752,
+    "wof:lastmodified":1561845072,
     "wof:name":"Kouango",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

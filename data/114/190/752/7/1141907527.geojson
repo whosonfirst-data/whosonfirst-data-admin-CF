@@ -19,13 +19,13 @@
     "name:cat_x_preferred":[
         "Zemio"
     ],
-    "name:dut_x_preferred":[
-        "Zemio"
-    ],
     "name:eng_x_preferred":[
         "Zemio"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Z\u00e9mio"
     ],
     "name:ita_x_preferred":[
@@ -34,8 +34,8 @@
     "name:jpn_x_preferred":[
         "\u30bc\u30df\u30aa"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0645\u06cc\u0648"
+    "name:nld_x_preferred":[
+        "Zemio"
     ],
     "name:pol_x_preferred":[
         "Zemio"
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":1141907527,
-    "wof:lastmodified":1534379250,
+    "wof:lastmodified":1561845078,
     "wof:name":"Zemio",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",

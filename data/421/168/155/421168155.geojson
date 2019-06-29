@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Boda"
     ],
-    "name:dut_x_preferred":[
-        "Boda"
-    ],
     "name:eng_x_preferred":[
         "Boda"
     ],
@@ -31,25 +28,19 @@
     "name:fra_x_preferred":[
         "Boda"
     ],
-    "name:fre_x_preferred":[
-        "Boda"
-    ],
     "name:ita_x_preferred":[
         "Boda"
     ],
     "name:new_x_preferred":[
         "\u092c\u094b\u0921\u093e"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062f\u0627\u060c \u0644\u0648\u0628\u0627\u06cc\u0647"
+    "name:nld_x_preferred":[
+        "Boda"
     ],
     "name:pol_x_preferred":[
         "Boda"
     ],
     "name:ron_x_preferred":[
-        "Boda"
-    ],
-    "name:rum_x_preferred":[
         "Boda"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":421168155,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1561845071,
     "wof:name":"Boda",
     "wof:parent_id":1108759727,
     "wof:placetype":"locality",

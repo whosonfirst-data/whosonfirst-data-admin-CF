@@ -25,17 +25,14 @@
     "name:ceb_x_preferred":[
         "Bimbo"
     ],
-    "name:chi_x_preferred":[
-        "\u8cd3\u535a"
-    ],
     "name:dan_x_preferred":[
         "Bimbo"
     ],
     "name:deu_x_preferred":[
         "Bimbo"
     ],
-    "name:dut_x_preferred":[
-        "Bimbo"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bimbo"
@@ -49,20 +46,8 @@
     "name:fra_x_preferred":[
         "Bimbo"
     ],
-    "name:fre_x_preferred":[
-        "Bimbo"
-    ],
     "name:frr_x_preferred":[
         "Bimbo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10db\u10d1\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Bimbo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03bc\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0aae\u0acd\u0aac\u0acb"
@@ -88,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbf\u0c82\u0cac\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10db\u10d1\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ube54\ubcf4"
     ],
@@ -100,7 +88,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0902\u092c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bimbo"
     ],
     "name:nld_x_preferred":[
@@ -116,9 +104,6 @@
         "Bimbo"
     ],
     "name:ron_x_preferred":[
-        "Bimbo"
-    ],
-    "name:rum_x_preferred":[
         "Bimbo"
     ],
     "name:rus_x_preferred":[
@@ -222,7 +207,7 @@
         }
     ],
     "wof:id":421167675,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561845071,
     "wof:name":"Bimo",
     "wof:parent_id":1108759733,
     "wof:placetype":"locality",

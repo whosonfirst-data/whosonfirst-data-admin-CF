@@ -29,17 +29,11 @@
     "name:afr_x_preferred":[
         "Bangui"
     ],
-    "name:alb_x_preferred":[
-        "Bangui"
-    ],
     "name:amh_x_preferred":[
         "\u1263\u1295\u130a"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u063a\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0576\u0563\u056b"
     ],
     "name:ast_x_preferred":[
         "Bangui"
@@ -47,14 +41,14 @@
     "name:aze_x_preferred":[
         "Bangi"
     ],
-    "name:baq_x_preferred":[
-        "Bangi"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0999\u09cd\u0997\u09c1\u0987"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f44\u0f0b\u0f42\u0f74\u0f60\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Bangui"
@@ -71,11 +65,11 @@
     "name:cdo_x_preferred":[
         "Bangui"
     ],
+    "name:ces_x_preferred":[
+        "Bangui"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u73ed\u57fa"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0646\u06af\u06cc"
@@ -83,14 +77,17 @@
     "name:cor_x_preferred":[
         "Bangui"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bangui"
     ],
     "name:dan_x_preferred":[
         "Bangui"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bangui"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03b3\u03ba\u03af"
     ],
     "name:eng_x_preferred":[
         "Bangui Prefecture"
@@ -104,13 +101,16 @@
     "name:est_x_preferred":[
         "Bangui"
     ],
+    "name:eus_x_preferred":[
+        "Bangi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u06af\u0648\u0626\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bangui"
     ],
     "name:fra_x_preferred":[
-        "Bangui"
-    ],
-    "name:fre_x_preferred":[
         "Bangui"
     ],
     "name:frp_x_preferred":[
@@ -122,12 +122,6 @@
     "name:fry_x_preferred":[
         "Bangui"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bangui"
-    ],
     "name:gla_x_preferred":[
         "Bangui"
     ],
@@ -136,9 +130,6 @@
     ],
     "name:glg_x_preferred":[
         "Bangui"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03b3\u03ba\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0a97\u0ac1\u0a88"
@@ -164,8 +155,8 @@
     "name:hun_x_preferred":[
         "Bangui"
     ],
-    "name:ice_x_preferred":[
-        "Bangv\u00ed"
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0563\u056b"
     ],
     "name:ido_x_preferred":[
         "Bangui"
@@ -175,6 +166,9 @@
     ],
     "name:ind_x_preferred":[
         "Bangui"
+    ],
+    "name:isl_x_preferred":[
+        "Bangv\u00ed"
     ],
     "name:ita_x_preferred":[
         "Bangui"
@@ -190,6 +184,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0c82\u0c97\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d2\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0438"
@@ -227,20 +224,20 @@
     "name:ltz_x_preferred":[
         "Bangui"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043d\u0433\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d3e\u0d7b\u0d17\u0d41\u0d2f\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0902\u0917\u0941\u0908"
     ],
-    "name:may_x_preferred":[
-        "Bangui"
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u0438"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Bangui"
     ],
     "name:nah_x_preferred":[
         "Bangui"
@@ -249,6 +246,9 @@
         "Bangui"
     ],
     "name:nds_x_preferred":[
+        "Bangui"
+    ],
+    "name:nld_x_preferred":[
         "Bangui"
     ],
     "name:nno_x_preferred":[
@@ -272,9 +272,6 @@
     "name:pan_x_preferred":[
         "\u0a2c\u0a3e\u0a02\u0a17\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u06af\u0648\u0626\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Bangui"
     ],
@@ -287,7 +284,7 @@
     "name:por_x_preferred":[
         "Bangui"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bangui"
     ],
     "name:rup_x_preferred":[
@@ -305,7 +302,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dcf\u0db1\u0dca\u0d9c\u0dd3"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bangui"
     ],
     "name:slv_x_preferred":[
@@ -318,6 +315,9 @@
         "Bangui"
     ],
     "name:spa_x_preferred":[
+        "Bangui"
+    ],
+    "name:sqi_x_preferred":[
         "Bangui"
     ],
     "name:srp_x_preferred":[
@@ -346,9 +346,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e07\u0e01\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f44\u0f0b\u0f42\u0f74\u0f60\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Bangi"
@@ -389,9 +386,6 @@
     "name:war_x_preferred":[
         "Bangui"
     ],
-    "name:wel_x_preferred":[
-        "Bangui"
-    ],
     "name:wol_x_preferred":[
         "Bangi"
     ],
@@ -405,6 +399,9 @@
         "Bangui"
     ],
     "name:yue_x_preferred":[
+        "\u73ed\u57fa"
+    ],
+    "name:zho_x_preferred":[
         "\u73ed\u57fa"
     ],
     "ne:abbrev":"",
@@ -534,7 +531,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1553550321,
+    "wof:lastmodified":1561845060,
     "wof:name":"Bangui",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

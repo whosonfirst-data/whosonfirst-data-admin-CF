@@ -16,17 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Kaga Bandoro"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u063a\u0627 \u0628\u0627\u0646\u062f\u0648\u0631\u0648"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09b9\u09c0\u09b6\u09c2\u09b0"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u52a0\u73ed\u591a\u7f85"
     ],
     "name:dan_x_preferred":[
         "Kaga-Bandoro"
@@ -34,8 +28,8 @@
     "name:deu_x_preferred":[
         "Kaga-Bandoro"
     ],
-    "name:dut_x_preferred":[
-        "Kaga Bandoro"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b3\u03ba\u03b1-\u039c\u03c0\u03b1\u03bd\u03c4\u03cc\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kaga-Bandoro"
@@ -43,14 +37,8 @@
     "name:fin_x_preferred":[
         "Kaga-Bandoro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaga-Bandoro"
-    ],
-    "name:ger_x_preferred":[
-        "Kaga-Bandoro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b3\u03ba\u03b1-\u039c\u03c0\u03b1\u03bd\u03c4\u03cc\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a97\u0abe-\u0aac\u0abe\u0a82\u0aa6\u0acb\u0ab0\u0acb"
@@ -82,8 +70,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0917\u093e-\u092c\u093e\u0902\u0902\u0921\u094b\u0930\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kaga-Bandoro"
+    ],
+    "name:nld_x_preferred":[
+        "Kaga Bandoro"
     ],
     "name:nob_x_preferred":[
         "Kaga-Bandoro"
@@ -94,7 +85,7 @@
     "name:por_x_preferred":[
         "Kaga Bandoro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kaga-Bandoro"
     ],
     "name:rus_x_preferred":[
@@ -108,6 +99,9 @@
     ],
     "name:spa_x_preferred":[
         "Kaga-Bandoro"
+    ],
+    "name:sqi_x_preferred":[
+        "Kaga Bandoro"
     ],
     "name:swe_x_preferred":[
         "Kaga Bandoro"
@@ -138,6 +132,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10d2\u10d0-\u10d1\u10d0\u10dc\u10d3\u10dd\u10e0\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u52a0\u73ed\u591a\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Central African Republic",
@@ -266,7 +263,7 @@
         }
     ],
     "wof:id":890425733,
-    "wof:lastmodified":1527727166,
+    "wof:lastmodified":1561845072,
     "wof:name":"Kaga Bandoro",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

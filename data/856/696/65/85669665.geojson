@@ -26,9 +26,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Basse-Kotto"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0633-\u0643\u0648\u062a\u0648"
     ],
@@ -47,17 +44,14 @@
     "name:ceb_x_preferred":[
         "Basse-Kotto"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0b\u79d1\u6258\u7701"
-    ],
     "name:dan_x_preferred":[
         "Basse-Kotto"
     ],
     "name:deu_x_preferred":[
         "Basse-Kotto"
     ],
-    "name:dut_x_preferred":[
-        "Basse-Kotto"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c3\u03c3\u03b5-\u039a\u03cc\u03c4\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Basse-Kotto"
@@ -73,18 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Basse-Kotto"
-    ],
-    "name:fre_x_preferred":[
-        "Basse-Kotto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d5\u10d4\u10db\u10dd \u10d9\u10dd\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Basse-Kotto"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03c3\u03c3\u03b5-\u039a\u03cc\u03c4\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab8\u0ac7-\u0a95\u0acb\u0a9f\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0acd\u0a9a\u0ab0"
@@ -104,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cb8\u0ccd-\u0c95\u0cca\u0c9f\u0cca \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10d9\u10dd\u10e2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\uc2a4\ucf54\ud1a0 \uc8fc"
     ],
@@ -116,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0938\u0938\u0940-\u0915\u094b\u091f\u094b \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0905\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Basse-Kotto Prefecture"
     ],
     "name:nld_x_preferred":[
@@ -138,9 +123,6 @@
         "Basse-Kotto"
     ],
     "name:ron_x_preferred":[
-        "Prefectura Basse-Kotto"
-    ],
-    "name:rum_x_preferred":[
         "Prefectura Basse-Kotto"
     ],
     "name:rus_x_preferred":[
@@ -317,7 +299,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1553550322,
+    "wof:lastmodified":1561845059,
     "wof:name":"Basse-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
