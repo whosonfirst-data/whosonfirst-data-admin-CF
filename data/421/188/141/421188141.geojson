@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Bria"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0627"
     ],
@@ -26,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Bria"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u91cc\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Bria"
     ],
     "name:deu_x_preferred":[
         "Bria"
     ],
-    "name:dut_x_preferred":[
-        "Bria"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bria"
@@ -50,17 +44,8 @@
     "name:fra_x_preferred":[
         "Bria"
     ],
-    "name:fre_x_preferred":[
-        "Bria"
-    ],
     "name:frr_x_preferred":[
         "Bria"
-    ],
-    "name:ger_x_preferred":[
-        "Bria"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abf\u0aaf\u0abe"
@@ -92,9 +77,6 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Bria"
-    ],
     "name:msa_x_preferred":[
         "Bria"
     ],
@@ -104,9 +86,6 @@
     "name:nob_x_preferred":[
         "Bria"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Bria"
     ],
@@ -114,9 +93,6 @@
         "Bria"
     ],
     "name:ron_x_preferred":[
-        "Bria"
-    ],
-    "name:rum_x_preferred":[
         "Bria"
     ],
     "name:rus_x_preferred":[
@@ -163,6 +139,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u91cc\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u91cc\u4e9e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Central African Republic",
@@ -306,7 +285,7 @@
         }
     ],
     "wof:id":421188141,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1561845071,
     "wof:name":"Bria",
     "wof:parent_id":1108759619,
     "wof:placetype":"locality",

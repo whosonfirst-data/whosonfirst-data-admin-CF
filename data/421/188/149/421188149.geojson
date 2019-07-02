@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Ippy"
     ],
-    "name:dut_x_preferred":[
-        "Ippy"
-    ],
     "name:eng_x_preferred":[
         "Ippy"
     ],
@@ -28,22 +25,16 @@
     "name:fra_x_preferred":[
         "Ippy"
     ],
-    "name:fre_x_preferred":[
-        "Ippy"
-    ],
     "name:ita_x_preferred":[
         "Ippy"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u067e\u06cc"
+    "name:nld_x_preferred":[
+        "Ippy"
     ],
     "name:pol_x_preferred":[
         "Ippy"
     ],
     "name:ron_x_preferred":[
-        "Ippy"
-    ],
-    "name:rum_x_preferred":[
         "Ippy"
     ],
     "name:rus_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421188149,
-    "wof:lastmodified":1527716298,
+    "wof:lastmodified":1561845071,
     "wof:name":"Ippy",
     "wof:parent_id":1108759659,
     "wof:placetype":"locality",

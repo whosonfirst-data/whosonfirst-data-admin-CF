@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Ouadda"
     ],
-    "name:dut_x_preferred":[
-        "Ouadda"
-    ],
     "name:eng_x_preferred":[
         "Ouadda"
     ],
@@ -33,14 +30,14 @@
         "Uadda",
         "Quadda"
     ],
-    "name:fre_x_preferred":[
-        "Ouadda"
-    ],
     "name:ita_x_preferred":[
         "Ouadda"
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30c3\u30c0"
+    ],
+    "name:nld_x_preferred":[
+        "Ouadda"
     ],
     "name:pol_x_preferred":[
         "Ouadda"
@@ -49,9 +46,6 @@
         "Ouadda"
     ],
     "name:ron_x_preferred":[
-        "Ouadda"
-    ],
-    "name:rum_x_preferred":[
         "Ouadda"
     ],
     "name:sag_x_preferred":[
@@ -203,7 +197,7 @@
         }
     ],
     "wof:id":421179659,
-    "wof:lastmodified":1527717706,
+    "wof:lastmodified":1561845072,
     "wof:name":"Ouadda",
     "wof:parent_id":1108759661,
     "wof:placetype":"locality",

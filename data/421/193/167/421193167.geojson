@@ -22,14 +22,14 @@
     "name:ceb_x_preferred":[
         "Paoua"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paoua"
     ],
     "name:dan_x_preferred":[
         "Paoua"
     ],
-    "name:dut_x_preferred":[
-        "Paoua"
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Paoua"
@@ -39,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Paoua"
-    ],
-    "name:fre_x_preferred":[
-        "Paoua"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acc\u0a86"
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094c\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Paoua"
+    ],
+    "name:nld_x_preferred":[
         "Paoua"
     ],
     "name:nob_x_preferred":[
@@ -92,9 +89,6 @@
         "Paoua"
     ],
     "name:ron_x_preferred":[
-        "Paoua"
-    ],
-    "name:rum_x_preferred":[
         "Paoua"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +178,7 @@
         }
     ],
     "wof:id":421193167,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561845071,
     "wof:name":"Paoua",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

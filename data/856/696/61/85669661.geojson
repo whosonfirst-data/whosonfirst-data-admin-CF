@@ -26,9 +26,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Ombella-M'Poko"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0628\u0644\u0627\u0645\u0628\u0648\u0643\u0648"
     ],
@@ -47,17 +44,14 @@
     "name:ceb_x_preferred":[
         "Ombella-Mpoko"
     ],
-    "name:chi_x_preferred":[
-        "\u7fc1\u8c9d\u62c9\uff0d\u59c6\u6ce2\u79d1\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ombella-M'Poko Prefecture"
     ],
     "name:deu_x_preferred":[
         "Ombella-Mpoko"
     ],
-    "name:dut_x_preferred":[
-        "Ombella-M'Poko"
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03c0\u03ad\u03bb\u03b1-\u039c\u03c0\u03cc\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ombella-M'Poko"
@@ -80,18 +74,6 @@
     "name:fra_x_variant":[
         "Ombella-Mpoko"
     ],
-    "name:fre_x_preferred":[
-        "Ombella-M'Poko"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10db\u10d1\u10d4\u10da\u10d0-\u10db\u10de\u10dd\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Ombella-Mpoko"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bc\u03c0\u03ad\u03bb\u03b1-\u039c\u03c0\u03cc\u03ba\u03bf"
-    ],
     "name:guj_x_preferred":[
         "\u0a91\u0aae\u0acd\u0aac\u0ac7\u0ab2\u0abe-\u0aae\u0aaa\u0acb\u0a95\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
     ],
@@ -110,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0c82\u0cac\u0cc6\u0cb2\u0ccd\u0cb2\u0cbe- \u0c8e\u0c82 \u0caa\u0cca\u0c95\u0cca \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10db\u10d1\u10d4\u10da\u10d0-\u10db\u10de\u10dd\u10d9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc634\ubca8\ub77c\uc74c\ud3ec\ucf54 \uc8fc"
     ],
@@ -122,7 +107,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092e\u094d\u092c\u0947\u0932\u093e-\u092e\u094b\u092a\u094b\u0915 \u092a\u094d\u0930\u0940\u092b\u093e\u092f\u091a\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ombella-M'Poko Prefecture"
     ],
     "name:nld_x_preferred":[
@@ -134,9 +119,6 @@
     "name:nor_x_preferred":[
         "Ombella-Mpoko"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0645\u0628\u0644\u0627\u0645\u067e\u0648\u06a9\u0648"
-    ],
     "name:pol_x_preferred":[
         "Ombella-Mpoko"
     ],
@@ -144,9 +126,6 @@
         "Ombella-M'Poko"
     ],
     "name:ron_x_preferred":[
-        "Ombella-M'Poko"
-    ],
-    "name:rum_x_preferred":[
         "Ombella-M'Poko"
     ],
     "name:rus_x_preferred":[
@@ -196,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7fc1\u8c9d\u62c9-\u59c6\u6ce2\u79d1\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u7fc1\u8c9d\u62c9\uff0d\u59c6\u6ce2\u79d1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CAF",
@@ -323,7 +305,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1553550321,
+    "wof:lastmodified":1561845058,
     "wof:name":"Ombella M'Poko",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

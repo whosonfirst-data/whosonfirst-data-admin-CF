@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Bouar"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0631"
     ],
@@ -26,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Bouar"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u963f\u723e"
-    ],
     "name:dan_x_preferred":[
         "Bouar"
     ],
     "name:deu_x_preferred":[
         "Bouar"
     ],
-    "name:dut_x_preferred":[
-        "Bouar"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bouar"
@@ -47,17 +41,8 @@
     "name:fra_x_preferred":[
         "Bouar"
     ],
-    "name:fre_x_preferred":[
-        "Bouar"
-    ],
     "name:frr_x_preferred":[
         "Bouar"
-    ],
-    "name:ger_x_preferred":[
-        "Bouar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a86\u0ab0"
@@ -89,7 +74,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0935\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bouar"
     ],
     "name:nds_x_preferred":[
@@ -108,9 +93,6 @@
         "Bouar"
     ],
     "name:ron_x_preferred":[
-        "Bouar"
-    ],
-    "name:rum_x_preferred":[
         "Bouar"
     ],
     "name:rus_x_preferred":[
@@ -306,7 +288,7 @@
         }
     ],
     "wof:id":421188143,
-    "wof:lastmodified":1527716282,
+    "wof:lastmodified":1561845071,
     "wof:name":"Bouar",
     "wof:parent_id":1108759639,
     "wof:placetype":"locality",

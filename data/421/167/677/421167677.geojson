@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Batangafo"
     ],
-    "name:dut_x_preferred":[
-        "Batangafo"
-    ],
     "name:eng_x_preferred":[
         "Batangafo"
     ],
@@ -28,25 +25,19 @@
     "name:fra_x_preferred":[
         "Batangafo"
     ],
-    "name:fre_x_preferred":[
-        "Batangafo"
-    ],
     "name:ita_x_preferred":[
         "Batangafo"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30bf\u30f3\u30ac\u30d5\u30a9"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062a\u0627\u0646\u06af\u0627\u0641\u0648"
+    "name:nld_x_preferred":[
+        "Batangafo"
     ],
     "name:pol_x_preferred":[
         "Batangafo"
     ],
     "name:ron_x_preferred":[
-        "Batangafo"
-    ],
-    "name:rum_x_preferred":[
         "Batangafo"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":421167677,
-    "wof:lastmodified":1527716160,
+    "wof:lastmodified":1561845071,
     "wof:name":"Batangafo",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",
