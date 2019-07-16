@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0648\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0632\u0648\u0645"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u099c\u09c1\u09c1\u09c1\u0989\u09ae"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421199099,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299835,
     "wof:name":"Bozoum",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",

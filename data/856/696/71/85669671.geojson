@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0645\u0628\u0631\u0629 \u0643\u0627\u062f\u064a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09ae\u09cd\u09ac\u09be\u09b0-\u0995\u09be\u09a6\u09c7\u0987"
+    ],
     "name:bre_x_preferred":[
         "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     ],
@@ -41,8 +44,14 @@
     "name:ceb_x_preferred":[
         "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     ],
+    "name:dan_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
     "name:deu_x_preferred":[
         "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bc\u03c0\u03ad\u03c1\u03b5-\u039a\u03b1\u03bd\u03c4\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef Prefecture"
@@ -69,20 +78,62 @@
     "name:fra_x_variant":[
         "Haute-Sangha"
     ],
+    "name:frr_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0aae\u0acd\u0aac\u0ac7\u0ab0\u0ac7-\u0a95\u0abe\u0aa1\u0ac7\u0a87"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u092e\u094d\u092c\u0930\u0947-\u0915\u0948\u0921\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
     "name:ita_x_preferred":[
         "Prefettura di Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30d9\u30ec\u30fb\u30ab\u30c7\u30a4\u5dde"
     ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c82\u0cac\u0cc6\u0cb0\u0cc6-\u0c95\u0ccd\u0caf\u0cbe\u0ca1\u0cc6\u0caf\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10db\u10d1\u10d4\u10e0\u10d4-\u10d9\u10d0\u10d3\u10d4\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9d8\ubca0\ub808\uce74\ub370\uc774 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Mambere-Kadei"
     ],
     "name:lit_x_preferred":[
         "Mamber\u0117\u2013Kad\u0117jus"
     ],
+    "name:lit_x_variant":[
+        "Mamber\u0117-Kad\u0117jus"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u092e\u094d\u092c\u0930\u0947-\u0915\u0945\u0921\u093f\u090f"
+    ],
+    "name:msa_x_preferred":[
+        "Mambere-Kadei"
+    ],
+    "name:nld_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:nob_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
     "name:pol_x_preferred":[
         "Prefektura Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:por_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:ron_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u0431\u0435\u0440\u0435-\u041a\u0430\u0434\u0435\u0438"
@@ -90,8 +141,29 @@
     "name:sag_x_preferred":[
         "S\u00ease t\u00ee k\u00f6m\u00e4nd\u00e2-k\u00f6t\u00e4 t\u00ee Mambere-Kadei"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db8\u0dca\u0db6\u0dda\u0dbb\u0dda-\u0d9a\u0da9\u0dda\u0dba\u0dd2"
+    ],
     "name:spa_x_preferred":[
         "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:sqi_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:swe_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bae\u0bcd\u0baa\u0bc6\u0bb0\u0bc7-\u0b95\u0ba4\u0bbf\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c30\u0c4d-\u0c15\u0c21\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e21\u0e21\u0e40\u0e1a\u0e40\u0e23\u0e48 \u0e04\u0e32\u0e40\u0e14\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kadei"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043c\u0431\u0435\u0440\u0435-\u041a\u0430\u0434\u0435\u0457"
@@ -104,6 +176,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0645\u0628\u06cc\u0631\u06d2-\u06a9\u0627\u062f\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mamb\u00e9r\u00e9-Kad\u00e9i"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10db\u10d1\u10d4\u10e0\u10d4-\u10d9\u10d0\u10d3\u10d4\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u8c9d\u96f7-\u5361\u4ee3\u7701"
@@ -234,7 +312,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1553550313,
+    "wof:lastmodified":1563299323,
     "wof:name":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

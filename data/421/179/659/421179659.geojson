@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Ouadda"
     ],
+    "name:deu_x_preferred":[
+        "Ouadda"
+    ],
     "name:eng_x_preferred":[
         "Ouadda"
     ],
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421179659,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299835,
     "wof:name":"Ouadda",
     "wof:parent_id":1108759661,
     "wof:placetype":"locality",

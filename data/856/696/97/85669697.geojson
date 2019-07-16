@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u064a\u0645\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u064a\u0645\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cb \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:fra_x_variant":[
         "Kemo-Gribingui"
+    ],
+    "name:frr_x_preferred":[
+        "K\u00e9mo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
@@ -170,6 +176,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh K\u00e9mo"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d4\u10db\u10dd\u10e8 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u83ab\u7701"
@@ -300,7 +309,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845060,
+    "wof:lastmodified":1563299321,
     "wof:name":"K\u00e9mo",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

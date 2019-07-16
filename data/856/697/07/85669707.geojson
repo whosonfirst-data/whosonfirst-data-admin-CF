@@ -72,6 +72,9 @@
     "name:fra_x_variant":[
         "Haute-Mbomou"
     ],
+    "name:frr_x_preferred":[
+        "Haut-Mbomou"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acc\u0a9f-\u0aae\u0acb\u0aac\u0acb\u0aae\u0acb \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
     ],
@@ -173,6 +176,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Haut-Mbomou"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10df\u10d8\u10db\u10dd\u10da\u10d4\u10dc\u10d8 \u10db\u10d1\u10dd\u10db\u10e3"
     ],
     "name:zho_x_preferred":[
         "\u4e0a\u59c6\u535a\u7a46\u7701"
@@ -304,7 +310,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845057,
+    "wof:lastmodified":1563299308,
     "wof:name":"Haut-Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

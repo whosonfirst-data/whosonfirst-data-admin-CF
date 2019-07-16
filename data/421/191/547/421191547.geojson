@@ -101,6 +101,9 @@
     "name:pol_x_preferred":[
         "Berberati"
     ],
+    "name:pol_x_variant":[
+        "Berb\u00e9rati"
+    ],
     "name:por_x_preferred":[
         "Berb\u00e9rati"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421191547,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299834,
     "wof:name":"Berb\u00e9rati",
     "wof:parent_id":1108759683,
     "wof:placetype":"locality",

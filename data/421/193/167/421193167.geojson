@@ -28,6 +28,9 @@
     "name:dan_x_preferred":[
         "Paoua"
     ],
+    "name:deu_x_preferred":[
+        "Paoua"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03bf\u03c5\u03b1"
     ],
@@ -94,8 +97,14 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0443\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0432\u0430"
+    ],
     "name:sag_x_preferred":[
         "Pawa"
+    ],
+    "name:sag_x_variant":[
+        "Paoua"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dcf\u0d96\u0d86"
@@ -178,7 +187,7 @@
         }
     ],
     "wof:id":421193167,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1563299825,
     "wof:name":"Paoua",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

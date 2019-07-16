@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Nd\u00e9l\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Nd\u00e9l\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0aa1\u0ac7\u0ab2\u0ac7"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:vie_x_preferred":[
         "N'D\u00e9l\u00e9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d3\u10d4\u10da\u10d4"
     ],
     "name:zho_x_preferred":[
         "\u6069\u4ee3\u840a"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421205399,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1563299827,
     "wof:name":"Nd\u00e9l\u00e9",
     "wof:parent_id":1108759579,
     "wof:placetype":"locality",
