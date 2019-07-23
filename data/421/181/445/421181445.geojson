@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Bangui"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0646\u0642\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Bangi"
     ],
@@ -54,6 +57,9 @@
         "Bangui"
     ],
     "name:cdo_x_preferred":[
+        "Bangui"
+    ],
+    "name:ceb_x_preferred":[
         "Bangui"
     ],
     "name:ces_x_preferred":[
@@ -89,6 +95,9 @@
     "name:epo_x_preferred":[
         "Bangui"
     ],
+    "name:epo_x_variant":[
+        "Bango"
+    ],
     "name:est_x_preferred":[
         "Bangui"
     ],
@@ -122,6 +131,9 @@
     "name:glg_x_preferred":[
         "Bangui"
     ],
+    "name:grn_x_preferred":[
+        "Vangi"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0a97\u0ac1\u0a88"
     ],
@@ -131,8 +143,14 @@
     "name:hat_x_preferred":[
         "Bangiy"
     ],
+    "name:hau_x_preferred":[
+        "Bangui"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d2\u05d5\u05d0\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e0\u05d2\u05d9"
     ],
     "name:hif_x_preferred":[
         "Bangui"
@@ -141,6 +159,9 @@
         "\u092c\u0948\u0902\u0917\u0941\u0908"
     ],
     "name:hrv_x_preferred":[
+        "Bangui"
+    ],
+    "name:hsb_x_preferred":[
         "Bangui"
     ],
     "name:hun_x_preferred":[
@@ -203,6 +224,12 @@
     "name:lav_x_preferred":[
         "Bangi"
     ],
+    "name:lfn_x_preferred":[
+        "Bangui"
+    ],
+    "name:lij_x_preferred":[
+        "Bangui"
+    ],
     "name:lin_x_preferred":[
         "Bangi"
     ],
@@ -229,6 +256,9 @@
     ],
     "name:msa_x_preferred":[
         "Bangui"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u1014\u103a\u1002\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Bangui"
@@ -277,6 +307,9 @@
     ],
     "name:por_x_preferred":[
         "Bangui"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0627\u0646\u06ab\u0648\u06cc\u06cc"
     ],
     "name:ron_x_preferred":[
         "Bangui"
@@ -543,7 +576,7 @@
         }
     ],
     "wof:id":421181445,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1563299832,
     "wof:name":"Bangui",
     "wof:parent_id":1108759735,
     "wof:placetype":"locality",

@@ -172,6 +172,9 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Nana-Gr\u00e9bizi Economic"
     ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10dc\u10d0-\u10d2\u10d4\u10d1\u10d8\u10d6\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u7eb3\u7eb3-\u683c\u91cc\u6bd4\u9f50\u7701"
     ],
@@ -299,7 +302,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845059,
+    "wof:lastmodified":1563299313,
     "wof:name":"Nana-Gribizi",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

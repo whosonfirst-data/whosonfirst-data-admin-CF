@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u0648\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0628\u0648\u062a"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09ac\u09c1\u09a4"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421175955,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299832,
     "wof:name":"Sibut",
     "wof:parent_id":1108759645,
     "wof:placetype":"locality",

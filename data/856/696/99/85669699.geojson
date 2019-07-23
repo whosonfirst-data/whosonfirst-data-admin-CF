@@ -71,8 +71,14 @@
     "name:fra_x_preferred":[
         "Ouaka"
     ],
+    "name:frr_x_preferred":[
+        "Ouaka"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0a95\u0abe\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05d0\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0915\u093e \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
@@ -88,6 +94,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c92\u0cb5\u0cbe\u0c95\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d9\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc640\uce74 \uc8fc"
@@ -172,6 +181,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ouaka"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10d0\u10d9\u10d0\u10e8 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5361\u7701"
@@ -302,7 +314,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845059,
+    "wof:lastmodified":1563299318,
     "wof:name":"Ouaka",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

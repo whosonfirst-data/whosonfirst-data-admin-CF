@@ -22,6 +22,12 @@
     "name:ben_x_preferred":[
         "\u09ae\u09b9\u09c0\u09b6\u09c2\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Kaga Bandoro"
+    ],
+    "name:ces_x_preferred":[
+        "Kaga-Bandoro"
+    ],
     "name:dan_x_preferred":[
         "Kaga-Bandoro"
     ],
@@ -263,7 +269,7 @@
         }
     ],
     "wof:id":890425733,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299839,
     "wof:name":"Kaga Bandoro",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

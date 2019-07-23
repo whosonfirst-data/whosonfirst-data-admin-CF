@@ -172,6 +172,9 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Kinh t\u1ebf Sangha-Mba\u00e9r\u00e9"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d2\u10d0-\u10db\u10d1\u10d0\u10d4\u10e0\u10d4"
+    ],
     "name:zho_x_preferred":[
         "\u6851\u52a0-\u59c6\u5df4\u57c3\u96f7\u7701"
     ],
@@ -299,7 +302,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845059,
+    "wof:lastmodified":1563299315,
     "wof:name":"Sangha-Mba\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

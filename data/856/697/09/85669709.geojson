@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0648\u0645\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0628\u0648\u0645\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09ac\u09ae\u09cc \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -66,6 +69,9 @@
         "Mbomou"
     ],
     "name:fra_x_preferred":[
+        "Mbomou"
+    ],
+    "name:frr_x_preferred":[
         "Mbomou"
     ],
     "name:guj_x_preferred":[
@@ -169,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Mbomou"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d1\u10dd\u10db\u10e3\u10e8 \u10de\u10e0\u10d4\u10e4\u10d4\u10e5\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u535a\u7a46\u7701"
@@ -297,7 +306,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845058,
+    "wof:lastmodified":1563299310,
     "wof:name":"Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0643\u0627\u062c\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0627\u0643\u0627\u062c\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u0995\u09be\u0997\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -66,6 +69,9 @@
         "Vakaga"
     ],
     "name:fra_x_preferred":[
+        "Vakaga"
+    ],
+    "name:frr_x_preferred":[
         "Vakaga"
     ],
     "name:guj_x_preferred":[
@@ -169,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Vakaga"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10d0\u10d9\u10d0\u10d2\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5361\u52a0\u7701"
@@ -299,7 +308,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1561845057,
+    "wof:lastmodified":1563299306,
     "wof:name":"Vakaga",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

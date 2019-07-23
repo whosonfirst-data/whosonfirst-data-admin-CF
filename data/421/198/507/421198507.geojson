@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0645\u0628\u0627\u064a\u0643\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u06cc\u06a9\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09ac\u09be\u0987\u0995\u09bf"
     ],
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":421198507,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299834,
     "wof:name":"Mba\u00efki",
     "wof:parent_id":1108759623,
     "wof:placetype":"locality",

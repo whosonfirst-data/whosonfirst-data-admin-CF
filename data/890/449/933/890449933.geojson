@@ -15,6 +15,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rafai"
+    ],
     "name:eng_x_preferred":[
         "Rafa\u00ef"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:swe_x_preferred":[
         "Rafai"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6cd5\u4f0a"
     ],
     "qs:name":"Rafa\u00ef",
     "qs:photos_9r":0,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890449933,
-    "wof:lastmodified":1561845072,
+    "wof:lastmodified":1563299838,
     "wof:name":"Rafa\u00ef",
     "wof:parent_id":1108759705,
     "wof:placetype":"locality",

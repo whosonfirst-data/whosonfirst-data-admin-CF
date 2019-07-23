@@ -67,6 +67,9 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Bangui M'Poko"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Bangui M'Poko"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Bangui M'Poko"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":102521805,
-    "wof:lastmodified":1561845053,
+    "wof:lastmodified":1563299204,
     "wof:name":"Bangui M Poko Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

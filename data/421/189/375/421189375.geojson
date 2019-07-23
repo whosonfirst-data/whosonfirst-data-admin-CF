@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Birao"
     ],
+    "name:frr_x_preferred":[
+        "Birao"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab0\u0abe\u0a93"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:vie_x_preferred":[
         "Birao"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d0\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u52de"
@@ -274,7 +280,7 @@
         }
     ],
     "wof:id":421189375,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1563299827,
     "wof:name":"Birao",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",
