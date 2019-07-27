@@ -26,6 +26,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Godo"
+    ],
+    "name:deu_x_preferred":[
+        "Godo"
+    ],
+    "name:fra_x_preferred":[
+        "Godo"
+    ],
+    "name:spa_x_preferred":[
+        "Godo"
+    ],
+    "name:swe_x_preferred":[
+        "Godo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u0434\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1360255529,
-    "wof:lastmodified":1536700121,
+    "wof:lastmodified":1564190243,
     "wof:name":"Godo",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

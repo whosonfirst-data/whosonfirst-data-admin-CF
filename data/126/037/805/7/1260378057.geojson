@@ -26,6 +26,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Molo"
+    ],
+    "name:deu_x_preferred":[
+        "Molo"
+    ],
+    "name:fin_x_preferred":[
+        "Molo"
+    ],
+    "name:ita_x_preferred":[
+        "Molo"
+    ],
+    "name:spa_x_preferred":[
+        "Molo"
+    ],
+    "name:swe_x_preferred":[
+        "Molo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1260378057,
-    "wof:lastmodified":1537079144,
+    "wof:lastmodified":1564190113,
     "wof:name":"Molo",
     "wof:parent_id":1108759675,
     "wof:placetype":"locality",

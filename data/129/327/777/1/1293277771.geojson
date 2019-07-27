@@ -26,6 +26,27 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bangolo"
+    ],
+    "name:fra_x_preferred":[
+        "Bangolo"
+    ],
+    "name:ita_x_preferred":[
+        "Bangolo"
+    ],
+    "name:msa_x_preferred":[
+        "Bangolo"
+    ],
+    "name:ron_x_preferred":[
+        "Bangolo"
+    ],
+    "name:spa_x_preferred":[
+        "Bangolo"
+    ],
+    "name:swe_x_preferred":[
+        "Bangolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1293277771,
-    "wof:lastmodified":1537086209,
+    "wof:lastmodified":1564189786,
     "wof:name":"Bangolo",
     "wof:parent_id":1108759627,
     "wof:placetype":"locality",

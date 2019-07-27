@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gu\u00e9m\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Gueme"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260068449,
-    "wof:lastmodified":1537009015,
+    "wof:lastmodified":1564190115,
     "wof:name":"Gueme",
     "wof:parent_id":1108759657,
     "wof:placetype":"locality",

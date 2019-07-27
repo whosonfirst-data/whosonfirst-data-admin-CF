@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngoussoua"
+    ],
+    "name:swe_x_preferred":[
+        "Ngoussoua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293887677,
-    "wof:lastmodified":1536707581,
+    "wof:lastmodified":1564189846,
     "wof:name":"Ngoussoua",
     "wof:parent_id":1108759579,
     "wof:placetype":"locality",

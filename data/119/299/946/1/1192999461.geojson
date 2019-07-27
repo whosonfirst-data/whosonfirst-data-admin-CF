@@ -26,6 +26,30 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grimari"
+    ],
+    "name:epo_x_preferred":[
+        "Grimari"
+    ],
+    "name:fra_x_preferred":[
+        "Grimari"
+    ],
+    "name:ind_x_preferred":[
+        "Grimari"
+    ],
+    "name:ita_x_preferred":[
+        "Grimari"
+    ],
+    "name:pol_x_preferred":[
+        "Grimari"
+    ],
+    "name:sag_x_preferred":[
+        "Grimari"
+    ],
+    "name:swe_x_preferred":[
+        "Grimari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1192999461,
-    "wof:lastmodified":1537489206,
+    "wof:lastmodified":1564190089,
     "wof:name":"Grimari",
     "wof:parent_id":1108759657,
     "wof:placetype":"locality",

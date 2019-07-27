@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0633\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Doussi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Doussi"
+    ],
+    "name:swe_x_preferred":[
+        "Doussi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343270539,
-    "wof:lastmodified":1537019433,
+    "wof:lastmodified":1564189443,
     "wof:name":"Doussi",
     "wof:parent_id":1108759615,
     "wof:placetype":"locality",

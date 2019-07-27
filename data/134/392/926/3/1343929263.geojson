@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bondia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343929263,
-    "wof:lastmodified":1537062319,
+    "wof:lastmodified":1564189404,
     "wof:name":"Bondia",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guere"
+    ],
+    "name:fra_x_preferred":[
+        "Guere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209718895,
-    "wof:lastmodified":1536387287,
+    "wof:lastmodified":1564190012,
     "wof:name":"Guere",
     "wof:parent_id":1108759589,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30ab\u30e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209395051,
-    "wof:lastmodified":1537489226,
+    "wof:lastmodified":1564189982,
     "wof:name":"Bankara",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

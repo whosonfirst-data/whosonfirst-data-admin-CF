@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Mbara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326818499,
-    "wof:lastmodified":1537065709,
+    "wof:lastmodified":1564189260,
     "wof:name":"Mbara",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

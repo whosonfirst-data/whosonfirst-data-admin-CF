@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Piko"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u056f\u0578"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Piko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1327119923,
-    "wof:lastmodified":1536632749,
+    "wof:lastmodified":1564189344,
     "wof:name":"Piko",
     "wof:parent_id":1108759627,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandja"
+    ],
+    "name:msa_x_preferred":[
+        "Bandja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343673293,
-    "wof:lastmodified":1536937249,
+    "wof:lastmodified":1564189413,
     "wof:name":"Bandja",
     "wof:parent_id":1108759703,
     "wof:placetype":"locality",

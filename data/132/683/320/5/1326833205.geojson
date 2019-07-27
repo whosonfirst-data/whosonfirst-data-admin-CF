@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Gabia"
+    ],
+    "name:spa_x_preferred":[
+        "Gabia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326833205,
-    "wof:lastmodified":1537045480,
+    "wof:lastmodified":1564189320,
     "wof:name":"Gabia",
     "wof:parent_id":1108759615,
     "wof:placetype":"locality",

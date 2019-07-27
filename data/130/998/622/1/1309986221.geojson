@@ -26,6 +26,18 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bofill"
+    ],
+    "name:deu_x_preferred":[
+        "Bofill"
+    ],
+    "name:fra_x_preferred":[
+        "Bofill"
+    ],
+    "name:spa_x_preferred":[
+        "Bofill"
+    ],
     "name:und_x_variant":[
         "Bofil\u00e9",
         "Bofill"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309986221,
-    "wof:lastmodified":1537590627,
+    "wof:lastmodified":1564190279,
     "wof:name":"Bofill",
     "wof:parent_id":1108759673,
     "wof:placetype":"locality",

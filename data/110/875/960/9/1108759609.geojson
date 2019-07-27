@@ -31,7 +31,13 @@
     "mps:longitude":22.49828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ouango"
+    ],
     "name:eng_x_preferred":[
+        "Ouango"
+    ],
+    "name:swe_x_preferred":[
         "Ouango"
     ],
     "name:und_x_variant":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108759609,
-    "wof:lastmodified":1553718719,
+    "wof:lastmodified":1564190151,
     "wof:name":"Ouango",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

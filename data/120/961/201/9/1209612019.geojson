@@ -27,6 +27,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Koupia"
+    ],
     "name:und_x_variant":[
         "Coupia",
         "Koupia"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209612019,
-    "wof:lastmodified":1537590586,
+    "wof:lastmodified":1564190022,
     "wof:name":"Koupia",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
     "name:und_x_variant":[
         "Bosamb\u00e9le",
         "Bosembele",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276940865,
-    "wof:lastmodified":1537590621,
+    "wof:lastmodified":1564189902,
     "wof:name":"Bossembele",
     "wof:parent_id":1108759643,
     "wof:placetype":"locality",

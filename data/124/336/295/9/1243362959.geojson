@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Simango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1243362959,
-    "wof:lastmodified":1536926664,
+    "wof:lastmodified":1564190316,
     "wof:name":"Simango",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",

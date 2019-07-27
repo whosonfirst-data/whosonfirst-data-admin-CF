@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Bo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578"
+    ],
+    "name:lit_x_preferred":[
+        "Bo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343937891,
-    "wof:lastmodified":1537050520,
+    "wof:lastmodified":1564189421,
     "wof:name":"Bo",
     "wof:parent_id":1108759673,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:und_x_variant":[
         "Yombo"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0645\u0628\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209598163,
-    "wof:lastmodified":1537590580,
+    "wof:lastmodified":1564190025,
     "wof:name":"Yombo Bac",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

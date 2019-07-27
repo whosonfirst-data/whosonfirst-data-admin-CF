@@ -31,7 +31,31 @@
     "mps:longitude":19.965418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Grimari"
+    ],
     "name:eng_x_preferred":[
+        "Grimari"
+    ],
+    "name:epo_x_preferred":[
+        "Grimari"
+    ],
+    "name:fra_x_preferred":[
+        "Grimari"
+    ],
+    "name:ind_x_preferred":[
+        "Grimari"
+    ],
+    "name:ita_x_preferred":[
+        "Grimari"
+    ],
+    "name:pol_x_preferred":[
+        "Grimari"
+    ],
+    "name:sag_x_preferred":[
+        "Grimari"
+    ],
+    "name:swe_x_preferred":[
         "Grimari"
     ],
     "name:und_x_variant":[
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1108759657,
-    "wof:lastmodified":1553718722,
+    "wof:lastmodified":1564190130,
     "wof:name":"Grimari",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

@@ -31,7 +31,31 @@
     "mps:longitude":20.469812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kouango"
+    ],
     "name:eng_x_preferred":[
+        "Kouango"
+    ],
+    "name:fra_x_preferred":[
+        "Kouango"
+    ],
+    "name:ita_x_preferred":[
+        "Kouango"
+    ],
+    "name:pol_x_preferred":[
+        "Kouango"
+    ],
+    "name:ron_x_preferred":[
+        "Kouango"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043d\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kouango"
+    ],
+    "name:tur_x_preferred":[
         "Kouango"
     ],
     "name:und_x_variant":[
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1108759663,
-    "wof:lastmodified":1553718722,
+    "wof:lastmodified":1564190145,
     "wof:name":"Kouango",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dobiti"
+    ],
     "name:und_x_variant":[
         "Tobili",
         "Tobiti",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1225921301,
-    "wof:lastmodified":1537590612,
+    "wof:lastmodified":1564190508,
     "wof:name":"Dobiti",
     "wof:parent_id":1108759673,
     "wof:placetype":"locality",

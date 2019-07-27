@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Ngaoundaye"
     ],
+    "name:fra_x_preferred":[
+        "Ngaoundaye"
+    ],
     "name:und_x_variant":[
         "Ngaoundaye"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759597,
-    "wof:lastmodified":1553718720,
+    "wof:lastmodified":1564190145,
     "wof:name":"Ngaoundaye",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

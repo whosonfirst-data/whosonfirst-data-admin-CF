@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yakoma"
+    ],
+    "name:fra_x_preferred":[
+        "Yakoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343566189,
-    "wof:lastmodified":1537087946,
+    "wof:lastmodified":1564189409,
     "wof:name":"Yakoma",
     "wof:parent_id":1108759583,
     "wof:placetype":"locality",

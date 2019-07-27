@@ -26,6 +26,18 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touloulou"
+    ],
+    "name:ita_x_preferred":[
+        "Touloulou"
+    ],
+    "name:por_x_preferred":[
+        "Touloulou"
+    ],
+    "name:spa_x_preferred":[
+        "Touloulou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259959169,
-    "wof:lastmodified":1536670167,
+    "wof:lastmodified":1564190472,
     "wof:name":"Touloulou",
     "wof:parent_id":1108759597,
     "wof:placetype":"locality",

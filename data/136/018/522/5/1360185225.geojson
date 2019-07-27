@@ -26,6 +26,75 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0628\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Kribi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kribi"
+    ],
+    "name:ces_x_preferred":[
+        "Kribi"
+    ],
+    "name:dan_x_preferred":[
+        "Kribi"
+    ],
+    "name:deu_x_preferred":[
+        "Kribi"
+    ],
+    "name:fin_x_preferred":[
+        "Kribi"
+    ],
+    "name:fra_x_preferred":[
+        "Kribi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d1\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Kribi"
+    ],
+    "name:ita_x_preferred":[
+        "Kribi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30d3"
+    ],
+    "name:lat_x_preferred":[
+        "Urbs Kribensis"
+    ],
+    "name:lit_x_preferred":[
+        "Kribis"
+    ],
+    "name:msa_x_preferred":[
+        "Kribi"
+    ],
+    "name:nld_x_preferred":[
+        "Kribi"
+    ],
+    "name:pol_x_preferred":[
+        "Kribi"
+    ],
+    "name:por_x_preferred":[
+        "Kribi"
+    ],
+    "name:ron_x_preferred":[
+        "Kribi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0431\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Kribi"
+    ],
+    "name:szl_x_preferred":[
+        "Kribi"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u6bd4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +118,7 @@
         }
     ],
     "wof:id":1360185225,
-    "wof:lastmodified":1536801214,
+    "wof:lastmodified":1564190257,
     "wof:name":"Kribi",
     "wof:parent_id":1108759603,
     "wof:placetype":"locality",

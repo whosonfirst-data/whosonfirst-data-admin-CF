@@ -26,6 +26,18 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambio"
+    ],
+    "name:ita_x_preferred":[
+        "Bambio"
+    ],
+    "name:lit_x_preferred":[
+        "Bambijas"
+    ],
+    "name:sag_x_preferred":[
+        "Bambio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310174961,
-    "wof:lastmodified":1537489226,
+    "wof:lastmodified":1564190205,
     "wof:name":"Bambio",
     "wof:parent_id":1108759679,
     "wof:placetype":"locality",

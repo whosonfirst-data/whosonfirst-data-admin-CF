@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dege"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293283093,
-    "wof:lastmodified":1537078558,
+    "wof:lastmodified":1564189810,
     "wof:name":"Dege",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:und_x_variant":[
         "Ngoura"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u06af\u0648\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310003555,
-    "wof:lastmodified":1537590601,
+    "wof:lastmodified":1564190180,
     "wof:name":"Ngora",
     "wof:parent_id":1108759723,
     "wof:placetype":"locality",

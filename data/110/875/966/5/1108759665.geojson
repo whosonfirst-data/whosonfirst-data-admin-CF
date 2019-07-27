@@ -31,7 +31,40 @@
     "mps:longitude":16.148055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0626\u0648\u0631\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Baoro"
+    ],
     "name:eng_x_preferred":[
+        "Baoro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0626\u0648\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Baoro"
+    ],
+    "name:ita_x_preferred":[
+        "Baoro"
+    ],
+    "name:pol_x_preferred":[
+        "Baoro"
+    ],
+    "name:ron_x_preferred":[
+        "Baoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043e\u0440\u043e"
+    ],
+    "name:sag_x_preferred":[
+        "Baoro"
+    ],
+    "name:swe_x_preferred":[
+        "Baoro"
+    ],
+    "name:tur_x_preferred":[
         "Baoro"
     ],
     "name:und_x_variant":[
@@ -72,7 +105,7 @@
         }
     ],
     "wof:id":1108759665,
-    "wof:lastmodified":1553718722,
+    "wof:lastmodified":1564190145,
     "wof:name":"Baoro",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

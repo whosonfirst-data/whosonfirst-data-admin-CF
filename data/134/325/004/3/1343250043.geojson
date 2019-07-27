@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lawa"
+    ],
+    "name:deu_x_preferred":[
+        "Lawa"
+    ],
+    "name:fra_x_preferred":[
+        "Lawa"
+    ],
+    "name:ita_x_preferred":[
+        "Lawa"
+    ],
+    "name:swe_x_preferred":[
+        "Lawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343250043,
-    "wof:lastmodified":1537047950,
+    "wof:lastmodified":1564189401,
     "wof:name":"Lawa",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

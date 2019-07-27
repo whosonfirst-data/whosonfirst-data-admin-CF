@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bome"
+    ],
+    "name:ita_x_preferred":[
+        "Bome"
+    ],
+    "name:swe_x_preferred":[
+        "Bome"
+    ],
     "name:und_x_variant":[
         "Bon\u00e9",
         "Bome"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209716045,
-    "wof:lastmodified":1537590623,
+    "wof:lastmodified":1564190013,
     "wof:name":"Bome",
     "wof:parent_id":1108759717,
     "wof:placetype":"locality",

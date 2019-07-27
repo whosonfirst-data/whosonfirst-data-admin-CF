@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mandza"
+    ],
+    "name:swe_x_preferred":[
+        "Mandza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326829183,
-    "wof:lastmodified":1537051026,
+    "wof:lastmodified":1564189309,
     "wof:name":"Mandza",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",
