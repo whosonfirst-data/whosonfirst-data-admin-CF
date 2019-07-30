@@ -26,6 +26,30 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bamingui"
+    ],
+    "name:fra_x_preferred":[
+        "Bamingui"
+    ],
+    "name:ita_x_preferred":[
+        "Bamingui"
+    ],
+    "name:lit_x_preferred":[
+        "Bamingis"
+    ],
+    "name:pol_x_preferred":[
+        "Bamingui"
+    ],
+    "name:por_x_preferred":[
+        "Bamingui"
+    ],
+    "name:sag_x_preferred":[
+        "Bam\u00efng\u00ef"
+    ],
+    "name:swe_x_preferred":[
+        "Bamingui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1209928343,
-    "wof:lastmodified":1537489209,
+    "wof:lastmodified":1564190023,
     "wof:name":"Bamingui",
     "wof:parent_id":421171017,
     "wof:placetype":"locality",

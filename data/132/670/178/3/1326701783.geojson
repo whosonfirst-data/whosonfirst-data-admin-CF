@@ -26,6 +26,18 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zimba"
+    ],
+    "name:deu_x_preferred":[
+        "Zimba"
+    ],
+    "name:fra_x_preferred":[
+        "Zimba"
+    ],
+    "name:swe_x_preferred":[
+        "Zimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1326701783,
-    "wof:lastmodified":1536739582,
+    "wof:lastmodified":1564189317,
     "wof:name":"Zimba",
     "wof:parent_id":1108759733,
     "wof:placetype":"locality",

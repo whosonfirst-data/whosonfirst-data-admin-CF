@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dongou"
+    ],
+    "name:pol_x_preferred":[
+        "Dongou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0646\u06af\u0624"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1309804001,
-    "wof:lastmodified":1536934388,
+    "wof:lastmodified":1564190302,
     "wof:name":"Dongou",
     "wof:parent_id":1108759593,
     "wof:placetype":"locality",

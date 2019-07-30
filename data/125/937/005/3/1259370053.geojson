@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Badoli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259370053,
-    "wof:lastmodified":1537020716,
+    "wof:lastmodified":1564190440,
     "wof:name":"Badoli",
     "wof:parent_id":1108759695,
     "wof:placetype":"locality",

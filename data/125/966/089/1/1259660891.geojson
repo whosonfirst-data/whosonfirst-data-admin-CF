@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goundou"
+    ],
+    "name:fra_x_preferred":[
+        "Goundou"
+    ],
+    "name:swe_x_preferred":[
+        "Goundou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259660891,
-    "wof:lastmodified":1537096323,
+    "wof:lastmodified":1564190475,
     "wof:name":"Goundou",
     "wof:parent_id":1108759695,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Banan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1360288469,
-    "wof:lastmodified":1536652052,
+    "wof:lastmodified":1564190269,
     "wof:name":"Banan",
     "wof:parent_id":1108759611,
     "wof:placetype":"locality",

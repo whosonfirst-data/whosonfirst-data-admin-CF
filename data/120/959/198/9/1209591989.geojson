@@ -27,6 +27,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bakala"
+    ],
+    "name:deu_x_preferred":[
+        "Bakala"
+    ],
+    "name:fra_x_preferred":[
+        "Bakala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bakala"
+    ],
     "name:und_x_variant":[
         "Bakola",
         "Bakala"
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209591989,
-    "wof:lastmodified":1537590637,
+    "wof:lastmodified":1564190026,
     "wof:name":"Bakala",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

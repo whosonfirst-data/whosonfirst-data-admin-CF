@@ -27,6 +27,27 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zomia"
+    ],
+    "name:fra_x_preferred":[
+        "Zomia"
+    ],
+    "name:ind_x_preferred":[
+        "Zomia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30be\u30df\u30a2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043c\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Zomia"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0b\u0e40\u0e21\u0e35\u0e22"
+    ],
     "name:und_x_variant":[
         "Zomi\u00e9",
         "Zomia"
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1209235841,
-    "wof:lastmodified":1537590595,
+    "wof:lastmodified":1564190010,
     "wof:name":"Zomia",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

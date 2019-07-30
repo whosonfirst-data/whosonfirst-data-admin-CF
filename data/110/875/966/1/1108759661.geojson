@@ -31,7 +31,31 @@
     "mps:longitude":22.567776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ouadda"
+    ],
+    "name:deu_x_preferred":[
+        "Ouadda"
+    ],
     "name:eng_x_preferred":[
+        "Ouadda"
+    ],
+    "name:fra_x_preferred":[
+        "Ouadda"
+    ],
+    "name:ita_x_preferred":[
+        "Ouadda"
+    ],
+    "name:pol_x_preferred":[
+        "Ouadda"
+    ],
+    "name:ron_x_preferred":[
+        "Ouadda"
+    ],
+    "name:sag_x_preferred":[
+        "Ouadda"
+    ],
+    "name:swe_x_preferred":[
         "Ouadda"
     ],
     "name:und_x_variant":[
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1108759661,
-    "wof:lastmodified":1553718722,
+    "wof:lastmodified":1564190144,
     "wof:name":"Ouadda",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

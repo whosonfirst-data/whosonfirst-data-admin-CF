@@ -26,6 +26,27 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Balada"
+    ],
+    "name:ces_x_preferred":[
+        "Balada"
+    ],
+    "name:deu_x_preferred":[
+        "Balada"
+    ],
+    "name:eus_x_preferred":[
+        "Balada"
+    ],
+    "name:ind_x_preferred":[
+        "Balada"
+    ],
+    "name:por_x_preferred":[
+        "Balada"
+    ],
+    "name:spa_x_preferred":[
+        "Balada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1344166027,
-    "wof:lastmodified":1536723504,
+    "wof:lastmodified":1564189433,
     "wof:name":"Balada",
     "wof:parent_id":1108759613,
     "wof:placetype":"locality",

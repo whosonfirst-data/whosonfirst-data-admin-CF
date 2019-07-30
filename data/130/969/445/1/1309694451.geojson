@@ -26,6 +26,33 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bigene"
+    ],
+    "name:ceb_x_preferred":[
+        "Bigene"
+    ],
+    "name:deu_x_preferred":[
+        "Big\u00e9ne"
+    ],
+    "name:fin_x_preferred":[
+        "Bigene"
+    ],
+    "name:fra_x_preferred":[
+        "Bigene"
+    ],
+    "name:ita_x_preferred":[
+        "Bigene"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30a7\u30cd"
+    ],
+    "name:por_x_preferred":[
+        "Bigene"
+    ],
+    "name:swe_x_preferred":[
+        "Bigene"
+    ],
     "name:und_x_variant":[
         "Biguenne",
         "Big\u00e9n\u00e9"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1309694451,
-    "wof:lastmodified":1537590630,
+    "wof:lastmodified":1564190299,
     "wof:name":"Bigene",
     "wof:parent_id":1108759711,
     "wof:placetype":"locality",

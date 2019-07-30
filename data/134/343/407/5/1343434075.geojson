@@ -26,6 +26,30 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gobo"
+    ],
+    "name:fra_x_preferred":[
+        "Gobo"
+    ],
+    "name:ita_x_preferred":[
+        "Gobo"
+    ],
+    "name:nld_x_preferred":[
+        "Gobo"
+    ],
+    "name:por_x_preferred":[
+        "Gobo"
+    ],
+    "name:srp_x_preferred":[
+        "Gobo"
+    ],
+    "name:swe_x_preferred":[
+        "Gobo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Ngobo",
         "Gobo"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343434075,
-    "wof:lastmodified":1537590610,
+    "wof:lastmodified":1564189459,
     "wof:name":"Gobo",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

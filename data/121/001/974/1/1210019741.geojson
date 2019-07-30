@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bologo"
+    ],
+    "name:ita_x_preferred":[
+        "Bologo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1210019741,
-    "wof:lastmodified":1536393419,
+    "wof:lastmodified":1564190068,
     "wof:name":"Bologo",
     "wof:parent_id":1108759737,
     "wof:placetype":"locality",

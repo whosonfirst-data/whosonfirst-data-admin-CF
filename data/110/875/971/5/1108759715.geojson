@@ -34,6 +34,18 @@
     "name:eng_x_preferred":[
         "Bakouma"
     ],
+    "name:fra_x_preferred":[
+        "Bakouma"
+    ],
+    "name:ita_x_preferred":[
+        "Bakouma"
+    ],
+    "name:lit_x_preferred":[
+        "Bakuma"
+    ],
+    "name:nld_x_preferred":[
+        "Bakouma"
+    ],
     "name:und_x_variant":[
         "Bakouma"
     ],
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1108759715,
-    "wof:lastmodified":1553718723,
+    "wof:lastmodified":1564190140,
     "wof:name":"Bakouma",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

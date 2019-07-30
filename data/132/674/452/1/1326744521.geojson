@@ -26,7 +26,13 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doum"
+    ],
     "name:fra_x_preferred":[
+        "Doum"
+    ],
+    "name:swe_x_preferred":[
         "Doum"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326744521,
-    "wof:lastmodified":1537590589,
+    "wof:lastmodified":1564189265,
     "wof:name":"Doum",
     "wof:parent_id":1108759579,
     "wof:placetype":"locality",

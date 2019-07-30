@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Songo"
+    ],
+    "name:deu_x_preferred":[
+        "Songo"
+    ],
+    "name:fra_x_preferred":[
+        "Songo"
+    ],
+    "name:por_x_preferred":[
+        "Songo"
+    ],
+    "name:swe_x_preferred":[
+        "Songo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276303865,
-    "wof:lastmodified":1536817457,
+    "wof:lastmodified":1564189956,
     "wof:name":"Songo",
     "wof:parent_id":1108759651,
     "wof:placetype":"locality",

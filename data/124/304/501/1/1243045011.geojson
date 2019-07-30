@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karamba"
+    ],
+    "name:swe_x_preferred":[
+        "Karamba"
+    ],
     "name:und_x_variant":[
         "Caramba",
         "Karamba"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243045011,
-    "wof:lastmodified":1537590614,
+    "wof:lastmodified":1564190375,
     "wof:name":"Karamba",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Bouli"
+    ],
+    "name:fra_x_preferred":[
+        "Bouli"
+    ],
+    "name:pol_x_preferred":[
+        "Bouli"
+    ],
+    "name:wuu_x_preferred":[
+        "\u96ea\u4eba\u6ce2\u5229"
+    ],
+    "name:zho_x_preferred":[
+        "\u96ea\u4eba\u6ce2\u5229"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343937885,
-    "wof:lastmodified":1537050530,
+    "wof:lastmodified":1564189419,
     "wof:name":"Bouli",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",

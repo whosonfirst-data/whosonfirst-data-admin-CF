@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Zenia"
+    ],
+    "name:vie_x_preferred":[
+        "Zenia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209917119,
-    "wof:lastmodified":1536372525,
+    "wof:lastmodified":1564189979,
     "wof:name":"Zenia",
     "wof:parent_id":1108759615,
     "wof:placetype":"locality",

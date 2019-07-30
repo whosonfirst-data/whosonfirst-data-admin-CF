@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boungou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343269569,
-    "wof:lastmodified":1537020788,
+    "wof:lastmodified":1564189451,
     "wof:name":"Boungou",
     "wof:parent_id":1108759661,
     "wof:placetype":"locality",

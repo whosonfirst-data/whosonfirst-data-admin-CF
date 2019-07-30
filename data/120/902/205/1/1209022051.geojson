@@ -26,6 +26,90 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0643\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Kaka"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaka"
+    ],
+    "name:dan_x_preferred":[
+        "Kaka"
+    ],
+    "name:deu_x_preferred":[
+        "Kaka"
+    ],
+    "name:est_x_preferred":[
+        "Kaka"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Kaka"
+    ],
+    "name:fra_x_preferred":[
+        "Kaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Kaka"
+    ],
+    "name:hun_x_preferred":[
+        "Kaka"
+    ],
+    "name:ita_x_preferred":[
+        "Kak\u00e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uce74"
+    ],
+    "name:lav_x_preferred":[
+        "Kaka"
+    ],
+    "name:nld_x_preferred":[
+        "Kaka"
+    ],
+    "name:nor_x_preferred":[
+        "Kaka"
+    ],
+    "name:pol_x_preferred":[
+        "Kaka"
+    ],
+    "name:por_x_preferred":[
+        "Kak\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kaka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kaka"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Kaka"
+    ],
+    "name:tur_x_preferred":[
+        "Kaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Kaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +119,7 @@
         "gn:id":238514
     },
     "wof:country":"CF",
-    "wof:geomhash":"8a981556b364995b3bc6e9c4d1ceb13d",
+    "wof:geomhash":"822f06fa07b9c7a57126f7ad04a98bf6",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +127,7 @@
         }
     ],
     "wof:id":1209022051,
-    "wof:lastmodified":1536300117,
+    "wof:lastmodified":1564190036,
     "wof:name":"Kaka",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +138,9 @@
 },
   "bbox": [
     20.52546,
-    8.199160000000001,
+    8.19916,
     20.52546,
-    8.199160000000001
+    8.19916
 ],
   "geometry": {"coordinates":[20.52546,8.19916],"type":"Point"}
 }

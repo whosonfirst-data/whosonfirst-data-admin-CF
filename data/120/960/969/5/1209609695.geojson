@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Babasua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209609695,
-    "wof:lastmodified":1537489227,
+    "wof:lastmodified":1564190031,
     "wof:name":"Babassoua",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

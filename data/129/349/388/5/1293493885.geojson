@@ -26,6 +26,33 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bossi"
+    ],
+    "name:deu_x_preferred":[
+        "Bossi"
+    ],
+    "name:fin_x_preferred":[
+        "Bossi"
+    ],
+    "name:fra_x_preferred":[
+        "Bossi"
+    ],
+    "name:ita_x_preferred":[
+        "Bossi"
+    ],
+    "name:ltz_x_preferred":[
+        "Bossi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0441\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Bossi"
+    ],
+    "name:spa_x_preferred":[
+        "Bossi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1293493885,
-    "wof:lastmodified":1536778301,
+    "wof:lastmodified":1564189517,
     "wof:name":"Bossi",
     "wof:parent_id":1108759717,
     "wof:placetype":"locality",

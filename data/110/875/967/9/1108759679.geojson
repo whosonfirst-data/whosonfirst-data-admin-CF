@@ -34,6 +34,18 @@
     "name:eng_x_preferred":[
         "Bambio"
     ],
+    "name:fra_x_preferred":[
+        "Bambio"
+    ],
+    "name:ita_x_preferred":[
+        "Bambio"
+    ],
+    "name:lit_x_preferred":[
+        "Bambijas"
+    ],
+    "name:sag_x_preferred":[
+        "Bambio"
+    ],
     "name:und_x_variant":[
         "Bambio"
     ],
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1108759679,
-    "wof:lastmodified":1553718723,
+    "wof:lastmodified":1564190147,
     "wof:name":"Bambio",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

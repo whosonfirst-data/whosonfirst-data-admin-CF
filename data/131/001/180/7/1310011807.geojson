@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doka"
+    ],
+    "name:deu_x_preferred":[
+        "Doka"
+    ],
+    "name:swe_x_preferred":[
+        "Doka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310011807,
-    "wof:lastmodified":1536632743,
+    "wof:lastmodified":1564190192,
     "wof:name":"Doka",
     "wof:parent_id":1108759625,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mourou"
+    ],
+    "name:fra_x_preferred":[
+        "Mourou"
+    ],
+    "name:nds_x_preferred":[
+        "Mourou"
+    ],
     "name:und_x_variant":[
         "Moura",
         "Mourou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209906995,
-    "wof:lastmodified":1537590584,
+    "wof:lastmodified":1564189993,
     "wof:name":"Mourou",
     "wof:parent_id":1108759715,
     "wof:placetype":"locality",

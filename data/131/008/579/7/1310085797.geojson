@@ -26,6 +26,18 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Markounda"
+    ],
+    "name:fra_x_preferred":[
+        "Markounda"
+    ],
+    "name:ita_x_preferred":[
+        "Markounda"
+    ],
+    "name:swe_x_preferred":[
+        "Markounda"
+    ],
     "name:und_x_variant":[
         "Fort Brusseaux",
         "Makunda",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1310085797,
-    "wof:lastmodified":1537590604,
+    "wof:lastmodified":1564190191,
     "wof:name":"Markounda",
     "wof:parent_id":1108759677,
     "wof:placetype":"locality",

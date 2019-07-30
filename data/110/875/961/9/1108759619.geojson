@@ -31,7 +31,25 @@
     "mps:longitude":21.952149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bria"
+    ],
+    "name:deu_x_preferred":[
+        "Bria"
+    ],
     "name:eng_x_preferred":[
+        "Bria"
+    ],
+    "name:fra_x_preferred":[
+        "Bria"
+    ],
+    "name:ita_x_preferred":[
+        "Bria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Bria"
     ],
     "name:und_x_variant":[
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1108759619,
-    "wof:lastmodified":1553718720,
+    "wof:lastmodified":1564190142,
     "wof:name":"Bria",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

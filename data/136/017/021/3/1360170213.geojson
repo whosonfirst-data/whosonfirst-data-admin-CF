@@ -26,8 +26,32 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rafai"
+    ],
+    "name:fra_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:ita_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d5\u30a1\u30a4"
+    ],
+    "name:pol_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:ron_x_preferred":[
+        "Rafa\u00ef"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0438"
+    ],
     "name:und_x_variant":[
         "Rafa\u00ef"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6cd5\u4f0a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1360170213,
-    "wof:lastmodified":1537590582,
+    "wof:lastmodified":1564190266,
     "wof:name":"Rafai",
     "wof:parent_id":1108759705,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Bayanga"
     ],
+    "name:fra_x_preferred":[
+        "Bayanga"
+    ],
     "name:und_x_variant":[
         "Bayanga"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759605,
-    "wof:lastmodified":1553718719,
+    "wof:lastmodified":1564190152,
     "wof:name":"Bayanga",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

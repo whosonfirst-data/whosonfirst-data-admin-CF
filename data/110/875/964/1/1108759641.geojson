@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Zangba"
     ],
+    "name:fra_x_preferred":[
+        "Zangba"
+    ],
     "name:und_x_variant":[
         "Zangba"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759641,
-    "wof:lastmodified":1553718721,
+    "wof:lastmodified":1564190136,
     "wof:name":"Zangba",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

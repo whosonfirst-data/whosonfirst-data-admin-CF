@@ -26,6 +26,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bocaranga"
+    ],
+    "name:fra_x_preferred":[
+        "Bocaranga"
+    ],
+    "name:ita_x_preferred":[
+        "Bocaranga"
+    ],
+    "name:pol_x_preferred":[
+        "Bocaranga"
+    ],
+    "name:sag_x_preferred":[
+        "Bokaranga"
+    ],
+    "name:swe_x_preferred":[
+        "Bocaranga"
+    ],
     "name:und_x_variant":[
         "Bugarnga",
         "Bougarnga",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1193108569,
-    "wof:lastmodified":1537590628,
+    "wof:lastmodified":1564190095,
     "wof:name":"Bocaranga",
     "wof:parent_id":1108759721,
     "wof:placetype":"locality",

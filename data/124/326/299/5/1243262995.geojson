@@ -26,6 +26,21 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zinga"
+    ],
+    "name:deu_x_preferred":[
+        "Zinga"
+    ],
+    "name:fra_x_preferred":[
+        "Zinga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30f3\u30ac"
+    ],
+    "name:swe_x_preferred":[
+        "Zinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243262995,
-    "wof:lastmodified":1537067071,
+    "wof:lastmodified":1564190420,
     "wof:name":"Zinga",
     "wof:parent_id":1108759701,
     "wof:placetype":"locality",

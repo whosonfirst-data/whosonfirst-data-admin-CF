@@ -25,6 +25,27 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bandi"
+    ],
+    "name:deu_x_preferred":[
+        "Bandi"
+    ],
+    "name:fra_x_preferred":[
+        "Bandi"
+    ],
+    "name:ita_x_preferred":[
+        "Bandi"
+    ],
+    "name:slv_x_preferred":[
+        "Bandi"
+    ],
+    "name:swe_x_preferred":[
+        "Bandi"
+    ],
+    "name:vie_x_preferred":[
+        "Bandi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1243568919,
-    "wof:lastmodified":1536627191,
+    "wof:lastmodified":1564190382,
     "wof:name":"Bandi",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

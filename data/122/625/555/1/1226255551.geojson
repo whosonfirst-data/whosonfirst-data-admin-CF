@@ -26,6 +26,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Kadja"
+    ],
+    "name:fra_x_preferred":[
+        "Kadja"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0564\u0575\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Kadja"
+    ],
+    "name:spa_x_preferred":[
+        "Kadja"
+    ],
+    "name:vol_x_preferred":[
+        "Kadja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226255551,
-    "wof:lastmodified":1536920060,
+    "wof:lastmodified":1564190560,
     "wof:name":"Kadja",
     "wof:parent_id":1108759615,
     "wof:placetype":"locality",

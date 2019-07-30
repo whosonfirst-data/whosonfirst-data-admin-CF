@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "\u0414\u0438\u043d\u0434\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209334529,
-    "wof:lastmodified":1536290267,
+    "wof:lastmodified":1564190037,
     "wof:name":"Dinda",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

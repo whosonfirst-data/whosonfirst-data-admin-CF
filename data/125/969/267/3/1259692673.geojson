@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Matoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Matoba"
+    ],
+    "name:swe_x_preferred":[
+        "Matoba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259692673,
-    "wof:lastmodified":1537051522,
+    "wof:lastmodified":1564190488,
     "wof:name":"Matoba",
     "wof:parent_id":1108759641,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0646\u0627\u0626\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Double"
+    ],
+    "name:fra_x_preferred":[
+        "Double"
+    ],
+    "name:ita_x_preferred":[
+        "Double"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30d6\u30eb"
+    ],
+    "name:oci_x_preferred":[
+        "Dobla"
+    ],
+    "name:rus_x_preferred":[
+        "Double"
+    ],
+    "name:zho_x_preferred":[
+        "Double"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310388211,
-    "wof:lastmodified":1537083008,
+    "wof:lastmodified":1564190177,
     "wof:name":"Double",
     "wof:parent_id":1108759633,
     "wof:placetype":"locality",

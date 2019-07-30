@@ -26,6 +26,24 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbo"
+    ],
+    "name:deu_x_preferred":[
+        "Mbo"
+    ],
+    "name:fra_x_preferred":[
+        "Mbo"
+    ],
+    "name:pol_x_preferred":[
+        "Mbo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mbo"
+    ],
     "name:und_x_variant":[
         "Boh",
         "B\u00f4",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1260152119,
-    "wof:lastmodified":1537590603,
+    "wof:lastmodified":1564190099,
     "wof:name":"Mbo",
     "wof:parent_id":1108759597,
     "wof:placetype":"locality",

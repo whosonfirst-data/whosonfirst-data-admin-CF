@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Somi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1309928039,
-    "wof:lastmodified":1536754998,
+    "wof:lastmodified":1564190296,
     "wof:name":"Somi",
     "wof:parent_id":1108759719,
     "wof:placetype":"locality",

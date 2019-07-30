@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bombolo"
+    ],
+    "name:ita_x_preferred":[
+        "Bombolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1360076879,
-    "wof:lastmodified":1536957586,
+    "wof:lastmodified":1564190245,
     "wof:name":"Bombolo",
     "wof:parent_id":1108759591,
     "wof:placetype":"locality",

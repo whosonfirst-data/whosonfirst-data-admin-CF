@@ -26,6 +26,15 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loba"
+    ],
+    "name:spa_x_preferred":[
+        "Loba"
+    ],
+    "name:swe_x_preferred":[
+        "Loba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293670297,
-    "wof:lastmodified":1537019904,
+    "wof:lastmodified":1564189666,
     "wof:name":"Loba",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

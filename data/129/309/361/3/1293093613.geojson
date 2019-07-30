@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mboko"
+    ],
+    "name:swe_x_preferred":[
+        "Mboko"
+    ],
     "name:und_x_variant":[
         "Mboko Mbi"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293093613,
-    "wof:lastmodified":1537590603,
+    "wof:lastmodified":1564189475,
     "wof:name":"Mboko",
     "wof:parent_id":1108759645,
     "wof:placetype":"locality",

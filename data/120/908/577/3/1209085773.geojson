@@ -26,6 +26,12 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mboko"
+    ],
+    "name:swe_x_preferred":[
+        "Mboko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +41,7 @@
         "gn:id":2384635
     },
     "wof:country":"CF",
-    "wof:geomhash":"ec0ab7c788c8d83c591c3cde0a4e908b",
+    "wof:geomhash":"1426722fd82b0c55d12c542eafb5498d",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209085773,
-    "wof:lastmodified":1536298192,
+    "wof:lastmodified":1564189991,
     "wof:name":"Mboko",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.295920000000002,
+    16.29592,
     6.66167,
-    16.295920000000002,
+    16.29592,
     6.66167
 ],
   "geometry": {"coordinates":[16.29592,6.66167],"type":"Point"}

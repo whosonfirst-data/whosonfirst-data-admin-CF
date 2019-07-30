@@ -26,6 +26,57 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Kore"
+    ],
+    "name:cat_x_preferred":[
+        "Kore"
+    ],
+    "name:ceb_x_preferred":[
+        "Kore"
+    ],
+    "name:cym_x_preferred":[
+        "Kore"
+    ],
+    "name:dan_x_preferred":[
+        "Kore"
+    ],
+    "name:deu_x_preferred":[
+        "Kore"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03b7"
+    ],
+    "name:est_x_preferred":[
+        "Kore"
+    ],
+    "name:fin_x_preferred":[
+        "Kore"
+    ],
+    "name:fra_x_preferred":[
+        "Kore"
+    ],
+    "name:ita_x_preferred":[
+        "Kore"
+    ],
+    "name:kur_x_preferred":[
+        "Kore"
+    ],
+    "name:nld_x_preferred":[
+        "Kore"
+    ],
+    "name:nor_x_preferred":[
+        "Kore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kore"
+    ],
+    "name:tur_x_preferred":[
+        "Kore"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +86,7 @@
         "gn:id":2385595
     },
     "wof:country":"CF",
-    "wof:geomhash":"8609cb729f55c4c862de89094234c045",
+    "wof:geomhash":"5f754e7ccf35e5da8ae6f91fbd51c6f0",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +94,7 @@
         }
     ],
     "wof:id":1209594835,
-    "wof:lastmodified":1536282358,
+    "wof:lastmodified":1564190025,
     "wof:name":"Kore",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.522670000000002,
-    7.431539999999999,
-    15.522670000000002,
-    7.431539999999999
+    15.52267,
+    7.43154,
+    15.52267,
+    7.43154
 ],
   "geometry": {"coordinates":[15.52267,7.43154],"type":"Point"}
 }

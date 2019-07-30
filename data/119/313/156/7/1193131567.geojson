@@ -26,6 +26,9 @@
     "iso:country":"CF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bamangas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1193131567,
-    "wof:lastmodified":1537489227,
+    "wof:lastmodified":1564190078,
     "wof:name":"Bamango",
     "wof:parent_id":1108759623,
     "wof:placetype":"locality",
