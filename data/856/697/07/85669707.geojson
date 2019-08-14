@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":6.318767,
     "lbl:longitude":25.697381,
     "meso:name_loc":"Haut-Mbomou",
@@ -299,9 +302,6 @@
         }
     ],
     "wof:id":85669707,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -310,7 +310,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299308,
+    "wof:lastmodified":1565662212,
     "wof:name":"Haut-Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

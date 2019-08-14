@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "economic prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":3.43757,
     "lbl:longitude":16.136743,
     "meso:name_loc":"Sangha-Mba\u00e9r\u00e9",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85669675,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -302,7 +302,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299315,
+    "wof:lastmodified":1565662214,
     "wof:name":"Sangha-Mba\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

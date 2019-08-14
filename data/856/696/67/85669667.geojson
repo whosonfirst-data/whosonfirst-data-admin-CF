@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LB"
+    ],
     "lbl:latitude":4.084498,
     "lbl:longitude":17.680354,
     "meso:name_loc":"Lobaye",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85669667,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -311,7 +311,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299313,
+    "wof:lastmodified":1565662213,
     "wof:name":"Lobaye",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MB"
+    ],
     "lbl:latitude":5.406267,
     "lbl:longitude":23.365043,
     "meso:name_loc":"Mbomou",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85669709,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -306,7 +306,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299310,
+    "wof:lastmodified":1565662213,
     "wof:name":"Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

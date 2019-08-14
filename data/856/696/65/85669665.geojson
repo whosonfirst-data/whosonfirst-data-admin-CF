@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":4.92349,
     "lbl:longitude":21.349094,
     "meso:name_loc":"Basse-Kotto",
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85669665,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -305,7 +305,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299317,
+    "wof:lastmodified":1565662214,
     "wof:name":"Basse-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
@@ -314,6 +314,7 @@
     "wof:population":203887,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-cf",
+    "wof:shortcode":"BK",
     "wof:subdivision":"CF-BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],

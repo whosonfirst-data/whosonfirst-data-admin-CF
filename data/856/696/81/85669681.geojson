@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NM"
+    ],
     "lbl:latitude":5.670265,
     "lbl:longitude":15.273018,
     "meso:name_loc":"Nana-Mamb\u00e9r\u00e9",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85669681,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -309,7 +309,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299316,
+    "wof:lastmodified":1565662214,
     "wof:name":"Nana-Mamb\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

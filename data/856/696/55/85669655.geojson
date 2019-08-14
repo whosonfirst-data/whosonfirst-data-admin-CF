@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous commune"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BG"
+    ],
     "lbl:latitude":4.365897,
     "lbl:longitude":18.554909,
     "meso:name_loc":"Bangui",
@@ -547,9 +550,6 @@
         }
     ],
     "wof:id":85669655,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -558,7 +558,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299321,
+    "wof:lastmodified":1565662214,
     "wof:name":"Bangui",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

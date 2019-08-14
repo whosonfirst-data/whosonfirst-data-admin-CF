@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":8.238988,
     "lbl:longitude":20.279051,
     "meso:name_loc":"Bamingui-Bangoran",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85669689,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -308,7 +308,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299314,
+    "wof:lastmodified":1565662214,
     "wof:name":"Bamingui-Bangoran",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

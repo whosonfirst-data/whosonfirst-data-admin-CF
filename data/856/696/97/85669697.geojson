@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":5.867123,
     "lbl:longitude":19.213458,
     "meso:name_loc":"K\u00e9mo",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85669697,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -309,7 +309,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299321,
+    "wof:lastmodified":1565662215,
     "wof:name":"K\u00e9mo",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

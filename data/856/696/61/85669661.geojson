@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MP"
+    ],
     "lbl:latitude":5.109099,
     "lbl:longitude":17.973633,
     "meso:name_loc":"Ombella M'Poko",
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85669661,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -317,7 +317,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299312,
+    "wof:lastmodified":1565662213,
     "wof:name":"Ombella M'Poko",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OP"
+    ],
     "lbl:latitude":6.811337,
     "lbl:longitude":16.15472,
     "meso:name_loc":"Ouham-Pend\u00e9",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85669685,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -306,7 +306,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299322,
+    "wof:lastmodified":1565662215,
     "wof:name":"Ouham-Pend\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

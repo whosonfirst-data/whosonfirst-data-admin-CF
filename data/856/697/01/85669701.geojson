@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AC"
+    ],
     "lbl:latitude":7.032146,
     "lbl:longitude":17.77107,
     "meso:name_loc":"Ouham",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85669701,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -312,7 +312,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299311,
+    "wof:lastmodified":1565662213,
     "wof:name":"Ouham",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

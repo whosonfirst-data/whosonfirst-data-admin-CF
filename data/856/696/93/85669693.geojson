@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "economic prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KB"
+    ],
     "lbl:latitude":7.047748,
     "lbl:longitude":19.382429,
     "meso:name_loc":"Nana-Gribizi",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85669693,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "sag"
@@ -302,7 +302,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1563299313,
+    "wof:lastmodified":1565662213,
     "wof:name":"Nana-Gribizi",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
