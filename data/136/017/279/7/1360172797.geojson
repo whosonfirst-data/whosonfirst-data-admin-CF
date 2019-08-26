@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.77805,5.93331,21.81805,5.97331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kongo"
     ],
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":1360172797,
-    "wof:lastmodified":1564190266,
+    "wof:lastmodified":1566638211,
     "wof:name":"Kongo",
     "wof:parent_id":1108759659,
     "wof:placetype":"locality",

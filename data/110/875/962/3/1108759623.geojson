@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.977659,
     "lbl:longitude":17.946536,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Lobaye",
     "meso:gadm_adm2":"M'Ba\u00efki",
     "meso:gaul_adm2":"Mba\u00efki",
@@ -31,6 +33,7 @@
     "mps:longitude":17.946536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "M'Ba\u00efki"
     ],
@@ -38,9 +41,9 @@
         "Mba\u00efki"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759623,
-    "wof:lastmodified":1553718720,
+    "wof:lastmodified":1566638116,
     "wof:name":"M'Baiki",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

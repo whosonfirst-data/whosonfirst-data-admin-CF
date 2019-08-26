@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"22.51317,9.81147,22.55317,9.85147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maja",
         "Madja",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209786751,
-    "wof:lastmodified":1537590585,
+    "wof:lastmodified":1566638029,
     "wof:name":"Madjia",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",

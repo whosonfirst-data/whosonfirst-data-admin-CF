@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.13416,6.39559,21.17416,6.43559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouadimi",
         "Oualaka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225925183,
-    "wof:lastmodified":1537590583,
+    "wof:lastmodified":1566638379,
     "wof:name":"Oualaka",
     "wof:parent_id":1108759659,
     "wof:placetype":"locality",

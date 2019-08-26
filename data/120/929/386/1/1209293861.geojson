@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.21079,7.05316,16.25079,7.09316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":6857471
     },
     "wof:country":"CF",
-    "wof:geomhash":"bffe78c3db2e9aaeca69abc1c62dbe59",
+    "wof:geomhash":"bdd3a493b0d2ad9b5be72e51e8dada4f",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209293861,
-    "wof:lastmodified":1536291599,
+    "wof:lastmodified":1566638050,
     "wof:name":"Bozouali",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     16.23079,
-    7.0731600000000014,
+    7.07316,
     16.23079,
-    7.0731600000000014
+    7.07316
 ],
   "geometry": {"coordinates":[16.23079,7.07316],"type":"Point"}
 }

@@ -10,6 +10,9 @@
     "geom:latitude":3.86781,
     "geom:longitude":17.98923,
     "iso:country":"CF",
+    "lbl:bbox":"17.96923,3.84781,18.00923,3.88781",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":2384770,
         "gp:id":1309295,
-        "qs:id":183318,
+        "qs_pg:id":183318,
         "wd:id":"Q593435"
     },
     "wof:country":"CF",
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":421198507,
-    "wof:lastmodified":1563299834,
+    "wof:lastmodified":1566638243,
     "wof:name":"Mba\u00efki",
     "wof:parent_id":1108759623,
     "wof:placetype":"locality",

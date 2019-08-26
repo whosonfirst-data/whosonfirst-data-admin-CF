@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.99667,6.91333,19.03667,6.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2387975
     },
     "wof:country":"CF",
-    "wof:geomhash":"9a5264b97337832f643a5bc5704af2c9",
+    "wof:geomhash":"9ce241601331b3c02cedb7a354e9ab7b",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209079417,
-    "wof:lastmodified":1536298388,
+    "wof:lastmodified":1566638002,
     "wof:name":"Botokon",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     19.01667,
-    6.9333300000000015,
+    6.93333,
     19.01667,
-    6.9333300000000015
+    6.93333
 ],
   "geometry": {"coordinates":[19.01667,6.93333],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.37493,6.58979,16.41493,6.62979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sange"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209995801,
-    "wof:lastmodified":1564189998,
+    "wof:lastmodified":1566638020,
     "wof:name":"Sange",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.07329,5.35594,15.11329,5.39594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Babaya",
         "Babaza"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293479607,
-    "wof:lastmodified":1537590638,
+    "wof:lastmodified":1566637874,
     "wof:name":"Babaza",
     "wof:parent_id":1108759685,
     "wof:placetype":"locality",

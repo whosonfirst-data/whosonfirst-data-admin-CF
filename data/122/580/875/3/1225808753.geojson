@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.07864,4.46925,18.11864,4.50925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buda",
         "Bouda",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225808753,
-    "wof:lastmodified":1537590628,
+    "wof:lastmodified":1566638412,
     "wof:name":"Boda I",
     "wof:parent_id":1108759687,
     "wof:placetype":"locality",

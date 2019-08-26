@@ -10,8 +10,12 @@
     "geom:latitude":4.31887,
     "geom:longitude":17.46953,
     "iso:country":"CF",
+    "lbl:bbox":"17.44953,4.29887,17.48953,4.33887",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u0648\u062f\u0627"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":2388614,
         "gp:id":1307143,
-        "qs:id":1035319,
+        "qs_pg:id":1035319,
         "wd:id":"Q2543954",
         "wk:page":"Boda, Lobaye"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421168155,
-    "wof:lastmodified":1563299824,
+    "wof:lastmodified":1566638241,
     "wof:name":"Boda",
     "wof:parent_id":1108759727,
     "wof:placetype":"locality",

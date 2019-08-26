@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.04276,7.06578,19.08276,7.10578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":7524290
     },
     "wof:country":"CF",
-    "wof:geomhash":"2d257194d36c9c8cff7333d3b4780122",
+    "wof:geomhash":"8b9f779c4bd52fec6520052e45be10bd",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209498029,
-    "wof:lastmodified":1536285273,
+    "wof:lastmodified":1566638032,
     "wof:name":"Doukoumbe",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     19.06276,
-    7.0857800000000015,
+    7.08578,
     19.06276,
-    7.0857800000000015
+    7.08578
 ],
   "geometry": {"coordinates":[19.06276,7.08578],"type":"Point"}
 }

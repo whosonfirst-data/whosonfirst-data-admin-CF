@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.79134,7.17534,16.83134,7.21534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zama"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1360171851,
-    "wof:lastmodified":1564190267,
+    "wof:lastmodified":1566638211,
     "wof:name":"Zama",
     "wof:parent_id":1108759699,
     "wof:placetype":"locality",

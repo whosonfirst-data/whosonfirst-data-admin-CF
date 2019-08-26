@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.560118,
     "lbl:longitude":25.311033,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Haut-Mbomou",
     "meso:gadm_adm2":"Z\u00e9mio",
     "meso:gaul_adm2":"Z\u00e9mio",
@@ -31,6 +33,7 @@
     "mps:longitude":25.311033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0632\u0645\u06cc\u0648"
     ],
@@ -61,13 +64,10 @@
     "name:sag_x_preferred":[
         "Zemio"
     ],
-    "name:und_x_variant":[
-        "Z\u00e9mio"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108759587,
-    "wof:lastmodified":1564190149,
+    "wof:lastmodified":1566638132,
     "wof:name":"Zemio",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

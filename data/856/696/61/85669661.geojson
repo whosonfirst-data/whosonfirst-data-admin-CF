@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.109099,
     "lbl:longitude":17.973633,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Ombella M'Poko",
     "mps:latitude":5.108557,
     "mps:longitude":17.97566,
@@ -159,7 +160,7 @@
         "Ombella-Mpoko"
     ],
     "name:tam_x_preferred":[
-        "\u0b93\u0bae\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe -\u0bae\u0bcd '\u0baa\u0bcb\u0b95\u0bcb  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0b93\u0bae\u0bcd\u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe -\u0bae\u0bcd '\u0baa\u0bcb\u0b95\u0bcb \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c12\u0c02\u0c2c\u0c46\u0c32\u0c4d\u0c32\u0c3e-\u0c0e\u0c02\u0c2a\u0c4b\u0c15\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -175,9 +176,6 @@
     ],
     "name:und_x_variant":[
         "Ombella M'Poko"
-    ],
-    "name:unk_x_variant":[
-        "Ombella-Mpoko"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0645\u0628\u06cc\u0644\u0627-\u0645\u067e\u0648\u06a9\u0648"
@@ -266,9 +264,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"31,835",
     "statoids:area_mi":"12,292",
     "statoids:as_of_date":"2003-12-08",
@@ -294,7 +292,7 @@
         "gp:id":2345104,
         "hasc:id":"CF.MP",
         "iso:id":"CF-MP",
-        "qs:id":988722,
+        "qs_pg:id":988722,
         "unlc:id":"CF-MP",
         "wd:id":"Q378970",
         "wk:page":"Ombella-M'Poko"
@@ -317,11 +315,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662213,
+    "wof:lastmodified":1566637835,
     "wof:name":"Ombella M'Poko",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":304025,
     "wof:population_rank":10,

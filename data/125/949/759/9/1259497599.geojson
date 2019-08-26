@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.02941,7.21755,20.06941,7.25755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yambala",
         "Yambala Koudouv\u00e9l\u00e9"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259497599,
-    "wof:lastmodified":1564190464,
+    "wof:lastmodified":1566638350,
     "wof:name":"Yambala Koudouvele",
     "wof:parent_id":421171017,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.365897,
     "lbl:longitude":18.554909,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Bangui",
     "meso:gadm_adm2":"Bangui",
     "meso:gaul_adm2":"Bangui",
@@ -31,6 +33,7 @@
     "mps:longitude":18.554909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Bangui"
     ],
@@ -349,9 +352,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0456"
     ],
-    "name:und_x_variant":[
-        "Bangui"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u06af\u0648\u0626\u06cc"
     ],
@@ -380,9 +380,9 @@
         "Bangui"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -414,7 +414,7 @@
         }
     ],
     "wof:id":1108759735,
-    "wof:lastmodified":1564190157,
+    "wof:lastmodified":1566638137,
     "wof:name":"Bangui",
     "wof:parent_id":85669655,
     "wof:placetype":"county",

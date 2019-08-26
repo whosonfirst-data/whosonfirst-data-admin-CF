@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.16333,5.96333,20.20333,6.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":239531
     },
     "wof:country":"CF",
-    "wof:geomhash":"3248f14a04e0117b7a6cefc1adabb0f3",
+    "wof:geomhash":"d090b77f8e7385a3135de58bb271cbe1",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209493319,
-    "wof:lastmodified":1536285415,
+    "wof:lastmodified":1566638032,
     "wof:name":"Djouarepeu",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     20.18333,
-    5.9833300000000005,
+    5.98333,
     20.18333,
-    5.9833300000000005
+    5.98333
 ],
   "geometry": {"coordinates":[20.18333,5.98333],"type":"Point"}
 }

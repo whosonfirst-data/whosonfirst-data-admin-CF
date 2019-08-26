@@ -11,8 +11,11 @@
     "geom:longitude":15.86645,
     "gn:country":"CF",
     "gn:fcode":"PPL",
-    "gn:pop":38071,
+    "gn:population":38071,
     "iso:country":"CF",
+    "lbl:bbox":"15.84645,4.9209,15.88645,4.9609",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":2387495,
         "gp:id":1479633,
-        "qs:id":1035311,
+        "qs_pg:id":1035311,
         "wd:id":"Q521702",
         "wk:page":"Carnot"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":890436689,
-    "wof:lastmodified":1563299841,
+    "wof:lastmodified":1566638247,
     "wof:name":"Carnot",
     "wof:parent_id":1108759637,
     "wof:placetype":"locality",

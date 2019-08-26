@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.19761,4.46232,18.23761,4.50232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bosse"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1259754727,
-    "wof:lastmodified":1564190496,
+    "wof:lastmodified":1566638372,
     "wof:name":"Bosse",
     "wof:parent_id":1108759733,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.84667,4.29667,21.88667,4.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":240908
     },
     "wof:country":"CF",
-    "wof:geomhash":"4d6be24f240166f55d748af191aee457",
+    "wof:geomhash":"db3493143b66eb9d3925d3659ea3fe1a",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209628255,
-    "wof:lastmodified":1536281279,
+    "wof:lastmodified":1566638007,
     "wof:name":"Aoundaye",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.866670000000006,
-    4.3166699999999985,
-    21.866670000000006,
-    4.3166699999999985
+    21.86667000000001,
+    4.31667,
+    21.86667000000001,
+    4.31667
 ],
   "geometry": {"coordinates":[21.86667000000001,4.31667],"type":"Point"}
 }

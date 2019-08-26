@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.85995,6.73669,16.89995,6.77669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2388654
     },
     "wof:country":"CF",
-    "wof:geomhash":"5f05f9224f2b4ecbe6ed33e31bd8a5b9",
+    "wof:geomhash":"3a55a86919d0e83a21750b8788fd3fac",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209595673,
-    "wof:lastmodified":1536282332,
+    "wof:lastmodified":1566638039,
     "wof:name":"Bobili",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     16.87995,
-    6.756689999999999,
+    6.75669,
     16.87995,
-    6.756689999999999
+    6.75669
 ],
   "geometry": {"coordinates":[16.87995,6.75669],"type":"Point"}
 }

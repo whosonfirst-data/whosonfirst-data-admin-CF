@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.36187,6.58252,17.40187,6.62252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bofill"
     ],
@@ -39,8 +43,7 @@
         "Bofill"
     ],
     "name:und_x_variant":[
-        "Bofil\u00e9",
-        "Bofill"
+        "Bofil\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1309986221,
-    "wof:lastmodified":1564190279,
+    "wof:lastmodified":1566638220,
     "wof:name":"Bofill",
     "wof:parent_id":1108759673,
     "wof:placetype":"locality",

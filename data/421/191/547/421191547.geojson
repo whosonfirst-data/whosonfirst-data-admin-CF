@@ -10,6 +10,9 @@
     "geom:latitude":4.26116,
     "geom:longitude":15.79216,
     "iso:country":"CF",
+    "lbl:bbox":"15.77216,4.24116,15.81216,4.28116",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":2389086,
         "gp:id":1306940,
-        "qs:id":1142250,
+        "qs_pg:id":1142250,
         "wd:id":"Q544701",
         "wk:page":"Berb\u00e9rati"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421191547,
-    "wof:lastmodified":1563299834,
+    "wof:lastmodified":1566638244,
     "wof:name":"Berb\u00e9rati",
     "wof:parent_id":1108759683,
     "wof:placetype":"locality",

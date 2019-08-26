@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.89667,5.79667,17.93667,5.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Tolli"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1260143835,
-    "wof:lastmodified":1564190101,
+    "wof:lastmodified":1566638091,
     "wof:name":"Tolli",
     "wof:parent_id":1108759669,
     "wof:placetype":"locality",

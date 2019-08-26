@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.811337,
     "lbl:longitude":16.15472,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Ouham-Pend\u00e9",
     "mps:latitude":6.813392,
     "mps:longitude":16.146403,
@@ -151,7 +152,7 @@
         "Pr\u00e9fecture de l'Ouham-Pend\u00e9"
     ],
     "name:tam_x_preferred":[
-        "\u0baf\u0bb9\u0bae\u0bcd -\u0baa\u0bc6\u0ba3\u0bcd\u0b9f\u0bc7  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0baf\u0bb9\u0bae\u0bcd -\u0baa\u0bc6\u0ba3\u0bcd\u0b9f\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c14\u0c39\u0c3e\u0c2e\u0c4d-\u0c2a\u0c46\u0c02\u0c21\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -166,9 +167,6 @@
         "\u0423\u0430\u043c-\u041f\u0435\u043d\u0434\u0435"
     ],
     "name:und_x_variant":[
-        "Ouham-Pend\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de l\u2019Ouham-Pend\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -255,9 +253,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"32,100",
     "statoids:area_mi":"12,394",
     "statoids:as_of_date":"2003-12-08",
@@ -283,7 +281,7 @@
         "gp:id":2345100,
         "hasc:id":"CF.OP",
         "iso:id":"CF-OP",
-        "qs:id":59601,
+        "qs_pg:id":59601,
         "unlc:id":"CF-OP",
         "wd:id":"Q848591",
         "wk:page":"Ouham-Pend\u00e9"
@@ -306,11 +304,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662215,
+    "wof:lastmodified":1566637839,
     "wof:name":"Ouham-Pend\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":325567,
     "wof:population_rank":10,

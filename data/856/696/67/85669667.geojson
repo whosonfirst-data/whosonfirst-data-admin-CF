@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.084498,
     "lbl:longitude":17.680354,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Lobaye",
     "mps:latitude":4.07461,
     "mps:longitude":17.688161,
@@ -171,9 +172,6 @@
         "\u041b\u043e\u0431\u0430\u0435"
     ],
     "name:und_x_variant":[
-        "Lobaye"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de Lobaye"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"19,235",
     "statoids:area_mi":"7,427",
     "statoids:as_of_date":"2003-12-08",
@@ -288,7 +286,7 @@
         "gp:id":2345095,
         "hasc:id":"CF.LB",
         "iso:id":"CF-LB",
-        "qs:id":984074,
+        "qs_pg:id":984074,
         "unlc:id":"CF-LB",
         "wd:id":"Q821037",
         "wk:page":"Lobaye"
@@ -311,11 +309,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662213,
+    "wof:lastmodified":1566637836,
     "wof:name":"Lobaye",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":214137,
     "wof:population_rank":10,

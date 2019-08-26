@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.13803,4.01624,15.17803,4.05624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bandziforo",
         "Bondiforo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276898367,
-    "wof:lastmodified":1537590636,
+    "wof:lastmodified":1566637943,
     "wof:name":"Bandiforo",
     "wof:parent_id":1108759603,
     "wof:placetype":"locality",

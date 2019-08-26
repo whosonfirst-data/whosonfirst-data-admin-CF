@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.62019,4.11302,15.66019,4.15302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226048867,
-    "wof:lastmodified":1536720971,
+    "wof:lastmodified":1566638404,
     "wof:name":"Beina-Wayo",
     "wof:parent_id":1108759683,
     "wof:placetype":"locality",

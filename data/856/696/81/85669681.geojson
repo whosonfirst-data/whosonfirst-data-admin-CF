@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.670265,
     "lbl:longitude":15.273018,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Nana-Mamb\u00e9r\u00e9",
     "mps:latitude":5.669187,
     "mps:longitude":15.266162,
@@ -154,7 +155,7 @@
         "Pr\u00e9fecture de la Nana-Mamb\u00e9r\u00e9"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbe\u0ba9\u0bbe -\u0bae\u0bae\u0bcd\u0baa\u0bc6\u0bb0\u0bc7  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc7"
+        "\u0ba8\u0bbe\u0ba9\u0bbe -\u0bae\u0bae\u0bcd\u0baa\u0bc6\u0bb0\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c28\u0c3e-\u0c2e\u0c3e\u0c02\u0c2c\u0c46\u0c30\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -169,9 +170,6 @@
         "\u041d\u0430\u043d\u0430-\u041c\u0430\u043c\u0431\u0435\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Nana-Mamb\u00e9r\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Prefecture de Bouar-Baboua"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"26,600",
     "statoids:area_mi":"10,270",
     "statoids:as_of_date":"2003-12-08",
@@ -286,7 +284,7 @@
         "gp:id":2345097,
         "hasc:id":"CF.NM",
         "iso:id":"CF-NM",
-        "qs:id":257794,
+        "qs_pg:id":257794,
         "unlc:id":"CF-NM",
         "wd:id":"Q742455",
         "wk:page":"Nana-Mamb\u00e9r\u00e9"
@@ -309,11 +307,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662214,
+    "wof:lastmodified":1566637837,
     "wof:name":"Nana-Mamb\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":184594,
     "wof:population_rank":9,

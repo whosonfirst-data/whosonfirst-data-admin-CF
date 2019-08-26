@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.14667,4.48,15.18667,4.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2387237
     },
     "wof:country":"CF",
-    "wof:geomhash":"8de3e41efdea4ab21fb65978c8b49149",
+    "wof:geomhash":"1a07297bde02456536269983b002f338",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209521683,
-    "wof:lastmodified":1536284559,
+    "wof:lastmodified":1566638017,
     "wof:name":"Dilapoko",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.166670000000002,
+    15.16667,
     4.5,
-    15.166670000000002,
+    15.16667,
     4.5
 ],
   "geometry": {"coordinates":[15.16667,4.5],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"22.03719,9.83989,22.07719,9.87989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277046533,
-    "wof:lastmodified":1536817001,
+    "wof:lastmodified":1566637963,
     "wof:name":"Kokab",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",

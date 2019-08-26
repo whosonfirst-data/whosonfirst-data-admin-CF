@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.34212,7.3768,16.38212,7.4168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276319937,
-    "wof:lastmodified":1536796921,
+    "wof:lastmodified":1566637996,
     "wof:name":"Bogorombo I",
     "wof:parent_id":1108759601,
     "wof:placetype":"locality",

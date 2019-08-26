@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"26.45046,5.39964,26.49046,5.43964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277108425,
-    "wof:lastmodified":1536730995,
+    "wof:lastmodified":1566637997,
     "wof:name":"Dakatimonga",
     "wof:parent_id":1108759585,
     "wof:placetype":"locality",

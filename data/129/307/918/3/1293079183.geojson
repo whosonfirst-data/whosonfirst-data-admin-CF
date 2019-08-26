@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.58,5.68,21.62,5.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Manihot"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1293079183,
-    "wof:lastmodified":1564189466,
+    "wof:lastmodified":1566637843,
     "wof:name":"Manihot",
     "wof:parent_id":1108759729,
     "wof:placetype":"locality",

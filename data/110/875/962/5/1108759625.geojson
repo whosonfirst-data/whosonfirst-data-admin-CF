@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.96964,
     "lbl:longitude":15.503688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef ",
     "meso:gadm_adm2":"Gamboula",
     "meso:gaul_adm2":"Sosso-Nakombo",
@@ -31,22 +33,20 @@
     "mps:longitude":15.503688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sosso-Nakombo"
     ],
     "name:fra_x_preferred":[
         "Sosso-Nakombo"
     ],
-    "name:und_x_variant":[
-        "Sosso-Nakombo"
-    ],
     "name:zho_x_preferred":[
         "\u7d22\u7d22-\u90a3\u5b54\u6ce2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108759625,
-    "wof:lastmodified":1564190133,
+    "wof:lastmodified":1566638117,
     "wof:name":"Sosso-Nakombo",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

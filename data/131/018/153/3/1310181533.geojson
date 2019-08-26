@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.52733,5.94734,16.56733,5.98734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bombaru",
         "Boumbalou",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310181533,
-    "wof:lastmodified":1537590623,
+    "wof:lastmodified":1566638168,
     "wof:name":"Bombalou",
     "wof:parent_id":1108759667,
     "wof:placetype":"locality",

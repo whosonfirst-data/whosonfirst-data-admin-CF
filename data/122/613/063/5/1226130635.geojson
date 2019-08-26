@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.38255,5.0407,20.42255,5.0807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Panga"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1226130635,
-    "wof:lastmodified":1564190558,
+    "wof:lastmodified":1566638416,
     "wof:name":"Panga",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

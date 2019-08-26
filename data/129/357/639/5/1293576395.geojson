@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.36576,7.00554,17.40576,7.04554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u0430"
     ],
@@ -51,8 +55,7 @@
         "Desa"
     ],
     "name:und_x_variant":[
-        "Dessa",
-        "Desa"
+        "Dessa"
     ],
     "name:vie_x_preferred":[
         "Desa"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293576395,
-    "wof:lastmodified":1564189565,
+    "wof:lastmodified":1566637884,
     "wof:name":"Desa",
     "wof:parent_id":1108759697,
     "wof:placetype":"locality",

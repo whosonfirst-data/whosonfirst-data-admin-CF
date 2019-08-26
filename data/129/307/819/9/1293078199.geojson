@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.61162,7.23418,18.65162,7.27418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bot\u00e9r\u00e9 I",
         "Bot\u00e9r\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293078199,
-    "wof:lastmodified":1537590620,
+    "wof:lastmodified":1566637841,
     "wof:name":"Botere I",
     "wof:parent_id":1108759675,
     "wof:placetype":"locality",

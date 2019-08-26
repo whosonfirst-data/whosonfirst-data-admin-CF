@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"22.82685,5.66839,22.86685,5.70839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326527169,
-    "wof:lastmodified":1536990596,
+    "wof:lastmodified":1566637730,
     "wof:name":"Zime",
     "wof:parent_id":1108759715,
     "wof:placetype":"locality",

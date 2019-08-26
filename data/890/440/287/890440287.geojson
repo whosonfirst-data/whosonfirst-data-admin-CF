@@ -11,10 +11,14 @@
     "geom:longitude":18.27331,
     "gn:country":"CF",
     "gn:fcode":"PPL",
-    "gn:pop":13250,
+    "gn:population":13250,
     "iso:country":"CF",
+    "lbl:bbox":"18.25331,6.49046,18.29331,6.53046",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bouca"
     ],
@@ -54,7 +58,7 @@
     "name:tur_x_preferred":[
         "Bouca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bouka"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2387890,
         "gp:id":1307600,
-        "qs:id":278591,
+        "qs_pg:id":278591,
         "wd:id":"Q2428295",
         "wk:page":"Bouca"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890440287,
-    "wof:lastmodified":1563299836,
+    "wof:lastmodified":1566638245,
     "wof:name":"Bouca",
     "wof:parent_id":1108759695,
     "wof:placetype":"locality",

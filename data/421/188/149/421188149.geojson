@@ -10,8 +10,12 @@
     "geom:latitude":6.26793,
     "geom:longitude":21.22468,
     "iso:country":"CF",
+    "lbl:bbox":"21.20468,6.24793,21.24468,6.28793",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u067e\u06cc"
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "Ippy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ippi"
     ],
     "qs:gn_country":"CF",
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":238566,
         "gp:id":1308635,
-        "qs:id":1089076,
+        "qs_pg:id":1089076,
         "wd:id":"Q2428110",
         "wk:page":"Ippy"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421188149,
-    "wof:lastmodified":1563299830,
+    "wof:lastmodified":1566638243,
     "wof:name":"Ippy",
     "wof:parent_id":1108759659,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.406267,
     "lbl:longitude":23.365043,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Mbomou",
     "mps:latitude":5.403937,
     "mps:longitude":23.392829,
@@ -93,7 +94,7 @@
         "\u30e0\u30dc\u30e0\u5dde"
     ],
     "name:kan_x_preferred":[
-        "\u0cae\u0ccd\u0cac\u0ccb\u0cae\u0ccc  \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
+        "\u0cae\u0ccd\u0cac\u0ccb\u0cae\u0ccc \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d1\u10dd\u10db\u10e3"
@@ -153,7 +154,7 @@
         "Mbomou"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcd\u0baa\u0bcb\u0bae\u0bcc  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0bae\u0bcd\u0baa\u0bcb\u0bae\u0bcc \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c2e\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -168,9 +169,6 @@
         "\u041c\u0431\u043e\u043c\u0443"
     ],
     "name:und_x_variant":[
-        "Mbomou"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de Mbomou"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"61,150",
     "statoids:area_mi":"23,610",
     "statoids:as_of_date":"2003-12-08",
@@ -284,7 +282,7 @@
         "gp:id":2345096,
         "hasc:id":"CF.MB",
         "iso:id":"CF-MB",
-        "qs:id":946781,
+        "qs_pg:id":946781,
         "wd:id":"Q848582",
         "wk:page":"Mbomou"
     },
@@ -306,11 +304,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662213,
+    "wof:lastmodified":1566637834,
     "wof:name":"Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":132740,
     "wof:population_rank":9,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.28675,7.22692,18.32675,7.26692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2382722
     },
     "wof:country":"CF",
-    "wof:geomhash":"69d2a4250399584cb0fa0b719e8c8146",
+    "wof:geomhash":"04b0e43313afaf6b08eebcd9c9d58d87",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209301411,
-    "wof:lastmodified":1536291345,
+    "wof:lastmodified":1566638012,
     "wof:name":"Tounda",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     18.30675,
-    7.2469199999999985,
+    7.24692,
     18.30675,
-    7.2469199999999985
+    7.24692
 ],
   "geometry": {"coordinates":[18.30675,7.24692],"type":"Point"}
 }

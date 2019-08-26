@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.67316,5.28262,20.71316,5.32262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209793973,
-    "wof:lastmodified":1536393735,
+    "wof:lastmodified":1566638025,
     "wof:name":"Boundi",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

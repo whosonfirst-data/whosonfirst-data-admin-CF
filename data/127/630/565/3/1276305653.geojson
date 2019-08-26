@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.12787,7.00668,19.16787,7.04668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276305653,
-    "wof:lastmodified":1536815120,
+    "wof:lastmodified":1566637988,
     "wof:name":"Popo II",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.867123,
     "lbl:longitude":19.213458,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"K\u00e9mo",
     "mps:latitude":5.868864,
     "mps:longitude":19.213429,
@@ -154,7 +155,7 @@
         "Pr\u00e9fecture de la K\u00e9mo"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0bae\u0bcb  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
+        "\u0b95\u0bc7\u0bae\u0bcb \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c46\u0c2e\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -169,9 +170,6 @@
         "\u041a\u0435\u043c\u043e"
     ],
     "name:und_x_variant":[
-        "K\u00e9mo"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de K\u00e9mo"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"17,204",
     "statoids:area_mi":"6,643",
     "statoids:as_of_date":"2003-12-08",
@@ -286,7 +284,7 @@
         "gp:id":2345094,
         "hasc:id":"CF.KG",
         "iso:id":"CF-KG",
-        "qs:id":946780,
+        "qs_pg:id":946780,
         "unlc:id":"CF-KG",
         "wd:id":"Q848572",
         "wk:page":"K\u00e9mo"
@@ -309,11 +307,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662215,
+    "wof:lastmodified":1566637839,
     "wof:name":"K\u00e9mo",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":98881,
     "wof:population_rank":8,

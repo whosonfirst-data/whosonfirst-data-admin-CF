@@ -10,6 +10,9 @@
     "geom:latitude":8.07771,
     "geom:longitude":22.40075,
     "iso:country":"CF",
+    "lbl:bbox":"22.38075,8.05771,22.42075,8.09771",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,9 +59,6 @@
     ],
     "name:swe_x_preferred":[
         "Ouadda"
-    ],
-    "name:unk_x_variant":[
-        "Quadda"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Central African Republic",
@@ -183,7 +183,7 @@
     "wof:concordances":{
         "gn:id":236901,
         "gp:id":1309777,
-        "qs:id":429305,
+        "qs_pg:id":429305,
         "wd:id":"Q2428058",
         "wk:page":"Ouadda"
     },
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":421179659,
-    "wof:lastmodified":1563299835,
+    "wof:lastmodified":1566638244,
     "wof:name":"Ouadda",
     "wof:parent_id":1108759661,
     "wof:placetype":"locality",

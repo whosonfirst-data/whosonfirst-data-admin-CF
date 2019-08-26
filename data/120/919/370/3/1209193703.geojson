@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.3577,6.66678,16.3977,6.70678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2386730
     },
     "wof:country":"CF",
-    "wof:geomhash":"b3e1ef6b52337555670ae6de63e8065e",
+    "wof:geomhash":"85df0979e0c58ff32696e2e207b5e4fe",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209193703,
-    "wof:lastmodified":1536294846,
+    "wof:lastmodified":1566638058,
     "wof:name":"Gangadouma I",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     16.3777,
-    6.6867800000000015,
+    6.68678,
     16.3777,
-    6.6867800000000015
+    6.68678
 ],
   "geometry": {"coordinates":[16.3777,6.68678],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"22.0705,4.20509,22.1105,4.24509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Deb\u00e9r\u00e9",
         "Dib\u00e9r\u00e9"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209437329,
-    "wof:lastmodified":1537590589,
+    "wof:lastmodified":1566638063,
     "wof:name":"Dibere",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
