@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.28243,6.43844,16.32243,6.47844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goumou",
         "Goumoun"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293180387,
-    "wof:lastmodified":1537590609,
+    "wof:lastmodified":1566637903,
     "wof:name":"Goumoun",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",

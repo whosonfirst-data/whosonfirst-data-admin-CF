@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.19316,6.7992,17.23316,6.8392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2387702
     },
     "wof:country":"CF",
-    "wof:geomhash":"48b94e5d7794d4dfdf56ec775bb2378b",
+    "wof:geomhash":"787534eef7565df0b8eb8af042467eee",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209086457,
-    "wof:lastmodified":1536298171,
+    "wof:lastmodified":1566638013,
     "wof:name":"Boungba",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.213160000000002,
+    17.21316,
     6.8192,
-    17.213160000000002,
+    17.21316,
     6.8192
 ],
   "geometry": {"coordinates":[17.21316,6.8192],"type":"Point"}

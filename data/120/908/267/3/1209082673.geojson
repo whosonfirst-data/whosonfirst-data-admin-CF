@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.06542,7.46208,16.10542,7.50208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":6857428
     },
     "wof:country":"CF",
-    "wof:geomhash":"af2fabec216e6e31abe61534950d6f2c",
+    "wof:geomhash":"e530903f1d9d4b427d032ffe6a9dbb25",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209082673,
-    "wof:lastmodified":1536298287,
+    "wof:lastmodified":1566638013,
     "wof:name":"Dzanabanzi",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.085420000000006,
-    7.482080000000002,
-    16.085420000000006,
-    7.482080000000002
+    16.08542000000001,
+    7.48208,
+    16.08542000000001,
+    7.48208
 ],
   "geometry": {"coordinates":[16.08542000000001,7.48208],"type":"Point"}
 }

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.86333,5.59667,17.90333,5.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bod\u00e9ra",
         "Gbad\u00e9r\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242936647,
-    "wof:lastmodified":1537590610,
+    "wof:lastmodified":1566638274,
     "wof:name":"Gbadere",
     "wof:parent_id":1108759669,
     "wof:placetype":"locality",

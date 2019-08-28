@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"18.45895,5.12064,18.49895,5.16064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bozo"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1310465483,
-    "wof:lastmodified":1564190160,
+    "wof:lastmodified":1566638139,
     "wof:name":"Bozo",
     "wof:parent_id":1108759647,
     "wof:placetype":"locality",

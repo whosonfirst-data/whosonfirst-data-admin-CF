@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.368019,
     "lbl:longitude":21.917079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Basse-Kotto",
     "meso:gadm_adm2":"Kemb\u00e9",
     "meso:gaul_adm2":"Kemb\u00e9",
@@ -31,6 +33,7 @@
     "mps:longitude":21.917079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Satema"
     ],
@@ -38,9 +41,9 @@
         "Sat\u00e9ma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759589,
-    "wof:lastmodified":1553718718,
+    "wof:lastmodified":1566638132,
     "wof:name":"Satema",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

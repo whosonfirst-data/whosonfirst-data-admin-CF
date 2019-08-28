@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.443325,
     "lbl:longitude":15.957995,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Sangha-Mba\ufffdr\ufffd",
     "meso:gadm_adm2":"Nola",
     "meso:gaul_adm2":"Nola",
@@ -31,6 +33,7 @@
     "mps:longitude":15.957995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0644\u0627"
     ],
@@ -169,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u043b\u0430"
     ],
-    "name:und_x_variant":[
-        "Nola"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0644\u0627"
     ],
@@ -185,9 +185,9 @@
         "Nola"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":1108759711,
-    "wof:lastmodified":1564190139,
+    "wof:lastmodified":1566638123,
     "wof:name":"Nola",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

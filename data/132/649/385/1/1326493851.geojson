@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.07649,5.27063,17.11649,5.31063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bobandoro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326493851,
-    "wof:lastmodified":1537590629,
+    "wof:lastmodified":1566637720,
     "wof:name":"Bobandoro II",
     "wof:parent_id":1108759651,
     "wof:placetype":"locality",

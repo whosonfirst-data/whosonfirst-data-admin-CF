@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.969119,
     "lbl:longitude":16.565375,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef ",
     "meso:gadm_adm2":"Carnot",
     "meso:gaul_adm2":"Gadzi",
@@ -31,16 +33,14 @@
     "mps:longitude":16.565375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gadzi"
     ],
-    "name:und_x_variant":[
-        "Gadzi"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108759717,
-    "wof:lastmodified":1553718725,
+    "wof:lastmodified":1566638123,
     "wof:name":"Gadzi",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.365897,
     "lbl:longitude":18.554909,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Bangui",
     "mps:latitude":4.394064,
     "mps:longitude":18.539542,
@@ -390,9 +391,6 @@
         "\u0411\u0430\u043d\u0433\u0456"
     ],
     "name:und_x_variant":[
-        "Bangui"
-    ],
-    "name:unk_x_variant":[
         "Commune de Bangui"
     ],
     "name:urd_x_preferred":[
@@ -506,9 +504,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"67",
     "statoids:area_mi":"26",
     "statoids:as_of_date":"2003-12-08",
@@ -533,7 +531,7 @@
         "gp:id":2345105,
         "hasc:id":"CF.BG",
         "iso:id":"CF-BGF",
-        "qs:id":423673,
+        "qs_pg:id":423673,
         "unlc:id":"CF-BGF",
         "wd:id":"Q3832"
     },
@@ -558,11 +556,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662214,
+    "wof:lastmodified":1566637839,
     "wof:name":"Bangui",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous commune",
     "wof:population":531763,
     "wof:population_rank":11,

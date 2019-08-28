@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.741272,
     "lbl:longitude":18.49936,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Lobaye",
     "meso:gadm_adm2":"Mongoumba",
     "meso:gaul_adm2":"Mongoumba",
@@ -31,6 +33,7 @@
     "mps:longitude":18.49936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0646\u0642\u0648\u0645\u0628\u0627"
     ],
@@ -61,13 +64,10 @@
     "name:swe_x_preferred":[
         "Mongoumba"
     ],
-    "name:und_x_variant":[
-        "Mongoumba"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108759591,
-    "wof:lastmodified":1564190146,
+    "wof:lastmodified":1566638129,
     "wof:name":"Mongoumba",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

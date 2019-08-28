@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.78323,6.648,19.82323,6.688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mbr\u00e8s"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1242650591,
-    "wof:lastmodified":1564190407,
+    "wof:lastmodified":1566638310,
     "wof:name":"Mbres",
     "wof:parent_id":1108759633,
     "wof:placetype":"locality",

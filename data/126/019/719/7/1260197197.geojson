@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.54817,8.23885,20.58817,8.27885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bissingou Koudouko",
         "Bissingou",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260197197,
-    "wof:lastmodified":1537590591,
+    "wof:lastmodified":1566638112,
     "wof:name":"Bissingou II",
     "wof:parent_id":421171017,
     "wof:placetype":"locality",

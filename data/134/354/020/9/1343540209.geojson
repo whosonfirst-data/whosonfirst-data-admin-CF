@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.66666,9.59157,21.70666,9.63157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Gordil"
     ],
     "name:fra_x_variant":[
-        "Gordil III"
-    ],
-    "name:und_x_variant":[
         "Gordil III"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343540209,
-    "wof:lastmodified":1537590588,
+    "wof:lastmodified":1566637754,
     "wof:name":"Gordil",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":6.31933,
     "geom:longitude":16.37992,
     "iso:country":"CF",
+    "lbl:bbox":"16.35992,6.29933,16.39992,6.33933",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0437\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bosum"
     ],
     "name:urd_x_preferred":[
@@ -274,7 +277,7 @@
     "wof:concordances":{
         "gn:id":2387546,
         "gp:id":1479628,
-        "qs:id":189124,
+        "qs_pg:id":189124,
         "wd:id":"Q896185",
         "wk:page":"Bozoum"
     },
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421199099,
-    "wof:lastmodified":1563299835,
+    "wof:lastmodified":1566638244,
     "wof:name":"Bozoum",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",

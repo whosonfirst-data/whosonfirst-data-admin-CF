@@ -10,6 +10,9 @@
     "geom:latitude":8.41091,
     "geom:longitude":20.64728,
     "iso:country":"CF",
+    "lbl:bbox":"20.62728,8.39091,20.66728,8.43091",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0434\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u2019Delle"
     ],
     "name:urd_x_preferred":[
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":237379,
         "gp:id":1309544,
-        "qs:id":263016,
+        "qs_pg:id":263016,
         "wd:id":"Q612713"
     },
     "wof:country":"CF",
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421205399,
-    "wof:lastmodified":1563299827,
+    "wof:lastmodified":1566638242,
     "wof:name":"Nd\u00e9l\u00e9",
     "wof:parent_id":1108759579,
     "wof:placetype":"locality",

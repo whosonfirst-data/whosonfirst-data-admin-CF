@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.0958,6.69083,19.1358,6.73083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Zam-Armatay"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209798281,
-    "wof:lastmodified":1564190005,
+    "wof:lastmodified":1566638025,
     "wof:name":"Zam",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

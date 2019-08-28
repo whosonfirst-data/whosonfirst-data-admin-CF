@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.82048,7.29174,16.86048,7.33174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bourass\u00e9",
         "Borossi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309992919,
-    "wof:lastmodified":1537590621,
+    "wof:lastmodified":1566638225,
     "wof:name":"Borosse",
     "wof:parent_id":1108759699,
     "wof:placetype":"locality",

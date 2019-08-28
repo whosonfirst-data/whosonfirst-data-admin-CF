@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.054413,
     "lbl:longitude":20.469812,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Ouaka",
     "meso:gadm_adm2":"Kouango",
     "meso:gaul_adm2":"Kouango",
@@ -31,6 +33,7 @@
     "mps:longitude":20.469812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kouango"
     ],
@@ -58,13 +61,10 @@
     "name:tur_x_preferred":[
         "Kouango"
     ],
-    "name:und_x_variant":[
-        "Kouango"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108759663,
-    "wof:lastmodified":1564190145,
+    "wof:lastmodified":1566638128,
     "wof:name":"Kouango",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.355256,
     "lbl:longitude":18.274297,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Ouham",
     "meso:gadm_adm2":"Bouca",
     "meso:gaul_adm2":"Bouca",
@@ -31,6 +33,7 @@
     "mps:longitude":18.274297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bouca"
     ],
@@ -64,13 +67,10 @@
     "name:tur_x_preferred":[
         "Bouca"
     ],
-    "name:und_x_variant":[
-        "Bouca"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108759695,
-    "wof:lastmodified":1564190154,
+    "wof:lastmodified":1566638135,
     "wof:name":"Bouca",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.05286,
     "lbl:longitude":22.567776,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Haute-Kotto",
     "meso:gadm_adm2":"Ouadda",
     "meso:gaul_adm2":"Ouadda",
@@ -31,6 +33,7 @@
     "mps:longitude":22.567776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ouadda"
     ],
@@ -58,13 +61,10 @@
     "name:swe_x_preferred":[
         "Ouadda"
     ],
-    "name:und_x_variant":[
-        "Ouadda"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108759661,
-    "wof:lastmodified":1564190144,
+    "wof:lastmodified":1566638128,
     "wof:name":"Ouadda",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

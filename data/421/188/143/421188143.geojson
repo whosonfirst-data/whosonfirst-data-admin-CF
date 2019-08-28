@@ -10,6 +10,9 @@
     "geom:latitude":5.93404,
     "geom:longitude":15.59599,
     "iso:country":"CF",
+    "lbl:bbox":"15.57599,5.91404,15.61599,5.95404",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buar"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":2387926,
         "gp:id":1307574,
-        "qs:id":1089062,
+        "qs_pg:id":1089062,
         "wd:id":"Q512111",
         "wk:page":"Bouar"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421188143,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1566638243,
     "wof:name":"Bouar",
     "wof:parent_id":1108759639,
     "wof:placetype":"locality",

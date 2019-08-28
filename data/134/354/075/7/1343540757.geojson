@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.06217,6.31938,16.10217,6.35938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bara"
     ],
@@ -99,8 +103,7 @@
         "\u0411\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "M\u2019bara",
-        "Bara"
+        "M\u2019bara"
     ],
     "name:vie_x_preferred":[
         "Bara"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1343540757,
-    "wof:lastmodified":1564189353,
+    "wof:lastmodified":1566637754,
     "wof:name":"Bara",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",

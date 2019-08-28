@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.71231,3.72069,16.75231,3.76069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loli"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226618683,
-    "wof:lastmodified":1564190550,
+    "wof:lastmodified":1566638410,
     "wof:name":"Loli",
     "wof:parent_id":1108759679,
     "wof:placetype":"locality",

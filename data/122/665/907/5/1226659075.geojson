@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.86474,4.51909,20.90474,4.55909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226659075,
-    "wof:lastmodified":1536839150,
+    "wof:lastmodified":1566638444,
     "wof:name":"Koussou",
     "wof:parent_id":1108759641,
     "wof:placetype":"locality",

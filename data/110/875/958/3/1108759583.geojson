@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.757174,
     "lbl:longitude":25.415661,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Haut-Mbomou",
     "meso:gadm_adm2":"Djemah",
     "meso:gaul_adm2":"Dj\u00e9ma",
@@ -31,6 +33,7 @@
     "mps:longitude":25.415661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dj\u00e9mah"
     ],
@@ -50,9 +53,9 @@
         "Dj\u00e9ma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108759583,
-    "wof:lastmodified":1564190150,
+    "wof:lastmodified":1566638132,
     "wof:name":"Djemah",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

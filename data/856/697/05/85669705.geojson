@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":7.460728,
     "lbl:longitude":22.922535,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Haute-Kotto",
     "mps:latitude":7.460444,
     "mps:longitude":22.919269,
@@ -154,7 +155,7 @@
         "Haute-Kotto"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc2\u0b9f\u0bcd -\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bcb   \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0bb9\u0bc2\u0b9f\u0bcd -\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bcb  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c1f\u0c4d-\u0c15\u0c4b\u0c1f\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -169,9 +170,6 @@
         "\u0412\u0435\u0440\u0445\u043d\u0454 \u041a\u043e\u0442\u0442\u043e"
     ],
     "name:und_x_variant":[
-        "Haute-Kotto"
-    ],
-    "name:unk_x_variant":[
         "Kotto Dar el Kouti"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"86,650",
     "statoids:area_mi":"33,456",
     "statoids:as_of_date":"2003-12-08",
@@ -287,7 +285,7 @@
         "gp:id":2345091,
         "hasc:id":"CF.HK",
         "iso:id":"CF-HK",
-        "qs:id":74752,
+        "qs_pg:id":74752,
         "unlc:id":"CF-HK",
         "wd:id":"Q848596",
         "wk:page":"Haute-Kotto"
@@ -310,11 +308,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662212,
+    "wof:lastmodified":1566637833,
     "wof:name":"Haute-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":69514,
     "wof:population_rank":8,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"24.98,5.28,25.02,5.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alakha",
         "Allaha\u00ef",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242777001,
-    "wof:lastmodified":1537590594,
+    "wof:lastmodified":1566638301,
     "wof:name":"Alakhai",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",

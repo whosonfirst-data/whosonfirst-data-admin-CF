@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.52522,5.65944,20.56522,5.69944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343649693,
-    "wof:lastmodified":1536970249,
+    "wof:lastmodified":1566637761,
     "wof:name":"Ngerengakola",
     "wof:parent_id":1108759729,
     "wof:placetype":"locality",

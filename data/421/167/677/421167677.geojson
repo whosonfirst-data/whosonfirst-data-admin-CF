@@ -10,8 +10,12 @@
     "geom:latitude":7.30082,
     "geom:longitude":18.2833,
     "iso:country":"CF",
+    "lbl:bbox":"18.2633,7.28082,18.3033,7.32082",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u0627\u062a\u0627\u0646\u0642\u0627\u0641\u0648"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u0430\u043d\u0491\u0430\u0444\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9vo"
     ],
     "qs:gn_country":"CF",
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":2389691,
         "gp:id":1306739,
-        "qs:id":139903,
+        "qs_pg:id":139903,
         "wd:id":"Q2626276",
         "wk:page":"Batangafo"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167677,
-    "wof:lastmodified":1563299826,
+    "wof:lastmodified":1566638242,
     "wof:name":"Batangafo",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",

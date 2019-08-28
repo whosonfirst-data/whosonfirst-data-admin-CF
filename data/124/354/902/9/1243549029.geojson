@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"14.81774,6.34523,14.85774,6.38523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bondo"
     ],
@@ -69,8 +73,7 @@
         "Bondo"
     ],
     "name:und_x_variant":[
-        "Bonndo",
-        "Bondo"
+        "Bonndo"
     ],
     "name:vie_x_preferred":[
         "Bondo"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1243549029,
-    "wof:lastmodified":1564190319,
+    "wof:lastmodified":1566638251,
     "wof:name":"Bondo",
     "wof:parent_id":1108759595,
     "wof:placetype":"locality",

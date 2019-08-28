@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.795294,
     "lbl:longitude":22.226405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Mbomou",
     "meso:gadm_adm2":"Gambo-Ouango",
     "meso:gaul_adm2":"Gambo",
@@ -31,6 +33,7 @@
     "mps:longitude":22.226405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Gambo"
     ],
@@ -52,13 +55,10 @@
     "name:srp_x_preferred":[
         "\u0413\u0430\u043c\u0431\u043e"
     ],
-    "name:und_x_variant":[
-        "Gambo"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108759607,
-    "wof:lastmodified":1564190151,
+    "wof:lastmodified":1566638133,
     "wof:name":"Gambo",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

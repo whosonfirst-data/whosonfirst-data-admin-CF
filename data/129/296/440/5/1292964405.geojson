@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.86333,4.83,17.90333,4.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bogoyo",
         "Bogoya"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292964405,
-    "wof:lastmodified":1537590625,
+    "wof:lastmodified":1566637896,
     "wof:name":"Bogoya",
     "wof:parent_id":1108759687,
     "wof:placetype":"locality",

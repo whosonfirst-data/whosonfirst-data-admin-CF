@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.96333,3.63,18.00333,3.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zomia"
     ],
@@ -49,8 +53,7 @@
         "\u0e42\u0e0b\u0e40\u0e21\u0e35\u0e22"
     ],
     "name:und_x_variant":[
-        "Zomi\u00e9",
-        "Zomia"
+        "Zomi\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1209235841,
-    "wof:lastmodified":1564190010,
+    "wof:lastmodified":1566638029,
     "wof:name":"Zomia",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

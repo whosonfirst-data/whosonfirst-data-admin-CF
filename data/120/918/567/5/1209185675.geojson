@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.68068,5.28038,17.72068,5.32038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":7524102
     },
     "wof:country":"CF",
-    "wof:geomhash":"2f3e67c7788d2bbef6dfcf2d9cfc5312",
+    "wof:geomhash":"063e43840199cff99a13ff9cf8d3ac95",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209185675,
-    "wof:lastmodified":1536295109,
+    "wof:lastmodified":1566638052,
     "wof:name":"Badoulou",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     17.70068,
-    5.3003800000000005,
+    5.30038,
     17.70068,
-    5.3003800000000005
+    5.30038
 ],
   "geometry": {"coordinates":[17.70068,5.30038],"type":"Point"}
 }

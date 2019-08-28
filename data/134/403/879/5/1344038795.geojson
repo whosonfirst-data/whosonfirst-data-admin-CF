@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.84854,5.74212,19.88854,5.78212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zagou",
         "Yagou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344038795,
-    "wof:lastmodified":1537590596,
+    "wof:lastmodified":1566637811,
     "wof:name":"Yagou",
     "wof:parent_id":1108759657,
     "wof:placetype":"locality",

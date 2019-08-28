@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.130398,
     "lbl:longitude":22.553041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Vakaga",
     "meso:gadm_adm2":"Birao",
     "meso:gaul_adm2":"Birao",
@@ -31,6 +33,7 @@
     "mps:longitude":22.553041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u0648"
     ],
@@ -82,9 +85,6 @@
     "name:tur_x_preferred":[
         "Birao"
     ],
-    "name:und_x_variant":[
-        "Birao"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0631\u0627\u0648"
     ],
@@ -92,9 +92,9 @@
         "\u10d1\u10d8\u10e0\u10d0\u10dd"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108759713,
-    "wof:lastmodified":1564190140,
+    "wof:lastmodified":1566638124,
     "wof:name":"Birao",
     "wof:parent_id":85669703,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.76859,3.63939,16.80859,3.67939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Camba Oro Fortifi\u00e9",
         "Kambaoro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327203637,
-    "wof:lastmodified":1537590607,
+    "wof:lastmodified":1566637748,
     "wof:name":"Kambaoro",
     "wof:parent_id":1108759679,
     "wof:placetype":"locality",

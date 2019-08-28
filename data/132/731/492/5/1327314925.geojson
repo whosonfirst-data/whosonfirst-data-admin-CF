@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.11947,5.95769,21.15947,5.99769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327314925,
-    "wof:lastmodified":1536849414,
+    "wof:lastmodified":1566637678,
     "wof:name":"Babaga",
     "wof:parent_id":1108759729,
     "wof:placetype":"locality",

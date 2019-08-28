@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.535007,
     "lbl:longitude":16.016624,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
     "mps:latitude":4.541502,
     "mps:longitude":15.930809,
@@ -172,9 +173,6 @@
         "\u041c\u0430\u043c\u0431\u0435\u0440\u0435-\u041a\u0430\u0434\u0435\u0457"
     ],
     "name:und_x_variant":[
-        "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de Haute-Sangha"
     ],
     "name:urd_x_preferred":[
@@ -261,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"30,203",
     "statoids:area_mi":"11,661",
     "statoids:as_of_date":"2003-12-08",
@@ -289,7 +287,7 @@
         "gp:id":2345092,
         "hasc:id":"CF.HS",
         "iso:id":"CF-HS",
-        "qs:id":946779,
+        "qs_pg:id":946779,
         "unlc:id":"CF-HS",
         "wd:id":"Q848567",
         "wk:page":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
@@ -312,11 +310,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662215,
+    "wof:lastmodified":1566637840,
     "wof:name":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":289688,
     "wof:population_rank":10,

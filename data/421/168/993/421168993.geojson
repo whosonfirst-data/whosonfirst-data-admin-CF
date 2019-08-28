@@ -10,6 +10,9 @@
     "geom:latitude":6.49263,
     "geom:longitude":17.45518,
     "iso:country":"CF",
+    "lbl:bbox":"17.43518,6.47263,17.47518,6.51263",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0491\u043e\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amangba"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":2388036,
         "gp:id":1307504,
-        "qs:id":1089064,
+        "qs_pg:id":1089064,
         "wd:id":"Q894513",
         "wk:page":"Bossangoa"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421168993,
-    "wof:lastmodified":1561845071,
+    "wof:lastmodified":1566638241,
     "wof:name":"Bossangoa",
     "wof:parent_id":1108759673,
     "wof:placetype":"locality",

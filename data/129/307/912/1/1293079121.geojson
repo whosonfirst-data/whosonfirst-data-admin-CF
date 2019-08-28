@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.53037,6.17209,20.57037,6.21209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293079121,
-    "wof:lastmodified":1536878082,
+    "wof:lastmodified":1566637842,
     "wof:name":"Binguimale",
     "wof:parent_id":1108759655,
     "wof:placetype":"locality",

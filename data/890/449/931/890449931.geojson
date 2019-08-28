@@ -11,8 +11,11 @@
     "geom:longitude":25.13614,
     "gn:country":"CF",
     "gn:fcode":"PPL",
-    "gn:pop":14000,
+    "gn:population":14000,
     "iso:country":"CF",
+    "lbl:bbox":"25.11614,5.01144,25.15614,5.05144",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":235826,
         "gp:id":1310615,
-        "qs:id":74450,
+        "qs_pg:id":74450,
         "wd:id":"Q1771417",
         "wk:page":"Zemio"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890449931,
-    "wof:lastmodified":1563299837,
+    "wof:lastmodified":1566638245,
     "wof:name":"Zemio",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",

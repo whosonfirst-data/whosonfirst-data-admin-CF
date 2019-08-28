@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.54756,6.69155,17.58756,6.73155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209602359,
-    "wof:lastmodified":1536282125,
+    "wof:lastmodified":1566638043,
     "wof:name":"Bonguere",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

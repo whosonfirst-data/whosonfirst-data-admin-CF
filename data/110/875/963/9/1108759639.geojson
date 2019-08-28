@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.015538,
     "lbl:longitude":15.520719,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"Nana-Mamb\ufffdr\ufffd",
     "meso:gadm_adm2":"Bouar",
     "meso:gaul_adm2":"Bouar",
@@ -31,6 +33,7 @@
     "mps:longitude":15.520719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0631"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "Bouar"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0624\u0627\u0631"
     ],
@@ -110,9 +110,9 @@
         "\u5e03\u963f\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"",
     "statoids:as_of_date":"2003-12-08",
     "statoids:capital":"",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1108759639,
-    "wof:lastmodified":1564190133,
+    "wof:lastmodified":1566638117,
     "wof:name":"Bouar",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

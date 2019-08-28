@@ -11,10 +11,14 @@
     "geom:longitude":22.26331,
     "gn:country":"CF",
     "gn:fcode":"PPL",
-    "gn:pop":4971,
+    "gn:population":4971,
     "iso:country":"CF",
+    "lbl:bbox":"22.24331,4.62816,22.28331,4.66816",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Gambo"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":239300,
         "gp:id":1479682,
-        "qs:id":74762,
+        "qs_pg:id":74762,
         "wd:id":"Q225419",
         "wk:page":"Gambo"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890449939,
-    "wof:lastmodified":1563299837,
+    "wof:lastmodified":1566638246,
     "wof:name":"Gambo",
     "wof:parent_id":1108759607,
     "wof:placetype":"locality",

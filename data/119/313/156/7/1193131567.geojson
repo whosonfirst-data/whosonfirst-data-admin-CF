@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.86499,4.02386,17.90499,4.06386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Bamangas"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193131567,
-    "wof:lastmodified":1564190078,
+    "wof:lastmodified":1566638076,
     "wof:name":"Bamango",
     "wof:parent_id":1108759623,
     "wof:placetype":"locality",

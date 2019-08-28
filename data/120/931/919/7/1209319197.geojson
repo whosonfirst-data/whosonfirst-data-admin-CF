@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"26.44709,5.33713,26.48709,5.37713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":236535
     },
     "wof:country":"CF",
-    "wof:geomhash":"bd3a8eb2598e96a8ebce36726f63b0fe",
+    "wof:geomhash":"8e7e8ef3f64f23022f6e907fe6b19ce3",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209319197,
-    "wof:lastmodified":1536290756,
+    "wof:lastmodified":1566638002,
     "wof:name":"Poupou",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     26.46709,
-    5.3571300000000015,
+    5.35713,
     26.46709,
-    5.3571300000000015
+    5.35713
 ],
   "geometry": {"coordinates":[26.46709,5.35713],"type":"Point"}
 }

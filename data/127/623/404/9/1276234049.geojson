@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.74191,4.71743,16.78191,4.75743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Golongo",
         "Gorongo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276234049,
-    "wof:lastmodified":1537590609,
+    "wof:lastmodified":1566637972,
     "wof:name":"Gorongo",
     "wof:parent_id":1108759717,
     "wof:placetype":"locality",

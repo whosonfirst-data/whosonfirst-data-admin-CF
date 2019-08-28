@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"21.83,7.99667,21.87,8.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pend\u00e9"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276346949,
-    "wof:lastmodified":1564189900,
+    "wof:lastmodified":1566637952,
     "wof:name":"Pende",
     "wof:parent_id":1108759661,
     "wof:placetype":"locality",

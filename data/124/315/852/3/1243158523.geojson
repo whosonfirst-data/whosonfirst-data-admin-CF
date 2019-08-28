@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.52537,6.02255,16.56537,6.06255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boubalia",
         "Bobaliya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243158523,
-    "wof:lastmodified":1537590629,
+    "wof:lastmodified":1566638285,
     "wof:name":"Bobalya",
     "wof:parent_id":1108759667,
     "wof:placetype":"locality",

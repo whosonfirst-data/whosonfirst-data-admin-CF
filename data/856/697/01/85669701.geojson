@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.032146,
     "lbl:longitude":17.77107,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Ouham",
     "mps:latitude":7.02918,
     "mps:longitude":17.766375,
@@ -174,9 +175,6 @@
         "\u0423\u0430\u043c"
     ],
     "name:und_x_variant":[
-        "Ouham"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de l\u2019Ouham"
     ],
     "name:urd_x_preferred":[
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"50,250",
     "statoids:area_mi":"19,402",
     "statoids:as_of_date":"2003-12-08",
@@ -290,7 +288,7 @@
         "gp:id":2345099,
         "hasc:id":"CF.AC",
         "iso:id":"CF-AC",
-        "qs:id":887938,
+        "qs_pg:id":887938,
         "wd:id":"Q726620",
         "wk:page":"Ouham"
     },
@@ -312,11 +310,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662213,
+    "wof:lastmodified":1566637835,
     "wof:name":"Ouham",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":280772,
     "wof:population_rank":10,

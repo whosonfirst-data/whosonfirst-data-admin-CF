@@ -10,8 +10,12 @@
     "geom:latitude":4.25671,
     "geom:longitude":18.41583,
     "iso:country":"CF",
+    "lbl:bbox":"18.39583,4.23671,18.43583,4.27671",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0628\u0648"
@@ -142,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
-        "Bimbo"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0645\u0628\u0648\u060c \u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
     ],
@@ -196,7 +197,7 @@
     "wof:concordances":{
         "gn:id":2388873,
         "gp:id":1479417,
-        "qs:id":139901,
+        "qs_pg:id":139901,
         "wd:id":"Q863461",
         "wk:page":"Bimbo, Central African Republic"
     },
@@ -213,7 +214,7 @@
         }
     ],
     "wof:id":421167675,
-    "wof:lastmodified":1563299825,
+    "wof:lastmodified":1566638242,
     "wof:name":"Bimo",
     "wof:parent_id":1108759733,
     "wof:placetype":"locality",

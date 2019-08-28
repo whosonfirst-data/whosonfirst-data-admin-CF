@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.30835,3.871,15.34835,3.911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326730601,
-    "wof:lastmodified":1536698355,
+    "wof:lastmodified":1566637688,
     "wof:name":"Kambayeke",
     "wof:parent_id":1108759603,
     "wof:placetype":"locality",

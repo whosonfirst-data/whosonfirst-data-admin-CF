@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.30849,3.75514,15.34849,3.79514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bamban",
         "Banban"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209247957,
-    "wof:lastmodified":1537590636,
+    "wof:lastmodified":1566638028,
     "wof:name":"Banban",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",

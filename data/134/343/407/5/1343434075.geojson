@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.47574,6.67815,19.51574,6.71815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gobo"
     ],
@@ -51,8 +55,7 @@
         "\u0413\u043e\u0431\u043e"
     ],
     "name:und_x_variant":[
-        "Ngobo",
-        "Gobo"
+        "Ngobo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343434075,
-    "wof:lastmodified":1564189459,
+    "wof:lastmodified":1566637827,
     "wof:name":"Gobo",
     "wof:parent_id":1108759631,
     "wof:placetype":"locality",

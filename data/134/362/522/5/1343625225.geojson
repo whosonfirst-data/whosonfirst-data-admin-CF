@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.88,5.59667,17.92,5.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mogwalo",
         "Bugwala"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343625225,
-    "wof:lastmodified":1537590615,
+    "wof:lastmodified":1566637751,
     "wof:name":"Bugwala",
     "wof:parent_id":1108759669,
     "wof:placetype":"locality",

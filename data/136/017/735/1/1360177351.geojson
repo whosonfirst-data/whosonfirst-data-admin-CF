@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.09667,6.34667,19.13667,6.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360177351,
-    "wof:lastmodified":1536812040,
+    "wof:lastmodified":1566638210,
     "wof:name":"Lanbazou",
     "wof:parent_id":1108759719,
     "wof:placetype":"locality",

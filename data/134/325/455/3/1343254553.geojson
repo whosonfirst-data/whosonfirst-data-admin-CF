@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"19.07098,5.7479,19.11098,5.7879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343254553,
-    "wof:lastmodified":1537041700,
+    "wof:lastmodified":1566637787,
     "wof:name":"Bopou",
     "wof:parent_id":1108759645,
     "wof:placetype":"locality",

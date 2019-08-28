@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.00995,6.54153,16.04995,6.58153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Goni"
     ],
@@ -153,8 +157,7 @@
         "\u0413\u043e\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Gom",
-        "Goni"
+        "Gom"
     ],
     "name:uzb_x_preferred":[
         "Goni"
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1243349799,
-    "wof:lastmodified":1564190386,
+    "wof:lastmodified":1566638297,
     "wof:name":"Goni",
     "wof:parent_id":1108759721,
     "wof:placetype":"locality",

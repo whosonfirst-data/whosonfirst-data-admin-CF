@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.51461,7.56904,17.55461,7.60904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "G\u00e9n\u00e9bodo",
         "Gu\u00e9n\u00e9bodo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344143987,
-    "wof:lastmodified":1537590608,
+    "wof:lastmodified":1566637766,
     "wof:name":"Guenebodo",
     "wof:parent_id":1108759677,
     "wof:placetype":"locality",

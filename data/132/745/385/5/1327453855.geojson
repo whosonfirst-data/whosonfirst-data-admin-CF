@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"22.42927,4.16515,22.46927,4.20515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Labak\u00e9z\u00e9",
         "Labazeke"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327453855,
-    "wof:lastmodified":1537590586,
+    "wof:lastmodified":1566637745,
     "wof:name":"Labazeke",
     "wof:parent_id":1108759609,
     "wof:placetype":"locality",

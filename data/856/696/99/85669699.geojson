@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.343297,
     "lbl:longitude":20.731462,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Ouaka",
     "mps:latitude":6.338129,
     "mps:longitude":20.730378,
@@ -174,9 +175,6 @@
         "\u0423\u0430\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Ouaka"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de la Ouaka"
     ],
     "name:urd_x_preferred":[
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"49,900",
     "statoids:area_mi":"19,266",
     "statoids:as_of_date":"2003-12-08",
@@ -291,7 +289,7 @@
         "gp:id":2345098,
         "hasc:id":"CF.UK",
         "iso:id":"CF-UK",
-        "qs:id":257795,
+        "qs_pg:id":257795,
         "unlc:id":"CF-UK",
         "wd:id":"Q848560",
         "wk:page":"Ouaka"
@@ -314,11 +312,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662214,
+    "wof:lastmodified":1566637838,
     "wof:name":"Ouaka",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":224076,
     "wof:population_rank":10,

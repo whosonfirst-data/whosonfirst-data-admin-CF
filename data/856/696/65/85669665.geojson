@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.92349,
     "lbl:longitude":21.349094,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Basse-Kotto",
     "mps:latitude":4.918724,
     "mps:longitude":21.352028,
@@ -150,7 +151,7 @@
         "Basse-Kotto"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bb8\u0bcd\u0bb8\u0bc7 -\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bcb  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0baa\u0bb8\u0bcd\u0bb8\u0bc7 -\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bcb \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c38\u0c4d\u0c38\u0c47-\u0c15\u0c4b\u0c1f\u0c4d\u0c1f\u0c4b \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -165,9 +166,6 @@
         "\u041d\u0438\u0436\u043d\u0454 \u041a\u043e\u0442\u0442\u043e"
     ],
     "name:und_x_variant":[
-        "Basse-Kotto"
-    ],
-    "name:unk_x_variant":[
         "Pr\u00e9fecture de Basse-Kotto"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-12-08",
+    "src:population_date":"2003-12-08",
     "statoids:area_km":"17,604",
     "statoids:area_mi":"6,797",
     "statoids:as_of_date":"2003-12-08",
@@ -282,7 +280,7 @@
         "gp:id":2345090,
         "hasc:id":"CF.BK",
         "iso:id":"CF-BK",
-        "qs:id":946778,
+        "qs_pg:id":946778,
         "unlc:id":"CF-BK",
         "wd:id":"Q810484",
         "wk:page":"Basse-Kotto"
@@ -305,11 +303,10 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662214,
+    "wof:lastmodified":1566637838,
     "wof:name":"Basse-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":203887,
     "wof:population_rank":10,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.83,5.44667,17.87,5.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bogbara",
         "Bogbala"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192989857,
-    "wof:lastmodified":1537590627,
+    "wof:lastmodified":1566638082,
     "wof:name":"Bogbala",
     "wof:parent_id":1108759643,
     "wof:placetype":"locality",

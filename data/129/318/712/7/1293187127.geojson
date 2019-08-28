@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"15.51994,7.45752,15.55994,7.49752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bang"
     ],
@@ -63,8 +67,7 @@
         "\u0411\u0430\u043d\u0433"
     ],
     "name:und_x_variant":[
-        "Bang I",
-        "Bang"
+        "Bang I"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1293187127,
-    "wof:lastmodified":1564189774,
+    "wof:lastmodified":1566637904,
     "wof:name":"Bang",
     "wof:parent_id":1108759597,
     "wof:placetype":"locality",

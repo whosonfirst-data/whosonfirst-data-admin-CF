@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.47436,6.92757,17.51436,6.96757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meri"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1226122667,
-    "wof:lastmodified":1564190575,
+    "wof:lastmodified":1566638426,
     "wof:name":"Meri",
     "wof:parent_id":1108759697,
     "wof:placetype":"locality",

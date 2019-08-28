@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.03975,4.40442,17.07975,4.44442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276787909,
-    "wof:lastmodified":1536666950,
+    "wof:lastmodified":1566637970,
     "wof:name":"Bokeli",
     "wof:parent_id":1108759621,
     "wof:placetype":"locality",

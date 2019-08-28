@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"20.8635,5.41626,20.9035,5.45626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327312189,
-    "wof:lastmodified":1536853359,
+    "wof:lastmodified":1566637676,
     "wof:name":"Pandjimali",
     "wof:parent_id":1108759729,
     "wof:placetype":"locality",

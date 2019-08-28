@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":6.986429,
     "lbl:longitude":21.668827,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":6.986429,
     "mps:longitude":21.668827,
     "mz:hierarchy_label":1,
@@ -863,12 +865,8 @@
         "Midafrikulydveldid"
     ],
     "name:und_x_variant":[
-        "Centralafrikanske Republik",
-        "Keski-Afrikka",
         "Mi\u00f0afr\u00edkul\u00fd\u00f0veldi\u00f0",
-        "Sentralafrikanske Republikken"
-    ],
-    "name:unk_x_variant":[
+        "Sentralafrikanske Republikken",
         "Ubangui-Shari"
     ],
     "name:urd_x_preferred":[
@@ -1030,7 +1028,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"236",
     "statoids:ds":"RCA",
@@ -1074,7 +1072,7 @@
         "mzb:id":"central-african-republic",
         "ne:adm0_a3":"CAF",
         "nyt:id":"16919545930545973701",
-        "qs:id":1087769,
+        "qs_pg:id":1087769,
         "uncrt:id":"RCA",
         "wd:id":"Q929",
         "wk:page":"Central African Republic",
@@ -1098,7 +1096,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1565662210,
+    "wof:lastmodified":1566637829,
     "wof:name":"Central African Republic",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

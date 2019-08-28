@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"14.9945,5.7719,15.0345,5.8119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lokoti",
         "Lokoti-Mbangui"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343351195,
-    "wof:lastmodified":1537590605,
+    "wof:lastmodified":1566637793,
     "wof:name":"Lokoti-Mbangui",
     "wof:parent_id":1108759595,
     "wof:placetype":"locality",

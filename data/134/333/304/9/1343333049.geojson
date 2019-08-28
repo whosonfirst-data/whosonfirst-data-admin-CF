@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.25867,6.17102,16.29867,6.21102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bouyali",
         "Boyalido I"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343333049,
-    "wof:lastmodified":1537590616,
+    "wof:lastmodified":1566637804,
     "wof:name":"Boyalido I",
     "wof:parent_id":1108759667,
     "wof:placetype":"locality",

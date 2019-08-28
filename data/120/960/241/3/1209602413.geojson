@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"17.29937,6.89019,17.33937,6.93019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2387464
     },
     "wof:country":"CF",
-    "wof:geomhash":"00316077410193702efd33b7a89460ac",
+    "wof:geomhash":"808fed640df6a179350a9c91360490d9",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209602413,
-    "wof:lastmodified":1536282123,
+    "wof:lastmodified":1566638044,
     "wof:name":"Dabili",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.319370000000006,
-    6.910189999999999,
-    17.319370000000006,
-    6.910189999999999
+    17.31937000000001,
+    6.91019,
+    17.31937000000001,
+    6.91019
 ],
   "geometry": {"coordinates":[17.31937000000001,6.91019],"type":"Point"}
 }

@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.01331,6.18065,16.05331,6.22065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bokota"
     ],
     "name:und_x_variant":[
-        "Bakota",
-        "Bokota"
+        "Bakota"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276850221,
-    "wof:lastmodified":1564189926,
+    "wof:lastmodified":1566637967,
     "wof:name":"Bokota",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",

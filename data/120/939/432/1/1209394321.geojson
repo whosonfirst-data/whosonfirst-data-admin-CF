@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
+    "lbl:bbox":"16.64202,6.70434,16.68202,6.74434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632391
@@ -35,7 +39,7 @@
         "gn:id":2386147
     },
     "wof:country":"CF",
-    "wof:geomhash":"6081674ec2013c7115d1806e13ce7420",
+    "wof:geomhash":"185818f841988e0e3c8d88a4a877dc46",
     "wof:hierarchy":[
         {
             "country_id":85632391,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209394321,
-    "wof:lastmodified":1536288354,
+    "wof:lastmodified":1566638010,
     "wof:name":"Hokso I",
     "wof:parent_id":85632391,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.662020000000002,
+    16.66202,
     6.72434,
-    16.662020000000002,
+    16.66202,
     6.72434
 ],
   "geometry": {"coordinates":[16.66202,6.72434],"type":"Point"}
