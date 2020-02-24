@@ -1080,6 +1080,11 @@
     },
     "wof:country":"CF",
     "wof:country_alpha3":"CAF",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"511aba95ab63ff4737d9efe239ecc99a",
     "wof:hierarchy":[
         {
@@ -1096,7 +1101,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637829,
+    "wof:lastmodified":1582347796,
     "wof:name":"Central African Republic",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

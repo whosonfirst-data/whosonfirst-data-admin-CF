@@ -172,6 +172,9 @@
     },
     "wof:country":"CF",
     "wof:created":1469052716,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"7cedbfead93e0f808ff1c58ed20741ed",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890449931,
-    "wof:lastmodified":1566638245,
+    "wof:lastmodified":1582347807,
     "wof:name":"Zemio",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",

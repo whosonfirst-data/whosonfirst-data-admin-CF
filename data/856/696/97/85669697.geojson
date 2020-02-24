@@ -290,6 +290,9 @@
         "wk:page":"K\u00e9mo"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d791bdbaa6bdf54a3d47500518188589",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637839,
+    "wof:lastmodified":1582347800,
     "wof:name":"K\u00e9mo",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

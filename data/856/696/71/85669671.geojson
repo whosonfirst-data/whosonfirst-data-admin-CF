@@ -293,6 +293,9 @@
         "wk:page":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0adb57b690db57ecf1880e8bf4eb515e",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637840,
+    "wof:lastmodified":1582347801,
     "wof:name":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

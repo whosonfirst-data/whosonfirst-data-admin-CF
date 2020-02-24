@@ -290,6 +290,9 @@
         "wk:page":"Nana-Mamb\u00e9r\u00e9"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbb6cba3b199db4cac08d6348a921aeb",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637837,
+    "wof:lastmodified":1582347800,
     "wof:name":"Nana-Mamb\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

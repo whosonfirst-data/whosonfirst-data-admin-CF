@@ -291,6 +291,9 @@
         "wk:page":"Haute-Kotto"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efa653ba4f91a3eef73339946eb8bdef",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637833,
+    "wof:lastmodified":1582347797,
     "wof:name":"Haute-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

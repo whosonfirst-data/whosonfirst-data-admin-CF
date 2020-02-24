@@ -114,6 +114,9 @@
     },
     "wof:country":"CF",
     "wof:created":1459008879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f425ac5fb44acdd1a8c5e71db417f6f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421171017,
-    "wof:lastmodified":1566638245,
+    "wof:lastmodified":1582347807,
     "wof:name":"Bamingui",
     "wof:parent_id":85669689,
     "wof:placetype":"county",

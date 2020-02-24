@@ -291,6 +291,9 @@
         "wk:page":"Haut-Mbomou"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5b4bc376b2c0cad24b5e69b470eeb05",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637833,
+    "wof:lastmodified":1582347798,
     "wof:name":"Haut-Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

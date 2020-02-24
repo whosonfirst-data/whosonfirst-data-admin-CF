@@ -295,6 +295,9 @@
         "wk:page":"Ouaka"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e6114c657e3c3b32c71b2c2fd4b14d3",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637838,
+    "wof:lastmodified":1582347800,
     "wof:name":"Ouaka",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

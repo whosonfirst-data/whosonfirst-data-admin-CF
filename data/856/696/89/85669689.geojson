@@ -289,6 +289,9 @@
         "wk:page":"Bamingui-Bangoran"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f6434354bd323d4fdb00466c7ac5f39",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637836,
+    "wof:lastmodified":1582347799,
     "wof:name":"Bamingui-Bangoran",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
