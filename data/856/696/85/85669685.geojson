@@ -287,6 +287,9 @@
         "wk:page":"Ouham-Pend\u00e9"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41add99f493d45bbe813a36757a07be5",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637839,
+    "wof:lastmodified":1582347801,
     "wof:name":"Ouham-Pend\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

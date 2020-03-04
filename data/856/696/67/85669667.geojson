@@ -292,6 +292,9 @@
         "wk:page":"Lobaye"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e2c9ab75d8a4a35b6b210340530b36c",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637836,
+    "wof:lastmodified":1582347799,
     "wof:name":"Lobaye",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

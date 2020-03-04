@@ -539,6 +539,9 @@
         421181445
     ],
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0eab040d1196ff44b3f09d5c1a260f8d",
     "wof:hierarchy":[
         {
@@ -556,7 +559,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637839,
+    "wof:lastmodified":1582347800,
     "wof:name":"Bangui",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

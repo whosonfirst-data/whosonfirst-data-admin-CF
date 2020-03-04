@@ -287,6 +287,9 @@
         "wk:page":"Mbomou"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"158fd9c3de3c09fa651127c12914d080",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637834,
+    "wof:lastmodified":1582347798,
     "wof:name":"Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

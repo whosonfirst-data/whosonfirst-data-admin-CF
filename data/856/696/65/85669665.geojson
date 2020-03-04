@@ -286,6 +286,9 @@
         "wk:page":"Basse-Kotto"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e62f5afe3c8be3dca3760d02d6748ebe",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637838,
+    "wof:lastmodified":1582347800,
     "wof:name":"Basse-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

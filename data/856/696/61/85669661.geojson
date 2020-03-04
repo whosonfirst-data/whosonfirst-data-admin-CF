@@ -298,6 +298,9 @@
         "wk:page":"Ombella-M'Poko"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e29683cacf9582e41a5922e46617681",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637835,
+    "wof:lastmodified":1582347799,
     "wof:name":"Ombella M'Poko",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

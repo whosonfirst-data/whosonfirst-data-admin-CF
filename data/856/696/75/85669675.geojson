@@ -283,6 +283,9 @@
         "wk:page":"Sangha-Mba\u00e9r\u00e9"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a927c21bf013796f3c8a019f616a05d",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637837,
+    "wof:lastmodified":1582347800,
     "wof:name":"Sangha-Mba\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

@@ -289,6 +289,9 @@
         "wk:page":"Vakaga"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c23ef68d3fa5574ea9a8e43b5814e3b8",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637832,
+    "wof:lastmodified":1582347797,
     "wof:name":"Vakaga",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

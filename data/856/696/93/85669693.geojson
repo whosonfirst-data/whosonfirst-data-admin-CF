@@ -284,6 +284,9 @@
         "wk:page":"Nana-Gr\u00e9bizi"
     },
     "wof:country":"CF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d02d12395e0b7abae129f870db2f4b3",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1566637836,
+    "wof:lastmodified":1582347799,
     "wof:name":"Nana-Gribizi",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
