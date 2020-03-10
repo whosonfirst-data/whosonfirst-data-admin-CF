@@ -1057,9 +1057,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Central_African_Republic",
-        "digitalenvoy:country_code":[
-            140
-        ],
+        "digitalenvoy:country_code":140,
         "fb:id":"en.central_african_republic",
         "fifa:id":"CTA",
         "fips:code":"CT",
@@ -1104,7 +1102,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1583529091,
+    "wof:lastmodified":1583797294,
     "wof:name":"Central African Republic",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
