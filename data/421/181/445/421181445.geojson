@@ -565,7 +565,8 @@
         "wk:page":"Bangui"
     },
     "wof:coterminous":[
-        85669655
+        85669655,
+        1108759735
     ],
     "wof:country":"CF",
     "wof:created":1459009296,
@@ -583,7 +584,7 @@
         }
     ],
     "wof:id":421181445,
-    "wof:lastmodified":1607390874,
+    "wof:lastmodified":1607982164,
     "wof:name":"Bangui",
     "wof:parent_id":1108759735,
     "wof:placetype":"locality",
