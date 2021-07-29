@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Berb\u00e9rati"
     ],
+    "name:fra_x_preferred":[
+        "Berb\u00e9rati"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759683,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1627521986,
     "wof:name":"Berberati",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

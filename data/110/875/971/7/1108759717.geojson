@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Gadzi"
     ],
+    "name:fra_x_preferred":[
+        "Gadzi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108759717,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1627521987,
     "wof:name":"Gadzi",
     "wof:parent_id":85669671,
     "wof:placetype":"county",
