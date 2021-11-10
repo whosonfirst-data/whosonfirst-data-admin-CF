@@ -56,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aac\u0ac1\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d1\u05d5\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0940\u092c\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Sibut"
     ],
     "name:ind_x_preferred":[
         "Sibut"
@@ -294,7 +300,7 @@
         }
     ],
     "wof:id":421175955,
-    "wof:lastmodified":1566638243,
+    "wof:lastmodified":1636501625,
     "wof:name":"Sibut",
     "wof:parent_id":1108759645,
     "wof:placetype":"locality",

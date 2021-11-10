@@ -48,6 +48,12 @@
     "name:frr_x_preferred":[
         "Bozoum"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d6\u05d5\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Bozoum"
+    ],
     "name:ita_x_preferred":[
         "Bozoum"
     ],
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1259554937,
-    "wof:lastmodified":1566638337,
+    "wof:lastmodified":1636501629,
     "wof:name":"Bozoum",
     "wof:parent_id":1108759721,
     "wof:placetype":"locality",

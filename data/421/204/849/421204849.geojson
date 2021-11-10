@@ -41,6 +41,9 @@
     "name:epo_x_preferred":[
         "Mobaye"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0628\u0627\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Mobaye"
     ],
@@ -53,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aac\u0abe\u0aaf\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d1\u05d9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u092c\u0947\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Mobaye"
     ],
     "name:ind_x_preferred":[
         "Mobaye"
@@ -288,7 +297,7 @@
         }
     ],
     "wof:id":421204849,
-    "wof:lastmodified":1566638242,
+    "wof:lastmodified":1636501624,
     "wof:name":"Mobaye",
     "wof:parent_id":1108759615,
     "wof:placetype":"locality",

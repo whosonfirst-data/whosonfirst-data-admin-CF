@@ -56,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab2\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05dc\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u094b\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Nola"
     ],
     "name:ind_x_preferred":[
         "Nola"
@@ -284,7 +290,7 @@
         }
     ],
     "wof:id":421168151,
-    "wof:lastmodified":1566638241,
+    "wof:lastmodified":1636501623,
     "wof:name":"Nola",
     "wof:parent_id":1108759711,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09ae\u09bf\u0982\u0997\u09c1\u0987"
+    ],
     "name:ceb_x_preferred":[
         "Bamingui"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Bamingui"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0645\u0646\u06af\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1209928343,
-    "wof:lastmodified":1566638038,
+    "wof:lastmodified":1636501615,
     "wof:name":"Bamingui",
     "wof:parent_id":421171017,
     "wof:placetype":"locality",

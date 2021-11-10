@@ -56,6 +56,9 @@
     "name:hin_x_preferred":[
         "\u092c\u093f\u0930\u093e\u0913"
     ],
+    "name:hun_x_preferred":[
+        "Birao"
+    ],
     "name:ind_x_preferred":[
         "Birao"
     ],
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421189375,
-    "wof:lastmodified":1566638242,
+    "wof:lastmodified":1636501624,
     "wof:name":"Birao",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",

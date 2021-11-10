@@ -59,6 +59,9 @@
     "name:hin_x_preferred":[
         "\u092c\u094d\u0930\u093f\u0906"
     ],
+    "name:hun_x_preferred":[
+        "Bria"
+    ],
     "name:ind_x_preferred":[
         "Bria"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421188141,
-    "wof:lastmodified":1566638243,
+    "wof:lastmodified":1636501625,
     "wof:name":"Bria",
     "wof:parent_id":1108759619,
     "wof:placetype":"locality",

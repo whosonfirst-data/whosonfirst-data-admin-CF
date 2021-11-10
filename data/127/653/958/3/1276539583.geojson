@@ -54,6 +54,12 @@
     "name:glg_x_preferred":[
         "Bangassou"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d2\u05e1\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Bangassou"
+    ],
     "name:ind_x_preferred":[
         "Bangassou"
     ],
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1276539583,
-    "wof:lastmodified":1566637993,
+    "wof:lastmodified":1636501612,
     "wof:name":"Bangassou",
     "wof:parent_id":1108759627,
     "wof:placetype":"locality",

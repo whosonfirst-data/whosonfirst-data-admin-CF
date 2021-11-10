@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Bago"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Bago"
+    ],
     "name:ita_x_preferred":[
         "Bago"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1343834531,
-    "wof:lastmodified":1566637775,
+    "wof:lastmodified":1636501605,
     "wof:name":"Bago",
     "wof:parent_id":1108759721,
     "wof:placetype":"locality",

@@ -56,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a9d\u0acc\u0aae"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d6\u05d5\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u091c\u093c\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Bozoum"
     ],
     "name:ind_x_preferred":[
         "Bozoum"
@@ -294,7 +300,7 @@
         }
     ],
     "wof:id":421199099,
-    "wof:lastmodified":1566638244,
+    "wof:lastmodified":1636501625,
     "wof:name":"Bozoum",
     "wof:parent_id":1108759691,
     "wof:placetype":"locality",
