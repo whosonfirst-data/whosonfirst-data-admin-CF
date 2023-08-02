@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Batangafo"
     ],
+    "name:deu_x_preferred":[
+        "Batangafo"
+    ],
     "name:eng_x_preferred":[
         "Batangafo"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421167677,
-    "wof:lastmodified":1566638242,
+    "wof:lastmodified":1690865860,
     "wof:name":"Batangafo",
     "wof:parent_id":1108759693,
     "wof:placetype":"locality",

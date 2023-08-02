@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bria"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":421188141,
-    "wof:lastmodified":1636501625,
+    "wof:lastmodified":1690865862,
     "wof:name":"Bria",
     "wof:parent_id":1108759619,
     "wof:placetype":"locality",

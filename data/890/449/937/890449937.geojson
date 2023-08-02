@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Kemb\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Kemb\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Kemb\u00e9"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890449937,
-    "wof:lastmodified":1566638246,
+    "wof:lastmodified":1690865865,
     "wof:name":"Kemb\u00e9",
     "wof:parent_id":1108759737,
     "wof:placetype":"locality",

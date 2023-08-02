@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Ouango"
     ],
+    "name:deu_x_preferred":[
+        "Ouango"
+    ],
     "name:eng_x_preferred":[
         "Ouango"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890449935,
-    "wof:lastmodified":1566638246,
+    "wof:lastmodified":1690865865,
     "wof:name":"Ouango",
     "wof:parent_id":1108759609,
     "wof:placetype":"locality",

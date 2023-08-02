@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Bouca"
     ],
+    "name:deu_x_preferred":[
+        "Bouca"
+    ],
     "name:eng_x_preferred":[
         "Bouca"
     ],
     "name:epo_x_preferred":[
         "Bouca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Bouca"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890440287,
-    "wof:lastmodified":1566638245,
+    "wof:lastmodified":1690865864,
     "wof:name":"Bouca",
     "wof:parent_id":1108759695,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Rafai"
     ],
+    "name:deu_x_preferred":[
+        "Rafa\u00ef"
+    ],
     "name:eng_x_preferred":[
         "Rafa\u00ef"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890449933,
-    "wof:lastmodified":1566638246,
+    "wof:lastmodified":1690865865,
     "wof:name":"Rafa\u00ef",
     "wof:parent_id":1108759705,
     "wof:placetype":"locality",

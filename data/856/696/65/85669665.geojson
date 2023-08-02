@@ -66,6 +66,9 @@
     "name:epo_x_preferred":[
         "Basse-Kotto"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633 \u06a9\u0648\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Basse-Kotto"
     ],
@@ -87,6 +90,9 @@
     "name:hun_x_preferred":[
         "Basse-Kotto"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0578\u0580\u056b\u0576 \u053f\u0578\u057f\u057f\u0578"
+    ],
     "name:ind_x_preferred":[
         "Prefektur Basse-Kotto"
     ],
@@ -105,6 +111,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uc2a4\ucf54\ud1a0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uc2a4\ucf54\ud1a0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Lejaskoto prefekt\u016bra"
     ],
@@ -116,6 +125,9 @@
     ],
     "name:msa_x_preferred":[
         "Basse-Kotto Prefecture"
+    ],
+    "name:nan_x_preferred":[
+        "Basse-Kotto Chiu"
     ],
     "name:nld_x_preferred":[
         "Basse-Kotto"
@@ -312,7 +324,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1636501609,
+    "wof:lastmodified":1690865855,
     "wof:name":"Basse-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

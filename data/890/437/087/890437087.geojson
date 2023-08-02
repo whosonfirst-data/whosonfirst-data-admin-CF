@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Kouango"
     ],
+    "name:deu_x_preferred":[
+        "Kouango"
+    ],
     "name:eng_x_preferred":[
         "Kouango"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890437087,
-    "wof:lastmodified":1566638247,
+    "wof:lastmodified":1690865866,
     "wof:name":"Kouango",
     "wof:parent_id":1108759663,
     "wof:placetype":"locality",

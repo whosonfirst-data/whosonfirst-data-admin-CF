@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kabo"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0628\u0648"
     ],
     "name:ceb_x_preferred":[
+        "Kabo"
+    ],
+    "name:deu_x_preferred":[
         "Kabo"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +41,9 @@
         "\u06a9\u0627\u0628\u0648"
     ],
     "name:fra_x_preferred":[
+        "Kabo"
+    ],
+    "name:hau_x_preferred":[
         "Kabo"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125962605,
-    "wof:lastmodified":1566638247,
+    "wof:lastmodified":1690865867,
     "wof:name":"Kabo",
     "wof:parent_id":1108759675,
     "wof:placetype":"locality",

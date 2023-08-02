@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u063a\u0627\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Bangassou"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u0999\u09cd\u0997\u09be\u09b8\u09cc"
     ],
@@ -27,6 +30,9 @@
         "Bangassou"
     ],
     "name:ceb_x_preferred":[
+        "Bangassou"
+    ],
+    "name:ces_x_preferred":[
         "Bangassou"
     ],
     "name:dan_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:epo_x_preferred":[
         "Bangassou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u06af\u0627\u0633\u0648"
     ],
     "name:fin_x_preferred":[
         "Bangassou"
@@ -300,7 +309,7 @@
         }
     ],
     "wof:id":421166841,
-    "wof:lastmodified":1636501624,
+    "wof:lastmodified":1690865860,
     "wof:name":"Bangassou",
     "wof:parent_id":1108759627,
     "wof:placetype":"locality",

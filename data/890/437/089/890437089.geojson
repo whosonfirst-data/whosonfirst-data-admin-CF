@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Gamboula"
     ],
+    "name:deu_x_preferred":[
+        "Gamboula"
+    ],
     "name:eng_x_preferred":[
         "Gamboula"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890437089,
-    "wof:lastmodified":1566638246,
+    "wof:lastmodified":1690865866,
     "wof:name":"Gamboula",
     "wof:parent_id":1108759593,
     "wof:placetype":"locality",

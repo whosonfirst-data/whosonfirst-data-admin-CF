@@ -108,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc640\uce74 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc640\uce74\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Vakas prefekt\u016bra"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:msa_x_preferred":[
         "Ouaka Prefecture"
+    ],
+    "name:nan_x_preferred":[
+        "Ouaka Chiu"
     ],
     "name:nld_x_preferred":[
         "Ouaka"
@@ -318,7 +324,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1636501609,
+    "wof:lastmodified":1690865855,
     "wof:name":"Ouaka",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

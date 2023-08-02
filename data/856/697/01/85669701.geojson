@@ -105,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc6b0\uc554 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc554\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Vamas prefekt\u016bra"
     ],
@@ -116,6 +119,9 @@
     ],
     "name:msa_x_preferred":[
         "Ouham Prefecture"
+    ],
+    "name:nan_x_preferred":[
+        "Ouham Chiu"
     ],
     "name:nld_x_preferred":[
         "Ouham"
@@ -316,7 +322,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1636501608,
+    "wof:lastmodified":1690865852,
     "wof:name":"Ouham",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

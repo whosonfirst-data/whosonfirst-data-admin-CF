@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Zemio"
     ],
+    "name:deu_x_preferred":[
+        "Z\u00e9mio"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03ad\u03bc\u03b9\u03bf"
     ],
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":890449931,
-    "wof:lastmodified":1636501626,
+    "wof:lastmodified":1690865864,
     "wof:name":"Zemio",
     "wof:parent_id":1108759587,
     "wof:placetype":"locality",
