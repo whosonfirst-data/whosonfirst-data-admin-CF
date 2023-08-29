@@ -20,8 +20,14 @@
     "name:ceb_x_preferred":[
         "Boali"
     ],
+    "name:deu_x_preferred":[
+        "Boali"
+    ],
     "name:eng_x_preferred":[
         "Boali"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0627\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "Boali"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421168157,
-    "wof:lastmodified":1566638241,
+    "wof:lastmodified":1690865859,
     "wof:name":"Boali",
     "wof:parent_id":1108759687,
     "wof:placetype":"locality",

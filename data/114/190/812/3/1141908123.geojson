@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.6500231513,5.26700278617,17.6500231513,5.26700278617",
+    "geom:bbox":"17.650023,5.267003,17.650023,5.267003",
     "geom:latitude":5.267003,
     "geom:longitude":17.650023,
     "iso:country":"CF",
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Bossemb\u00e9l\u00e9"
+    ],
+    "name:deu_x_preferred":[
         "Bossemb\u00e9l\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -153,7 +156,7 @@
     },
     "wof:country":"CF",
     "wof:created":1499130823,
-    "wof:geomhash":"98eeafd3450a383e3ddaf95ac42c6437",
+    "wof:geomhash":"ed48ef0b06f6f15b4c7476ce23b9ad81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1141908123,
-    "wof:lastmodified":1566638454,
+    "wof:lastmodified":1690865868,
     "wof:name":"Bossembele",
     "wof:parent_id":1108759643,
     "wof:placetype":"locality",
@@ -174,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.65002315132529,
-    5.26700278617022,
-    17.65002315132529,
-    5.26700278617022
+    17.650023,
+    5.267003,
+    17.650023,
+    5.267003
 ],
-  "geometry": {"coordinates":[17.65002315132529,5.26700278617022],"type":"Point"}
+  "geometry": {"coordinates":[17.650023,5.267003],"type":"Point"}
 }

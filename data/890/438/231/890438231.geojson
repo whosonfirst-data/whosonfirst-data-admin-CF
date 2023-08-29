@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Alindao"
     ],
+    "name:deu_x_preferred":[
+        "Alindao"
+    ],
     "name:eng_x_preferred":[
         "Alindao"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890438231,
-    "wof:lastmodified":1566638247,
+    "wof:lastmodified":1690865867,
     "wof:name":"Alindao",
     "wof:parent_id":1108759613,
     "wof:placetype":"locality",

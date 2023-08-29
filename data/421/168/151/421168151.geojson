@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nola"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0644\u0627"
     ],
@@ -42,6 +48,9 @@
         "\u039d\u03cc\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Nola"
+    ],
+    "name:epo_x_preferred":[
         "Nola"
     ],
     "name:fas_x_preferred":[
@@ -290,7 +299,7 @@
         }
     ],
     "wof:id":421168151,
-    "wof:lastmodified":1636501623,
+    "wof:lastmodified":1690865859,
     "wof:name":"Nola",
     "wof:parent_id":1108759711,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Bouar"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09be\u09b0"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Bouar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Bouar"
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":421188143,
-    "wof:lastmodified":1636501624,
+    "wof:lastmodified":1690865862,
     "wof:name":"Bouar",
     "wof:parent_id":1108759639,
     "wof:placetype":"locality",

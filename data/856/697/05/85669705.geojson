@@ -109,6 +109,9 @@
     "name:kor_x_preferred":[
         "\uc624\ud2b8\ucf54\ud1a0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud2b8\ucf54\ud1a0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Aug\u0161koto"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:msa_x_preferred":[
         "Haute-Kotto Prefecture"
+    ],
+    "name:nan_x_preferred":[
+        "Haute-Kotto Chiu"
     ],
     "name:nld_x_preferred":[
         "Haute-Kotto"
@@ -317,7 +323,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1636501607,
+    "wof:lastmodified":1690865851,
     "wof:name":"Haute-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
