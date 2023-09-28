@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175775,
-    "geom:area_square_m":2156994702.773023,
+    "geom:area_square_m":2156994948.174746,
     "geom:bbox":"16.676987,6.772748,17.212944,7.448353",
     "geom:latitude":7.0637,
     "geom:longitude":16.919499,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.AC.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325744,
-    "wof:geomhash":"e716849d2fdaf2ce1bcf35885972a56c",
+    "wof:geomhash":"e1b7863415da0b9622bde3e32f6f828b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759699,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886459,
     "wof:name":"Nanga-Boguila",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

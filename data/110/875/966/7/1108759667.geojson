@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299136,
-    "geom:area_square_m":3678941691.474253,
+    "geom:area_square_m":3678941718.481844,
     "geom:bbox":"16.187501,5.55595,16.974392,6.31836",
     "geom:latitude":5.948415,
     "geom:longitude":16.541812,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.OP.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325726,
-    "wof:geomhash":"425b564e72498e634197cb8f2d962723",
+    "wof:geomhash":"9ee255630171c22f922ecb679eddf769",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759667,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886459,
     "wof:name":"Bossemptele",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

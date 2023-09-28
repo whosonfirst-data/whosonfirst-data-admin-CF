@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.73399,
-    "geom:area_square_m":8962664890.48151,
+    "geom:area_square_m":8962664582.160046,
     "geom:bbox":"21.670772,8.579844,23.198195,9.556579",
     "geom:latitude":9.058533,
     "geom:longitude":22.427515,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.VK.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325767,
-    "wof:geomhash":"852d1c80348d875906ecd883f8a794c7",
+    "wof:geomhash":"03485524befc849960c60993ef2afaae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759731,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886461,
     "wof:name":"Ouanda Djalle",
     "wof:parent_id":85669703,
     "wof:placetype":"county",

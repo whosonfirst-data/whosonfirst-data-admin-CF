@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558369,
-    "geom:area_square_m":6877441533.064623,
+    "geom:area_square_m":6877441533.064962,
     "geom:bbox":"18.2579059231,4.50133052948,19.1416755336,5.73703898282",
     "geom:latitude":5.05182,
     "geom:longitude":18.720507,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MP.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325714,
-    "wof:geomhash":"2e18d65176162c1a98e087e027f3e6da",
+    "wof:geomhash":"c50c7e52bec64f6182f2ef32b61a1e99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108759647,
-    "wof:lastmodified":1566638119,
+    "wof:lastmodified":1695886297,
     "wof:name":"Damara",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

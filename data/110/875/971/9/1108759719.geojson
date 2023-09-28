@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303084,
-    "geom:area_square_m":3725225609.516532,
+    "geom:area_square_m":3725225609.516629,
     "geom:bbox":"18.7399114552,5.99310114255,19.5595681768,6.55379969478",
     "geom:latitude":6.275728,
     "geom:longitude":19.14904,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CF.KG.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325761,
-    "wof:geomhash":"22899153818076129f2c3b0dcb3fe52c",
+    "wof:geomhash":"b0d312e6395994ecbe47b07c640f4418",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759719,
-    "wof:lastmodified":1566638122,
+    "wof:lastmodified":1695886298,
     "wof:name":"Dekoa",
     "wof:parent_id":85669697,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411209,
-    "geom:area_square_m":5058865715.619796,
+    "geom:area_square_m":5058865715.619853,
     "geom:bbox":"19.4644994431,5.37205179805,20.3530949775,6.15931209099",
     "geom:latitude":5.773012,
     "geom:longitude":19.956955,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CF.UK.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325718,
-    "wof:geomhash":"b7c186e8c159e1e96072ea00c1000141",
+    "wof:geomhash":"e55bcb2824775db6a0eb1c0ca8ae0dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108759657,
-    "wof:lastmodified":1566638114,
+    "wof:lastmodified":1695886296,
     "wof:name":"Grimari",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

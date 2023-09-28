@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396508,
-    "geom:area_square_m":4880814547.917877,
+    "geom:area_square_m":4880814547.917896,
     "geom:bbox":"16.4895147911,4.91558409494,17.4096464743,5.86011091105",
     "geom:latitude":5.435954,
     "geom:longitude":16.982689,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MP.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325716,
-    "wof:geomhash":"7187a44b62a68a6d6d1d65ffe3819448",
+    "wof:geomhash":"ca799b73fbae66e0dc494fc5ed72da63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108759651,
-    "wof:lastmodified":1566638115,
+    "wof:lastmodified":1695886296,
     "wof:name":"Yaloke",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

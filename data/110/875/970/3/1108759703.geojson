@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.3814,
-    "geom:area_square_m":41462670261.586281,
+    "geom:area_square_m":41462670261.58786,
     "geom:bbox":"22.2599897911,6.08261348901,24.5889596953,9.24150831354",
     "geom:latitude":7.376552,
     "geom:longitude":23.585641,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HK.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325746,
-    "wof:geomhash":"20825915371df14d0ee36eab194d579a",
+    "wof:geomhash":"c2d5ffc54d53325089aa92c21af2999a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759703,
-    "wof:lastmodified":1566638121,
+    "wof:lastmodified":1695886297,
     "wof:name":"Yalinga",
     "wof:parent_id":85669705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.603331,
-    "geom:area_square_m":7428770546.819112,
+    "geom:area_square_m":7428770679.405706,
     "geom:bbox":"17.149373,4.508925,18.16984,5.82633",
     "geom:latitude":5.262749,
     "geom:longitude":17.616072,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MP.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325711,
-    "wof:geomhash":"d7082ce5219b3757647d13cabbdb87d1",
+    "wof:geomhash":"ddb45944c9adb3c573f44980f97afe88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759643,
-    "wof:lastmodified":1627521986,
+    "wof:lastmodified":1695886456,
     "wof:name":"Bossembele",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

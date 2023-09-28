@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716969,
-    "geom:area_square_m":8848857660.250824,
+    "geom:area_square_m":8848857660.250635,
     "geom:bbox":"15.2840317478,2.70444423542,16.6045933838,4.00152377885",
     "geom:latitude":3.502173,
     "geom:longitude":15.96786,
@@ -207,9 +207,10 @@
     "wof:concordances":{
         "hasc:id":"CF.SE.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325751,
-    "wof:geomhash":"388cfb1257e2b287dd640aaccd35e17c",
+    "wof:geomhash":"ece66093248a0f67af8556b1ddbf93e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":1108759711,
-    "wof:lastmodified":1566638123,
+    "wof:lastmodified":1695886298,
     "wof:name":"Nola",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

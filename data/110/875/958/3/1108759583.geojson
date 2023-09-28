@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.969558,
-    "geom:area_square_m":36459982486.816345,
+    "geom:area_square_m":36459982486.81823,
     "geom:bbox":"24.2612843509,5.62219681284,26.5655609243,8.286028",
     "geom:latitude":6.783621,
     "geom:longitude":25.33695,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HM.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325680,
-    "wof:geomhash":"0b1e16207f9509a133a52bd12cfcdfb6",
+    "wof:geomhash":"159f97c89cfb367a74a6c91b5da94d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108759583,
-    "wof:lastmodified":1566638132,
+    "wof:lastmodified":1695886301,
     "wof:name":"Djemah",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

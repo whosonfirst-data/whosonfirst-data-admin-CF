@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253763,
-    "geom:area_square_m":3129898536.280919,
+    "geom:area_square_m":3129898536.280942,
     "geom:bbox":"16.9140902258,3.7494516079,17.6843137463,4.37310828385",
     "geom:latitude":4.072798,
     "geom:longitude":17.317,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"CF.LB.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325765,
-    "wof:geomhash":"48746172694586c5bb029aec63613d6f",
+    "wof:geomhash":"acd3154889dce57df06579b536e9b4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759727,
-    "wof:lastmodified":1566638137,
+    "wof:lastmodified":1695886302,
     "wof:name":"Boda",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

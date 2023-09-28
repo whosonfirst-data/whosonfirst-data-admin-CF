@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.523883,
-    "geom:area_square_m":6453546554.142626,
+    "geom:area_square_m":6453546554.142798,
     "geom:bbox":"16.083508,4.337207,17.121381,5.390393",
     "geom:latitude":4.966202,
     "geom:longitude":16.643964,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HS.GZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325755,
-    "wof:geomhash":"e7603bd05eccd9817b5d92833295438e",
+    "wof:geomhash":"a655f405db521703b6830010b317fa83",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759717,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886459,
     "wof:name":"Gadzi",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

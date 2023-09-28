@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185721,
-    "geom:area_square_m":2289258121.325719,
+    "geom:area_square_m":2289257518.096568,
     "geom:bbox":"21.289479,4.280726,21.955598,4.791555",
     "geom:latitude":4.543974,
     "geom:longitude":21.595023,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.BK.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325770,
-    "wof:geomhash":"6c9896f15ba62dab68236d5aed16f13d",
+    "wof:geomhash":"52d4c90d0deda3986184ea5389298e96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759737,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886459,
     "wof:name":"Kembe",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

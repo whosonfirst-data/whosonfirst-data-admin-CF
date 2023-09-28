@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355796,
-    "geom:area_square_m":4364031934.306805,
+    "geom:area_square_m":4364031934.306945,
     "geom:bbox":"15.1339385683,6.95301561729,16.2266970964,7.618467",
     "geom:latitude":7.277458,
     "geom:longitude":15.661107,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.OP.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325688,
-    "wof:geomhash":"f913c7caaa748f0a2a7c15022d65362c",
+    "wof:geomhash":"1514f87039a02785ee88ccf14d2d21d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759597,
-    "wof:lastmodified":1566638129,
+    "wof:lastmodified":1695886300,
     "wof:name":"Ngaoundaye",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.386436,
-    "geom:area_square_m":4756619364.250898,
+    "geom:area_square_m":4756618624.521536,
     "geom:bbox":"26.656352,5.018002,27.458305,5.992763",
     "geom:latitude":5.463664,
     "geom:longitude":26.974876,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HM.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325745,
-    "wof:geomhash":"266d286e0f4af2b84df7c69b49562d05",
+    "wof:geomhash":"183a7c8d4d1e696766b4deda46107346",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759701,
-    "wof:lastmodified":1627521986,
+    "wof:lastmodified":1695886457,
     "wof:name":"Bambouti",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

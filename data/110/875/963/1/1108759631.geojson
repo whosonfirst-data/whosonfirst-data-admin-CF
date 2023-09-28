@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.323297,
-    "geom:area_square_m":16231891039.219936,
+    "geom:area_square_m":16231891039.219837,
     "geom:bbox":"18.6484701327,6.43329821227,19.7866022208,8.56700222402",
     "geom:latitude":7.238223,
     "geom:longitude":19.218165,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"CF.KB.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325706,
-    "wof:geomhash":"dc80a5e932147725666dacf718c9e79b",
+    "wof:geomhash":"6d29c2e049b670a272eff094468e1eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108759631,
-    "wof:lastmodified":1566638118,
+    "wof:lastmodified":1695886297,
     "wof:name":"Kaga-Bandoro",
     "wof:parent_id":85669693,
     "wof:placetype":"county",

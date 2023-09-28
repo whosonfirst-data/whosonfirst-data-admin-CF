@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374771,
-    "geom:area_square_m":4601826831.583937,
+    "geom:area_square_m":4601826831.584112,
     "geom:bbox":"15.4590915145,6.34652477618,16.1369525689,7.16651857086",
     "geom:latitude":6.765566,
     "geom:longitude":15.778644,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CF.OP.BC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325762,
-    "wof:geomhash":"070fa8894359e42c97ad6765d1a642f5",
+    "wof:geomhash":"c8738644f0a4bbbc15ddf3f1e16ea98e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759721,
-    "wof:lastmodified":1566638138,
+    "wof:lastmodified":1695886302,
     "wof:name":"Bocaranga",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

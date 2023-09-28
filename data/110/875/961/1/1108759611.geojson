@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374334,
-    "geom:area_square_m":4609567243.236143,
+    "geom:area_square_m":4609567243.236126,
     "geom:bbox":"21.1918262895,4.6683149801,21.9071965057,5.68300703598",
     "geom:latitude":5.209325,
     "geom:longitude":21.591376,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CF.BK.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325695,
-    "wof:geomhash":"eaf6680b32c99aedaf4b69f16f061505",
+    "wof:geomhash":"1da388234a1a83fa101bad4bec014480",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108759611,
-    "wof:lastmodified":1566638126,
+    "wof:lastmodified":1695886299,
     "wof:name":"Mingala",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

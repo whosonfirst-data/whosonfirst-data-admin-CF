@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.735674,
-    "geom:area_square_m":9047412967.547386,
+    "geom:area_square_m":9047412633.139584,
     "geom:bbox":"14.908296,5.076427,15.939689,6.756808",
     "geom:latitude":5.957608,
     "geom:longitude":15.477759,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"CF.NM.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325709,
-    "wof:geomhash":"120ce2a0effc36dae5926637a7c9fe7e",
+    "wof:geomhash":"ab2496802fa62094cd429347018f059b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108759639,
-    "wof:lastmodified":1636501617,
+    "wof:lastmodified":1695886790,
     "wof:name":"Bouar",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

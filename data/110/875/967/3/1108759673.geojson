@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957995,
-    "geom:area_square_m":11773373349.34166,
+    "geom:area_square_m":11773372869.541288,
     "geom:bbox":"16.723395,5.710894,17.963457,6.976597",
     "geom:latitude":6.329234,
     "geom:longitude":17.339045,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"CF.AC.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325729,
-    "wof:geomhash":"da6ad2864eeedf76d341698d332dc9d6",
+    "wof:geomhash":"3ea713dc5588f742534ce3741d57c89f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108759673,
-    "wof:lastmodified":1636501619,
+    "wof:lastmodified":1695886792,
     "wof:name":"Bossangoa",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

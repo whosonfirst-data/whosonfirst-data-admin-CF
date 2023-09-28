@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.399896,
-    "geom:area_square_m":17194792985.07761,
+    "geom:area_square_m":17194792985.077816,
     "geom:bbox":"20.656759744,5.71404524599,21.9444640883,7.70529823469",
     "geom:latitude":6.597438,
     "geom:longitude":21.285002,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"CF.UK.IP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325721,
-    "wof:geomhash":"a12608ac64a8ef6cfdff51a900c78a7f",
+    "wof:geomhash":"14160200f11035b70438f34d97344ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108759659,
-    "wof:lastmodified":1566638114,
+    "wof:lastmodified":1695886296,
     "wof:name":"Ippy",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

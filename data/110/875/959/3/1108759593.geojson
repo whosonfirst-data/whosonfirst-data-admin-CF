@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228526,
-    "geom:area_square_m":2817441543.042908,
+    "geom:area_square_m":2817441543.042768,
     "geom:bbox":"14.715969,3.995967,15.442951,4.707859",
     "geom:latitude":4.394908,
     "geom:longitude":15.127348,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HS.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325686,
-    "wof:geomhash":"bd77b12fd861d7aeced6a5cc789276f7",
+    "wof:geomhash":"4c2d3329da20544347ca1fd8f508a140",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108759593,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1695886292,
     "wof:name":"Gamboula",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

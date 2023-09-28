@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.250038,
-    "geom:area_square_m":27678399377.603889,
+    "geom:area_square_m":27678398870.987568,
     "geom:bbox":"23.271854,4.757582,25.189555,6.752035",
     "geom:latitude":5.810377,
     "geom:longitude":24.203041,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MB.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325748,
-    "wof:geomhash":"def4fc4a6d92d3bdd693a58c541d25b2",
+    "wof:geomhash":"1519cfe48101d60358ed523e6b6e435a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759705,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Rafai",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

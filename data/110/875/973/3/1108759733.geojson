@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256259,
-    "geom:area_square_m":3159612867.361206,
+    "geom:area_square_m":3159612867.36105,
     "geom:bbox":"18.1202916151,3.87129917117,18.8256986223,4.67258449164",
     "geom:latitude":4.33385,
     "geom:longitude":18.46897,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MP.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325769,
-    "wof:geomhash":"167abb217db9ddf1ddbab3e0a258bb95",
+    "wof:geomhash":"1671ca03190609c07e2e59f6b8e86e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759733,
-    "wof:lastmodified":1566638137,
+    "wof:lastmodified":1695886302,
     "wof:name":"Bimbo",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

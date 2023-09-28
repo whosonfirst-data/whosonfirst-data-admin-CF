@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.73789,
-    "geom:area_square_m":9077477790.801281,
+    "geom:area_square_m":9077477790.802118,
     "geom:bbox":"14.415098,4.99172131356,15.5411439869,6.62648375529",
     "geom:latitude":5.787152,
     "geom:longitude":14.896118,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CF.NM.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325687,
-    "wof:geomhash":"8904e949edb04762425fb65724d865b8",
+    "wof:geomhash":"7764fdb8e8a7e3637eab3890d202923f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759595,
-    "wof:lastmodified":1566638130,
+    "wof:lastmodified":1695886300,
     "wof:name":"Baboua",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

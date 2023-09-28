@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.735572,
-    "geom:area_square_m":9069925555.015907,
+    "geom:area_square_m":9069925555.01601,
     "geom:bbox":"15.254329,3.825095,16.666017,4.763985",
     "geom:latitude":4.291739,
     "geom:longitude":15.895548,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HS.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325734,
-    "wof:geomhash":"39d86d1c39d1ab98601cb31082d5f0fd",
+    "wof:geomhash":"c340013a3b659307e31d855bbfddd36b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759683,
-    "wof:lastmodified":1627521986,
+    "wof:lastmodified":1695886456,
     "wof:name":"Berberati",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

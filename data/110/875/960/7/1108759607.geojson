@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.521241,
-    "geom:area_square_m":6423567890.387552,
+    "geom:area_square_m":6423567801.598679,
     "geom:bbox":"21.737712,4.115013,22.654934,5.090221",
     "geom:latitude":4.694992,
     "geom:longitude":22.195195,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MB.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325693,
-    "wof:geomhash":"7814d4ce8e7598d41ab7bcce4a3e2759",
+    "wof:geomhash":"b663a433d6a9a8b475823a4a64acac11",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108759607,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886458,
     "wof:name":"Gambo",
     "wof:parent_id":85669709,
     "wof:placetype":"county",
