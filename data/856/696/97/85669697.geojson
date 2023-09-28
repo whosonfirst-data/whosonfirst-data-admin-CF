@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.345339,
-    "geom:area_square_m":16549777638.426111,
+    "geom:area_square_m":16549778648.576616,
     "geom:bbox":"18.609339,4.938316,20.017423,6.5538",
     "geom:latitude":5.800323,
     "geom:longitude":19.297212,
@@ -292,17 +292,19 @@
         "gn:id":2385836,
         "gp:id":2345094,
         "hasc:id":"CF.KG",
+        "iso:code":"CF-KG",
         "iso:id":"CF-KG",
         "qs_pg:id":946780,
         "unlc:id":"CF-KG",
         "wd:id":"Q848572",
         "wk:page":"K\u00e9mo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"845633c1048248a515a6e26a426801c3",
+    "wof:geomhash":"59aba536f8f74495bbff4d3b70a6d1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865856,
+    "wof:lastmodified":1695884364,
     "wof:name":"K\u00e9mo",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

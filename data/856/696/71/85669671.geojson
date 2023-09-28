@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.405714,
-    "geom:area_square_m":29652000787.28775,
+    "geom:area_square_m":29651998845.979439,
     "geom:bbox":"14.673963,3.675451,17.121381,5.390393",
     "geom:latitude":4.568167,
     "geom:longitude":15.91451,
@@ -292,17 +292,19 @@
         "gn:id":2386161,
         "gp:id":2345092,
         "hasc:id":"CF.HS",
+        "iso:code":"CF-HS",
         "iso:id":"CF-HS",
         "qs_pg:id":946779,
         "unlc:id":"CF-HS",
         "wd:id":"Q848567",
         "wk:page":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6953d1da887deafd560f377cb881e90",
+    "wof:geomhash":"61932d24279d58d381bc65675e4d988a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865856,
+    "wof:lastmodified":1695884364,
     "wof:name":"Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

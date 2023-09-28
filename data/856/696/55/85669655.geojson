@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005709,
-    "geom:area_square_m":70388655.74943,
+    "geom:area_square_m":70388792.873705,
     "geom:bbox":"18.524309,4.322539,18.644218,4.431223",
     "geom:latitude":4.379529,
     "geom:longitude":18.565811,
@@ -578,11 +578,13 @@
         "gn:id":2596686,
         "gp:id":2345105,
         "hasc:id":"CF.BG",
+        "iso:code":"CF-BGF",
         "iso:id":"CF-BGF",
         "qs_pg:id":423673,
         "unlc:id":"CF-BGF",
         "wd:id":"Q3832"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421181445
     ],
@@ -590,7 +592,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1dbc2a2aaad41cdee65bd1169f3ba878",
+    "wof:geomhash":"e883966dc6695019058b8aa4c00e76f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -607,7 +609,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865855,
+    "wof:lastmodified":1695884364,
     "wof:name":"Bangui",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

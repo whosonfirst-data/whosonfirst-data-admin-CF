@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.614299,
-    "geom:area_square_m":56705411553.30806,
+    "geom:area_square_m":56705411139.452606,
     "geom:bbox":"24.261284,4.893125,27.458305,8.286028",
     "geom:latitude":6.308472,
     "geom:longitude":25.587993,
@@ -299,17 +299,19 @@
         "gn:id":238639,
         "gp:id":2345093,
         "hasc:id":"CF.HM",
+        "iso:code":"CF-HM",
         "iso:id":"CF-HM",
         "qs_pg:id":190323,
         "unlc:id":"CF-HM",
         "wd:id":"Q848578",
         "wk:page":"Haut-Mbomou"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eec4a0b1ba7e688969ec228862aaf606",
+    "wof:geomhash":"a7d0d00fbdeb66cab017818d91c25c43",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +328,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865851,
+    "wof:lastmodified":1695884897,
     "wof:name":"Haut-Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

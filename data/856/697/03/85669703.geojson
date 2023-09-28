@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.863557,
-    "geom:area_square_m":47070005435.121658,
+    "geom:area_square_m":47070004872.820221,
     "geom:bbox":"20.817173,8.579844,23.696254,11.017957",
     "geom:latitude":9.827026,
     "geom:longitude":22.51152,
@@ -303,17 +303,19 @@
         "gn:id":236178,
         "gp:id":2345101,
         "hasc:id":"CF.VK",
+        "iso:code":"CF-VK",
         "iso:id":"CF-VK",
         "qs_pg:id":211639,
         "unlc:id":"CF-VK",
         "wd:id":"Q848585",
         "wk:page":"Vakaga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"618369d3c3ef28be6f2bda251602d3bc",
+    "wof:geomhash":"994a0cbe2369c1d71060c1cc4e388c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865850,
+    "wof:lastmodified":1695884897,
     "wof:name":"Vakaga",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

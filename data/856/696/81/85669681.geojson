@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.226172,
-    "geom:area_square_m":27390258689.258766,
+    "geom:area_square_m":27390257829.240517,
     "geom:bbox":"14.415098,4.940694,16.526286,6.756808",
     "geom:latitude":5.699523,
     "geom:longitude":15.376937,
@@ -292,17 +292,19 @@
         "gn:id":2384205,
         "gp:id":2345097,
         "hasc:id":"CF.NM",
+        "iso:code":"CF-NM",
         "iso:id":"CF-NM",
         "qs_pg:id":257794,
         "unlc:id":"CF-NM",
         "wd:id":"Q742455",
         "wk:page":"Nana-Mamb\u00e9r\u00e9"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02e0be7a489c687a4fb72b70c6a20b0c",
+    "wof:geomhash":"7b606e3328c3782c54a923d9daca852d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865854,
+    "wof:lastmodified":1695884364,
     "wof:name":"Nana-Mamb\u00e9r\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

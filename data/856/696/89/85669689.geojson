@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.800272,
-    "geom:area_square_m":58713150805.015472,
+    "geom:area_square_m":58713153084.996872,
     "geom:bbox":"18.860711,7.017207,22.393709,9.773887",
     "geom:latitude":8.421658,
     "geom:longitude":20.573219,
@@ -300,17 +300,19 @@
         "gn:id":240591,
         "gp:id":2345089,
         "hasc:id":"CF.BB",
+        "iso:code":"CF-BB",
         "iso:id":"CF-BB",
         "qs_pg:id":946777,
         "unlc:id":"CF-BB",
         "wd:id":"Q741025",
         "wk:page":"Bamingui-Bangoran"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0e3fbcd3c131658945129aff07df0cd",
+    "wof:geomhash":"dbdefdee9707ccf9e9aa5fcb7f3ff565",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865853,
+    "wof:lastmodified":1695884898,
     "wof:name":"Bamingui-Bangoran",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

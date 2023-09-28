@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.595591,
-    "geom:area_square_m":31966165575.529942,
+    "geom:area_square_m":31966164727.401581,
     "geom:bbox":"16.489515,3.871299,19.141676,5.907557",
     "geom:latitude":5.118111,
     "geom:longitude":17.993562,
@@ -297,17 +297,19 @@
         "gn:id":2383765,
         "gp:id":2345104,
         "hasc:id":"CF.MP",
+        "iso:code":"CF-MP",
         "iso:id":"CF-MP",
         "qs_pg:id":988722,
         "unlc:id":"CF-MP",
         "wd:id":"Q378970",
         "wk:page":"Ombella-M'Poko"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61f56ef524276bb1c90fd9c9812b5a07",
+    "wof:geomhash":"515eced133bc71b7303e87753622a878",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865852,
+    "wof:lastmodified":1695884364,
     "wof:name":"Ombella M'Poko",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

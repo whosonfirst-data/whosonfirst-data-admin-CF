@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.045908,
-    "geom:area_square_m":86377851649.12738,
+    "geom:area_square_m":86377850685.428711,
     "geom:bbox":"21.101907,5.479312,24.58896,9.241508",
     "geom:latitude":7.468826,
     "geom:longitude":22.922329,
@@ -296,17 +296,19 @@
         "gn:id":238640,
         "gp:id":2345091,
         "hasc:id":"CF.HK",
+        "iso:code":"CF-HK",
         "iso:id":"CF-HK",
         "qs_pg:id":74752,
         "unlc:id":"CF-HK",
         "wd:id":"Q848596",
         "wk:page":"Haute-Kotto"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ef1dc2f80216c6e7581835639c7400c",
+    "wof:geomhash":"ffb6d0e4f2e8aed96a4e137a2e7bf57b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865851,
+    "wof:lastmodified":1695884897,
     "wof:name":"Haute-Kotto",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
