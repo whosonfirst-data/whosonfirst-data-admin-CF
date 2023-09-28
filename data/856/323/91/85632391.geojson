@@ -1257,6 +1257,7 @@
         "hasc:id":"CF",
         "icao:code":"TL",
         "ioc:id":"CAF",
+        "iso:code":"CF",
         "itu:id":"CAF",
         "m49:code":"140",
         "marc:id":"cx",
@@ -1270,6 +1271,7 @@
         "wk:page":"Central African Republic",
         "wmo:id":"CE"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:country_alpha3":"CAF",
     "wof:geom_alt":[
@@ -1293,7 +1295,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1694639537,
+    "wof:lastmodified":1695881194,
     "wof:name":"Central African Republic",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
