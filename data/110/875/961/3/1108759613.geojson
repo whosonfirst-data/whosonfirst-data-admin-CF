@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396295,
-    "geom:area_square_m":4880402665.072481,
+    "geom:area_square_m":4880402665.072423,
     "geom:bbox":"20.900501883,4.65788922544,21.5476398124,5.72831739118",
     "geom:latitude":5.152897,
     "geom:longitude":21.196048,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"CF.BK.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325696,
-    "wof:geomhash":"79a4bb188f7cedb67fb1b648ea68797e",
+    "wof:geomhash":"bbe1814659551955c5cf4340ac907946",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759613,
-    "wof:lastmodified":1566638126,
+    "wof:lastmodified":1695886299,
     "wof:name":"Alindao",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

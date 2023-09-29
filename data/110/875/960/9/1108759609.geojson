@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098264,
-    "geom:area_square_m":1211421848.16858,
+    "geom:area_square_m":1211421951.037821,
     "geom:bbox":"22.277582,4.115812,22.731749,4.764449",
     "geom:latitude":4.42845,
     "geom:longitude":22.539423,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MB.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325694,
-    "wof:geomhash":"b0da138efe41e5976b5cbcc0050adb44",
+    "wof:geomhash":"db8aa6dbf1c9dc969897b37fc8cadf4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759609,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Ouango",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

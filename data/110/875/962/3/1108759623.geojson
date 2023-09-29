@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.707826,
-    "geom:area_square_m":8730987838.411478,
+    "geom:area_square_m":8730987730.167706,
     "geom:bbox":"17.34871,3.482551,18.496305,4.538273",
     "geom:latitude":4.000867,
     "geom:longitude":17.937838,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.LB.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325701,
-    "wof:geomhash":"e5975c317f2f70ed28b673e93d9d8fed",
+    "wof:geomhash":"885af916c2075122f0ce131d2e63ae50",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759623,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886458,
     "wof:name":"M'Baiki",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.611408,
-    "geom:area_square_m":7530414214.880427,
+    "geom:area_square_m":7530414214.880548,
     "geom:bbox":"19.853619,4.53038700272,20.9636704643,5.60017727645",
     "geom:latitude":5.081839,
     "geom:longitude":20.432039,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CF.UK.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325724,
-    "wof:geomhash":"7126384836e695981a91425215f55aff",
+    "wof:geomhash":"87204bfc3bb8268395f8ce9586ca459b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108759663,
-    "wof:lastmodified":1566638128,
+    "wof:lastmodified":1695886299,
     "wof:name":"Kouango",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

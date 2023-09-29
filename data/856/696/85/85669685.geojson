@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.602699,
-    "geom:area_square_m":31959882662.043625,
+    "geom:area_square_m":31959882918.423103,
     "geom:bbox":"14.94182,5.55595,17.131125,7.885918",
     "geom:latitude":6.729395,
     "geom:longitude":16.13815,
@@ -292,17 +292,19 @@
         "gn:id":2383650,
         "gp:id":2345100,
         "hasc:id":"CF.OP",
+        "iso:code":"CF-OP",
         "iso:id":"CF-OP",
         "qs_pg:id":59601,
         "unlc:id":"CF-OP",
         "wd:id":"Q848591",
         "wk:page":"Ouham-Pend\u00e9"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b92f88baa267b9a81c526a332f0407e5",
+    "wof:geomhash":"da0fbb6ca9b8f3c2ed91b9c55266fed7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865856,
+    "wof:lastmodified":1695884365,
     "wof:name":"Ouham-Pend\u00e9",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

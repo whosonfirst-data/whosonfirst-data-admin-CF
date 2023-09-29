@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367758,
-    "geom:area_square_m":4508131944.103167,
+    "geom:area_square_m":4508131944.102918,
     "geom:bbox":"16.8030711961,7.19086302588,17.7289398975,7.986357",
     "geom:latitude":7.533371,
     "geom:longitude":17.256435,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"CF.AC.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325731,
-    "wof:geomhash":"6ff56fc56e35039dcec4fcff66512ab0",
+    "wof:geomhash":"85525fb84c921c06023d5ec2a3d02266",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759677,
-    "wof:lastmodified":1566638131,
+    "wof:lastmodified":1695886301,
     "wof:name":"Markounda",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

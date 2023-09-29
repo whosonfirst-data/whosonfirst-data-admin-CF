@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172455,
-    "geom:area_square_m":2119922287.285432,
+    "geom:area_square_m":2119922287.285437,
     "geom:bbox":"19.3121589982,5.98766187722,19.8762983779,6.50364022945",
     "geom:latitude":6.21049,
     "geom:longitude":19.631264,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"CF.KG.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325704,
-    "wof:geomhash":"7e7c4612ddf939e84e0769476c147f8c",
+    "wof:geomhash":"04cda023fac96bb324d0b89cd805140c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108759629,
-    "wof:lastmodified":1566638115,
+    "wof:lastmodified":1695886296,
     "wof:name":"Mala",
     "wof:parent_id":85669697,
     "wof:placetype":"county",

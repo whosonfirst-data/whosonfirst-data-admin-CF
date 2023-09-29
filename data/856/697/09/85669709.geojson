@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.894755,
-    "geom:area_square_m":60242750861.710091,
+    "geom:area_square_m":60242751079.323235,
     "geom:bbox":"21.737712,4.115013,25.189555,6.752035",
     "geom:latitude":5.504824,
     "geom:longitude":23.391517,
@@ -296,16 +296,18 @@
         "gn:id":237556,
         "gp:id":2345096,
         "hasc:id":"CF.MB",
+        "iso:code":"CF-MB",
         "iso:id":"CF-MB",
         "qs_pg:id":946781,
         "wd:id":"Q848582",
         "wk:page":"Mbomou"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e60757e0230779907a5af9910a28b727",
+    "wof:geomhash":"22c80c0b5961847bfefb478155f9934c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +324,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865852,
+    "wof:lastmodified":1695884898,
     "wof:name":"Mbomou",
     "wof:parent_id":85632391,
     "wof:placetype":"region",

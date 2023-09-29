@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185594,
-    "geom:area_square_m":2287414907.544718,
+    "geom:area_square_m":2287414907.544448,
     "geom:bbox":"20.4649510204,4.410752,21.0962389683,5.00945513559",
     "geom:latitude":4.628954,
     "geom:longitude":20.82618,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.BK.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325710,
-    "wof:geomhash":"a330210cdefc578f0edb6772b713867e",
+    "wof:geomhash":"98b2e596c7127249c6c6e0fb3a273094",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759641,
-    "wof:lastmodified":1566638119,
+    "wof:lastmodified":1695886297,
     "wof:name":"Zangba",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

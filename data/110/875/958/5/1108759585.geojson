@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.584658,
-    "geom:area_square_m":7196078252.055181,
+    "geom:area_square_m":7196078168.571183,
     "geom:bbox":"25.672682,5.046025,26.804842,6.036664",
     "geom:latitude":5.499717,
     "geom:longitude":26.350292,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HM.OB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325681,
-    "wof:geomhash":"7e8cbd93c36e0b4f032c1a51ad1b7c95",
+    "wof:geomhash":"1b31a1f7b57a0a3b281c707b7edf8a38",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108759585,
-    "wof:lastmodified":1636501619,
+    "wof:lastmodified":1695886791,
     "wof:name":"Obo",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

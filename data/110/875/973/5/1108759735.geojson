@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005709,
-    "geom:area_square_m":70388792.873709,
+    "geom:area_square_m":70388792.873705,
     "geom:bbox":"18.524309,4.322539,18.644218,4.431223",
     "geom:latitude":4.379529,
     "geom:longitude":18.565811,
@@ -402,12 +402,13 @@
     "wof:concordances":{
         "hasc:id":"CF.BG.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421181445
     ],
     "wof:country":"CF",
     "wof:created":1481325769,
-    "wof:geomhash":"1dbc2a2aaad41cdee65bd1169f3ba878",
+    "wof:geomhash":"e883966dc6695019058b8aa4c00e76f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -417,7 +418,7 @@
         }
     ],
     "wof:id":1108759735,
-    "wof:lastmodified":1607982164,
+    "wof:lastmodified":1695886404,
     "wof:name":"Bangui",
     "wof:parent_id":85669655,
     "wof:placetype":"county",

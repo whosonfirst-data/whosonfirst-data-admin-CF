@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638376,
-    "geom:area_square_m":7846171016.519926,
+    "geom:area_square_m":7846171192.374982,
     "geom:bbox":"15.703011,5.787331,17.131125,6.669375",
     "geom:latitude":6.284137,
     "geom:longitude":16.347751,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"CF.OP.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325738,
-    "wof:geomhash":"9be752e7afe9c9cc05663b795f1e6a2a",
+    "wof:geomhash":"706e79ad26b3782fa37f4ebf7719a87c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108759691,
-    "wof:lastmodified":1636501620,
+    "wof:lastmodified":1695886792,
     "wof:name":"Bozoum",
     "wof:parent_id":85669685,
     "wof:placetype":"county",

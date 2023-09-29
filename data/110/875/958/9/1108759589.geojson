@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100499,
-    "geom:area_square_m":1239067156.17431,
+    "geom:area_square_m":1239067302.734609,
     "geom:bbox":"21.449568,4.225172,22.150751,4.543257",
     "geom:latitude":4.37734,
     "geom:longitude":21.893183,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.BK.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325683,
-    "wof:geomhash":"178baa7ce3c999917df2a23573839948",
+    "wof:geomhash":"0ba2df6629c999af38e57c7aaee25743",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759589,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Satema",
     "wof:parent_id":85669665,
     "wof:placetype":"county",

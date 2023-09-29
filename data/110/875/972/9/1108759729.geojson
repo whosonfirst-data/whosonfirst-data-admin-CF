@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.650501,
-    "geom:area_square_m":8003709767.519112,
+    "geom:area_square_m":8003709531.712789,
     "geom:bbox":"20.240633,5.267183,21.941992,6.227916",
     "geom:latitude":5.703655,
     "geom:longitude":20.913065,
@@ -156,9 +156,10 @@
     "wof:concordances":{
         "hasc:id":"CF.UK.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325766,
-    "wof:geomhash":"9f5ef5837f11861535906f1209052802",
+    "wof:geomhash":"5df7164280db4beae23c814035c88094",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1108759729,
-    "wof:lastmodified":1636501620,
+    "wof:lastmodified":1695886792,
     "wof:name":"Bambari",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

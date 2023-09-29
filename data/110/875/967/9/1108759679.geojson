@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466746,
-    "geom:area_square_m":5758650952.782116,
+    "geom:area_square_m":5758650952.782089,
     "geom:bbox":"16.2562768707,3.49638075992,17.3730909571,4.25979801813",
     "geom:latitude":3.806138,
     "geom:longitude":16.787453,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"CF.SE.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325732,
-    "wof:geomhash":"88cd21a22da73db2f2b74f89117d5f99",
+    "wof:geomhash":"7d0136236579477a9ec957ec83891c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759679,
-    "wof:lastmodified":1566638130,
+    "wof:lastmodified":1695886300,
     "wof:name":"Bambio",
     "wof:parent_id":85669675,
     "wof:placetype":"county",

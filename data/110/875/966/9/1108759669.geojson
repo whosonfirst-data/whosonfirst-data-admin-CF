@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392958,
-    "geom:area_square_m":4836487839.138014,
+    "geom:area_square_m":4836487839.13806,
     "geom:bbox":"17.7864125986,5.05300873747,18.6898217546,5.90755673848",
     "geom:latitude":5.514257,
     "geom:longitude":18.209993,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MP.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325727,
-    "wof:geomhash":"a37e474b96c6737853d13903bc1b8412",
+    "wof:geomhash":"de487b4e13069534e69b508dfdfaeb1b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759669,
-    "wof:lastmodified":1566638127,
+    "wof:lastmodified":1695886299,
     "wof:name":"Bogangolo",
     "wof:parent_id":85669661,
     "wof:placetype":"county",

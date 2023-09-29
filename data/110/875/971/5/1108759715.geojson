@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.428959,
-    "geom:area_square_m":17585492243.129295,
+    "geom:area_square_m":17585492243.129154,
     "geom:bbox":"21.7937343487,4.84923651385,23.3753831817,6.2735888663",
     "geom:latitude":5.575028,
     "geom:longitude":22.645955,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"CF.MB.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325754,
-    "wof:geomhash":"3085141b53f0a5b037a8e3753da5507b",
+    "wof:geomhash":"a9c348c418c5f70e23ef44becc685142",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108759715,
-    "wof:lastmodified":1566638124,
+    "wof:lastmodified":1695886298,
     "wof:name":"Bakouma",
     "wof:parent_id":85669709,
     "wof:placetype":"county",

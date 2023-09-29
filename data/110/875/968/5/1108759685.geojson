@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318888,
-    "geom:area_square_m":3926710017.384562,
+    "geom:area_square_m":3926710228.487877,
     "geom:bbox":"14.846869,4.940694,15.698079,5.623944",
     "geom:latitude":5.225505,
     "geom:longitude":15.217998,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.NM.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325736,
-    "wof:geomhash":"06d16fda2a14380e20b5bec5a0269a44",
+    "wof:geomhash":"7e20b6b285f655e2a65bacd95fa223f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759685,
-    "wof:lastmodified":1627521986,
+    "wof:lastmodified":1695886457,
     "wof:name":"Abba",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

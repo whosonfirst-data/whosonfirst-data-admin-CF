@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.286752,
-    "geom:area_square_m":3519497137.209739,
+    "geom:area_square_m":3519497373.105647,
     "geom:bbox":"19.55839,6.44662,20.159784,7.54153",
     "geom:latitude":6.970964,
     "geom:longitude":19.852227,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"CF.KB.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325707,
-    "wof:geomhash":"319cf4d17f99754e1660a77b7728892d",
+    "wof:geomhash":"bcee8bfe58591c3d391a4ad69efa296a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108759633,
-    "wof:lastmodified":1627521987,
+    "wof:lastmodified":1695886458,
     "wof:name":"Mbres",
     "wof:parent_id":85669693,
     "wof:placetype":"county",

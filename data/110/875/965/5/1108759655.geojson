@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.934772,
-    "geom:area_square_m":11482646859.796642,
+    "geom:area_square_m":11482646859.796894,
     "geom:bbox":"19.7372990947,5.87828954527,21.0438127279,7.33529993557",
     "geom:latitude":6.565175,
     "geom:longitude":20.392323,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"CF.UK.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325717,
-    "wof:geomhash":"efa8bebbd733202111ba7adde8284536",
+    "wof:geomhash":"b2217a258eb302f6bbb4557205056b67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108759655,
-    "wof:lastmodified":1566638115,
+    "wof:lastmodified":1695886296,
     "wof:name":"Bakala",
     "wof:parent_id":85669699,
     "wof:placetype":"county",

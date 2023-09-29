@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43372,
-    "geom:area_square_m":5338657913.524757,
+    "geom:area_square_m":5338657913.524824,
     "geom:bbox":"15.763547427,5.06987333601,16.5262862743,5.91253589306",
     "geom:latitude":5.461191,
     "geom:longitude":16.140799,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"CF.NM.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325725,
-    "wof:geomhash":"96109855b431f3d8c7b7cc24129fff4e",
+    "wof:geomhash":"5c46b788ae9aafe912dded632d97ab2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108759665,
-    "wof:lastmodified":1566638128,
+    "wof:lastmodified":1695886299,
     "wof:name":"Baoro",
     "wof:parent_id":85669681,
     "wof:placetype":"county",

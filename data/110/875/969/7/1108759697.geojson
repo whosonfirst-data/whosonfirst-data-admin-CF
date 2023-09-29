@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161535,
-    "geom:area_square_m":1982630400.858999,
+    "geom:area_square_m":1982630400.859034,
     "geom:bbox":"17.1516819172,6.51288663564,17.647162943,7.34527900171",
     "geom:latitude":6.971816,
     "geom:longitude":17.379411,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CF.AC.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325743,
-    "wof:geomhash":"b6e2c93ac75fd90e74b9ef4bf2eb717c",
+    "wof:geomhash":"ce339834e913e62b951028b564234acc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759697,
-    "wof:lastmodified":1566638134,
+    "wof:lastmodified":1695886302,
     "wof:name":"Nana-Bakassa",
     "wof:parent_id":85669701,
     "wof:placetype":"county",

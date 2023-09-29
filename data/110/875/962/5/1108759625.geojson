@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070429,
-    "geom:area_square_m":868852096.284708,
+    "geom:area_square_m":868852096.284755,
     "geom:bbox":"15.395241,3.701469,15.802567,4.118263",
     "geom:latitude":3.895197,
     "geom:longitude":15.568308,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HS.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325702,
-    "wof:geomhash":"a842bbf9c5469b931d3dd0f505998690",
+    "wof:geomhash":"4f915f09ac563613ee8347a9e69a4abc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759625,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1695886292,
     "wof:name":"Sosso-Nakombo",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077515,
-    "geom:area_square_m":956423443.276232,
+    "geom:area_square_m":956423443.276385,
     "geom:bbox":"18.2615597517,3.469993,18.626193,3.95249989612",
     "geom:latitude":3.762448,
     "geom:longitude":18.468995,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CF.LB.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325685,
-    "wof:geomhash":"4ce977bf874a0f3e530afd13d345a280",
+    "wof:geomhash":"5b90cae321124886eb7b9dce227475e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759591,
-    "wof:lastmodified":1566638129,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mongoumba",
     "wof:parent_id":85669667,
     "wof:placetype":"county",

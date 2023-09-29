@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.673647,
-    "geom:area_square_m":8292731450.188439,
+    "geom:area_square_m":8292732027.942565,
     "geom:bbox":"24.486364,4.893125,25.982965,5.882739",
     "geom:latitude":5.400469,
     "geom:longitude":25.237456,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HM.ZE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325682,
-    "wof:geomhash":"579287d41f205e30ab8e91a27948fe4f",
+    "wof:geomhash":"5bd9f33059367433abe409274fce184a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108759587,
-    "wof:lastmodified":1636501619,
+    "wof:lastmodified":1695886791,
     "wof:name":"Zemio",
     "wof:parent_id":85669707,
     "wof:placetype":"county",

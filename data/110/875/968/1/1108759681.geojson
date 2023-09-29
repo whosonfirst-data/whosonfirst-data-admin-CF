@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255698,
-    "geom:area_square_m":3150566590.354919,
+    "geom:area_square_m":3150566590.35487,
     "geom:bbox":"14.673963,4.606682,15.566134,5.01806",
     "geom:latitude":4.821986,
     "geom:longitude":15.102231,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CF.HS.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CF",
     "wof:created":1481325733,
-    "wof:geomhash":"b7a3fb592e301c80e936cc4696cc014d",
+    "wof:geomhash":"fe6b92873873dfd9fa147b8271fe4f17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759681,
-    "wof:lastmodified":1587164333,
+    "wof:lastmodified":1695886292,
     "wof:name":"Amada-Gaza",
     "wof:parent_id":85669671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.328144,
-    "geom:area_square_m":53125328425.60479,
+    "geom:area_square_m":53125329122.661026,
     "geom:bbox":"16.676987,5.560376,19.075819,8.57393",
     "geom:latitude":6.916371,
     "geom:longitude":17.890476,
@@ -296,16 +296,18 @@
         "gn:id":2383653,
         "gp:id":2345099,
         "hasc:id":"CF.AC",
+        "iso:code":"CF-AC",
         "iso:id":"CF-AC",
         "qs_pg:id":887938,
         "wd:id":"Q726620",
         "wk:page":"Ouham"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ad5962213f1d2f2eee09811d00befc7",
+    "wof:geomhash":"bb00306af9db77268dae67f0a4909c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +324,7 @@
         "fra",
         "sag"
     ],
-    "wof:lastmodified":1690865852,
+    "wof:lastmodified":1695884898,
     "wof:name":"Ouham",
     "wof:parent_id":85632391,
     "wof:placetype":"region",
