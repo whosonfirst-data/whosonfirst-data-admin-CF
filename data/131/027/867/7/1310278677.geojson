@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":7467701
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            238352
+        ]
+    },
     "wof:country":"CF",
     "wof:geomhash":"71b9d5fba2af53ae21fcd64caaba9b07",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1310278677,
-    "wof:lastmodified":1566638166,
+    "wof:lastmodified":1706239387,
     "wof:name":"Kididji",
     "wof:parent_id":1108759713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cf",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326613535
+    ],
     "wof:tags":[]
 },
   "bbox": [

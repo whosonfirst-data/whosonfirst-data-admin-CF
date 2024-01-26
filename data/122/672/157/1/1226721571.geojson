@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":2387992
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2586333
+        ]
+    },
     "wof:country":"CF",
     "wof:geomhash":"220ecbc43ad0236452e83681fb1f5794",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1226721571,
-    "wof:lastmodified":1566638382,
+    "wof:lastmodified":1706239387,
     "wof:name":"Botambi",
     "wof:parent_id":1108759733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cf",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276725557
+    ],
     "wof:tags":[]
 },
   "bbox": [
