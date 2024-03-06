@@ -9,6 +9,21 @@
     "geom:bbox":"17.650023,5.267003,17.650023,5.267003",
     "geom:latitude":5.267003,
     "geom:longitude":17.650023,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7732723.0",
+    "gn:asciiname":"Bossembele",
+    "gn:cc2":"CF",
+    "gn:country_code":"CF",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2388025,
+    "gn:latitude":5.26667,
+    "gn:longitude":17.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bossemb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
     "iso:country":"CF",
     "lbl:bbox":"17.6300231513,5.24700278617,17.6700231513,5.28700278617",
     "lbl:latitude":5.267003,
@@ -47,6 +62,11 @@
     ],
     "name:swe_x_preferred":[
         "Bossemb\u00e9l\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Bosamb\u00e9le",
+        "Bosembele",
+        "Bossembale"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Central African Republic",
@@ -152,7 +172,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q1772365"
+        "gn:id":2388025,
+        "wd:id":"Q1772365",
+        "wk:page":"Bossemb%C3%A9l%C3%A9"
     },
     "wof:country":"CF",
     "wof:created":1499130823,
@@ -167,13 +189,15 @@
         }
     ],
     "wof:id":1141908123,
-    "wof:lastmodified":1690865868,
+    "wof:lastmodified":1706239387,
     "wof:name":"Bossembele",
     "wof:parent_id":1108759643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cf",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276940865
+    ],
     "wof:tags":[]
 },
   "bbox": [
